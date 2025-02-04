@@ -73,7 +73,7 @@ cssclasses:
 		<tr>
 			<th align="center" rowspan=2>Level</th><!--Level-->
 			<th align="center" rowspan=2>Invocation<br/>Dice#</th><!--ID-->
-			<th align="center" rowspan=2>Save<br/>Target%</th><!--Save-->
+			<th align="center" rowspan=2>Save<br/>Target@</th><!--Save-->
 			<th align="center" colspan=6>Prepared Spells</th><!--Spells-->
 		</tr>
 		<tr>
@@ -98,7 +98,7 @@ cssclasses:
 			<td align="center">--</td><!--6-->
 		</tr>
 		<tr>
-			<td colspan=9># Add your character's {ability} Modifier to their number of Invocation Dice.<br/>% Add your character's {ability} Modifier to their Save Target.<br/>$ Add your character's {ability} Modifier to the number of 1st level spells they can prepare.</td>
+			<td colspan=9># Add your character's {ability} Modifier to their number of Invocation Dice.<br/>@ Add your character's {ability} Modifier to their Save Target.<br/>$ Add your character's {ability} Modifier to the number of 1st level spells they can prepare.</td>
 		</tr>
 	</tbody>
 </table>

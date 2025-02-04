@@ -15,7 +15,7 @@ Arcanists are those who seek and use knowledge of the arcane.  Their magic is a 
 ## Starting Equipment
 - 2d6sp
 - Adventurers' Pack
-- Mages' Pack
+- Mage's Pack
 
 ---
 ## Arcanist Skills
@@ -322,7 +322,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<th align="center" rowspan=2>Level</th><!--Level-->
 			<th align="center" rowspan=2>Invocation<br/>Dice#</th><!--ID-->
-			<th align="center" rowspan=2>Save<br/>Target%</th><!--Save-->
+			<th align="center" rowspan=2>Save<br/>Target@</th><!--Save-->
 			<th align="center" colspan=6>Prepared Spells</th><!--Spells-->
 		</tr>
 		<tr>
@@ -556,7 +556,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="center">4</td><!--6-->
 		</tr>
 		<tr>
-			<td colspan=9># Add your character's Intelligence Modifier to their number of Invocation Dice.<br/>% Add your character's Intelligence Modifier to their Save Target.<br/>$ Add your character's Intelligence Modifier to the number of 1st level spells they can prepare.</td>
+			<td colspan=9># Add your character's Intelligence Modifier to their number of Invocation Dice.<br/>@ Add your character's Intelligence Modifier to their Save Target.<br/>$ Add your character's Intelligence Modifier to the number of 1st level spells they can prepare.</td>
 		</tr>
 	</tbody>
 </table>

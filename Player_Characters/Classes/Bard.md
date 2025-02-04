@@ -16,7 +16,7 @@ Bards are those who have learned history, oral tradition, music, and performance
 ## Starting Equipment
 - 2d6sp
 - Adventurers' Pack
-- Minstrels' Pack
+- Minstrel's Pack
 
 ---
 ## Bard Skills
