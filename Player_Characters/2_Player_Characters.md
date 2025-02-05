@@ -15,7 +15,7 @@ Choose a species for your character.  Your character must meet any minimum abili
 ### Pick or Roll a Background Career
 Roll for your character's Background career (or if the GM allows, pick one).
 
-### Pick Species and Class
+### Pick a Class
 Choose class for your character. Your character must meet the Prime Requisite minimum for a class, as described in the [Character Classes](https://basicfantasy.org/srd/class.html#character-classes) section, in order to be a member of that class.
 
 ### Note Special Abilities
