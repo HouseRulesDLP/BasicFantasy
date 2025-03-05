@@ -7,7 +7,7 @@ Arcanists are those who seek and use knowledge of the arcane.  Their magic is a 
 - **Prime Requisite:** Intelligence 11+
 - **Starting Hit Points:** 4 + Constitution Modifier
 - **Hit Dice (levels 2 to 10):** 1d4 + Constitution Modifier
-- **Hit Points After Level 11:** +1 per Level
+- **Hit Points After Level 10:** +1 per Level
 - **Armor Training:** none
 - **Weapon Training:** Small Weapons and Staffs
 
@@ -49,6 +49,32 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 
 **Tradition:** An Arcanist must select an Arcane Tradition (Wizardry, Sorcery, Necromancy, etc). This will determine which spells they have access to. See the rules on Magic for details.
 
+### Arcane Traditions
+
+#### Animism
+The world is alive. It is full of spirits and gods, and all things have a soul. Like nature itself, spirits and gods are neither good nor evil. They may not be omnipotent, but they possess great power and should be treated with respect. If you speak to them in the right way, they may lend power to your animist magic.
+
+#### Conjuration
+
+
+#### Mentalism
+Mentalists believe that your mind and body are the center of the universe. By focusing and training your mind, you gain control of your body and the magic that flows through it and the world.
+
+#### Necromancy
+
+
+#### Sorcery
+According to sorcerers, all things in the universe consist of four elements: wind, water, earth, and fire in different combinations. The mind and spirit are associated with wind. Adaptability and creativity are linked to water. Action and energy are linked to fire, and steadfastness and determination are properties of the element earth.
+
+#### Thaumaturgy
+
+
+#### Witchcraft
+
+
+#### Wizardry
+
+
 ---
 ## Arcanist Progression
 <table>
@@ -57,8 +83,10 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<th align="center" rowspan="2"><b>Level</b></th>
 			<th align="center" rowspan="2"><b>Experience</b></th>
 			<th align="center" rowspan="2"><b>Hit<br/>Dice*</b></th>
-			<th align="center" rowspan="2"><b>Attack</b></th>
-			<th align="center" rowspan="2"><b>Competence</b></th>
+			<th align="center" rowspan="2"><b>Attack<br/>Bonus</b></th>
+			<th align="center" rowspan="2"><b>Skill<br/>Bonus</b></th>
+			<th align="center" rowspan="2"><b>Talents</b></th>
+			<th align="center" rowspan="2"><b>Save<br/>Target</b></th>
 			<th align="center" colspan="5"><b>Saving Throws</b></th>
 		</tr>
 		<tr>
@@ -75,7 +103,9 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">0</td><!--XP-->
 			<td align="right">1d4</td><!--HD-->
 			<td align="center">+0</td><!--Attack-->
-			<td align="center">+1</td><!--Competence-->
+			<td align="center">+1</td><!--Skill-->
+			<td align="center">0</td><!--Talents-->
+			<td align="center">13+</td><!--Target-->
 			<td align="center">+1</td><!--Doom-->
 			<td align="center">+1</td><!--Ray-->
 			<td align="center">+1</td><!--Hold-->
@@ -88,6 +118,8 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">2d4</td><!--HD-->
 			<td align="center">+0</td><!--Attack-->
 			<td align="center">+2</td><!--Competence-->
+			<td align="center">1</td><!--Talents-->
+			<td align="center">13+</td><!--Target-->
 			<td align="center">+2</td><!--Doom-->
 			<td align="center">+2</td><!--Ray-->
 			<td align="center">+2</td><!--Hold-->
@@ -98,8 +130,10 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="center">3</td><!--Level-->
 			<td align="right">5,000</td><!--XP-->
 			<td align="right">3d4</td><!--HD-->
-			<td align="center">+0</td><!--Attack-->
+			<td align="center">+1</td><!--Attack-->
 			<td align="center">+2</td><!--Competence-->
+			<td align="center">1</td><!--Talents-->
+			<td align="center">14+</td><!--Target-->
 			<td align="center">+2</td><!--Doom-->
 			<td align="center">+2</td><!--Ray-->
 			<td align="center">+2</td><!--Hold-->
@@ -112,6 +146,8 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">4d4</td><!--HD-->
 			<td align="center">+1</td><!--Attack-->
 			<td align="center">+3</td><!--Competence-->
+			<td align="center">1</td><!--Talents-->
+			<td align="center">14+</td><!--Target-->
 			<td align="center">+3</td><!--Doom-->
 			<td align="center">+3</td><!--Ray-->
 			<td align="center">+3</td><!--Hold-->
@@ -124,6 +160,8 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">5d4</td><!--HD-->
 			<td align="center">+1</td><!--Attack-->
 			<td align="center">+4</td><!--Competence-->
+			<td align="center">1</td><!--Talents-->
+			<td align="center">15+</td><!--Target-->
 			<td align="center">+4</td><!--Doom-->
 			<td align="center">+4</td><!--Ray-->
 			<td align="center">+4</td><!--Hold-->
@@ -134,8 +172,10 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="center">6</td><!--Level-->
 			<td align="right">40,000</td><!--XP-->
 			<td align="right">6d4</td><!--HD-->
-			<td align="center">+1</td><!--Attack-->
-			<td align="center">+4</td><!--Competence-->
+			<td align="center">+2</td><!--Attack-->
+			<td align="center">+5</td><!--Competence-->
+			<td align="center">2</td><!--Talents-->
+			<td align="center">15+</td><!--Target-->
 			<td align="center">+5</td><!--Doom-->
 			<td align="center">+5</td><!--Ray-->
 			<td align="center">+5</td><!--Hold-->
@@ -148,6 +188,8 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">7d4</td><!--HD-->
 			<td align="center">+2</td><!--Attack-->
 			<td align="center">+5</td><!--Competence-->
+			<td align="center">2</td><!--Talents-->
+			<td align="center">16+</td><!--Target-->
 			<td align="center">+6</td><!--Doom-->
 			<td align="center">+5</td><!--Ray-->
 			<td align="center">+6</td><!--Hold-->
@@ -160,6 +202,8 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">8d4</td><!--HD-->
 			<td align="center">+2</td><!--Attack-->
 			<td align="center">+6</td><!--Competence-->
+			<td align="center">2</td><!--Talents-->
+			<td align="center">16+</td><!--Target-->
 			<td align="center">+6</td><!--Doom-->
 			<td align="center">+6</td><!--Ray-->
 			<td align="center">+6</td><!--Hold-->
@@ -170,8 +214,10 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="center">9</td><!--Level-->
 			<td align="right">300,000</td><!--XP-->
 			<td align="right">9d4</td><!--HD-->
-			<td align="center">+2</td><!--Attack-->
-			<td align="center">+6</td><!--Competence-->
+			<td align="center">+3</td><!--Attack-->
+			<td align="center">+7</td><!--Competence-->
+			<td align="center">2</td><!--Talents-->
+			<td align="center">17+</td><!--Target-->
 			<td align="center">+7</td><!--Doom-->
 			<td align="center">+7</td><!--Ray-->
 			<td align="center">+7</td><!--Hold-->
@@ -183,7 +229,9 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">450,000</td><!--XP-->
 			<td align="right">10d4</td><!--HD-->
 			<td align="center">+3</td><!--Attack-->
-			<td align="center">+7</td><!--Competence-->
+			<td align="center">+8</td><!--Competence-->
+			<td align="center">3</td><!--Talents-->
+			<td align="center">17+</td><!--Target-->
 			<td align="center">+8</td><!--Doom-->
 			<td align="center">+8</td><!--Ray-->
 			<td align="center">+8</td><!--Hold-->
@@ -196,6 +244,8 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">10d4+1</td><!--HD-->
 			<td align="center">+3</td><!--Attack-->
 			<td align="center">+8</td><!--Competence-->
+			<td align="center">3</td><!--Talents-->
+			<td align="center">18+</td><!--Target-->
 			<td align="center">+9</td><!--Doom-->
 			<td align="center">+8</td><!--Ray-->
 			<td align="center">+9</td><!--Hold-->
@@ -206,8 +256,10 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="center">12</td><!--Level-->
 			<td align="right">750,000</td><!--XP-->
 			<td align="right">10d4+2</td><!--HD-->
-			<td align="center">+3</td><!--Attack-->
-			<td align="center">+8</td><!--Competence-->
+			<td align="center">+4</td><!--Attack-->
+			<td align="center">+9</td><!--Competence-->
+			<td align="center">3</td><!--Talents-->
+			<td align="center">18+</td><!--Target-->
 			<td align="center">+10</td><!--Doom-->
 			<td align="center">+9</td><!--Ray-->
 			<td align="center">+10</td><!--Hold-->
@@ -219,7 +271,9 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">900,000</td><!--XP-->
 			<td align="right">10d4+3</td><!--HD-->
 			<td align="center">+4</td><!--Attack-->
-			<td align="center">+9</td><!--Competence-->
+			<td align="center">+10</td><!--Competence-->
+			<td align="center">3</td><!--Talents-->
+			<td align="center">19+</td><!--Target-->
 			<td align="center">+10</td><!--Doom-->
 			<td align="center">+10</td><!--Ray-->
 			<td align="center">+10</td><!--Hold-->
@@ -231,7 +285,9 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">1,050,000</td><!--XP-->
 			<td align="right">10d4+4</td><!--HD-->
 			<td align="center">+4</td><!--Attack-->
-			<td align="center">+10</td><!--Competence-->
+			<td align="center">+11</td><!--Competence-->
+			<td align="center">4</td><!--Talents-->
+			<td align="center">19+</td><!--Target-->
 			<td align="center">+11</td><!--Doom-->
 			<td align="center">+11</td><!--Ray-->
 			<td align="center">+11</td><!--Hold-->
@@ -242,8 +298,10 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="center">15</td><!--Level-->
 			<td align="right">1,200,000</td><!--XP-->
 			<td align="right">10d4+5</td><!--HD-->
-			<td align="center">+4</td><!--Attack-->
-			<td align="center">+10</td><!--Competence-->
+			<td align="center">+5</td><!--Attack-->
+			<td align="center">+11</td><!--Competence-->
+			<td align="center">4</td><!--Talents-->
+			<td align="center">20+</td><!--Target-->
 			<td align="center">+12</td><!--Doom-->
 			<td align="center">+11</td><!--Ray-->
 			<td align="center">+12</td><!--Hold-->
@@ -255,7 +313,9 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">1,350,000</td><!--XP-->
 			<td align="right">10d4+6</td><!--HD-->
 			<td align="center">+5</td><!--Attack-->
-			<td align="center">+11</td><!--Competence-->
+			<td align="center">+12</td><!--Competence-->
+			<td align="center">4</td><!--Talents-->
+			<td align="center">20+</td><!--Target-->
 			<td align="center">+13</td><!--Doom-->
 			<td align="center">+12</td><!--Ray-->
 			<td align="center">+13</td><!--Hold-->
@@ -267,7 +327,9 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">1,500,000</td><!--XP-->
 			<td align="right">10d4+7</td><!--HD-->
 			<td align="center">+5</td><!--Attack-->
-			<td align="center">+12</td><!--Competence-->
+			<td align="center">+13</td><!--Competence-->
+			<td align="center">4</td><!--Talents-->
+			<td align="center">21+</td><!--Target-->
 			<td align="center">+14</td><!--Doom-->
 			<td align="center">+13</td><!--Ray-->
 			<td align="center">+14</td><!--Hold-->
@@ -278,8 +340,10 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="center">18</td><!--Level-->
 			<td align="right">1,650,000</td><!--XP-->
 			<td align="right">10d4+8</td><!--HD-->
-			<td align="center">+5</td><!--Attack-->
-			<td align="center">+12</td><!--Competence-->
+			<td align="center">+6</td><!--Attack-->
+			<td align="center">+14</td><!--Competence-->
+			<td align="center">5</td><!--Talents-->
+			<td align="center">21+</td><!--Target-->
 			<td align="center">+14</td><!--Doom-->
 			<td align="center">+14</td><!--Ray-->
 			<td align="center">+14</td><!--Hold-->
@@ -291,7 +355,9 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">1,800,000</td><!--XP-->
 			<td align="right">10d4+9</td><!--HD-->
 			<td align="center">+6</td><!--Attack-->
-			<td align="center">+13</td><!--Competence-->
+			<td align="center">+14</td><!--Competence-->
+			<td align="center">5</td><!--Talents-->
+			<td align="center">22+</td><!--Target-->
 			<td align="center">+15</td><!--Doom-->
 			<td align="center">+14</td><!--Ray-->
 			<td align="center">+15</td><!--Hold-->
@@ -303,7 +369,9 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="right">1,950,000</td><!--XP-->
 			<td align="right">10d4+10</td><!--HD-->
 			<td align="center">+6</td><!--Attack-->
-			<td align="center">+14</td><!--Competence-->
+			<td align="center">+15</td><!--Competence-->
+			<td align="center">5</td><!--Talents-->
+			<td align="center">22+</td><!--Target-->
 			<td align="center">+16</td><!--Doom-->
 			<td align="center">+15</td><!--Ray-->
 			<td align="center">+16</td><!--Hold-->
@@ -311,7 +379,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="center">+17</td><!--Spell-->
 		</tr>
 		<tr>
-			<td colspan=10>* Constitution modifiers no longer apply after level 10.</td>
+			<td colspan=12>* Constitution modifiers no longer apply after level 10.</td>
 		</tr>
 	</tbody>
 </table>
@@ -322,7 +390,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<th align="center" rowspan=2>Level</th><!--Level-->
 			<th align="center" rowspan=2>Invocation<br/>Dice#</th><!--ID-->
-			<th align="center" rowspan=2>Save<br/>Target@</th><!--Save-->
 			<th align="center" colspan=6>Prepared Spells</th><!--Spells-->
 		</tr>
 		<tr>
@@ -338,7 +405,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">1</td><!--Level-->
 			<td align="center">1d6</td><!--ID-->
-			<td align="center">13+</td><!--Save-->
 			<td align="center">1</td><!--1-->
 			<td align="center">--</td><!--2-->
 			<td align="center">--</td><!--3-->
@@ -349,7 +415,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">2</td><!--Level-->
 			<td align="center">2d6</td><!--ID-->
-			<td align="center">13+</td><!--Save-->
 			<td align="center">2</td><!--1-->
 			<td align="center">--</td><!--2-->
 			<td align="center">--</td><!--3-->
@@ -360,7 +425,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">3</td><!--Level-->
 			<td align="center">3d6</td><!--ID-->
-			<td align="center">14+</td><!--Save-->
 			<td align="center">2</td><!--1-->
 			<td align="center">1</td><!--2-->
 			<td align="center">--</td><!--3-->
@@ -371,7 +435,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">4</td><!--Level-->
 			<td align="center">4d6</td><!--ID-->
-			<td align="center">14+</td><!--Save-->
 			<td align="center">2</td><!--1-->
 			<td align="center">2</td><!--2-->
 			<td align="center">--</td><!--3-->
@@ -382,7 +445,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">5</td><!--Level-->
 			<td align="center">5d6</td><!--ID-->
-			<td align="center">15+</td><!--Save-->
 			<td align="center">2</td><!--1-->
 			<td align="center">2</td><!--2-->
 			<td align="center">1</td><!--3-->
@@ -393,7 +455,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">6</td><!--Level-->
 			<td align="center">6d6</td><!--ID-->
-			<td align="center">15+</td><!--Save-->
 			<td align="center">3</td><!--1-->
 			<td align="center">2</td><!--2-->
 			<td align="center">2</td><!--3-->
@@ -404,7 +465,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">7</td><!--Level-->
 			<td align="center">7d6</td><!--ID-->
-			<td align="center">16+</td><!--Save-->
 			<td align="center">3</td><!--1-->
 			<td align="center">2</td><!--2-->
 			<td align="center">2</td><!--3-->
@@ -415,7 +475,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">8</td><!--Level-->
 			<td align="center">8d6</td><!--ID-->
-			<td align="center">16+</td><!--Save-->
 			<td align="center">3</td><!--1-->
 			<td align="center">3</td><!--2-->
 			<td align="center">2</td><!--3-->
@@ -426,7 +485,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">9</td><!--Level-->
 			<td align="center">9d6</td><!--ID-->
-			<td align="center">17+</td><!--Save-->
 			<td align="center">3</td><!--1-->
 			<td align="center">3</td><!--2-->
 			<td align="center">2</td><!--3-->
@@ -437,7 +495,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">10</td><!--Level-->
 			<td align="center">10d6</td><!--ID-->
-			<td align="center">17+</td><!--Save-->
 			<td align="center">4</td><!--1-->
 			<td align="center">3</td><!--2-->
 			<td align="center">3</td><!--3-->
@@ -448,7 +505,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">11</td><!--Level-->
 			<td align="center">11d6</td><!--ID-->
-			<td align="center">18+</td><!--Save-->
 			<td align="center">4</td><!--1-->
 			<td align="center">3</td><!--2-->
 			<td align="center">3</td><!--3-->
@@ -459,7 +515,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">12</td><!--Level-->
 			<td align="center">12d6</td><!--ID-->
-			<td align="center">18+</td><!--Save-->
 			<td align="center">4</td><!--1-->
 			<td align="center">4</td><!--2-->
 			<td align="center">3</td><!--3-->
@@ -470,7 +525,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">13</td><!--Level-->
 			<td align="center">13d6</td><!--ID-->
-			<td align="center">19+</td><!--Save-->
 			<td align="center">4</td><!--1-->
 			<td align="center">4</td><!--2-->
 			<td align="center">3</td><!--3-->
@@ -481,7 +535,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">14</td><!--Level-->
 			<td align="center">14d6</td><!--ID-->
-			<td align="center">19+</td><!--Save-->
 			<td align="center">5</td><!--1-->
 			<td align="center">4</td><!--2-->
 			<td align="center">4</td><!--3-->
@@ -492,7 +545,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">15</td><!--Level-->
 			<td align="center">15d6</td><!--ID-->
-			<td align="center">20+</td><!--Save-->
 			<td align="center">5</td><!--1-->
 			<td align="center">4</td><!--2-->
 			<td align="center">4</td><!--3-->
@@ -503,7 +555,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">16</td><!--Level-->
 			<td align="center">16d6</td><!--ID-->
-			<td align="center">20+</td><!--Save-->
 			<td align="center">5</td><!--1-->
 			<td align="center">5</td><!--2-->
 			<td align="center">4</td><!--3-->
@@ -514,7 +565,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">17</td><!--Level-->
 			<td align="center">17d6</td><!--ID-->
-			<td align="center">21+</td><!--Save-->
 			<td align="center">5</td><!--1-->
 			<td align="center">5</td><!--2-->
 			<td align="center">4</td><!--3-->
@@ -525,7 +575,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">18</td><!--Level-->
 			<td align="center">18d6</td><!--ID-->
-			<td align="center">21+</td><!--Save-->
 			<td align="center">6</td><!--1-->
 			<td align="center">5</td><!--2-->
 			<td align="center">5</td><!--3-->
@@ -536,7 +585,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">19</td><!--Level-->
 			<td align="center">19d6</td><!--ID-->
-			<td align="center">22+</td><!--Save-->
 			<td align="center">6</td><!--1-->
 			<td align="center">5</td><!--2-->
 			<td align="center">5</td><!--3-->
@@ -547,7 +595,6 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 		<tr>
 			<td align="center">20</td><!--Level-->
 			<td align="center">20d6</td><!--ID-->
-			<td align="center">22+</td><!--Save-->
 			<td align="center">6</td><!--1-->
 			<td align="center">6</td><!--2-->
 			<td align="center">5</td><!--3-->
@@ -556,7 +603,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 			<td align="center">4</td><!--6-->
 		</tr>
 		<tr>
-			<td colspan=9># Add your character's Intelligence Modifier to their number of Invocation Dice.<br/>@ Add your character's Intelligence Modifier to their Save Target.<br/>$ Add your character's Intelligence Modifier to the number of 1st level spells they can prepare.</td>
+			<td colspan=8># Add your character's Intelligence Modifier to their number of Invocation Dice.<br/>@ Add your character's Intelligence Modifier to their Save Target.<br/>$ Add your character's Intelligence Modifier to the number of 1st level spells they can prepare.</td>
 		</tr>
 	</tbody>
 </table>

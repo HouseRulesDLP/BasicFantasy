@@ -2,9 +2,9 @@
 cssclasses:
   - flatGrey
 ---
-# Warlock
-Warlocks blend spellcraft and swordplay into a deadly combination. Not so adept at fighting as a dedicated Fighter, nor so powerful as a true Arcanist, Warlocks are still never to be taken lightly.
-- **Prime Requisite:** Strength 9+ and Intelligence 11+
+# Arcanist-Fighter
+Arcanist-Fighters blend spellcraft and swordplay into a deadly combination. Not so adept at fighting as a dedicated Fighter, nor so powerful as a true Arcanist, Arcanist-Fighters are still never to be taken lightly.
+- **Prime Requisite:** Strength 11+ and Intelligence 11+
 - **Starting Hit Points:** 6 + Constitution Modifier
 - **Hit Dice (levels 2 to 10):** 1d6 + Constitution Modifier
 - **Hit Points After Level 11:** +2 per Level
@@ -21,38 +21,36 @@ Warlocks blend spellcraft and swordplay into a deadly combination. Not so adept 
 - Traveler's Spellbook
 
 ---
-## Warlock Skills
-**Arcana:** This is the Warlock's skill with arcane magic. The following skills are based off of this skill.
+## Arcanist-Fighter Skills
+**Detect Magic (+0):** Being sensitive to the world of magic, a Arcanist-Fighter may determine if a person, place or thing is magical. Doing so requires Concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a spellcaster is staring at them. You can also attempt to decipher magical writing in the same way with this skill.
 
-**Detect Magic (+0):** Being sensitive to the world of magic, a Warlock may determine if a person, place or thing is magical. Doing so requires Concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a spellcaster is staring at them. You can also attempt to decipher magical writing in the same way with this skill.
+**Prepare Scroll (+0):** Starting at level 2, Arcanist-Fighters can create arcane spell scrolls and protection scrolls. See the rules on magic item creation for details.
 
-**Prepare Scroll (+0):** Starting at level 2, Warlocks can create arcane spell scrolls and protection scrolls. See the rules on magic item creation for details.
+**Brew Potion (-1):** Starting at level 2, Arcanist-Fighters can brew potions. See the rules on magic item creation for details.
 
-**Brew Potion (-1):** Starting at level 2, Warlocks can brew potions. See the rules on magic item creation for details.
-
-**Create Minor Magic Item (-3):** Starting at 10th level, Warlocks can create minor arcane items. See the rules on magic item creation for details.
+**Create Minor Magic Item (-3):** Starting at 10th level, Arcanist-Fighters can create minor arcane items. See the rules on magic item creation for details.
 
 *The DM should typically roll for Detect Magic and Brew Potion as it may not be immediately obvious if the skill check succeeds or not.*
 
 ---
 ## Arcane Magic
-**Magical Focus:** As part of their apprenticeship, Warlocks create a Magical Focus to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
+**Magical Focus:** As part of their apprenticeship, Arcanist-Fighters create a Magical Focus to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
-For every *caster level* the Warlock has, they may carve a sigil into their focus. Each sigil represents a specific spell the Warlock has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day times the spell's Rank and 50sp per Day to engrave a new sigil into a focus.
+For every *caster level* the Arcanist-Fighter has, they may carve a sigil into their focus. Each sigil represents a specific spell the Arcanist-Fighter has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day times the spell's Rank and 50sp per Day to engrave a new sigil into a focus.
 
 Having a Magical Focus in hand does not count against needing a free hand for spell casting.
 
-**Invocation Dice:** As spellcasters, Warlocks have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Intelligence modifier. The Warlock may choose how many dice to roll each time they attempt to cast a spell.
+**Invocation Dice:** As spellcasters, Arcanist-Fighters have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Intelligence modifier. The Arcanist-Fighter may choose how many dice to roll each time they attempt to cast a spell.
 
-**Spellcasting:** Warlocks record their spells in their spellbooks as arcane formulae. Before a spell can be cast, however, it must be prepared. The table below shows the number of spells of each level they may prepare after a full night's rest. This takes 10 minutes of uninterrupted meditation and ritual times the Rank of the spell.
+**Spellcasting:** Arcanist-Fighters record their spells in their spellbooks as arcane formulae. Before a spell can be cast, however, it must be prepared. The table below shows the number of spells of each level they may prepare after a full night's rest. This takes 10 minutes of uninterrupted meditation and ritual times the Rank of the spell.
 
-**Exhausting Magic:** At a cost of 1 level of *Exhaustion*, a Warlock may choose to pass an invocation roll that just failed. This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any *Mishaps* still occur.
+**Exhausting Magic:** At a cost of 1 level of *Exhaustion*, a Arcanist-Fighter may choose to pass an invocation roll that just failed. This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any *Mishaps* still occur.
 
-**Tradition:** An Warlock must select an Arcane Tradition (Wizardry, Sorcery, Necromancy, etc). This will determine which spells they have access to. See the rules on Magic for details.
+**Tradition:** An Arcanist-Fighter must select an Arcane Tradition (Wizardry, Sorcery, Necromancy, etc). This will determine which spells they have access to. See the rules on Magic for details.
 
 ---
 ## Knacks
-At level 3, the Warlock may select one of the following **Knacks**, denoting how they prefer to fight. They may select additional Knacks at levels 7, 9, 12, 15 and 19. Unless noted otherwise, each knack may only be taken once.
+At level 3, the Arcanist-Fighter may select one of the following **Knacks**, denoting how they prefer to fight. They may select additional Knacks at levels 7, 9, 12, 15 and 19. Unless noted otherwise, each knack may only be taken once.
 1. **Cleave:** If your melee attack drops a target to 0 or fewer HP, you may immediately make another melee attack against a different foe. If you have movement left, you may use it between attacks.
 2. **Deadly Blow:** When making a melee attack, roll damage with *Advantage*.
 3. **Exploit Opening:** Each time you take this talent lower your critical hit threshold by 1. This knack may be taken 3 times.
@@ -63,7 +61,7 @@ At level 3, the Warlock may select one of the following **Knacks**, denoting how
 8. **Weapon Specialist:** Pick a specific type of weapon (battle axe, arming sword, longbow, etc). You gain +1 to hit and +Level/2 (round up) damage while wielding weapons of this type. You may take this knack multiple times, applying it to a different weapon each time.
 
 ---
-## Warlock Progression
+## Arcanist-Fighter Progression
 <table>
 	<thead>
 		<tr>
@@ -371,7 +369,7 @@ At level 3, the Warlock may select one of the following **Knacks**, denoting how
 	</tbody>
 </table>
 
-## Warlock Magic
+## Arcanist-Fighter Magic
 <table>
 	<thead>
 		<tr>

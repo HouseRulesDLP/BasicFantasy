@@ -6,8 +6,8 @@ cssclasses:
 Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for whom fighting is a way of life. They train in combat, and they generally approach problems head-on, weapon in hand.
 - **Prime Requisite:** Strength & Constitution 9+
 - **Starting Hit Points:** 8 + Constitution Modifier
-- **Hit Dice (levels 2 to 10):** 1d8 + Constitution Modifier
-- **Hit Points After Level 11:** +2 per Level
+- **Hit Dice (levels 2 to 10):** 1d6 + 2 + Constitution Modifier
+- **Hit Points After Level 10:** +2 per Level
 - **Armor Training:** All
 - **Weapon Training:** All
 
@@ -59,10 +59,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
 			<th align="center" rowspan="2"><b>Level</b></th>
 			<th align="center" rowspan="2"><b>Experience</b></th>
 			<th align="center" rowspan="2"><b>Hit<br/>Dice*</b></th>
-			<th align="center" rowspan="2"><b>Attack</b></th>
-			<th align="center" rowspan="2"><b>Competence</b></th>
-			<th align="center" colspan="5"><b>Saving Throws</b></th>
+			<th align="center" rowspan="2"><b>Attack<br/>Bonus</b></th>
+			<th align="center" rowspan="2"><b>Skill<br/>Bonus</b></th>
+			<th align="center" rowspan="2"><b>Talents</b></th>
 			<th align="center" rowspan="2"><b>Knacks</b></th>
+			<th align="center" colspan="5"><b>Saving Throws</b></th>
 		</tr>
 		<tr>
 			<th align="center"><b>Doom</b></th>
@@ -76,265 +77,285 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
 		<tr>
 			<td align="center">1</td><!--Level-->
 			<td align="right">0</td><!--XP-->
-			<td align="right">1d8</td><!--HD-->
+			<td align="right">1d6+2</td><!--HD-->
 			<td align="center">+1</td><!--Attack-->
 			<td align="center">+1</td><!--Competence-->
+			<td align="center">0</td><!--Talents-->
+			<td align="center">1</td><!--Knacks-->
 			<td align="center">+1</td><!--Doom-->
 			<td align="center">+1</td><!--Ray-->
 			<td align="center">+1</td><!--Hold-->
 			<td align="center">+1</td><!--Blast-->
 			<td align="center">+0</td><!--Spell-->
-			<td align="center">1</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">2</td><!--Level-->
 			<td align="right">2,000</td><!--XP-->
-			<td align="right">2d8</td><!--HD-->
-			<td align="center">+1</td><!--Attack-->
+			<td align="right">2d6+4</td><!--HD-->
+			<td align="center">+2</td><!--Attack-->
 			<td align="center">+2</td><!--Competence-->
+			<td align="center">1</td><!--Talents-->
+			<td align="center">1</td><!--Knacks-->
 			<td align="center">+2</td><!--Doom-->
 			<td align="center">+2</td><!--Ray-->
 			<td align="center">+2</td><!--Hold-->
 			<td align="center">+2</td><!--Blast-->
 			<td align="center">+1</td><!--Spell-->
-			<td align="center">1</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">3</td><!--Level-->
 			<td align="right">4,000</td><!--XP-->
-			<td align="right">3d8</td><!--HD-->
+			<td align="right">3d6+6</td><!--HD-->
 			<td align="center">+2</td><!--Attack-->
 			<td align="center">+2</td><!--Competence-->
+			<td align="center">1</td><!--Talents-->
+			<td align="center">2</td><!--Knacks-->
 			<td align="center">+3</td><!--Doom-->
 			<td align="center">+3</td><!--Ray-->
 			<td align="center">+3</td><!--Hold-->
 			<td align="center">+3</td><!--Blast-->
 			<td align="center">+2</td><!--Spell-->
-			<td align="center">2</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">4</td><!--Level-->
 			<td align="right">8,000</td><!--XP-->
-			<td align="right">4d8</td><!--HD-->
+			<td align="right">4d6+8</td><!--HD-->
 			<td align="center">+3</td><!--Attack-->
 			<td align="center">+3</td><!--Competence-->
+			<td align="center">1</td><!--Talents-->
+			<td align="center">2</td><!--Knacks-->
 			<td align="center">+4</td><!--Doom-->
 			<td align="center">+4</td><!--Ray-->
 			<td align="center">+4</td><!--Hold-->
 			<td align="center">+4</td><!--Blast-->
 			<td align="center">+3</td><!--Spell-->
-			<td align="center">2</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">5</td><!--Level-->
 			<td align="right">16,000</td><!--XP-->
-			<td align="right">5d8</td><!--HD-->
-			<td align="center">+3</td><!--Attack-->
+			<td align="right">5d6+10</td><!--HD-->
+			<td align="center">+4</td><!--Attack-->
 			<td align="center">+4</td><!--Competence-->
+			<td align="center">1</td><!--Talents-->
+			<td align="center">3</td><!--Knacks-->
 			<td align="center">+5</td><!--Doom-->
 			<td align="center">+5</td><!--Ray-->
 			<td align="center">+5</td><!--Hold-->
 			<td align="center">+5</td><!--Blast-->
 			<td align="center">+4</td><!--Spell-->
-			<td align="center">3</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">6</td><!--Level-->
 			<td align="right">32,000</td><!--XP-->
-			<td align="right">6d8</td><!--HD-->
+			<td align="right">6d6+12</td><!--HD-->
 			<td align="center">+4</td><!--Attack-->
-			<td align="center">+4</td><!--Competence-->
+			<td align="center">+5</td><!--Competence-->
+			<td align="center">2</td><!--Talents-->
+			<td align="center">3</td><!--Knacks-->
 			<td align="center">+6</td><!--Doom-->
 			<td align="center">+6</td><!--Ray-->
 			<td align="center">+6</td><!--Hold-->
 			<td align="center">+6</td><!--Blast-->
 			<td align="center">+5</td><!--Spell-->
-			<td align="center">3</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">7</td><!--Level-->
 			<td align="right">64,000</td><!--XP-->
-			<td align="right">7d8</td><!--HD-->
+			<td align="right">7d6+14</td><!--HD-->
 			<td align="center">+5</td><!--Attack-->
 			<td align="center">+5</td><!--Competence-->
+			<td align="center">2</td><!--Talents-->
+			<td align="center">4</td><!--Knacks-->
 			<td align="center">+7</td><!--Doom-->
 			<td align="center">+7</td><!--Ray-->
 			<td align="center">+7</td><!--Hold-->
 			<td align="center">+7</td><!--Blast-->
 			<td align="center">+5</td><!--Spell-->
-			<td align="center">4</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">8</td><!--Level-->
 			<td align="right">120,000</td><!--XP-->
-			<td align="right">8d8</td><!--HD-->
-			<td align="center">+5</td><!--Attack-->
+			<td align="right">8d6+16</td><!--HD-->
+			<td align="center">+6</td><!--Attack-->
 			<td align="center">+6</td><!--Competence-->
+			<td align="center">2</td><!--Talents-->
+			<td align="center">4</td><!--Knacks-->
 			<td align="center">+8</td><!--Doom-->
 			<td align="center">+8</td><!--Ray-->
 			<td align="center">+8</td><!--Hold-->
 			<td align="center">+8</td><!--Blast-->
 			<td align="center">+6</td><!--Spell-->
-			<td align="center">4</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">9</td><!--Level-->
 			<td align="right">240,000</td><!--XP-->
-			<td align="right">9d8</td><!--HD-->
+			<td align="right">9d6+18</td><!--HD-->
 			<td align="center">+6</td><!--Attack-->
-			<td align="center">+6</td><!--Competence-->
+			<td align="center">+7</td><!--Competence-->
+			<td align="center">2</td><!--Talents-->
+			<td align="center">5</td><!--Knacks-->
 			<td align="center">+9</td><!--Doom-->
 			<td align="center">+9</td><!--Ray-->
 			<td align="center">+9</td><!--Hold-->
 			<td align="center">+9</td><!--Blast-->
 			<td align="center">+7</td><!--Spell-->
-			<td align="center">5</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">10</td><!--Level-->
 			<td align="right">360,000</td><!--XP-->
-			<td align="right">10d8</td><!--HD-->
+			<td align="right">10d6+20</td><!--HD-->
 			<td align="center">+7</td><!--Attack-->
-			<td align="center">+7</td><!--Competence-->
+			<td align="center">+8</td><!--Competence-->
+			<td align="center">3</td><!--Talents-->
+			<td align="center">5</td><!--Knacks-->
 			<td align="center">+10</td><!--Doom-->
 			<td align="center">+10</td><!--Ray-->
 			<td align="center">+10</td><!--Hold-->
 			<td align="center">+10</td><!--Blast-->
 			<td align="center">+8</td><!--Spell-->
-			<td align="center">5</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">11</td><!--Level-->
 			<td align="right">480,000</td><!--XP-->
-			<td align="right">10d8+2</td><!--HD-->
-			<td align="center">+7</td><!--Attack-->
+			<td align="right">10d6+22</td><!--HD-->
+			<td align="center">+8</td><!--Attack-->
 			<td align="center">+8</td><!--Competence-->
+			<td align="center">3</td><!--Talents-->
+			<td align="center">6</td><!--Knacks-->
 			<td align="center">+11</td><!--Doom-->
 			<td align="center">+11</td><!--Ray-->
-			<td align="center">+10</td><!--Hold-->
+			<td align="center">+11</td><!--Hold-->
 			<td align="center">+11</td><!--Blast-->
 			<td align="center">+9</td><!--Spell-->
-			<td align="center">6</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">12</td><!--Level-->
 			<td align="right">600,000</td><!--XP-->
-			<td align="right">10d8+4</td><!--HD-->
+			<td align="right">10d6+24</td><!--HD-->
 			<td align="center">+8</td><!--Attack-->
-			<td align="center">+8</td><!--Competence-->
+			<td align="center">+9</td><!--Competence-->
+			<td align="center">3</td><!--Talents-->
+			<td align="center">6</td><!--Knacks-->
 			<td align="center">+12</td><!--Doom-->
 			<td align="center">+12</td><!--Ray-->
-			<td align="center">+11</td><!--Hold-->
+			<td align="center">+12</td><!--Hold-->
 			<td align="center">+12</td><!--Blast-->
 			<td align="center">+10</td><!--Spell-->
-			<td align="center">6</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">13</td><!--Level-->
 			<td align="right">720,000</td><!--XP-->
-			<td align="right">10d8+6</td><!--HD-->
+			<td align="right">10d6+26</td><!--HD-->
 			<td align="center">+9</td><!--Attack-->
-			<td align="center">+9</td><!--Competence-->
+			<td align="center">+10</td><!--Competence-->
+			<td align="center">3</td><!--Knacks-->
+			<td align="center">7</td><!--Knacks-->
 			<td align="center">+13</td><!--Doom-->
 			<td align="center">+13</td><!--Ray-->
-			<td align="center">+12</td><!--Hold-->
+			<td align="center">+13</td><!--Hold-->
 			<td align="center">+13</td><!--Blast-->
 			<td align="center">+11</td><!--Spell-->
-			<td align="center">7</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">14</td><!--Level-->
 			<td align="right">840,000</td><!--XP-->
-			<td align="right">10d8+8</td><!--HD-->
-			<td align="center">+9</td><!--Attack-->
-			<td align="center">+10</td><!--Competence-->
+			<td align="right">10d6+28</td><!--HD-->
+			<td align="center">+10</td><!--Attack-->
+			<td align="center">+11</td><!--Competence-->
+			<td align="center">4</td><!--Talents-->
+			<td align="center">7</td><!--Knacks-->
 			<td align="center">+14</td><!--Doom-->
 			<td align="center">+14</td><!--Ray-->
-			<td align="center">+13</td><!--Hold-->
+			<td align="center">+14</td><!--Hold-->
 			<td align="center">+14</td><!--Blast-->
 			<td align="center">+11</td><!--Spell-->
-			<td align="center">7</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">15</td><!--Level-->
 			<td align="right">960,000</td><!--XP-->
-			<td align="right">10d8+10</td><!--HD-->
+			<td align="right">10d6+30</td><!--HD-->
 			<td align="center">+10</td><!--Attack-->
-			<td align="center">+10</td><!--Competence-->
+			<td align="center">+11</td><!--Competence-->
+			<td align="center">4</td><!--Talents-->
+			<td align="center">8</td><!--Knacks-->
 			<td align="center">+15</td><!--Doom-->
 			<td align="center">+15</td><!--Ray-->
-			<td align="center">+14</td><!--Hold-->
+			<td align="center">+15</td><!--Hold-->
 			<td align="center">+15</td><!--Blast-->
 			<td align="center">+12</td><!--Spell-->
-			<td align="center">8</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">16</td><!--Level-->
 			<td align="right">1,080,000</td><!--XP-->
-			<td align="right">10d8+12</td><!--HD-->
+			<td align="right">10d6+32</td><!--HD-->
 			<td align="center">+11</td><!--Attack-->
-			<td align="center">+11</td><!--Competence-->
+			<td align="center">+12</td><!--Competence-->
+			<td align="center">4</td><!--Talents-->
+			<td align="center">8</td><!--Knacks-->
 			<td align="center">+16</td><!--Doom-->
 			<td align="center">+16</td><!--Ray-->
-			<td align="center">+15</td><!--Hold-->
+			<td align="center">+16</td><!--Hold-->
 			<td align="center">+16</td><!--Blast-->
 			<td align="center">+13</td><!--Spell-->
-			<td align="center">8</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">17</td><!--Level-->
 			<td align="right">1,200,000</td><!--XP-->
-			<td align="right">10d8+14</td><!--HD-->
-			<td align="center">+11</td><!--Attack-->
-			<td align="center">+12</td><!--Competence-->
+			<td align="right">10d6+34</td><!--HD-->
+			<td align="center">+12</td><!--Attack-->
+			<td align="center">+13</td><!--Competence-->
+			<td align="center">4</td><!--Talents-->
+			<td align="center">9</td><!--Knacks-->
 			<td align="center">+17</td><!--Doom-->
 			<td align="center">+17</td><!--Ray-->
-			<td align="center">+16</td><!--Hold-->
+			<td align="center">+17</td><!--Hold-->
 			<td align="center">+17</td><!--Blast-->
 			<td align="center">+14</td><!--Spell-->
-			<td align="center">9</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">18</td><!--Level-->
 			<td align="right">1,320,000</td><!--XP-->
-			<td align="right">10d8+16</td><!--HD-->
+			<td align="right">10d6+36</td><!--HD-->
 			<td align="center">+12</td><!--Attack-->
-			<td align="center">+12</td><!--Competence-->
+			<td align="center">+14</td><!--Competence-->
+			<td align="center">5</td><!--Knacks-->
+			<td align="center">9</td><!--Knacks-->
 			<td align="center">+18</td><!--Doom-->
 			<td align="center">+18</td><!--Ray-->
-			<td align="center">+17</td><!--Hold-->
+			<td align="center">+18</td><!--Hold-->
 			<td align="center">+18</td><!--Blast-->
 			<td align="center">+15</td><!--Spell-->
-			<td align="center">9</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">19</td><!--Level-->
 			<td align="right">1,440,000</td><!--XP-->
-			<td align="right">10d8+18</td><!--HD-->
+			<td align="right">10d6+38</td><!--HD-->
 			<td align="center">+13</td><!--Attack-->
-			<td align="center">+13</td><!--Competence-->
+			<td align="center">+14</td><!--Competence-->
+			<td align="center">5</td><!--Knacks-->
+			<td align="center">10</td><!--Knacks-->
 			<td align="center">+19</td><!--Doom-->
 			<td align="center">+19</td><!--Ray-->
-			<td align="center">+18</td><!--Hold-->
+			<td align="center">+19</td><!--Hold-->
 			<td align="center">+19</td><!--Blast-->
 			<td align="center">+16</td><!--Spell-->
-			<td align="center">10</td><!--Knacks-->
 		</tr>
 		<tr>
 			<td align="center">20</td><!--Level-->
 			<td align="right">1,560,000</td><!--XP-->
-			<td align="right">10d8+20</td><!--HD-->
-			<td align="center">+13</td><!--Attack-->
-			<td align="center">+14</td><!--Competence-->
+			<td align="right">10d6+40</td><!--HD-->
+			<td align="center">+14</td><!--Attack-->
+			<td align="center">+15</td><!--Competence-->
+			<td align="center">5</td><!--Knacks-->
+			<td align="center">10</td><!--Knacks-->
 			<td align="center">+20</td><!--Doom-->
 			<td align="center">+20</td><!--Ray-->
 			<td align="center">+19</td><!--Hold-->
 			<td align="center">+20</td><!--Blast-->
 			<td align="center">+17</td><!--Spell-->
-			<td align="center">10</td><!--Knacks-->
 		</tr>
 		<tr>
-			<td colspan=10>* Constitution modifiers no longer apply after level 10.</td>
+			<td colspan=12>* Constitution modifiers no longer apply after level 10.</td>
 		</tr>
 	</tbody>
 </table>
