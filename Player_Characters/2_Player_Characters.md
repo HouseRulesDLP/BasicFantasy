@@ -5,27 +5,29 @@
 First, you will need a piece of paper to write down the character’s statistics on. You may use a preprinted character sheet if one is available, or you may simply use a piece of notebook paper. An example character is shown below. You should use a pencil to write down all information, as any statistic may change during play.
 
 ### Roll Abilities
-We will be using the BARFLIP method (described [here](https://planarian.itch.io/barflip-gridflip)).  This is the method will be used as it creates relatively balanced characters while still keeping attributes random and unoptimized.
+We will be using the [BARFLIP](BARFLIP%20Worksheet%20LS.pdf) method.  This is the method will be used as it creates relatively balanced characters while still keeping attributes random and unoptimized.  However, we will not be using the optional 'automatic six in a prime requisite' rule.
 
-Write down the ability score bonus (or penalty) for each score beside the score itself, as shown on the table on the next page.
+Write down the [ability scores modifiers](3_Character_Abilities.md#Ability%20Scores) for each score beside the score itself, as shown on the table on the next page.
 
 ### Pick a Species
-Choose a species for your character.  Your character must meet any minimum ability score requirements for the species you pick.
+Choose a [species](4_Character_Species.md) for your character.  Your character must meet any minimum ability score requirements for the species you pick.
 
 ### Pick or Roll a Background Career
-Roll for your character's Background career (or if the GM allows, pick one).
+Roll for your character's [background](5_Background_Careers.md) career (or if the GM allows, pick one).
 
 ### Pick a Class
-Choose class for your character. Your character must meet the Prime Requisite minimum for a class, as described in the [Character Classes](https://basicfantasy.org/srd/class.html#character-classes) section, in order to be a member of that class.
+Choose class for your character. Your character must meet the Prime Requisite minimum for a class, as described in the [Character Classes](6_Character_Classes.md) section, in order to be a member of that class.
+
+[[character sheet image]]
 
 ### Note Special Abilities
-Write down the special abilities of your species and class choices, as described below. If you have chosen to play an Arcanist, ask your Game Master what spell or spells your character knows; it’s up to the Game Master to decide this, but he or she may allow you to choose one or more spells yourself.
+Write down the special abilities of your [species](4_Character_Species.md), [background](5_Background_Careers.md) and [class](6_Character_Classes.md) choices, as described below. If you have chosen to play an [Arcanist](Arcanist.md), [Trickster](Trickster.md) or [Arcane_Warrior](Arcane_Warrior.md), ask your Game Master what spell or spells your character knows; it’s up to the Game Master to decide this, but he or she may allow you to choose one or more spells yourself.
 
 ### Pick Known Languages
-Most characters begin the game speaking two languages (their native language and a "common" tongue).  To this, add a number of additional languages equal to your character’s *Intelligence Modifier* (though this cannot take you down to less than 1 starting language).  Additionally, most characters are illiterate by default.  One language pick may be spent for a character to become literate.  Once literate, a character is considered literate in all languages they know.
+Most characters begin the game speaking two [languages](3_Character_Abilities.md#Languages) (their native language and a "common" tongue).  To this, add a number of additional languages equal to your character’s *Intelligence Modifier* (though this cannot take you down to less than 1 starting language).  Additionally, most characters are illiterate by default however some [classes](6_Character_Classes.md) and [backgrounds](5_Background_Careers.md) are exceptions (which will be listed in the class or background description).  Otherwise, one language pick may be spent for a character to become literate.  Once literate, a character is considered literate in all languages they know.
 
 ### Calculate Starting Hit Points
-Write down the maximum Hit Points for your class's hit die, adding your Constitution bonus or penalty, and note the result as your hit points on your character sheet. Note that, should your character have a Constitution penalty, the penalty will not lower any hit points below 1.
+Write down the maximum [hit points](3_Character_Abilities.md#Hit%20Points%20and%20Hit%20Dice) for your class's hit die, adding your Constitution bonus or penalty, and note the result as your hit points on your character sheet. Note that, should your character have a Constitution penalty, the penalty will not lower any hit points below 1.
 
 ### Calculate Starting Fortune
 Fortune is a measure of a character's luck, determination or favor of the gods/fate. Fortune points may be spent in various ways to aid a character and are earned for good role playing.  A character's Base Fortune Points (BFP) equal their level divided by 2 (rounded up).  Their Maximum Fortune Points (MFP) equal their level.
@@ -37,13 +39,13 @@ Look up your character’s attack bonus from their class table and note it on yo
 Also look up your saving throws (also on your character's class table) and note them on your character sheet. Adjust the saving throw if your species notes any bonuses to their saves.
 
 ### Equipment
-Each class and background notes what gear your character will start with plus a random amount of money.  Note down your starting gear and roll your starting money.  If you wish, you may spend your starting money before play.  You may also choose to sell your starting gear, but it is worth only half it's normal value due to use and wear.
+Each [class](6_Character_Classes.md) and [background](5_Background_Careers.md) notes what gear your character will start with plus a random amount of money.  Note down your starting gear and roll your starting money.  If you wish, you may spend your starting money before play.  You may also choose to sell your starting gear, but it is worth only half it's normal value due to use and wear.
 
 ### Armor Class
-Since you now know what sort of armor your character is wearing, you should note your Armor Class on your character sheet. Don’t forget to add your Dexterity bonus or penalty to the figure.
+Since you now know what sort of armor your character is wearing, you should note your Armor Class on your character sheet. Don’t forget to add your Dexterity bonus or penalty to the figure.  You should also note their unarmored and shieldless (if they use a shield) AC.
 
 ### Level and Experience Points
-Note on your character sheet that your character is Level 1 and has zero (0) experience points (or XP); also you may want to note the number needed to advance to second level, as shown in the table for your class.
+Note on your character sheet that your character is Level 1 and has zero (0) experience points (or XP / EXP); also you may want to note the number needed to advance to second level, as shown in the table for your class.
 
 ### Passions
 Passions describe the things that are important to your character and can be both positive and negative.  Each character should have between 3 and 5 Passions, as determined by the player and approved by the GM.  A Passion should be describable in a single sentence or short phrase; if it takes more than a single line to describe a Passion, it is too complex and should be broken down into multiple Passions.  One tip is to phrase your passions in the manner of "I want. . .", "I will. . ." or "I won't. . .".

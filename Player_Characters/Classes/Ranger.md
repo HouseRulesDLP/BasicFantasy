@@ -1,68 +1,58 @@
 ---
 cssclasses: clean-embeds, bfrpg
 ---
-## Fighter
+## Ranger
 <div class="bfrpg-note">
 <ul>
-<li><strong>Prime Requisite:</strong> Strength and Constitution 9+</li>
+<li><strong>Prime Requisite:</strong> Constitution and Wisdom 11+</li>
 <li><strong>Starting Hit Points:</strong> 8 + Constitution Modifier</li>
 <li><strong>Hit Dice (levels 2 to 10):</strong> 1d8 + Constitution Modifier</li>
 <li><strong>Hit Points After Level 10:</strong> +2 per Level</li>
-<li><strong>Armor Training:</strong> all</li>
+<li><strong>Armor Training:</strong> Light, Medium, Bucklers and Shields</li>
 <li><strong>Weapon Training:</strong> all</li>
 </ul>
 </div>
+Rangers are warriors specially trained to haunt and hunt the wilderness. They patrol for dangers on the edge of civilization, yet have a strong desire to preserve nature. As such, they are predisposed to working with druids and wardens.
 
-Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for whom fighting is a way of life. They train in combat, and they generally approach problems head-on, weapon in hand.
-
+---
 ### Starting Equipment
 - 2d6sp
 - Adventurers' Pack
 - Archer's Pack or
-  Hoplite's Pack or
-  Skirmisher's Pack and +2d6sp or
-  Warrior's Pack
+  Skimisher's Pack plus +2d6sp
 
+### Skills
+**Climb (+2):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at *Disadvantage*.  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
 
-### Adventurer Skills
-![](Skills.md#Climb)
-![](Skills.md#Perception)
+**Perception (+1):** The ranger's hunting and tracking skills grant them keen observational abilities and so make their Perception rolls at +1.
+
 ![](Skills.md#Search)
 ![](Skills.md#Stealth)
-![](Skills.md#Survival)
+
+**Survival (+1):** Well used to living in the wild, Rangers make survival checks at +1 instead of the normal -2.
+
+### Ranger Skills
+**Climb Cliffs (+0):** Rangers may climb vertical cliff faces without the need for the specialized equipment that others would need. Even tricky climbs like overhangs and loose rock will not prevent the ranger from attempting the climb. This does not grant the ranger the ability to climb manufactured surfaces like a thief can. Rangers can perform normal climbs that other adventurers can attempt at a +2 bonus. Rolls are made for each 100ft (or fraction thereof) to be climbed. Failure indicates a fall at the half-way point.
+
+**Stalking (+0):** This is the skill of remaining undetected in the wilderness. So long as there is at least light brush available for concealment, the ranger may use this skill. This ability only works in natural wilderness.
+
+**Tracking (-1):** The ranger may spend a Turn to search a 30x30 foot area in natural wilderness to try to find tracks left by any creatures in the area. On a success, they will know the type of creatures that made the tracks and may follow them. If conditions worsen (the ground gets harder, it starts to rain, the quarry crosses a river, etc), a new check will need to be made. In general, if the GM feels that tracking should be easier than normal (soft ground, tracking a large party, etc), the ranger should roll with Advantage. If the GM feels tracking will be harder than normal (hard ground, unfamiliar terrain, etc), the roll will be made at Disadvantage.
 ![](Skills.md#Uncertainty)
 
 ### Special Abilities
-**Hauler:** Add your Constitution Modifier to your Strength Score for calculating encumbrance limits.
+**Knacks:** At 3rd level, select one of the following special abilities, denoting how you prefer to fight. You may select additional abilities at levels 6, 9, 12, 15 and 18. Unless noted otherwise, each knack may only be taken once.
+1. ![](Knacks.md#Battle-Rage)
+2. ![](Knacks.md#Cavalry)
+3. ![](Knacks.md#Deadly-Blow)
+4. ![](Knacks.md#Deadly-Shot)
+5. ![](Knacks.md#Far-Shot)
+6. ![](Knacks.md#Indomitable)
+7. ![](Knacks.md#Main-Gauche)
+8. ![](Knacks.md#Precise-Shot)
+9. ![](Knacks.md#Slayer)
+10. ![%%Weapon-Specialist-II%%](Knacks.md#Weapon-Specialist-II)
 
-**Minimum Damage:** Fighters are experts at dealing damage. If your attack misses the target's AC by your level your less, you still deal your attack's minimum damage to the target.
-
-**Weapon Specialization:** Select 1 specific weapon type (such as Battle Axe, Long Bow, Arming Sword, etc.) You gain +1 To Hit and +Level/2 (round up) Damage with this weapon.
-
-**Knacks:** Select one of the following special abilities, denoting how you prefer to fight. You may select one additional ability at every odd-numbered level thereafter. Unless noted otherwise, each knack may only be taken once.
-
-1. ![](Knacks.md#Armor-Master)
-2. ![](Knacks.md#Battle-Rage)
-3. ![](Knacks.md#Cavalry)
-4. ![](Knacks.md#Charger)
-5. ![](Knacks.md#Cleave)
-6. ![](Knacks.md#Deadly-Blow)
-7. ![](Knacks.md#Deadly-Shot)
-8. ![](Knacks.md#Exploit-Opening)
-9. ![](Knacks.md#Far-Shot)
-10. ![](Knacks.md#Fearless)
-11. ![](Knacks.md#Indomitable)
-12. ![](Knacks.md#Last-Stand)
-13. ![](Knacks.md#Leader)
-14. ![](Knacks.md#Main-Gauche)
-15. ![](Knacks.md#Precise-Shot)
-16. ![](Knacks.md#Protector)
-17. ![](Knacks.md#Reckless)
-18. ![](Knacks.md#Shield-Master)
-19. ![](Knacks.md#Slayer)
-20. ![](Knacks.md#Weapon-Specialist)
-
-### Fighter Progression
+### Ranger Progression
 <table>
     <thead>
         <tr>
@@ -91,7 +81,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+1</td>
             <td>+1</td>
             <td>0</td>
-            <td>1</td>
+            <td>0</td>
             <td>+1</td>
             <td>+1</td>
             <td>+1</td>
@@ -105,7 +95,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+2</td>
             <td>+2</td>
             <td>1</td>
-            <td>1</td>
+            <td>0</td>
             <td>+2</td>
             <td>+2</td>
             <td>+2</td>
@@ -119,7 +109,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+2</td>
             <td>+2</td>
             <td>1</td>
-            <td>2</td>
+            <td>1</td>
             <td>+3</td>
             <td>+3</td>
             <td>+3</td>
@@ -133,7 +123,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+3</td>
             <td>+3</td>
             <td>1</td>
-            <td>2</td>
+            <td>1</td>
             <td>+4</td>
             <td>+4</td>
             <td>+4</td>
@@ -147,7 +137,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+4</td>
             <td>+4</td>
             <td>1</td>
-            <td>3</td>
+            <td>1</td>
             <td>+5</td>
             <td>+5</td>
             <td>+5</td>
@@ -161,7 +151,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+4</td>
             <td>+5</td>
             <td>2</td>
-            <td>3</td>
+            <td>2</td>
             <td>+6</td>
             <td>+6</td>
             <td>+6</td>
@@ -175,7 +165,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+5</td>
             <td>+5</td>
             <td>2</td>
-            <td>4</td>
+            <td>2</td>
             <td>+7</td>
             <td>+7</td>
             <td>+7</td>
@@ -189,7 +179,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+6</td>
             <td>+6</td>
             <td>2</td>
-            <td>4</td>
+            <td>2</td>
             <td>+8</td>
             <td>+8</td>
             <td>+8</td>
@@ -203,7 +193,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+6</td>
             <td>+7</td>
             <td>2</td>
-            <td>5</td>
+            <td>3</td>
             <td>+9</td>
             <td>+9</td>
             <td>+9</td>
@@ -217,7 +207,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+7</td>
             <td>+8</td>
             <td>3</td>
-            <td>5</td>
+            <td>3</td>
             <td>+10</td>
             <td>+10</td>
             <td>+10</td>
@@ -231,7 +221,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+8</td>
             <td>+8</td>
             <td>3</td>
-            <td>6</td>
+            <td>3</td>
             <td>+11</td>
             <td>+11</td>
             <td>+11</td>
@@ -245,7 +235,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+8</td>
             <td>+9</td>
             <td>3</td>
-            <td>6</td>
+            <td>4</td>
             <td>+12</td>
             <td>+12</td>
             <td>+12</td>
@@ -259,7 +249,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+9</td>
             <td>+10</td>
             <td>3</td>
-            <td>7</td>
+            <td>4</td>
             <td>+13</td>
             <td>+13</td>
             <td>+13</td>
@@ -273,7 +263,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+10</td>
             <td>+11</td>
             <td>4</td>
-            <td>7</td>
+            <td>4</td>
             <td>+14</td>
             <td>+14</td>
             <td>+14</td>
@@ -287,7 +277,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+10</td>
             <td>+11</td>
             <td>4</td>
-            <td>8</td>
+            <td>5</td>
             <td>+15</td>
             <td>+15</td>
             <td>+15</td>
@@ -301,7 +291,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+11</td>
             <td>+12</td>
             <td>4</td>
-            <td>8</td>
+            <td>5</td>
             <td>+16</td>
             <td>+16</td>
             <td>+16</td>
@@ -315,7 +305,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+12</td>
             <td>+13</td>
             <td>4</td>
-            <td>9</td>
+            <td>5</td>
             <td>+17</td>
             <td>+17</td>
             <td>+17</td>
@@ -329,7 +319,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+12</td>
             <td>+14</td>
             <td>5</td>
-            <td>9</td>
+            <td>6</td>
             <td>+18</td>
             <td>+18</td>
             <td>+18</td>
@@ -343,7 +333,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+13</td>
             <td>+14</td>
             <td>5</td>
-            <td>10</td>
+            <td>6</td>
             <td>+19</td>
             <td>+19</td>
             <td>+19</td>
@@ -357,7 +347,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+14</td>
             <td>+15</td>
             <td>5</td>
-            <td>10</td>
+            <td>6</td>
             <td>+20</td>
             <td>+20</td>
             <td>+19</td>
