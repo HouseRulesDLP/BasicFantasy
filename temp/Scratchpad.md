@@ -21,11 +21,6 @@ cssclasses: clean-embeds, bfrpg
 - x2 Years per step.
 
 ## Traits
-### Scroll Caster
-**Prerequisite:** INT or WIS 10+<br/>
-Allows character to select Cleric, Druid or an Arcane Tradition's spell list and cast spells on that list from scrolls.  This requires a Skilled Intelligence check vs. difficulty 8 + (spell-circle * 2).  *For example, the difficulty for a third circle spell would be 8 + (3 * 2) = (8+6) = 14.*
-
-A critical failure roll requires the caster to roll for a minor mishap.
 
 ## Combat Maneuvers
 

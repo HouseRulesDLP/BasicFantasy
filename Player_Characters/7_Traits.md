@@ -260,6 +260,10 @@ Your character may infuse part of her soul into her weapon attacks (including un
 **Prerequisite:** none<br/>
 When your character witnesses an oath or makes one herself, fate binds the oath taker to see it done. Anyone who makes an oath in your character’s presence, including the character herself, must keep their word or find themselves halving all healing received and unable to regain Fortune Points unless they are working towards fulfilling their oath.
 
+#### Scroll Caster
+**Prerequisite:** INT or WIS 10+<br/>
+Allows character to select Cleric, Druid or an Arcane Tradition's spell list and cast spells on that list from scrolls.  You cannot use this feature to cast a spell of a circle higher than your Character Level / 3 (minimum 1).
+
 #### Second Sight
 **Prerequisite:** none<br/>
 Your character gains the Detect Magic skill as if they were an [Arcanist](Arcanist.md#Skills).
