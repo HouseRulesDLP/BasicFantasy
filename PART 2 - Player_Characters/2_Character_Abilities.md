@@ -6,7 +6,7 @@ cssclasses:
 
 ## Ability Scores
 
-Each character will have a score ranging from 3 to 18 in each of the following abilities. A bonus or penalty is associated with each score, as shown on the table below. Each [class](6_Character_Classes.md) has a Prime Requisite ability score, which must be met in order for the character to become a member of that class; also, there are required minimum scores for each character [species](4_Character_Species.md) other than Humans.
+Each character will have a score ranging from 3 to 18 in each of the following abilities. A bonus or penalty is associated with each score, as shown on the table below. Each [class](5_Character_Classes.md) has a Prime Requisite ability score, which must be met in order for the character to become a member of that class; also, there are required minimum scores for each character [species](3_Character_Species.md) other than Humans.
 
 | Ability Score | Modifier |
 |:-------------:|:--------:|
@@ -45,4 +45,4 @@ All characters begin the game knowing their native language. In most campaign wo
 Characters with Intelligence of 13 or higher may choose to begin the game knowing one or more languages other than those given above; the number of additional languages that may be learned is equal to the Intelligence bonus (+1, +2, or +3). Characters may choose to learn any other common languages. The GM will decide which rare or secret languages may be learned. The player may choose to leave one or more bonus language “slots” open, to be filled during play.
 
 ### Literacy
-Most characters are not literate by default.  Certain academic classes (such as [Arcanists](Arcanist.md), [Bards](Bard.md), [Clerics](Cleric.md), [Tricksters](Trickster.md), [Warrior-Monks](Warrior-Monk.md) and [Warlocks](Arcane_Warrior.md)) gain literacy automatically, as do certain [Backgrounds](5_Background_Careers.md).  Other characters may "spend" one of their language picks to become literate.  Once a character is literate, they are considered literate in all languages they know.
+Most characters are not literate by default.  Certain academic classes (such as [Arcanists](Arcanist.md), [Bards](Bard.md), [Clerics](Cleric.md), [Tricksters](Trickster.md), [Warrior-Monks](Warrior-Monk.md) and [Warlocks](Arcane_Warrior.md)) gain literacy automatically, as do certain [Backgrounds](4_Background_Careers.md).  Other characters may "spend" one of their language picks to become literate.  Once a character is literate, they are considered literate in all languages they know.

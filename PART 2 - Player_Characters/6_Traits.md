@@ -59,7 +59,7 @@ cssclasses: clean-embeds, bfrpg
 
 
 ## Traits
-**Traits** help set individual characters apart from one another, even if they are of the same [species](4_Character_Species.md), [class](6_Character_Classes.md) and general [background](5_Background_Careers.md). Each trait represents some specific inborn ability or special training unique to that character. They are different from Knacks in that they have no class requirements.
+**Traits** help set individual characters apart from one another, even if they are of the same [species](3_Character_Species.md), [class](5_Character_Classes.md) and general [background](4_Background_Careers.md). Each trait represents some specific inborn ability or special training unique to that character. They are different from Knacks in that they have no class requirements.
 
 Every character gains their first trait at level 2, and every 4 levels thereafter (6, 10, 14 and 18).
 
@@ -87,7 +87,7 @@ Your character understands how to move in a particular weight of armor effective
 
 #### Broad Skills
 **Prerequisite:** none<br/>
-Your character may roll for a 2nd [Background Career](5_Background_Careers.md). If the same career is rolled a 2nd time re-roll.
+Your character may roll for a 2nd [Background Career](4_Background_Careers.md). If the same career is rolled a 2nd time re-roll.
 
 #### Catch Your Breath
 **Prerequisite:** Constitution 13+<br/>

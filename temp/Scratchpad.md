@@ -1,27 +1,6 @@
 ---
 cssclasses: clean-embeds, bfrpg
 ---
-## Time
-- **Action:** An individual's main action, movement action or reaction.
-    - **Main Action:** An action that will take up the majority of a characters "turn".
-    - **Move Action:** Used for moving around the battlefield.  A character's Main Action may be traded for a 2nd Move Action on their "turn".
-    - **Reaction:** A quick action that may be taken out of turn as a reaction to some other event.  Such as attacking someone trying to flee from combat.
-- **Turn:** An individuals chance to action in an action/combat scene.
-- **Round:** A collection of every characters' Turns.  Takes approximately 10 seconds.
-- Minute
-- **Stretch:** The typical amount of time it takes to thoroughly search a 10ft x 10ft area.  Approximately 10 minutes.
-- Hour
-- **Watch:** Four hours
-- Day
-- Week
-- **Fortnight:** Two weeks
-- Month
-- **Season:** Three Months
-- Year
-- x2 Years per step.
-
-## Traits
-
 ## Combat Maneuvers
 
 ### Basic Maneuvers

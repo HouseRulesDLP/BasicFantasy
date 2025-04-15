@@ -13,7 +13,7 @@ cssclass: ose, clean-embeds
 <li><strong>Height:</strong> 47 + 2d6 inches {4' 1" to 4' 11"}</li>
 <li><strong>Weight:</strong> 80 + (height roll * 2d8) lbs {134 to 322 lbs}</li>
 <li><strong>Size:</strong> Medium</li>
-<li><strong>Speed:</strong> 30 ft</li>
+<li><strong>Speed:</strong> 40 ft</li>
 <li><strong>Tags:</strong> Humanoid (dwarf), Elemental (earth)</li>
 </ul>
 </div>
@@ -42,7 +42,7 @@ Dwarves have a +2 bonus on saving throws to resist poison and disease.
 	<li><strong>Height:</strong> 52 + 2d10 inches {4' 6" to 6'}</li>
 	<li><strong>Weight:</strong> 80 + (height roll * 2d4) lbs {84 to 240 lbs}</li>
 	<li><strong>Size:</strong> Medium</li>
-	<li><strong>Speed:</strong> 35 ft</li>
+	<li><strong>Speed:</strong> 45 ft</li>
 	<li><strong>Tags:</strong> Humanoid (elf), Fae (light)</li>
 </ul>
 </div>
@@ -69,7 +69,7 @@ Elves have +2 on [Perception checks](Glossary.md#perception%20check).
 <li><strong>Height:</strong> 80 + 2d10 inches {6' 10" to 8' 4"}</li>
 <li><strong>Weight:</strong> 300 + (height roll * 2d12) {304 to 780lbs}</li>
 <li><strong>Size:</strong> Large</li>
-<li><strong>Speed:</strong> 30ft</li>
+<li><strong>Speed:</strong> 40ft</li>
 <li><strong>Tags:</strong> Humanoid (giantkin), Giant</li>
 </ul>
 </div>
@@ -94,7 +94,7 @@ Giantkin treat two-handed melee weapons as if they were Versatile and Versatile 
 <li><strong>Height:</strong> 46 + 2d8 inches {4' to 5' 2"}</li>
 <li><strong>Weight:</strong> 55 + (height roll * 2d4) lbs {59 to 183 lbs}</li>
 <li><strong>Size:</strong> Small</li>
-<li><strong>Speed:</strong> 30 ft</li>
+<li><strong>Speed:</strong> 40 ft</li>
 <li><strong>Tags:</strong> Humanoid (goblin), Fae (twilight)</li>
 </ul>
 </div>
@@ -121,7 +121,7 @@ Goblins are a species of naturally nocturnal humanoids most commonly found in th
 <li><strong>Height:</strong> 25 + 2d6 inches {3' 1" to 3' 11"}</li>
 <li><strong>Weight:</strong> 29 + (height roll * 1d3) lbs {30 to 65 lbs}</li>
 <li><strong>Size:</strong> Small</li>
-<li><strong>Speed:</strong> 30 ft</li>
+<li><strong>Speed:</strong> 40 ft</li>
 <li><strong>Tags:</strong> Humanoid (hob)</li>
 </ul>
 </div>
@@ -144,7 +144,7 @@ Hobs raise the spirits of even the most downtrodden and are valued by all their 
 <li><strong>Height:</strong> 56 + 2d12 inches {4' 10" to 6' 8"}</li>
 <li><strong>Weight:</strong> 100 + (height roll * 2d4) {lbs 104 to 292 lbs}</li>
 <li><strong>Size:</strong> Medium</li>
-<li><strong>Speed:</strong> 30 ft</li>
+<li><strong>Speed:</strong> 40 ft</li>
 <li><strong>Tags:</strong> Humanoid (human)</li>
 </ul>
 </div>
@@ -165,7 +165,7 @@ A Human’s Base and Max [Fortune Points](RulesSynopsis.md#fortune) are each inc
 <li><strong>Height:</strong> 68 + 2d8 inches {5' 10" to 7'}</li>
 <li><strong>Weight:</strong> 175 + (height roll * 2d6) lbs {179 to 367 lbs}</li>
 <li><strong>Size:</strong> Medium</li>
-<li><strong>Speed:</strong> 30 ft</li>
+<li><strong>Speed:</strong> 40 ft</li>
 <li><strong>Tags:</strong> Humanoid (orc)</li>
 </ul>
 </div>

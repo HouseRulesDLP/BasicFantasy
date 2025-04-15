@@ -1,23 +1,6 @@
 ---
 cssclasses: clean-embeds, bfrpg
 ---
-## Encumbrance
-
-Any given character can only carry so much. Some groups may wish to handwave the tracking of encumbrance and that's completely understandable. The rules here are meant to provide some degree of verisimilitude without having to track pounds, ounces or "coins" of carried gear and treasure.
-
-Encumbrance is tracked in 'Items' or 'Slots' (the terms are used interchangeably in these rules). A single Item is any object that can be carried in one hand reasonably comfortably weighing no more than about 5 pounds (~2.25kg), such as a sword, a torch, a lute, etc. Larger objects, take up at least 2 Slots (or more for even larger objects; like a full treasure chest). Worn clothing does not count as an Item, but carried clothing does. Small items (such as coins) do not count as an Item unless they are carried in bulk (such as 100 coins taking up 1 Slot).
-
-Additionally, some equipment may be Bundled to reduce the number of Slots they take up (such as a Bundle of 3 Torches only taking up 1 Slot). These Bundles require the Ready an Item Main Action to break apart for use after which the individual objects making up the Bundle must be tracked separately.
-
-### Readied Items
-Each character may carry a number of Readied Items equal to half their Strength Score, rounded up. Readied Items are those items on hand for immediate use without needing to use the Ready an Item Main Action to unpack them. This includes things like worn armor, carried shield, weapons and any other items the character wishes to be able to access quickly an easily.
-
-### Stowed Items
-Stowed Items are those packed away and carefully organized to be as compact as possible. To carry any Stowed Items, a character must have a backpack, sack or similar thing in which to carry these items. If so equipped, a character can carry as many Stowed Items as their Strength Score. A character must use the Ready an Item action in order to access any Stowed Items.
-
-### Excessive Encumbrance
-These limits represent the amount of gear a character can carry without penalty. An extra 2 Readied Items or 4 Stowed Items (or fractions thereof), reduces a character's Movement by 5 feet and they take a -2 penalty on all Strength and Dexterity Checks. Additionally, for every hour so encumbered, they must make a Constitution Check vs a Difficulty of 12 or gain a level of Exhaustion. Going further beyond this limit; up to 4 Readied Items or 8 Stowed Items, reduces the character's movement to half, increases the Strength and Dexterity check penalties to -4 and increases the Exhaustion Check Difficulty to 15.  Items beyond these limits prevent a character's movement entirely.
-
 ## Coinage
 Every petty king and warlord seems to issue their own form of currency. Below is a table listing those coin types most commonly found with sample regional names. Most peasants and commoners deal in barter, but when they do have coin, it is typically copper or (occasionally) silver. Silver is typically the coin of merchants, artisans and other 'middle-class' folk. Higher value coins are rarely seen by the peasantry; mostly being used by wealthy merchants and nobles.
 
@@ -585,12 +568,12 @@ If a weapon lists 2 or more Damage Types, the wielder must specify the Damage Ty
 			<td class="left-align"></td><!--Properties-->
 		</tr>
 		<tr>
-			<td class="left-align">Torch</td><!--Weapon-->
+			<td class="left-align"><a class="internal-link" href="#torch">Torch</a></td><!--Weapon-->
 			<td class="right-align">1cp</td><!--Price-->
 			<td>S</td><!--Size-->
 			<td>1</td><!--Slots-->
 			<td>1d3</td><!--Damage-->
-			<td class="left-align">Fire Damage, 1 in 6 goes out after a hit</td><!--Properties-->
+			<td class="left-align">Fire Damage</td><!--Properties-->
 		</tr>
 		<tr>
 			<td class="sub-header" colspan=6>Brawling</td>
@@ -1248,7 +1231,7 @@ This is a list of common adventuring gear, much of which can be found in various
 			<td class="left-align"><a class="internal-link" href="#candle">Candles (12)</a></td><!--item-->
 			<td class="right-align">1sp</td><!--price-->
 			<td>1</td><!--slots-->
-			<td class="left-align">5ft bright + 5ft dim light for 3p4 Turns each.</td><!--properties-->
+			<td class="left-align">5ft bright + 5ft dim light for 3p4 stretches each.</td><!--properties-->
 		</tr>
 		<tr>
 			<td class="left-align"><a class="internal-link" href="#chalk">Chalk, colored, small bag of pieces</a></td><!--item-->
@@ -1332,13 +1315,13 @@ This is a list of common adventuring gear, much of which can be found in various
 			<td class="left-align"><a class="internal-link" href="#lantern">Lantern, Bullseye</a></td><!--item-->
 			<td class="right-align">15sp</td><!--price-->
 			<td>1</td><!--slots-->
-			<td class="left-align">30ft bright + 30ft dim light for 2p4 hours.  May be focused.</td><!--properties-->
+			<td class="left-align">30ft bright + 20ft dim light for 2p4 hours.  May be focused.</td><!--properties-->
 		</tr>
 		<tr>
 			<td class="left-align"><a class="internal-link" href="#lantern">Lantern, Hooded</a></td><!--item-->
 			<td class="right-align">10sp</td><!--price-->
 			<td>1</td><!--slots-->
-			<td class="left-align">30ft bright + 30ft dim light for 2p4 hours.</td><!--properties-->
+			<td class="left-align">30ft bright + 20ft dim light for 2p4 hours.</td><!--properties-->
 		</tr>
 		<tr>
 			<td class="left-align"><a class="internal-link" href="#lens+or+magnifying+glass">Lens, Small</a></td><!--item-->
@@ -1647,7 +1630,7 @@ This is a list of common adventuring gear, much of which can be found in various
 			<td class="left-align"><a class="internal-link" href="#torch">Torch (1)</a></td><!--item-->
 			<td class="right-align">2cp</td><!--price-->
 			<td>1</td><!--slots-->
-			<td class="left-align">20ft bright + 20ft dim light for 3p4 Turns</td><!--properties-->
+			<td class="left-align">20ft bright + 20ft dim light for 3p4 Stretches</td><!--properties-->
 		</tr>
 		<tr>
 			<td class="left-align"><a class="internal-link" href="#waterskin+or+wineskin">Wine/Water Skin</a></td><!--item-->
@@ -1827,7 +1810,7 @@ Can be used to reduce the load for lifting, but uses more rope to do so; up to �
 Metal spikes that look like large jacks, shaped so that there is always one sharp point facing up. One bag can be scattered in a 5' radius, creating difficult terrain. If a creature moves through or spends a round fighting in an area scattered with caltrops, it must pass a Diff 12 DEX check or step on one. Heavy boots grant *Advantage* on the check. Stepping on a caltrop deals 1d4 point of piercing damage. If the creature is attempting to move or charge through the caltrops and it steps on one, the pain forces it to stop, unless the creature is mindless or cannot feel pain.
 
 #### Candle
-A Candle will shed light over a 5' radius, with dim light extending 5' further. A normal candle will burn approximately 1 hour.
+A Candle will shed light over a 5' radius, with dim light extending 5' further. A normal candle will burn 3p4 stretches (approximately 1 hour).
 
 #### Chalk
 Chalk is useful for “blazing a trail” through a dungeon or ruin, to ensure that the adventurers can find their way back out again.
@@ -1873,7 +1856,7 @@ Jars includes stopper, with 8-16 oz. volume (double or halve price for larger/sm
 Leather bound, paper, 6” x 9”, 50 pages. Good for making notes, sketches, or small maps. The paper is NOT spellbook quality.
 
 #### Lantern
-A Lantern will provide light covering a 30' radius; dim light will extend about 30' further. A lantern will consume a flask of oil roughly 4 hours. 
+A Lantern will provide light covering a 30' radius; dim light will extend about 30' further. A lantern will consume a flask of oil in roughly 4 hours. 
 
 A **Hooded Lantern** has a shutter mechanism to close off the light and prevent it from being seen.
 
@@ -1916,7 +1899,7 @@ These are odds and ends needed for cooking on the road, including some basic sun
 This basic fire-starting kit is generally purchased with a flint and steel; the flint, a piece of hard rock, is struck vigorously against a C-shaped piece of high-carbon steel. When done correctly, hot sparks will fly from the flint and steel into the tinder, hopefully starting a fire. The best tinder is a dried piece of prepared tinder fungus, carried in the tinderbox to keep it dry; char cloth, hemp rope, or even very dry grass can substitute if prepared tinder fungus is not available. The time required to start a fire should be determined by the GM according to the prevailing conditions; under ideal conditions, starting a fire with a flint, steel, and tinder takes about a turn.
 
 #### Torch
-A Torch sheds light over a 30' radius, with dim light extending about 20' further, and burns for 1d4+4 turns. Of course, a torch is also useful for setting flammable materials (such as cobwebs or oil) alight.
+A Torch sheds light over a 30' radius, with dim light extending about 20' further, and burns for 3p4 stretches (approximately 1 hour). Of course, a torch is also useful for setting flammable materials (such as cobwebs or oil) alight.  If used in combat, roll the torch's countdown pool after each hit to see if it goes out.
 
 #### Trap, Hunting
 Leg-hold traps for fur-bearing animals. Traps are designed for different sized animals. The jaws of the large-sized traps have teeth to help hold the large animals they are designed for. A trap is staked to the ground with a rope or chain. These traps are typically hidden. The trap is set by pressing down on the spring and then setting the trigger.

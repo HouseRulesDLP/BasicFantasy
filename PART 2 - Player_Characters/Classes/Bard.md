@@ -42,7 +42,7 @@ Bards know many songs and are capable of weaving magic into a song. At first lev
 
 Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledge of a new magical song at every odd level. It is recommended that players customize the names of their bard songs as it adds a bit of flavor.
 
-**Allegro of Alertness:** While this song is playing, all allies of the bard who can hear her gain [Advantage](1_Introduction.md#Advantage%20and%20Disadvantage) on any rolls to avoid being *surprised* or *ambushed*.
+**Allegro of Alertness:** While this song is playing, all allies of the bard who can hear her gain [Advantage](Introduction.md#Advantage%20and%20Disadvantage) on any rolls to avoid being *surprised* or *ambushed*.
 
 **Battle Ballad:** When this song is first started and at the beginning of each round thereafter, the bard picks one of their allies. That ally adds the bard's Charisma modifier to their attack rolls until the start of the next round.
 

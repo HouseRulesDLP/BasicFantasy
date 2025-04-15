@@ -43,7 +43,7 @@ There are those who make their living dealing death from the shadows. These peop
 ![](Skills.md#Uncertainty)
 
 ### Special Abilities
-**Sneak Attack:** When an assassin has [Advantage](1_Introduction.md#Advantage%20and%20Disadvantage) on an attack, add the listed damage on the table below to the attack.
+**Sneak Attack:** When an assassin has [Advantage](Introduction.md#Advantage%20and%20Disadvantage) on an attack, add the listed damage on the table below to the attack.
 
 **Knacks:** At 3rd level, select one of the following special abilities, denoting your preferred approach to crime. You gain additional kancks at levels levels shown on the table below. Unless noted otherwise, each knack may only be taken once.
 1. ![](Knacks.md#Blackjack)
