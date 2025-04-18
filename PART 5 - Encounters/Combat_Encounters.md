@@ -1,4 +1,6 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - clean-embeds
+  - bfrpg
 ---
 ## Combat Encounters
