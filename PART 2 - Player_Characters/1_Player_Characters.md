@@ -1,5 +1,7 @@
 # Player Characters
 
+- [ ] Tags
+
 ## How to Create a Player Character
 
 First, you will need a piece of paper to write down the character’s statistics on. You may use a preprinted character sheet if one is available, or you may simply use a piece of notebook paper. An example character is shown below. You should use a pencil to write down all information, as any statistic may change during play.

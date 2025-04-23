@@ -3469,5 +3469,440 @@ A **Strongbox** comes equipped with a lock (diff 15 to pick, 18 to break) and is
 #### Crates
 Wooden box that uses thins slats nailed to corner pieces. The slats are generally one to three inches (2.5 to 7.5 cm) wide and have a space of ¾ to 1.5 inches (2 to 3.75 cm) between slats on the sides. There is generally no lid or if there is the slats will use the same spacing as the sides. These are generally used for fruits and vegetables or for small animals, like chickens or smaller.
 
+### Animals
+<table>
+	<thead>
+		<tr>
+			<th class="left-align">Item</th>
+			<th class="right-align">Price</th>
+			<th>Speed</th>
+			<th class="left-align">Carry+</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="sub-header" colspan=4>Mounts and Transport</td>
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Camel">Camel</a>#</td><!--Item-->
+			<td class="right-align">100sp</td><!--Price-->
+			<td>50ft</td><!--Speed-->
+			<td class="left-align">60</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Donkey">Donkey</a></td><!--Item-->
+			<td class="right-align">50sp</td><!--Price-->
+			<td>40ft</td><!--Speed-->
+			<td class="left-align">40</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Elephant">Elephant, labor</a>#</td><!--Item-->
+			<td class="right-align">200sp</td><!--Price-->
+			<td>40ft</td><!--Speed-->
+			<td class="left-align">150</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Elephant">Elephant, war</a>#</td><!--Item-->
+			<td class="right-align">500sp</td><!--Price-->
+			<td>40ft</td><!--Speed-->
+			<td class="left-align">150</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+Draft">Horse, draft</a></td><!--Item-->
+			<td class="right-align">100sp</td><!--Price-->
+			<td>40ft</td><!--Speed-->
+			<td class="left-align">90</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+War">Horse, light war</a></td><!--Item-->
+			<td class="right-align">200sp</td><!--Price-->
+			<td>60ft</td><!--Speed-->
+			<td class="left-align">70</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+War">Horse, medium war</a></td><!--Item-->
+			<td class="right-align"></td><!--Price-->
+			<td>50ft</td><!--Speed-->
+			<td class="left-align">75</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+War">Horse, heavy war</a></td><!--Item-->
+			<td class="right-align"></td><!--Price-->
+			<td>40ft</td><!--Speed-->
+			<td class="left-align">80</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+Riding">Horse, riding</a></td><!--Item-->
+			<td class="right-align">75sp</td><!--Price-->
+			<td>80ft</td><!--Speed-->
+			<td class="left-align">60</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Pony">Pony, riding</a>*</td><!--Item-->
+			<td class="right-align">40sp</td><!--Price-->
+			<td>40ft</td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Pony">Pony, war</a>*</td><!--Item-->
+			<td class="right-align">80sp</td><!--Price-->
+			<td>40ft</td><!--Speed-->
+			<td class="left-align">30</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Ram,+War">Ram, war</a>#*</td><!--Item-->
+			<td class="right-align">200sp</td><!--Price-->
+			<td>40ft</td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Dog,+Riding">Dog, riding</a>*</td><!--Item-->
+			<td class="right-align">80sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="sub-header" colspan=4>Flying Mounts#</td>
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="2_Beasts.md#griffon">Griffon</a></td><!--Item-->
+			<td class="right-align">5,000sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="2_Beasts.md#hippogriff">Hippogriff</a></td><!--Item-->
+			<td class="right-align">2,500sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="2_Beasts.md#pegasus">Pegasus</a></td><!--Item-->
+			<td class="right-align">5,000sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="2_Beasts.md#roc">Roc, large</a>*</td><!--Item-->
+			<td class="right-align">5,000sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="2_Beasts.md#roc">Roc, huge</a></td><!--Item-->
+			<td class="right-align">10,000sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="sub-header" colspan=4>Game, Farm and Livestock</td>
+		</tr>
+		<tr>
+			<td class="left-align">Bees (starter hive)</td><!--Item-->
+			<td class="right-align">10sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Boar</td><!--Item-->
+			<td class="right-align">10sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Bull</td><!--Item-->
+			<td class="right-align">20sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Calf</td><!--Item-->
+			<td class="right-align">5sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Chicken</td><!--Item-->
+			<td class="right-align">1cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Cow</td><!--Item-->
+			<td class="right-align">10sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Deer, doe</td><!--Item-->
+			<td class="right-align">5sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Deer, stag</td><!--Item-->
+			<td class="right-align">9sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Game Fowl</td><!--Item-->
+			<td class="right-align">5cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Goat</td><!--Item-->
+			<td class="right-align">1sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Goose</td><!--Item-->
+			<td class="right-align">2cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Ox</td><!--Item-->
+			<td class="right-align">15sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Pig</td><!--Item-->
+			<td class="right-align">3sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Rabbit</td><!--Item-->
+			<td class="right-align">1cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Ram</td><!--Item-->
+			<td class="right-align">4sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Sheep</td><!--Item-->
+			<td class="right-align">2sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Swan</td><!--Item-->
+			<td class="right-align">5cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="sub-header" colspan=4>Guard and Hunting</td>
+		</tr>
+		<tr>
+			<td class="left-align">Bear#</td><!--Item-->
+			<td class="right-align">1,000sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#leopard">Cat, hunting#</a></td><!--Item-->
+			<td class="right-align">1,500sp</td><!--Price-->
+			<td>60ft</td><!--Speed-->
+			<td class="left-align">20</td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Cat, great#</td><!--Item-->
+			<td class="right-align">3,000sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Dog, guard</td><!--Item-->
+			<td class="right-align">25sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Dog, hunting</td><!--Item-->
+			<td class="right-align">17sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Dog, war</td><!--Item-->
+			<td class="right-align">50sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Eagle</td><!--Item-->
+			<td class="right-align">1,500sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Hawk/Falcon</td><!--Item-->
+			<td class="right-align">1,000sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Monkey, sentry#</td><!--Item-->
+			<td class="right-align">1,500sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Ape, guard#</td><!--Item-->
+			<td class="right-align">3,000sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Owl</td><!--Item-->
+			<td class="right-align">3sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Wolf</td><!--Item-->
+			<td class="right-align">2,500sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="sub-header" colspan=4>Pets</td>
+		</tr>
+		<tr>
+			<td class="left-align">Cat, domestic</td><!--Item-->
+			<td class="right-align">1sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Cat, small wild</td><!--Item-->
+			<td class="right-align">25sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Crocodilian#</td><!--Item-->
+			<td class="right-align">500sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Dog, pet</td><!--Item-->
+			<td class="right-align">5sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Ferret</td><!--Item-->
+			<td class="right-align">5cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Ferret, trained</td><!--Item-->
+			<td class="right-align">5sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Fish, small</td><!--Item-->
+			<td class="right-align">5cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Fish, medium</td><!--Item-->
+			<td class="right-align">1sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Fowl, exotic#</td><!--Item-->
+			<td class="right-align">500sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Lizard, small</td><!--Item-->
+			<td class="right-align">1sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Owl</td><!--Item-->
+			<td class="right-align">3sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Parrot/Cockatiel#</td><!--Item-->
+			<td class="right-align">100sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Pigeon, homing</td><!--Item-->
+			<td class="right-align">100sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Rodent, common</td><!--Item-->
+			<td class="right-align">1cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Rodent, giant</td><!--Item-->
+			<td class="right-align">1sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Snake, poisonous</td><!--Item-->
+			<td class="right-align">5cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Snake, constrictor#</td><!--Item-->
+			<td class="right-align">50sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Snake, small nonpoisonous</td><!--Item-->
+			<td class="right-align">1cp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Songbird</td><!--Item-->
+			<td class="right-align">1sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Turtle</td><!--Item-->
+			<td class="right-align">1sp</td><!--Price-->
+			<td></td><!--Speed-->
+			<td class="left-align"></td><!--Notes-->
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan=4>+ Carry capacity in item slots<br/>* Can be ridden by small creatures.<br/># Exotic</td>
+		</tr>
+	</tfoot>
+</table>
 
 ### Poisons and Antitoxins
