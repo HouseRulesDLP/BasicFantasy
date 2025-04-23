@@ -64,6 +64,8 @@ The number of experience points awarded for defeating this monster.  In some cas
 ### Attacks
 The number and type(s) of attack the monster can perform.  For example, Goblins may attack once with a weapon, so they are marked 1 weapon.  Ghouls are marked 2 claws/1 bite as they can attack with both claws and also bite in one round.  After the number and name of the attack(s), the to hit bonus and damage are listed in parenthesis.  This will also include any notes for reach or range.
 
+If multiple attacks are listed on the same line, this means that the creature can utilize all those attacks on its turn.  Attacks on separate lines must be chosen separately.
+
 ### Description
 The general appearance and behavior of a typical creature of this type.
 

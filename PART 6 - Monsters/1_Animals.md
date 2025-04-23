@@ -12,65 +12,105 @@ For convenience, animals commonly used to carry loads and/or characters are list
 <table>
 	<tbody>
 		<tr>
-			<td class="sub-header" colspan=2>Camel</td>
+			<td class="sub-header" colspan=7>Camel</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Tags:</b></td>
-			<td class="left-align">animal, mammal</td>
+			<td class="left-align" colspan=6>animal, camelidae, mammal</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>No. Appearing:</b></td>
-			<td class="left-align">Wild 2d4</td>
+			<td class="left-align" colspan=6>Wild 2d4</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+0</td>
+			<td class="left-align" colspan=6>+0</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>
-			<td class="left-align">2d8+4 (13hp)</td>
+			<td class="left-align" colspan=6>2d8+4 (13hp)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Size:</b></td>
-			<td class="left-align">Large</td>
+			<td class="left-align" colspan=6>Large</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Armor Class:</b></td>
-			<td class="left-align">13 (natural)</td>
+			<td class="left-align" colspan=6>13 (natural)</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Saving Throws:</b></td>
-			<td class="left-align">+2 D / +2 R / +2 H / +2 B / +2 S</td>
+			<td class="left-align" rowspan=2><b>Saving Throws:</b></td>
+			<td align="center"><b>Doom</b></td>
+			<td align="center"><b>Ray</b></td>
+			<td align="center"><b>Hold</b></td>
+			<td align="center"><b>Blast</b></td>
+			<td align="center"><b>Spell</b></td>
+			<td rowspan=2></td>
+		</tr>
+		<tr>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Morale:</b></td>
-			<td class="left-align">-3 (+3)</td>
+			<td class="left-align" colspan=6>-3 (+3)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Movement:</b></td>
-			<td class="left-align">50ft [40ft]</td>
+			<td class="left-align" colspan=6>50ft [40ft]</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Abilities:</b></td>
-			<td class="left-align">ST 16 / DX 10 / CN 16 / IN 6 / WI 12 / CH 4</td>
+			<td class="left-align" rowspan=3><b>Abilities:</b></td>
+			<td align="center"><b>ST</b></td>
+			<td align="center"><b>DX</b></td>
+			<td align="center"><b>CN</b></td>
+			<td align="center"><b>IN</b></td>
+			<td align="center"><b>WI</b></td>
+			<td align="center"><b>CH</b></td>
+		</tr>
+		<tr>
+    		<td align="center">16</td><!--ST-->
+    		<td align="center">10</td><!--DX-->
+    		<td align="center">16</td><!--CN-->
+    		<td align="center">6</td><!--IN-->
+    		<td align="center">12</td><!--WI-->
+    		<td align="center">4</td><!--CH-->
+		</tr>
+		<tr>
+    		<td align="center">+2</td><!--ST-->
+    		<td align="center">+0</td><!--DX-->
+    		<td align="center">+2</td><!--CN-->
+    		<td align="center">-1</td><!--IN-->
+    		<td align="center">+0</td><!--WI-->
+    		<td align="center">-2</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="left-align"><b>Attack Bonus:</b></td>
+    		<td class="left-align" colspan=6>+1</td>
+		</tr>
+		<tr>
+			<td class="left-align" rowspan=2><b>Attacks:</b></td>
+			<td class="left-align" colspan=6>1 Bite (TH +3, Dmg 3b)</td>
+		</tr>
+		<tr>
+    		<td class="left-align" colspan=6>1 Hoof (TH +3, Dmg 1d4+2b)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Treasure:</b></td>
-			<td class="left-align">none</td>
+			<td class="left-align" colspan=6>none</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>XP:</b></td>
-			<td class="left-align">40</td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Attacks:</b></td>
-			<td class="left-align">1 Bite (TH +2, Dmg 3b) or 1 Hoof (TH +2, Dmg 1d4+1b)</td>
+			<td class="left-align" colspan=6>40</td>
 		</tr>
 	</tbody>
 </table>
 
 #### Description
-Camels are known for their ability to travel long distances without food or water.  The statistics presented here are for the dromedary, or one-humped camel, which thrives in warm deserts.  A dromedary stands about 7 feet tall at the shoulder, with its hump rising 1 foot higher.  The two-humped, or Bactrian, camel is suited to cooler, rocky areas.  It is stockier, slower (speed given in brackets), and tougher than the dromedary.  A light load for a camel can carry up to 400 pounds (80 item slots) unencumbered.
+Camels are known for their ability to travel long distances without food or water.  The statistics presented here are for the dromedary, or one-humped camel, which thrives in warm deserts.  A dromedary stands about 7 feet tall at the shoulder, with its hump rising 1 foot higher.  The two-humped, or Bactrian, camel is suited to cooler, rocky areas.  It is stockier, slower (speed given in brackets), and tougher than the dromedary.  A camel can carry up to 400 pounds (80 item slots) unencumbered.
 
 Camels can be trained for war.  Such camels use the morale value given in parenthesis.
 
@@ -78,59 +118,96 @@ Camels can be trained for war.  Such camels use the morale value given in parent
 <table>
 	<tbody>
 		<tr>
-			<td class="sub-header" colspan=2>Dog, Riding</td>
+			<td class="sub-header" colspan=7>Dog, Riding</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Tags:</b></td>
-			<td class="left-align">animal, canine, mammal, domestic</td>
+			<td class="left-align" colspan=6>animal, canine, mammal, domestic</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>No. Appearing:</b></td>
-			<td class="left-align">domestic only</td>
+			<td class="left-align" colspan=6>domestic only</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+1</td>
+			<td class="left-align" colspan=6>+1</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>
-			<td class="left-align">2d8 (9hp)</td>
+			<td class="left-align" colspan=6>2d8 (9hp)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Size:</b></td>
-			<td class="left-align">Medium</td>
+			<td class="left-align" colspan=6>Medium</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Armor Class:</b></td>
-			<td class="left-align">14 (natural)</td>
+			<td class="left-align" colspan=6>14 (natural)</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Saving Throws:</b></td>
-			<td class="left-align">+2 D / +2 R / +2 H / +2 B / +2 S</td>
+			<td class="left-align" rowspan=2><b>Saving Throws:</b></td>
+			<td align="center"><b>Doom</b></td>
+			<td align="center"><b>Ray</b></td>
+			<td align="center"><b>Hold</b></td>
+			<td align="center"><b>Blast</b></td>
+			<td align="center"><b>Spell</b></td>
+			<td rowspan=2></td>
+		</tr>
+		<tr>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Morale:</b></td>
-			<td class="left-align">+3</td>
+			<td class="left-align" colspan=6>+3</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Movement:</b></td>
-			<td class="left-align">50ft</td>
+			<td class="left-align" colspan=6>50ft</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Abilities:</b></td>
-			<td class="left-align">ST 13 / DX 14 / CN 12 / IN 3 / WI 12 / CH 7</td>
+			<td class="left-align" rowspan=3><b>Abilities:</b></td>
+			<td align="center"><b>ST</b></td>
+			<td align="center"><b>DX</b></td>
+			<td align="center"><b>CN</b></td>
+			<td align="center"><b>IN</b></td>
+			<td align="center"><b>WI</b></td>
+			<td align="center"><b>CH</b></td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Treasure:</b></td>
-			<td class="left-align">none</td>
+    		<td align="center">13</td><!--ST-->
+    		<td align="center">14</td><!--DX-->
+    		<td align="center">12</td><!--CN-->
+    		<td align="center">3</td><!--IN-->
+    		<td align="center">12</td><!--WI-->
+    		<td align="center">7</td><!--CH-->
 		</tr>
 		<tr>
-			<td class="left-align"><b>XP:</b></td>
-			<td class="left-align">40</td>
+    		<td align="center">+1</td><!--ST-->
+    		<td align="center">+1</td><!--DX-->
+    		<td align="center">+0</td><!--CN-->
+    		<td align="center">-3</td><!--IN-->
+    		<td align="center">+0</td><!--WI-->
+    		<td align="center">-1</td><!--CH-->
+		</tr>		
+		<tr>
+    		<td class="left-align"><b>Attack Bonus:</b></td>
+    		<td class="left-align" colspan=6>+1</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Attacks:</b></td>
-			<td class="left-align">1 Bite (TH +3, Dmg 1d4+1p)</td>
+			<td class="left-align" colspan=6>1 Bite (TH +2, Dmg 1d4+1p)</td>
+		</tr>
+		<tr>
+			<td class="left-align"><b>Treasure:</b></td>
+			<td class="left-align" colspan=6>none</td>
+		</tr>
+		<tr>
+			<td class="left-align"><b>XP:</b></td>
+			<td class="left-align" colspan=6>40</td>
 		</tr>
 	</tbody>
 </table>
@@ -142,59 +219,96 @@ Riding dogs are a large breed, used primarily by Halflings for transport.  They 
 <table>
 	<tbody>
 		<tr>
-			<td class="sub-header" colspan=2>Donkey</td>
+			<td class="sub-header" colspan=7>Donkey</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Tags: animal, equine, mammal</b></td>
-			<td class="left-align"></td>
+			<td class="left-align"><b>Tags:</b></td>
+			<td class="left-align" colspan=6>animal, equine, mammal</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>No. Appearing:</b></td>
-			<td class="left-align">Wild 2d4</td>
+			<td class="left-align" colspan=6>Wild 2d4</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+0</td>
+			<td class="left-align" colspan=6>+0</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>
-			<td class="left-align">2d8+2 (11hp)</td>
+			<td class="left-align" colspan=6>2d8+2 (11hp)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Size:</b></td>
-			<td class="left-align">Medium</td>
+			<td class="left-align" colspan=6>Medium</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Armor Class:</b></td>
-			<td class="left-align">13</td>
+			<td class="left-align" colspan=6>13</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Saving Throws:</b></td>
-			<td class="left-align">+2 D / +2 R / +2 H / +2 B / +2 S</td>
+			<td class="left-align" rowspan=2><b>Saving Throws:</b></td>
+			<td align="center"><b>Doom</b></td>
+			<td align="center"><b>Ray</b></td>
+			<td align="center"><b>Hold</b></td>
+			<td align="center"><b>Blast</b></td>
+			<td align="center"><b>Spell</b></td>
+			<td rowspan=2></td>
+		</tr>
+		<tr>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Morale:</b></td>
-			<td class="left-align">-3</td>
+			<td class="left-align" colspan=6>-3</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Movement:</b></td>
-			<td class="left-align">40ft</td>
+			<td class="left-align" colspan=6>40ft</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Abilities:</b></td>
-			<td class="left-align">ST 14 / DX 10 / CN 13 / IN 2 / WI 10 / CH 5</td>
+			<td class="left-align" rowspan=3><b>Abilities:</b></td>
+			<td align="center"><b>ST</b></td>
+			<td align="center"><b>DX</b></td>
+			<td align="center"><b>CN</b></td>
+			<td align="center"><b>IN</b></td>
+			<td align="center"><b>WI</b></td>
+			<td align="center"><b>CH</b></td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Treasure:</b></td>
-			<td class="left-align">none</td>
+    		<td align="center">14</td><!--ST-->
+    		<td align="center">10</td><!--DX-->
+    		<td align="center">13</td><!--CN-->
+    		<td align="center">2</td><!--IN-->
+    		<td align="center">10</td><!--WI-->
+    		<td align="center">5</td><!--CH-->
 		</tr>
 		<tr>
-			<td class="left-align"><b>XP:</b></td>
-			<td class="left-align">40</td>
+    		<td align="center">+1</td><!--ST-->
+    		<td align="center">+0</td><!--DX-->
+    		<td align="center">+1</td><!--CN-->
+    		<td align="center">-3</td><!--IN-->
+    		<td align="center">+0</td><!--WI-->
+    		<td align="center">-3</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="left-align"><b>Attack Bonus:</b></td>
+    		<td class="left-align" colspan=6>+1</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Attacks:</b></td>
-			<td class="left-align">Bite (TH +1, Dmg 1d2+1b)</td>
+			<td class="left-align" colspan=6>Bite (TH +2, Dmg 1d2+1b)</td>
+		</tr>
+		<tr>
+			<td class="left-align"><b>Treasure:</b></td>
+			<td class="left-align" colspan=6>none</td>
+		</tr>
+		<tr>
+			<td class="left-align"><b>XP:</b></td>
+			<td class="left-align" colspan=6>40</td>
 		</tr>
 	</tbody>
 </table>
@@ -206,59 +320,99 @@ Donkeys are long-eared, horse-like creatures.  They are surefooted and sturdy, a
 <table>
 	<tbody>
 		<tr>
-			<td class="sub-header" colspan=2>Elephant</td>
+			<td class="sub-header" colspan=7>Elephant</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Tags:</b></td>
-			<td class="left-align">animal, elephantidae, mammal</td>
+			<td class="left-align" colspan=6>animal, elephantidae, mammal</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>No. Appearing:</b></td>
-			<td class="left-align">Wild 1d20</td>
+			<td class="left-align" colspan=6>Wild 1d20</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+2</td>
+			<td class="left-align" colspan=6>+2</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>
-			<td class="left-align">9d8+18 (59hp)</td>
+			<td class="left-align" colspan=6>9d8+18 (59hp)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Size:</b></td>
-			<td class="left-align">Large</td>
+			<td class="left-align" colspan=6>Large</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Armor Class:</b></td>
-			<td class="left-align">18 (natural)</td>
+			<td class="left-align" colspan=6>18 (natural)</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Saving Throws:</b></td>
-			<td class="left-align">+9 D / +9 R / +9 H / +9 B / +8 S</td>
+			<td class="left-align" rowspan=2><b>Saving Throws:</b></td>
+			<td align="center"><b>Doom</b></td>
+			<td align="center"><b>Ray</b></td>
+			<td align="center"><b>Hold</b></td>
+			<td align="center"><b>Blast</b></td>
+			<td align="center"><b>Spell</b></td>
+			<td rowspan=2></td>
+		</tr>
+		<tr>
+    		<td align="center">+9</td>
+    		<td align="center">+9</td>
+    		<td align="center">+9</td>
+    		<td align="center">+9</td>
+    		<td align="center">+8</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Morale:</b></td>
-			<td class="left-align">+1 (+6)</td>
+			<td class="left-align" colspan=6>+1 (+6)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Movement:</b></td>
-			<td class="left-align">40ft</td>
+			<td class="left-align" colspan=6>40ft</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Abilities:</b></td>
-			<td class="left-align">ST 22 / DX 9 / CN 17 / IN 3 / WI 11 / CH 6</td>
+			<td class="left-align" rowspan=3><b>Abilities:</b></td>
+			<td align="center"><b>ST</b></td>
+			<td align="center"><b>DX</b></td>
+			<td align="center"><b>CN</b></td>
+			<td align="center"><b>IN</b></td>
+			<td align="center"><b>WI</b></td>
+			<td align="center"><b>CH</b></td>
+		</tr>
+		<tr>
+    		<td align="center">22</td><!--ST-->
+    		<td align="center">9</td><!--DX-->
+    		<td align="center">17</td><!--CN-->
+    		<td align="center">3</td><!--IN-->
+    		<td align="center">11</td><!--WI-->
+    		<td align="center">6</td><!--CH-->
+		</tr>
+		<tr>
+    		<td align="center">+5</td><!--ST-->
+    		<td align="center">+0</td><!--DX-->
+    		<td align="center">+2</td><!--CN-->
+    		<td align="center">-3</td><!--IN-->
+    		<td align="center">+0</td><!--WI-->
+    		<td align="center">-1</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="left-align"><b>Attack Bonus:</b></td>
+    		<td class="left-align" colspan=6>+6</td>
+		</tr>
+		<tr>
+			<td class="left-align" rowspan=2><b>Attacks:</b></td>
+			<td class="left-align" colspan=6>2 Tusks (TH +11, Dmg 2d4+5b)</td>
+        </tr>
+        <tr>
+			<td class="left-align" colspan=6>Trample (TH +11, 4d8+5b)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Treasure:</b></td>
-			<td class="left-align">Special</td>
+			<td class="left-align" colspan=6>Special</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>XP:</b></td>
-			<td class="left-align">1,250</td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Attacks:</b></td>
-			<td class="left-align">2 Tusks (TH +11, Dmg 2d4+5b), Trample (TH +6, 4d8+5b)</td>
+			<td class="left-align" colspan=6>1,250</td>
 		</tr>
 	</tbody>
 </table>
@@ -277,59 +431,96 @@ An elephant trained for war uses the morale value shown in parenthesis.
 <table>
 	<tbody>
 		<tr>
-			<td class="sub-header" colspan=2>Horse, Draft</td>
+			<td class="sub-header" colspan=7>Horse, Draft</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Tags:</b></td>
-			<td class="left-align">animal, equine, mammal, domestic</td>
+			<td class="left-align" colspan=6>animal, equine, mammal, domestic</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>No. Appearing:</b></td>
-			<td class="left-align">Domesticated only.</td>
+			<td class="left-align" colspan=6>Domesticated only.</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+0</td>
+			<td class="left-align" colspan=6>+0</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>
-			<td class="left-align">3d8 (14hp)</td>
+			<td class="left-align" colspan=6>3d8 (14hp)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Size:</b></td>
-			<td class="left-align">Large</td>
+			<td class="left-align" colspan=6>Large</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Armor Class:</b></td>
-			<td class="left-align">13</td>
+			<td class="left-align" colspan=6>13 (natural)</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Saving Throws:</b></td>
-			<td class="left-align">+3 D / +3 R / +3 H / +3 B / +3 S</td>
+			<td class="left-align" rowspan=2><b>Saving Throws:</b></td>
+			<td align="center"><b>Doom</b></td>
+			<td align="center"><b>Ray</b></td>
+			<td align="center"><b>Hold</b></td>
+			<td align="center"><b>Blast</b></td>
+			<td align="center"><b>Spell</b></td>
+			<td rowspan=2></td>
+		</tr>
+		<tr>
+    		<td align="center">+3</td>
+    		<td align="center">+3</td>
+    		<td align="center">+3</td>
+    		<td align="center">+3</td>
+    		<td align="center">+3</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Morale:</b></td>
-			<td class="left-align">-3</td>
+			<td class="left-align" colspan=6>-3</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Movement:</b></td>
-			<td class="left-align">60ft</td>
+			<td class="left-align" colspan=6>60ft</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Abilities:</b></td>
-			<td class="left-align">ST 18 / DX 10 / CN 12 / IN 2 / WI 11 / CH 7</td>
+			<td class="left-align" rowspan=3><b>Abilities:</b></td>
+			<td align="center"><b>ST</b></td>
+			<td align="center"><b>DX</b></td>
+			<td align="center"><b>CN</b></td>
+			<td align="center"><b>IN</b></td>
+			<td align="center"><b>WI</b></td>
+			<td align="center"><b>CH</b></td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Treasure:</b></td>
-			<td class="left-align">None</td>
+    		<td align="center">18</td><!--ST-->
+    		<td align="center">10</td><!--DX-->
+    		<td align="center">12</td><!--CN-->
+    		<td align="center">2</td><!--IN-->
+    		<td align="center">11</td><!--WI-->
+    		<td align="center">7</td><!--CH-->
 		</tr>
 		<tr>
-			<td class="left-align"><b>XP:</b></td>
-			<td class="left-align">80</td>
+    		<td align="center">+3</td><!--ST-->
+    		<td align="center">+0</td><!--DX-->
+    		<td align="center">+0</td><!--CN-->
+    		<td align="center">-3</td><!--IN-->
+    		<td align="center">+0</td><!--WI-->
+    		<td align="center">-1</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="left-align"><b>Attack Bonus:</b></td>
+    		<td class="left-align" colspan=6>+2</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Attacks:</b></td>
-			<td class="left-align">2 Hooves (TH +5, Dmg 1d4+2b)</td>
+			<td class="left-align" colspan=6>2 Hooves (TH +5, Dmg 1d4+3b)</td>
+		</tr>
+		<tr>
+			<td class="left-align"><b>Treasure:</b></td>
+			<td class="left-align" colspan=6>None</td>
+		</tr>
+		<tr>
+			<td class="left-align"><b>XP:</b></td>
+			<td class="left-align" colspan=6>80</td>
 		</tr>
 	</tbody>
 </table>
@@ -341,59 +532,96 @@ Draft Horses include large breeds of working horses such as Clydesdales.  These 
 <table>
 	<tbody>
 		<tr>
-			<td class="sub-header" colspan=2>Horse, Riding</td>
+			<td class="sub-header" colspan=7>Horse, Riding</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Tags:</b></td>
-			<td class="left-align">animal, equine, mammal, domestic</td>
+			<td class="left-align" colspan=6>animal, equine, mammal, domestic</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>No. Appearing:</b></td>
-			<td class="left-align">domestic only</td>
+			<td class="left-align" colspan=6>domestic only</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+0</td>
+			<td class="left-align" colspan=6>+0</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>
-			<td class="left-align">2d8 (9hp)</td>
+			<td class="left-align" colspan=6>2d8 (9hp)</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Size:</b></td>
-			<td class="left-align">Large</td>
+			<td class="left-align" colspan=6>Large</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Armor Class:</b></td>
-			<td class="left-align">13 (natural)</td>
+			<td class="left-align" colspan=6>13 (natural)</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Saving Throws:</b></td>
-			<td class="left-align">+2 D / +2 R / +2 H / +2 B / +2 S</td>
+			<td class="left-align" rowspan=2><b>Saving Throws:</b></td>
+			<td align="center"><b>Doom</b></td>
+			<td align="center"><b>Ray</b></td>
+			<td align="center"><b>Hold</b></td>
+			<td align="center"><b>Blast</b></td>
+			<td align="center"><b>Spell</b></td>
+			<td rowspan=2></td>
+		</tr>
+		<tr>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
+    		<td align="center">+2</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Morale:</b></td>
-			<td class="left-align">-3</td>
+			<td class="left-align" colspan=6>-3</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Movement:</b></td>
-			<td class="left-align">80ft</td>
+			<td class="left-align" colspan=6>80ft</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Abilities:</b></td>
-			<td class="left-align">ST 16 / DX 10 / CN 12 / IN 2 / WI 11 / CH 7</td>
+            <td class="left-align" rowspan=3><b>Abilities:</b></td>
+			<td align="center"><b>ST</b></td>
+			<td align="center"><b>DX</b></td>
+			<td align="center"><b>CN</b></td>
+			<td align="center"><b>IN</b></td>
+			<td align="center"><b>WI</b></td>
+			<td align="center"><b>CH</b></td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Treasure:</b></td>
-			<td class="left-align">none</td>
+    		<td align="center">16</td><!--ST-->
+    		<td align="center">10</td><!--DX-->
+    		<td align="center">12</td><!--CN-->
+    		<td align="center">2</td><!--IN-->
+    		<td align="center">11</td><!--WI-->
+    		<td align="center">7</td><!--CH-->
 		</tr>
 		<tr>
-			<td class="left-align"><b>XP:</b></td>
-			<td class="left-align">40</td>
+    		<td align="center">+2</td><!--ST-->
+    		<td align="center">+0</td><!--DX-->
+    		<td align="center">+0</td><!--CN-->
+    		<td align="center">-3</td><!--IN-->
+    		<td align="center">+0</td><!--WI-->
+    		<td align="center">-1</td><!--CH-->
+		</tr>
+        <tr>
+    		<td class="left-align"><b>Attack Bonus:</b></td>
+    		<td class="left-align" colspan=6>+1</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Attacks:</b></td>
-			<td class="left-align">2 Hooves (TH +4, Dmg 1d4+2b)</td>
+			<td class="left-align" colspan=6>2 Hooves (TH +3, Dmg 1d4+2b)</td>
+		</tr>
+		<tr>
+			<td class="left-align"><b>Treasure:</b></td>
+			<td class="left-align" colspan=6>none</td>
+		</tr>
+		<tr>
+			<td class="left-align"><b>XP:</b></td>
+			<td class="left-align" colspan=6>40</td>
 		</tr>
 	</tbody>
 </table>
