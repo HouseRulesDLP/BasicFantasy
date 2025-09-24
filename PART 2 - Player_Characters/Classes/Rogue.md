@@ -22,6 +22,7 @@ Thieves are those who take what they want or need by stealth, disarming traps an
 
 ### Skills
 **Climb (+4):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at *Disadvantage*.  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
+![](Skills.md#Initiative)
 
 **Perception (+0):** Thieves are specifically trained watch for guards and hunt for hidden treasures and traps. Therefore they make Perception checks with a +0 modifier.
 
@@ -32,7 +33,7 @@ Thieves are those who take what they want or need by stealth, disarming traps an
 ![](Skills.md#Survival)
 
 #### Rogue Skills
-**Climb Wall (+0):** This goes beyond the normal climbing skill that every adventurer has and even goes beyond the climbing skill of the ranger. This skill allows the Rogue to climb walls with minimal hand/fingertip holds that would normally be impossible to scale without equipment. Thieves are able to perform normal climbs at +4 and climb cliffs at +2. Rolls are made for each 100ft (or fraction thereof) to be climbed. Failure indicates a fall at the half-way point.
+**Climb Wall (+0):** This goes beyond the normal climbing skill that every adventurer has and even goes beyond the climbing skill of the ranger. This skill allows the Rogue to climb walls with minimal hand/fingertip holds that would normally be impossible to scale without equipment. Thieves are able to perform normal climbs at +4 (already factored into the *climb* skill, above) and climb cliffs at +2. Rolls are made for each 100ft (or fraction thereof) to be climbed. Failure indicates a fall at the half-way point.
 
 **Decipher Document (-3):** A successful check allows the Rogue to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols. Starting at 10th level, magical texts may be read but the roll is made with Disadvantage.
 
@@ -95,11 +96,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>0</td>
             <td>0</td>
             <td>+1d4</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+0</td>
-            <td>+1</td>
+            <td>-1</td>
+            <td>-2</td>
+            <td>-1</td>
+            <td>-4</td>
+            <td>-3</td>
         </tr>
         <tr>
             <td>2</td>
@@ -110,11 +111,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>1</td>
             <td>0</td>
             <td>+1d4</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+1</td>
-            <td>+2</td>
+            <td>+0</td>
+            <td>-1</td>
+            <td>+0</td>
+            <td>-3</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>3</td>
@@ -125,11 +126,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>1</td>
             <td>1</td>
             <td>+1d4</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+3</td>
-            <td>+2</td>
-            <td>+3</td>
+            <td>+1</td>
+            <td>+0</td>
+            <td>+1</td>
+            <td>-2</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>4</td>
@@ -140,11 +141,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>1</td>
             <td>1</td>
             <td>+1d4</td>
-            <td>+3</td>
-            <td>+3</td>
-            <td>+4</td>
-            <td>+3</td>
-            <td>+4</td>
+            <td>+2</td>
+            <td>+1</td>
+            <td>+2</td>
+            <td>-1</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>5</td>
@@ -155,11 +156,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>1</td>
             <td>1</td>
             <td>+2d4</td>
-            <td>+4</td>
-            <td>+4</td>
-            <td>+5</td>
             <td>+3</td>
-            <td>+5</td>
+            <td>+2</td>
+            <td>+4</td>
+            <td>+1</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>6</td>
@@ -171,10 +172,10 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>1</td>
             <td>+2d4</td>
             <td>+5</td>
-            <td>+5</td>
-            <td>+5</td>
             <td>+4</td>
-            <td>+6</td>
+            <td>+5</td>
+            <td>+2</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>7</td>
@@ -185,11 +186,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>2</td>
             <td>2</td>
             <td>+2d4</td>
-            <td>+6</td>
             <td>+5</td>
+            <td>+4</td>
             <td>+6</td>
-            <td>+5</td>
-            <td>+6</td>
+            <td>+3</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>8</td>
@@ -201,10 +202,10 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>2</td>
             <td>+2d4</td>
             <td>+6</td>
-            <td>+6</td>
+            <td>+5</td>
             <td>+7</td>
+            <td>+4</td>
             <td>+6</td>
-            <td>+7</td>
         </tr>
         <tr>
             <td>9</td>
@@ -215,11 +216,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>2</td>
             <td>2</td>
             <td>+3d4</td>
-            <td>+7</td>
+            <td>+8</td>
             <td>+7</td>
             <td>+8</td>
-            <td>+6</td>
-            <td>+8</td>
+            <td>+5</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>10</td>
@@ -230,9 +231,9 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>3</td>
             <td>2</td>
             <td>+3d4</td>
-            <td>+8</td>
-            <td>+8</td>
             <td>+9</td>
+            <td>+8</td>
+            <td>+10</td>
             <td>+7</td>
             <td>+9</td>
         </tr>
@@ -248,8 +249,8 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>+9</td>
             <td>+8</td>
             <td>+10</td>
-            <td>+8</td>
-            <td>+10</td>
+            <td>+7</td>
+            <td>+9</td>
         </tr>
         <tr>
             <td>12</td>
@@ -260,9 +261,9 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>3</td>
             <td>3</td>
             <td>+3d4</td>
-            <td>+10</td>
-            <td>+9</td>
             <td>+11</td>
+            <td>+10</td>
+            <td>+12</td>
             <td>+9</td>
             <td>+11</td>
         </tr>
@@ -275,10 +276,10 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>3</td>
             <td>3</td>
             <td>+4d4</td>
-            <td>+10</td>
-            <td>+10</td>
             <td>+12</td>
-            <td>+9</td>
+            <td>+11</td>
+            <td>+13</td>
+            <td>+10</td>
             <td>+12</td>
         </tr>
         <tr>
@@ -290,11 +291,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>4</td>
             <td>3</td>
             <td>+4d4</td>
-            <td>+11</td>
-            <td>+11</td>
+            <td>+14</td>
             <td>+13</td>
-            <td>+10</td>
+            <td>+15</td>
             <td>+12</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>15</td>
@@ -305,11 +306,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>4</td>
             <td>4</td>
             <td>+4d4</td>
-            <td>+12</td>
-            <td>+11</td>
             <td>+14</td>
-            <td>+11</td>
             <td>+13</td>
+            <td>+15</td>
+            <td>+12</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>16</td>
@@ -320,11 +321,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>4</td>
             <td>4</td>
             <td>+4d4</td>
+            <td>+15</td>
+            <td>+14</td>
+            <td>+16</td>
             <td>+13</td>
-            <td>+12</td>
-            <td>+14</td>
-            <td>+12</td>
-            <td>+14</td>
+            <td>+16</td>
         </tr>
         <tr>
             <td>17</td>
@@ -335,11 +336,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>4</td>
             <td>4</td>
             <td>+5d4</td>
-            <td>+14</td>
-            <td>+13</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+18</td>
             <td>+15</td>
-            <td>+12</td>
-            <td>+15</td>
+            <td>+17</td>
         </tr>
         <tr>
             <td>18</td>
@@ -350,11 +351,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>5</td>
             <td>4</td>
             <td>+5d4</td>
-            <td>+14</td>
-            <td>+14</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+19</td>
             <td>+16</td>
-            <td>+13</td>
-            <td>+16</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>19</td>
@@ -365,11 +366,11 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>5</td>
             <td>5</td>
             <td>+5d4</td>
-            <td>+15</td>
-            <td>+14</td>
+            <td>+18</td>
             <td>+17</td>
-            <td>+14</td>
+            <td>+20</td>
             <td>+17</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>20</td>
@@ -380,16 +381,16 @@ Thieves are those who take what they want or need by stealth, disarming traps an
             <td>5</td>
             <td>5</td>
             <td>+5d4</td>
-            <td>+16</td>
-            <td>+15</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+21</td>
             <td>+18</td>
-            <td>+15</td>
-            <td>+17</td>
+            <td>+21</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
             <td colspan="13">* CON modifiers no longer apply after level 10.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

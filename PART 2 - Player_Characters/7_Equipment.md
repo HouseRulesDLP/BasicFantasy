@@ -2,7 +2,7 @@
 cssclasses: clean-embeds, bfrpg
 ---
 ## Coinage
-Every petty king and warlord seems to issue their own form of currency. Below is a table listing those coin types most commonly found with sample regional names. Most peasants and commoners deal in barter, but when they do have coin, it is typically copper or (occasionally) silver. Silver is typically the coin of merchants, artisans and other 'middle-class' folk. Higher value coins are rarely seen by the peasantry; mostly being used by wealthy merchants and nobles.
+Every petty king and warlord seems to issue their own form of currency. Below is a table listing those coin types most commonly found, with sample regional names. Most peasants and commoners deal in barter, but when they do have coin, it is typically copper or (occasionally) silver. Silver is typically the coin of merchants, artisans and other 'middle-class' folk. Higher value coins are rarely seen by the peasantry; mostly being used by wealthy merchants and nobles.
 
 Even rarer still are ancient coins, gems, jewelry and the like. Their value varies greatly by their rarity, quality and the seller's ability to find a collector.
 
@@ -63,7 +63,7 @@ The entries on the coinage table are far from the only materials used for money.
 </table>
 
 ## Quality
-The equipment table prices in this chapter assume items of common Quality. Higher or lower Quality work can dramatically affect these prices. The exact game effect of different Quality levels is often left up to the GM to determine on a case-by-case basis. For example, a poor Quality sword may be judged to have a -1 to hit chance, while a Superior Quality sword may increase it’s damage die by 1 step.
+The equipment table prices in this chapter assume items of common Quality. Higher or lower Quality work can dramatically affect these prices. The exact game effect of different Quality levels is often left up to the GM to determine on a case-by-case basis. For example, a poor Quality sword may be judged to have a -1 to hit chance, while an Excellent Quality sword may increase it’s damage die by 1 step.
 
 | Quality | Cost Multiplier |
 |:--------|:---------------:|
@@ -101,13 +101,13 @@ When it comes to weapons of higher or lower [Quality](#Quality), it is recommend
 - **Finesse:** When used in melee, this weapon may use either Dexterity or Strength for attack and damage modifiers.
 - **Flexible:** This weapon ignores the target's AC bonus from shields and weapons with the Defensive property.
 - **Hurlant:** This weapon may be thrown out to the ranges given in parenthesis.
-- **Impact:** On a Critical Hit the target suffers the effects of a Shove.
-- **Lance:** This weapon requires 2-hands when used on foot, but only 1 hand when mounted. Additionally, it does double damage on a mounted Charge Maneuver.
+- **Impact:** On a Critical Hit the target suffers the effects of a [Shove](Scratchpad.md#Shove).
+- **Lance:** This weapon requires 2-hands when used on foot, but only 1 hand when mounted. Additionally, it does double damage on a mounted [Charge](Scratchpad.md#Charge) maneuver.
 - **Reach:** This weapon can be used for melee attacks against targets out to 10ft and can be used from the 2nd rank.
 - **Reload:** This weapon must be reloaded after each use, requiring a Main Action.
 - **Set:** This weapon may be set to receive a charge, potentially doing double damage.
 - **Snare:** A large or smaller creature hit by this weapon is Restrained. A Restrained creature may spend a Main Action to attempt a Dexterity Check vs a Difficulty equal to the Attack Roll total to escape. Alternatively, a Difficulty 15 Strength Check may be attempted to break the ensnaring weapon.
-- **Versatile:** This weapon may be wielded with either 1 or 2 hands. If 2 hands are used, roll damage with *Advantage*. Small creatures using this weapon one-handed have *Disadvantage* on their Attack Rolls. If they use 2 hands they do not roll damage with Advantage.
+- **Versatile:** This weapon may be wielded with either 1 or 2 hands. If 2 hands are used, roll damage with *Advantage*. Small creatures using this weapon one-handed have *Disadvantage* on their Attack Rolls. If they use 2 hands they do **not** roll damage with Advantage.
 
 ### Damage Types
 - **(B)lunt**
@@ -617,18 +617,18 @@ If a weapon lists 2 or more Damage Types, the wielder must specify the Damage Ty
 Axes are a group of tools and weapons designed to deliver heavy, chopping blows. Hand Axes are small, light axes, generally with good balance for throwing. Examples: hatchet, tomahawk, francisca. Battle Axes and Great Axes differ in scale, but share many of the same features. The style of the axe head (crescent, bearded, double-bit, etc.) will be a matter of setting and preference. Pick Axes and Military Picks are similar weapons, but trade the heavy blade for a sharpened spike. It is not unusual to find both pick and blade on the same weapon.
 
 #### Daggers
-Daggers represent a variety of short blades (typically under 12” in length). While most daggers will have sharpened edges, these weapons are most often used as thrusting weapons. Daggers are assumed to be balanced for throwing, unless otherwise specified by the GM. Daggers include the dirk, seax, poniard, stiletto (a spike-like dagger), tanto, punch daggers, and smaller types of katar. Defending Daggers follow the same basic design, but incorporate additional features to help catch or defend against other blades – an extended or upturned crossguard, basket hilt, bell guard, or forks or tines. Defending daggers are not balanced for throwing. The main-gauche and “bladed” sai are two examples.
+Daggers represent a variety of short blades (typically under 12” in length). While most daggers will have sharpened edges, many are most often used as thrusting weapons. Daggers are assumed to be balanced for throwing, unless otherwise specified by the GM. Daggers include the dirk, seax, poniard, stiletto (a spike-like dagger), tanto, punch daggers, and smaller types of katar. Defending Daggers follow the same basic design, but incorporate additional features to help catch or defend against other blades – an extended or upturned crossguard, basket hilt, bell guard, or forks or tines. Defending daggers are not balanced for throwing. The main-gauche and “bladed” sai are two examples.
 
 #### Swords
-Swords cover a variety of hilt blade weapons, designed for cutting or thrusting strikes. The different types of swords are based on size, shape, and use. Note that at each size, there are two versions; one straight-bladed, one curved.
+Swords cover a variety of hilt and blade weapons, designed for cutting or thrusting strikes. The different types of swords are based on size, shape, and use. Note that at each size, there are two versions; one straight-bladed, one curved.
 
-**Arming Swords** represent a wide range of straight bladed swords, primarily designed for one-handed use. These weapons will typically be between 3 and 4 feet in length and designed for both slashing and thrusting. Examples include the broadsword, pata, spatha, and jian. The Scimitar group includes single-edged, curved swords, designed primarily for slashing – though specific types may be straight or balanced enough to be an effective thrusting weapon. This group includes saber, falchion, dao, and katana.
+**Arming Swords** represent a wide range of straight bladed swords, primarily designed for one-handed use. These weapons will typically be between 3 and 4 feet in length and designed for both slashing and thrusting. Examples include the broadsword, pata, spatha, and jian. The **Scimitar** group includes single-edged, curved swords, designed primarily for slashing – though specific types may be straight or balanced enough to be an effective thrusting weapon. This group includes saber, falchion, dao, and katana.
 
 **The Long, or Two-Handed, Sword** is simply any sword requiring two hands to use – due to weight and balance. These will typically have an elongated handle or hilt, and blades 3½’ or longer. Most European-style fantasy two-handers tend to be large, straight double-edged blades, including claymores, zweihander, flamberge, and other “greatswords.” This also includes curve-bladed single-edged swords such as kriegsmesser, nodachi, great scimitar, and dadao.
 
 The **rapier** is a straight, slender and sharply-pointed two-edged long blade wielded in one hand.  It is widely popular among the nobility in urban areas where heavy armor is not normally worn and a dueling culture exists.
 
-**Short Swords** are straight thrusting weapons, much like a dagger, but with a longer blade (typically around 2 feet). Some examples may in fact be oversized daggers, including cinquedea, gladius, xiphos, and katar. The Cutlass group represents short blades – curved or straight single-edged – designed for hacking or slashing rather than thrusting. This includes the aforementioned cutlass, hangars, and machetes, as well as short reverse-curve blades such as the kukri and kopis.
+**Short Swords** are straight thrusting weapons, much like a dagger, but with a longer blade (typically around 2 feet). Some examples may in fact be oversized daggers, including cinquedea, gladius, xiphos, and katar. The **Cutlass** group represents short blades – curved or straight single-edged – designed for hacking or slashing rather than thrusting. This includes the aforementioned cutlass, hangars, and machetes, as well as short reverse-curve blades such as the kukri and kopis.
 
 #### Hammers and Maces
 Hammers and Maces are weapons that use weight and force to deliver damage. In game terms, the differences are primarily one of style, although hammers may be balanced for throwing, much like a hand axe. Maces may come with smooth, studded, or flanged heads. The Light Mace is a smaller, lighter mace, better suited for mounted combat (or Small creatures). The Maul and Great Mace are larger, two-handed versions of the hammer and mace, respectively. A vicious variation of the mace is the Morningstar, which mounts spikes or blades on the head.
@@ -674,15 +674,6 @@ These are armored 'gloves' with added weight, ridges, studs, etc. to give a punc
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			<td class="left-align"></td><!--weapon-->
-			<td class="right-align"></td><!--price-->
-			<td></td><!--size-->
-			<td></td><!--slots-->
-			<td></td><!--damage-->
-			<td></td><!--range-->
-			<td class="left-align"></td><!--properties-->
-		</tr>
 		<tr>
 			<td class="sub-header" colspan=7><a class="internal-link" href="#bows">Bows</a></td>
 		</tr>
@@ -867,10 +858,11 @@ These are armored 'gloves' with added weight, ridges, studs, etc. to give a punc
 		</tr>
 	</tfoot>
 </table>
+
 Missile weapon ranges are given in feet.  The number before the slash is their short range and the number after is long.  Attacks at short range are made normally, but attacks at long are made with *Disadvantage*.
 
 #### Bows
-Bows are slender lengths (staves) of wood or other materials, bent and fastened at the ends with a shorter length of animal tendon or other strong fiber. The tension of the bent staff is what provides the power to launch arrows great distances. Careful selection of materials and changing the length of the stave can increase the power and range of these weapons. Short bows have staves around 5 foot unstrung, though shorter staves of more flexible materials may be favored by smaller characters. Long bows are typically around 6 feet unstrung, though longer staves are not unheard of.
+Bows are slender lengths (staves) of wood or other materials, bent and fastened at the ends with a shorter length of animal tendon or other strong fiber. The tension of the bent staff is what provides the power to launch arrows great distances. Careful selection of materials and changing the length of the stave can increase the power and range of these weapons. Short bows have staves around 4 foot unstrung, though shorter staves of more flexible materials may be favored by smaller characters. Long bows are typically around 6 feet unstrung, though longer staves are not unheard of.
 
 #### Crossbows
 Crossbows are essentially short, heavy bows (laths) of wood or metal set across a stock or tiller. Much of the popularity of the crossbow comes from its ease in use – and much shorter training time for men-at-arms – compared to bows. The mechanical lock & pulling mechanisms means higher tensions can be drawn and held without tiring the archer. This allows for ready fire, and with greater ranges than a regular bow, at the expense of a slower rate of fire.
@@ -1017,12 +1009,13 @@ Like other items, armor [Quality](#quality) can vary.  It is generally recommend
 		</tr>
 	</tfoot>
 </table>
-For creatures that are not Medium in Size, the cost of armor is modified: For Small creatures, costs are halved. For creatures of Large size or greater, the cost doubles per Size Category larger than Medium. The Slot values are not adjusted.
+
+For creatures that are not Medium in Size, the cost of armor is modified: For Small creatures, costs are halved. For creatures of Large size or greater, the cost doubles per Size Category larger than Medium. The Slot values are not adjusted.  Also, keep in mind that differing creature sizes will likely affect rarity.
 
 #### Soft
 **Cloth Armor** (aka quilted or padded) is created from layers of cloth placed on top of each other. It is often ceremonial rather than functional, but does offer minimal amounts of protection. The layers of cloth are great for winter months because they provide solid insulation, but will get very sweaty and dirty unless properly laundered often. Several types of metal armors include a layer of padded armor or ‘arming jacket’.
 
-**Hide Armor** is much like leather in its working and protection. Often hide armor can be found in remote areas or barbaric lands; it is the most common type used by orcs and many other humanoids. The process of creating hide armor involves curing the beast's hide and sewing it to clothing. It is often hot and itchy, but offers protection similar to regular leather armor.
+**Hide Armor** is much like leather in its working and protection. Often hide armor can be found in remote areas or barbaric lands. The process of creating hide armor involves curing the beast's hide and sewing it to clothing. It is often hot and itchy, but offers protection similar to regular leather armor.
 
 **Leather Armor** consists of pieces of layered leather. There are a variety of methods for creating this armor, most of which involve boiling, shaping, then stiffening the armor. The leather pieces are sewn to a cloth undergarment for maximum flexibility.
 
@@ -3490,7 +3483,7 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="left-align">60</td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#Donkey">Donkey</a></td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse">Donkey</a></td><!--Item-->
 			<td class="right-align">50sp</td><!--Price-->
 			<td>40ft</td><!--Speed-->
 			<td class="left-align">40</td><!--Notes-->
@@ -3508,43 +3501,43 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="left-align">150</td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+Draft">Horse, draft</a></td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse">Horse, draft</a></td><!--Item-->
 			<td class="right-align">100sp</td><!--Price-->
 			<td>40ft</td><!--Speed-->
 			<td class="left-align">90</td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+War">Horse, light war</a></td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse">Horse, light war</a></td><!--Item-->
 			<td class="right-align">200sp</td><!--Price-->
 			<td>60ft</td><!--Speed-->
 			<td class="left-align">70</td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+War">Horse, medium war</a></td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse">Horse, medium war</a></td><!--Item-->
 			<td class="right-align"></td><!--Price-->
 			<td>50ft</td><!--Speed-->
 			<td class="left-align">75</td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+War">Horse, heavy war</a></td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse">Horse, heavy war</a></td><!--Item-->
 			<td class="right-align"></td><!--Price-->
 			<td>40ft</td><!--Speed-->
 			<td class="left-align">80</td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse,+Riding">Horse, riding</a></td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse">Horse, riding</a></td><!--Item-->
 			<td class="right-align">75sp</td><!--Price-->
 			<td>80ft</td><!--Speed-->
 			<td class="left-align">60</td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#Pony">Pony, riding</a>*</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse">Pony, riding</a>*</td><!--Item-->
 			<td class="right-align">40sp</td><!--Price-->
 			<td>40ft</td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#Pony">Pony, war</a>*</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Horse">Pony, war</a>*</td><!--Item-->
 			<td class="right-align">80sp</td><!--Price-->
 			<td>40ft</td><!--Speed-->
 			<td class="left-align">30</td><!--Notes-->
@@ -3556,7 +3549,7 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#Dog,+Riding">Dog, riding</a>*</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#Dog">Dog, riding</a>*</td><!--Item-->
 			<td class="right-align">80sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
@@ -3703,73 +3696,73 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="sub-header" colspan=4>Guard and Hunting</td>
 		</tr>
 		<tr>
-			<td class="left-align">Bear#</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#bear">Bear</a>#</td><!--Item-->
 			<td class="right-align">1,000sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="1_Animals.md#leopard">Cat, hunting#</a></td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#cat,+hunting">Cat, hunting</a>#</td><!--Item-->
 			<td class="right-align">1,500sp</td><!--Price-->
 			<td>60ft</td><!--Speed-->
 			<td class="left-align">20</td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Cat, great#</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#cat,+great">Cat, great</a>#</td><!--Item-->
 			<td class="right-align">3,000sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Dog, guard</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#dog">Dog, guard</a></td><!--Item-->
 			<td class="right-align">25sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Dog, hunting</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#dog">Dog, hunting</a></td><!--Item-->
 			<td class="right-align">17sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Dog, war</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#dog">Dog, war</a></td><!--Item-->
 			<td class="right-align">50sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Eagle</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#eagle">Eagle</a></td><!--Item-->
 			<td class="right-align">1,500sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Hawk/Falcon</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#hawk">Hawk/Falcon</a></td><!--Item-->
 			<td class="right-align">1,000sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Monkey, sentry#</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#monkey">Monkey, sentry</a>#</td><!--Item-->
 			<td class="right-align">1,500sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Ape, guard#</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#ape">Ape, guard</a>#</td><!--Item-->
 			<td class="right-align">3,000sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Owl</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#owl">Owl</a></td><!--Item-->
 			<td class="right-align">3sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Wolf</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#wolf">Wolf</a></td><!--Item-->
 			<td class="right-align">2,500sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->

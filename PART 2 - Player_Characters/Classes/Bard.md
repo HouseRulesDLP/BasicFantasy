@@ -4,7 +4,7 @@ cssclasses: clean-embeds, bfrpg
 ## Bard
 <div class="bfrpg-note">
 <ul>
-<li><strong>Prime Requisite:</strong> Dexterity 9+, Charisma 11+</li>
+<li><strong>Prime Requisite:</strong> Dexterity 9+, Intelligence 11+, Charisma 11+</li>
 <li><strong>Starting Hit Points:</strong> 6 + Constitution Modifier</li>
 <li><strong>Hit Dice (levels 2 to 10):</strong> 1d6 + Constitution Modifier</li>
 <li><strong>Hit Points After Level 10:</strong> +2 per Level</li>
@@ -22,6 +22,7 @@ Bards are those who have learned history, oral tradition, music, and performance
 
 ### Skills
 ![](Skills.md#Climb)
+![](Skills.md#Initiative)
 
 **Perception (+1):** Through long hours of listening to music and watching for their audiences' reactions, Bards develop a keen sense of perception and make these checks with a +1 bonus.
 
@@ -46,7 +47,7 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
 
 **Battle Ballad:** When this song is first started and at the beginning of each round thereafter, the bard picks one of their allies. That ally adds the bard's Charisma modifier to their attack rolls until the start of the next round.
 
-**Charming Chords:** This tune affects up to 2 Hit Dice worth of creatures per level of the bard. Starting from the lowest HD creature and counting up, each must make a *Spell save* or become *Charmed*. Creatures charmed in this way may repeat their save at the end of each combat round.
+**Charming Chords:** This tune affects up to 2 Hit Dice worth of creatures per level of the bard. Starting from the lowest HD creature and counting up, each must make a *Spell save* or become *Charmed*. Creatures charmed in this way may repeat their save at the end of each combat round but otherwise remain charmed for the duration of the song.  Once a save has been passed, the target is immune to this bard song from this bard for 24 hours.
 
 **Counter-Melody:** This song potentially counters the effects of any music-based magic. Everyone within 30ft of the bard may add the bard's Charisma modifier to any saving throws against *Charms* or music-based magic.
 
@@ -82,7 +83,7 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <th rowspan="2">Talents</th>
             <th rowspan="2">Songs<br/>Known@</th>
             <th rowspan="2">Save<br/>Target#</th>
-            <th colspan="5">Alternate Saves</th>
+            <th colspan="5">Saving Throws</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -101,12 +102,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+1</td>
             <td>0</td>
             <td>1</td>
-            <td>13+</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+0</td>
-            <td>+1</td>
+            <td>12+</td>
+            <td>-1</td>
+            <td>-2</td>
+            <td>-1</td>
+            <td>-4</td>
+            <td>-3</td>
         </tr>
         <tr>
             <td>2</td>
@@ -117,11 +118,11 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>1</td>
             <td>1</td>
             <td>13+</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+1</td>
-            <td>+2</td>
+            <td>+0</td>
+            <td>-1</td>
+            <td>+0</td>
+            <td>-3</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>3</td>
@@ -131,12 +132,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+2</td>
             <td>1</td>
             <td>2</td>
-            <td>14+</td>
-            <td>+3</td>
-            <td>+2</td>
-            <td>+3</td>
-            <td>+2</td>
-            <td>+3</td>
+            <td>13+</td>
+            <td>+1</td>
+            <td>+0</td>
+            <td>+1</td>
+            <td>-2</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>4</td>
@@ -147,11 +148,11 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>1</td>
             <td>2</td>
             <td>14+</td>
-            <td>+4</td>
-            <td>+3</td>
-            <td>+3</td>
             <td>+2</td>
-            <td>+3</td>
+            <td>+1</td>
+            <td>+2</td>
+            <td>-1</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>5</td>
@@ -162,11 +163,11 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>1</td>
             <td>3</td>
             <td>15+</td>
-            <td>+4</td>
-            <td>+4</td>
-            <td>+4</td>
             <td>+3</td>
+            <td>+2</td>
             <td>+4</td>
+            <td>+1</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>6</td>
@@ -176,12 +177,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+5</td>
             <td>2</td>
             <td>3</td>
-            <td>15+</td>
-            <td>+5</td>
-            <td>+5</td>
+            <td>16+</td>
             <td>+5</td>
             <td>+4</td>
             <td>+5</td>
+            <td>+2</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>7</td>
@@ -192,11 +193,11 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>2</td>
             <td>4</td>
             <td>16+</td>
-            <td>+6</td>
             <td>+5</td>
-            <td>+6</td>
             <td>+4</td>
             <td>+6</td>
+            <td>+3</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>8</td>
@@ -206,12 +207,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+6</td>
             <td>2</td>
             <td>4</td>
-            <td>16+</td>
-            <td>+7</td>
+            <td>17+</td>
             <td>+6</td>
-            <td>+7</td>
             <td>+5</td>
             <td>+7</td>
+            <td>+4</td>
+            <td>+6</td>
         </tr>
         <tr>
             <td>9</td>
@@ -221,12 +222,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+7</td>
             <td>2</td>
             <td>5</td>
-            <td>17+</td>
+            <td>18+</td>
             <td>+8</td>
             <td>+7</td>
             <td>+8</td>
-            <td>+6</td>
-            <td>+8</td>
+            <td>+5</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>10</td>
@@ -236,10 +237,10 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+8</td>
             <td>3</td>
             <td>5</td>
-            <td>17+</td>
-            <td>+8</td>
-            <td>+8</td>
+            <td>19+</td>
             <td>+9</td>
+            <td>+8</td>
+            <td>+10</td>
             <td>+7</td>
             <td>+9</td>
         </tr>
@@ -251,10 +252,10 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+8</td>
             <td>3</td>
             <td>6</td>
-            <td>18+</td>
+            <td>19+</td>
             <td>+9</td>
             <td>+8</td>
-            <td>+9</td>
+            <td>+10</td>
             <td>+7</td>
             <td>+9</td>
         </tr>
@@ -266,12 +267,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+9</td>
             <td>3</td>
             <td>6</td>
-            <td>18+</td>
+            <td>20+</td>
+            <td>+11</td>
             <td>+10</td>
+            <td>+12</td>
             <td>+9</td>
-            <td>+10</td>
-            <td>+8</td>
-            <td>+10</td>
+            <td>+11</td>
         </tr>
         <tr>
             <td>13</td>
@@ -281,12 +282,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+10</td>
             <td>3</td>
             <td>7</td>
-            <td>19+</td>
+            <td>21+</td>
+            <td>+12</td>
             <td>+11</td>
+            <td>+13</td>
             <td>+10</td>
-            <td>+11</td>
-            <td>+9</td>
-            <td>+11</td>
+            <td>+12</td>
         </tr>
         <tr>
             <td>14</td>
@@ -296,12 +297,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+11</td>
             <td>4</td>
             <td>7</td>
-            <td>19+</td>
+            <td>22+</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>+15</td>
             <td>+12</td>
-            <td>+11</td>
-            <td>+12</td>
-            <td>+9</td>
-            <td>+12</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>15</td>
@@ -311,12 +312,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+11</td>
             <td>4</td>
             <td>8</td>
-            <td>20+</td>
+            <td>22+</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>+15</td>
             <td>+12</td>
-            <td>+11</td>
-            <td>+13</td>
-            <td>+10</td>
-            <td>+13</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>16</td>
@@ -326,12 +327,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+12</td>
             <td>4</td>
             <td>8</td>
-            <td>20+</td>
+            <td>23+</td>
+            <td>+15</td>
+            <td>+14</td>
+            <td>+16</td>
             <td>+13</td>
-            <td>+12</td>
-            <td>+14</td>
-            <td>+11</td>
-            <td>+14</td>
+            <td>+16</td>
         </tr>
         <tr>
             <td>17</td>
@@ -341,12 +342,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+13</td>
             <td>4</td>
             <td>9</td>
-            <td>21+</td>
-            <td>+14</td>
-            <td>+13</td>
-            <td>+14</td>
-            <td>+11</td>
-            <td>+14</td>
+            <td>24+</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+18</td>
+            <td>+15</td>
+            <td>+17</td>
         </tr>
         <tr>
             <td>18</td>
@@ -356,12 +357,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+14</td>
             <td>5</td>
             <td>9</td>
-            <td>21+</td>
-            <td>+15</td>
-            <td>+14</td>
-            <td>+15</td>
-            <td>+12</td>
-            <td>+15</td>
+            <td>25+</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+19</td>
+            <td>+16</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>19</td>
@@ -371,12 +372,12 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+14</td>
             <td>5</td>
             <td>10</td>
-            <td>22+</td>
-            <td>+16</td>
-            <td>+14</td>
-            <td>+16</td>
-            <td>+13</td>
-            <td>+16</td>
+            <td>25+</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+20</td>
+            <td>+17</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>20</td>
@@ -386,17 +387,17 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
             <td>+15</td>
             <td>5</td>
             <td>10</td>
-            <td>22+</td>
-            <td>+16</td>
-            <td>+15</td>
-            <td>+17</td>
-            <td>+14</td>
-            <td>+17</td>
+            <td>26+</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+21</td>
+            <td>+18</td>
+            <td>+21</td>
         </tr>
-	</tbody>
-	<tfoot>
+    </tbody>
+    <tfoot>
         <tr>
-            <td colspan="13" rowspan="3">* CON modifiers no longer apply after level 10.<br/>@ CHA modifier is added to Songs Known.<br/># CHA modifier is added to Save Target.</td>
+            <td colspan="13">* CON modifiers no longer apply after level 10.<br/>@ INT modifier is added to Songs Known.<br/># CHA modifier is added to Save Target.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

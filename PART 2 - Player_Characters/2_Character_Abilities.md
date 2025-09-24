@@ -26,7 +26,7 @@ Each character will have a score ranging from 3 to 18 in each of the following a
 
 **Dexterity:** This ability measures the character’s quickness and balance as well as hand-eye coordination. Dexterity is a Prime Requisite for [Assassins](Assassin.md), [Bards](Bard.md), [Rogues](Rogue.md), [Tricksters](Trickster.md) and [Warrior-Monks](Warrior-Monk.md). The Dexterity bonus or penalty is applied to all attack rolls with missile (ranged) and finesse weapons, to the character’s Armor Class value, and to the character’s Initiative die roll.
 
-**Constitution:** A combination of general health and vitality.  Constitution is a Prime Requisite for [Fighters](Fighter.md), [Rangers](Ranger.md) and [Warrior-Monks](Warrior-Monk.md) Apply the Constitution bonus or penalty to each hit die rolled by the character. Note that a penalty here will not reduce any hit die roll to less than 1 point.
+**Constitution:** A combination of general health and vitality.  Constitution is a Prime Requisite for [Fighters](Fighter.md), [Rangers](Ranger.md) and [Warrior-Monks](Warrior-Monk.md) Apply the Constitution bonus or penalty to each hit die rolled by the character. Note that a penalty here will not reduce any hit dice roll to less than 1 point.
 
 **Charisma:** This is the ability to influence or even lead people; those with high Charisma are well-liked, or at least highly respected.  Charisma is a Prime Requisite for [Bards](Bard.md).  Apply the Charisma bonus or penalty to reaction rolls. Also, the number of retainers and allies a character may have, and the loyalty thereof, is affected by Charisma.
 

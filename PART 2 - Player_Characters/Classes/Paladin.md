@@ -13,7 +13,7 @@ cssclasses: clean-embeds, bfrpg
 </ul>
 </div>
 
-Paladins are warriors that have pledged themselves to a holy order in a manner similar to that of a Paladin. So strong is their faith that it grants them some small amount of supernatural abilities, included limited casting of Paladinal spells.
+Paladins are warriors that have pledged themselves to a holy order in a manner similar to that of a Cleric. So strong is their faith that it grants them some small amount of supernatural abilities, included limited casting of Clerical spells.
 
 ### Starting Equipment
 - 1d6sp
@@ -23,6 +23,7 @@ Paladins are warriors that have pledged themselves to a holy order in a manner s
 - Prayer Book
 ### Skills
 ![](Skills.md#Climb)
+![](Skills.md#Initiative)
 ![](Skills.md#Perception)
 ![](Skills.md#Search)
 ![](Skills.md#Stealth)
@@ -87,7 +88,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
 
 **Smite:** Paladins may infuse holy power into their strikes. After a successful hit against an unholy creature (as would be affected but their [Turning the Unholy](#Turning%20the%20Unholy) ability), they may choose to roll one of their Invocation Dice and add it to the damage. The invocation die is expended if it rolls a 1 or 2, as normal. This damage is considered to be holy magic for the purposes of overcoming damage resistance and immunity. At level 5, the paladin may invest 2 Invocation Dice on a single attack. This expands to three dice at level 10, four dice at level 15 and 5 dice at level 20. Note that, while invocation dice used this way may be expended, they cannot suffer a *Mishap*.
 
-**Warhorse:** A paladin of 4th level or higher may summon a holy warhorse. This counts as a Heavy Warhorse, with an unusually high intelligence and absolute loyalty to the paladin. If the horse dies, a new warhorse may not be summoned for a year and a day. The summoning ritual takes a full day and must be performed at a holy site and requires 1,000sp worth of sacrifices, incense and other ritual paraphernalia. The ritual must also be lead by a cleric of at least 5th level. As the paladin gains levels, their horse will become stronger, gaining 1 Hit Die for each *caster level* of the paladin past 2nd (i.e. +1 HD at caster level 3, +2 at caster level 4, etc).
+**Warhorse:** A paladin of 4th level or higher may summon a holy warhorse. This counts as a Heavy Warhorse with 4HD, unusually high intelligence (+4) and absolute loyalty to the paladin (+3 additional Morale). If the horse dies, a new warhorse may not be summoned for a year and a day. The summoning ritual takes a full day and must be performed at a holy site and requires 1,000sp worth of sacrifices and ritual paraphernalia. The ritual must also be lead by a cleric of at least 5th level. As the paladin gains levels, their horse will become stronger, gaining 1 Hit Die for each *caster level* of the paladin past the 1st (i.e. +1 HD at caster level 2, +2 at caster level 3, etc).
+
+This warhorse does count as one of the Paladin's *Allies*.
 
 ### Paladin Progression
 <table>
@@ -118,264 +121,264 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+1</td>
             <td>0</td>
             <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
             <td>+1</td>
+            <td>+0</td>
+            <td>-1</td>
+            <td>-2</td>
         </tr>
         <tr>
             <td>2</td>
-            <td class="right-align">3,000</td>
+            <td class="right-align">2,400</td>
             <td>2d8</td>
             <td>+2</td>
             <td>+2</td>
             <td>1</td>
-            <td>+3</td>
-            <td>+3</td>
-            <td>+3</td>
+            <td>+4</td>
             <td>+3</td>
             <td>+2</td>
+            <td>+1</td>
+            <td>+0</td>
         </tr>
         <tr>
             <td>3</td>
-            <td class="right-align">6,000</td>
+            <td class="right-align">4,800</td>
             <td>3d8</td>
             <td>+2</td>
             <td>+2</td>
             <td>1</td>
             <td>+4</td>
-            <td>+4</td>
-            <td>+4</td>
-            <td>+4</td>
             <td>+3</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td>+0</td>
         </tr>
         <tr>
             <td>4</td>
-            <td class="right-align">12,000</td>
+            <td class="right-align">9,500</td>
             <td>4d8</td>
             <td>+3</td>
             <td>+3</td>
             <td>1</td>
-            <td>+5</td>
-            <td>+5</td>
-            <td>+5</td>
+            <td>+6</td>
             <td>+5</td>
             <td>+4</td>
+            <td>+3</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>5</td>
-            <td class="right-align">24,000</td>
+            <td class="right-align">19,000</td>
             <td>5d8</td>
             <td>+4</td>
             <td>+4</td>
             <td>1</td>
-            <td>+6</td>
-            <td>+6</td>
-            <td>+6</td>
+            <td>+7</td>
             <td>+6</td>
             <td>+5</td>
+            <td>+5</td>
+            <td>+3</td>
         </tr>
         <tr>
             <td>6</td>
-            <td class="right-align">48,000</td>
+            <td class="right-align">39,000</td>
             <td>6d8</td>
             <td>+4</td>
             <td>+5</td>
             <td>2</td>
+            <td>+9</td>
+            <td>+8</td>
             <td>+7</td>
             <td>+7</td>
-            <td>+7</td>
-            <td>+7</td>
-            <td>+6</td>
+            <td>+5</td>
         </tr>
         <tr>
             <td>7</td>
-            <td class="right-align">96,000</td>
+            <td class="right-align">78,000</td>
             <td>7d8</td>
             <td>+5</td>
             <td>+5</td>
             <td>2</td>
+            <td>+10</td>
+            <td>+9</td>
             <td>+8</td>
             <td>+8</td>
-            <td>+8</td>
-            <td>+7</td>
-            <td>+7</td>
+            <td>+6</td>
         </tr>
         <tr>
             <td>8</td>
-            <td class="right-align">200,000</td>
+            <td class="right-align">148,000</td>
             <td>8d8</td>
             <td>+6</td>
             <td>+6</td>
             <td>2</td>
+            <td>+11</td>
+            <td>+10</td>
             <td>+9</td>
             <td>+9</td>
-            <td>+9</td>
-            <td>+8</td>
-            <td>+8</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>9</td>
-            <td class="right-align">400,000</td>
+            <td class="right-align">296,000</td>
             <td>9d8</td>
             <td>+6</td>
             <td>+7</td>
             <td>2</td>
-            <td>+10</td>
-            <td>+10</td>
-            <td>+10</td>
-            <td>+9</td>
+            <td>+13</td>
+            <td>+12</td>
+            <td>+11</td>
+            <td>+11</td>
             <td>+9</td>
         </tr>
         <tr>
             <td>10</td>
-            <td class="right-align">600,000</td>
+            <td class="right-align">444,000</td>
             <td>10d8</td>
             <td>+7</td>
             <td>+8</td>
             <td>3</td>
-            <td>+11</td>
-            <td>+11</td>
-            <td>+11</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>+12</td>
+            <td>+13</td>
             <td>+10</td>
-            <td>+9</td>
         </tr>
         <tr>
             <td>11</td>
-            <td class="right-align">800,000</td>
+            <td class="right-align">592,000</td>
             <td>10d8+2</td>
             <td>+8</td>
             <td>+8</td>
             <td>3</td>
+            <td>+15</td>
+            <td>+14</td>
             <td>+13</td>
-            <td>+12</td>
-            <td>+12</td>
+            <td>+13</td>
             <td>+11</td>
-            <td>+10</td>
         </tr>
         <tr>
             <td>12</td>
-            <td class="right-align">1,000,000</td>
+            <td class="right-align">740,000</td>
             <td>10d8+4</td>
             <td>+8</td>
             <td>+9</td>
             <td>3</td>
+            <td>+16</td>
+            <td>+15</td>
             <td>+14</td>
-            <td>+13</td>
-            <td>+13</td>
+            <td>+15</td>
             <td>+12</td>
-            <td>+11</td>
         </tr>
         <tr>
             <td>13</td>
-            <td class="right-align">1,200,000</td>
+            <td class="right-align">888,000</td>
             <td>10d8+6</td>
             <td>+9</td>
             <td>+10</td>
             <td>3</td>
-            <td>+15</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+17</td>
             <td>+14</td>
-            <td>+14</td>
-            <td>+13</td>
-            <td>+12</td>
         </tr>
         <tr>
             <td>14</td>
-            <td class="right-align">1,400,000</td>
+            <td class="right-align">1,036,000</td>
             <td>10d8+8</td>
             <td>+10</td>
             <td>+11</td>
             <td>4</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+18</td>
+            <td>+19</td>
             <td>+16</td>
-            <td>+15</td>
-            <td>+15</td>
-            <td>+14</td>
-            <td>+13</td>
         </tr>
         <tr>
             <td>15</td>
-            <td class="right-align">1,600,000</td>
+            <td class="right-align">1,184,000</td>
             <td>10d8+10</td>
             <td>+10</td>
             <td>+11</td>
             <td>4</td>
-            <td>+17</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+18</td>
+            <td>+19</td>
             <td>+16</td>
-            <td>+16</td>
-            <td>+15</td>
-            <td>+14</td>
         </tr>
         <tr>
             <td>16</td>
-            <td class="right-align">1,800,000</td>
+            <td class="right-align">1,332,000</td>
             <td>10d8+12</td>
             <td>+11</td>
             <td>+12</td>
             <td>4</td>
+            <td>+21</td>
+            <td>+21</td>
+            <td>+20</td>
+            <td>+21</td>
             <td>+18</td>
-            <td>+17</td>
-            <td>+16</td>
-            <td>+16</td>
-            <td>+15</td>
         </tr>
         <tr>
             <td>17</td>
-            <td class="right-align">2,000,000</td>
+            <td class="right-align">1,480,000</td>
             <td>10d8+14</td>
             <td>+12</td>
             <td>+13</td>
             <td>4</td>
+            <td>+22</td>
+            <td>+22</td>
+            <td>+21</td>
+            <td>+22</td>
             <td>+19</td>
-            <td>+18</td>
-            <td>+17</td>
-            <td>+17</td>
-            <td>+16</td>
         </tr>
         <tr>
             <td>18</td>
-            <td class="right-align">2,200,000</td>
+            <td class="right-align">1,628,000</td>
             <td>10d8+16</td>
             <td>+12</td>
             <td>+14</td>
             <td>5</td>
-            <td>+20</td>
-            <td>+19</td>
-            <td>+18</td>
-            <td>+18</td>
-            <td>+17</td>
+            <td>+23</td>
+            <td>+23</td>
+            <td>+23</td>
+            <td>+23</td>
+            <td>+21</td>
         </tr>
         <tr>
             <td>19</td>
-            <td class="right-align">2,400,000</td>
+            <td class="right-align">1,776,000</td>
             <td>10d8+18</td>
             <td>+13</td>
             <td>+14</td>
             <td>5</td>
+            <td>+23</td>
+            <td>+23</td>
+            <td>+23</td>
+            <td>+23</td>
             <td>+21</td>
-            <td>+20</td>
-            <td>+19</td>
-            <td>+19</td>
-            <td>+18</td>
         </tr>
         <tr>
             <td>20</td>
-            <td class="right-align">2,600,000</td>
+            <td class="right-align">1,924,000</td>
             <td>10d8+20</td>
             <td>+14</td>
             <td>+15</td>
             <td>5</td>
-            <td>+22</td>
-            <td>+21</td>
-            <td>+20</td>
-            <td>+20</td>
-            <td>+18</td>
+            <td>+24</td>
+            <td>+24</td>
+            <td>+24</td>
+            <td>+24</td>
+            <td>+23</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
             <td colspan="11">* CON modifiers no longer apply after level 10.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>
 
 ### Clerical Magic
@@ -385,8 +388,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <th rowspan="2">Level</th>
             <th rowspan="2">Caster<br/>Level</th>
             <th rowspan="2">Theology</th>
-            <th rowspan="2">Invocation<br/>Dice#</th>
             <th rowspan="2">Save<br/>Target@</th>
+            <th rowspan="2">Invocation<br/>Dice#</th>
             <th colspan="4">Cleric Spells</th>
         </tr>
         <tr>
@@ -412,8 +415,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>2</td>
             <td>0</td>
             <td>+0</td>
-            <td>0</td>
-            <td>12+</td>
+            <td>11+</td>
+            <td>0d6</td>
             <td>0</td>
             <td>--</td>
             <td>--</td>
@@ -423,8 +426,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>3</td>
             <td>1</td>
             <td>+1</td>
+            <td>12+</td>
             <td>1d6</td>
-            <td>13+</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -434,8 +437,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>4</td>
             <td>1</td>
             <td>+1</td>
+            <td>12+</td>
             <td>1d6</td>
-            <td>13+</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -445,8 +448,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>5</td>
             <td>2</td>
             <td>+2</td>
-            <td>2d6</td>
             <td>13+</td>
+            <td>2d6</td>
             <td>2</td>
             <td>--</td>
             <td>--</td>
@@ -456,8 +459,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>6</td>
             <td>2</td>
             <td>+2</td>
-            <td>2d6</td>
             <td>13+</td>
+            <td>2d6</td>
             <td>2</td>
             <td>--</td>
             <td>--</td>
@@ -467,8 +470,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>7</td>
             <td>2</td>
             <td>+2</td>
-            <td>2d6</td>
             <td>13+</td>
+            <td>2d6</td>
             <td>2</td>
             <td>--</td>
             <td>--</td>
@@ -478,8 +481,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>8</td>
             <td>3</td>
             <td>+2</td>
+            <td>13+</td>
             <td>3d6</td>
-            <td>14+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -489,8 +492,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>9</td>
             <td>3</td>
             <td>+2</td>
+            <td>13+</td>
             <td>3d6</td>
-            <td>14+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -500,8 +503,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>10</td>
             <td>3</td>
             <td>+2</td>
+            <td>13+</td>
             <td>3d6</td>
-            <td>14+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -511,8 +514,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>11</td>
             <td>4</td>
             <td>+3</td>
-            <td>4d6</td>
             <td>14+</td>
+            <td>4d6</td>
             <td>2</td>
             <td>2</td>
             <td>--</td>
@@ -522,8 +525,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>12</td>
             <td>4</td>
             <td>+3</td>
-            <td>4d6</td>
             <td>14+</td>
+            <td>4d6</td>
             <td>2</td>
             <td>2</td>
             <td>--</td>
@@ -533,8 +536,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>13</td>
             <td>4</td>
             <td>+3</td>
-            <td>4d6</td>
             <td>14+</td>
+            <td>4d6</td>
             <td>2</td>
             <td>2</td>
             <td>--</td>
@@ -544,8 +547,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>14</td>
             <td>5</td>
             <td>+4</td>
-            <td>5d6</td>
             <td>15+</td>
+            <td>5d6</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
@@ -555,8 +558,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>15</td>
             <td>5</td>
             <td>+4</td>
-            <td>5d6</td>
             <td>15+</td>
+            <td>5d6</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
@@ -566,8 +569,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>16</td>
             <td>5</td>
             <td>+4</td>
-            <td>5d6</td>
             <td>15+</td>
+            <td>5d6</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
@@ -577,10 +580,10 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>17</td>
             <td>6</td>
             <td>+5</td>
+            <td>16+</td>
             <td>6d6</td>
-            <td>15+</td>
-            <td>4</td>
             <td>3</td>
+            <td>2</td>
             <td>1</td>
             <td>--</td>
         </tr>
@@ -588,10 +591,10 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>18</td>
             <td>6</td>
             <td>+5</td>
+            <td>16+</td>
             <td>6d6</td>
-            <td>15+</td>
-            <td>4</td>
             <td>3</td>
+            <td>2</td>
             <td>1</td>
             <td>--</td>
         </tr>
@@ -599,10 +602,10 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>19</td>
             <td>6</td>
             <td>+5</td>
+            <td>16+</td>
             <td>6d6</td>
-            <td>15+</td>
-            <td>4</td>
             <td>3</td>
+            <td>2</td>
             <td>1</td>
             <td>--</td>
         </tr>
@@ -610,21 +613,17 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>20</td>
             <td>7</td>
             <td>+5</td>
-            <td>7d6</td>
             <td>16+</td>
-            <td>4</td>
+            <td>7d6</td>
             <td>3</td>
+            <td>2</td>
             <td>1</td>
             <td>1</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="9">
-            @ Add your WIS modifier to the Save Target.<br/>
-            # Add your WIS modifier to the number of Invocation Dice you have.<br/>
-            $ Add your WIS modifier to the number of 1st level spells you can prepare.
-            </td>
+            <td colspan="9">@ Add your WIS modifier to the Save Target.<br/>$ Add your WIS modifier to the number of 1st level spells you can prepare.<br/># Add your WIS modifier to the number of Invocation Dice you have.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

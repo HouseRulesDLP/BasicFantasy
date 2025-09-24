@@ -18,7 +18,7 @@ cssclass: ose, clean-embeds
 </ul>
 </div>
 
-Dwarves are a short, stocky species; both male and female Dwarves average around 4 to 5 feet in height, yet weigh as much as a full grown human. Their long hair and thick beards are dark brown, gray or black. Many Dwarven cultures take great pride in their beards, sometimes braiding or forking them while others choose to shave. They have a fair to ruddy complexion. Dwarves have stout frames and a strong, muscular build. They are rugged and resilient, with the capacity to endure great hardships. They typically mature at the same rate as humans, have a lifespan of three to four centuries and usually aren’t considered adults until at least the age of 50.
+Dwarves are a short, stocky species; both male and female Dwarves average around 4 to 5 feet in height, yet weigh as much as a full grown human. Their long hair and thick beards are usually auburn, dark brown, gray or black. Many Dwarven cultures take great pride in their beards, sometimes braiding or forking them while others choose to shave. They have a fair to ruddy complexion. Dwarves have stout frames and a strong, muscular build. They are rugged and resilient, with the capacity to endure great hardships. They typically mature at the same rate as humans, have a lifespan of three to four centuries and usually aren’t considered adults until at least the age of 50.
 
 ### Features
 #### Dust of Ages

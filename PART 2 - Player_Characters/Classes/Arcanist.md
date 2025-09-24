@@ -22,6 +22,7 @@ Arcanists are those who seek and use knowledge of the arcane.  Their magic is a 
 
 ### Skills
 ![](Skills.md#Climb)
+![](Skills.md#Initiative)
 ![](Skills.md#Perception)
 ![](Skills.md#Search)
 ![](Skills.md#Stealth)
@@ -108,11 +109,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+0</td>
             <td>+1</td>
             <td>0</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+0</td>
-            <td>+1</td>
+            <td>-1</td>
+            <td>-2</td>
+            <td>-1</td>
+            <td>-4</td>
+            <td>-3</td>
         </tr>
         <tr>
             <td>2</td>
@@ -121,11 +122,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+0</td>
             <td>+2</td>
             <td>1</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+1</td>
-            <td>+2</td>
+            <td>+0</td>
+            <td>-1</td>
+            <td>+0</td>
+            <td>-3</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>3</td>
@@ -134,11 +135,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+1</td>
             <td>+2</td>
             <td>1</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
             <td>+1</td>
-            <td>+3</td>
+            <td>+0</td>
+            <td>+1</td>
+            <td>-2</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>4</td>
@@ -147,11 +148,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+1</td>
             <td>+3</td>
             <td>1</td>
-            <td>+3</td>
-            <td>+3</td>
-            <td>+3</td>
             <td>+2</td>
-            <td>+4</td>
+            <td>+1</td>
+            <td>+2</td>
+            <td>-1</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>5</td>
@@ -160,11 +161,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+1</td>
             <td>+4</td>
             <td>1</td>
-            <td>+4</td>
-            <td>+4</td>
-            <td>+4</td>
             <td>+3</td>
-            <td>+5</td>
+            <td>+2</td>
+            <td>+3</td>
+            <td>+0</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>6</td>
@@ -174,10 +175,10 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+5</td>
             <td>2</td>
             <td>+5</td>
+            <td>+4</td>
             <td>+5</td>
-            <td>+5</td>
-            <td>+3</td>
-            <td>+6</td>
+            <td>+2</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>7</td>
@@ -186,11 +187,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+2</td>
             <td>+5</td>
             <td>2</td>
-            <td>+6</td>
             <td>+5</td>
-            <td>+6</td>
             <td>+4</td>
-            <td>+6</td>
+            <td>+5</td>
+            <td>+2</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>8</td>
@@ -200,10 +201,10 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+6</td>
             <td>2</td>
             <td>+6</td>
-            <td>+6</td>
-            <td>+6</td>
             <td>+5</td>
-            <td>+7</td>
+            <td>+6</td>
+            <td>+3</td>
+            <td>+6</td>
         </tr>
         <tr>
             <td>9</td>
@@ -212,11 +213,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+3</td>
             <td>+7</td>
             <td>2</td>
-            <td>+7</td>
-            <td>+7</td>
-            <td>+7</td>
-            <td>+5</td>
             <td>+8</td>
+            <td>+7</td>
+            <td>+8</td>
+            <td>+5</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>10</td>
@@ -225,9 +226,9 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+3</td>
             <td>+8</td>
             <td>3</td>
+            <td>+9</td>
             <td>+8</td>
-            <td>+8</td>
-            <td>+8</td>
+            <td>+9</td>
             <td>+6</td>
             <td>+9</td>
         </tr>
@@ -241,8 +242,8 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+9</td>
             <td>+8</td>
             <td>+9</td>
-            <td>+7</td>
-            <td>+10</td>
+            <td>+6</td>
+            <td>+9</td>
         </tr>
         <tr>
             <td>12</td>
@@ -251,10 +252,10 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+4</td>
             <td>+9</td>
             <td>3</td>
+            <td>+11</td>
             <td>+10</td>
-            <td>+9</td>
-            <td>+10</td>
-            <td>+7</td>
+            <td>+11</td>
+            <td>+8</td>
             <td>+11</td>
         </tr>
         <tr>
@@ -264,10 +265,10 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+4</td>
             <td>+10</td>
             <td>3</td>
-            <td>+10</td>
-            <td>+10</td>
-            <td>+10</td>
-            <td>+8</td>
+            <td>+12</td>
+            <td>+11</td>
+            <td>+12</td>
+            <td>+9</td>
             <td>+12</td>
         </tr>
         <tr>
@@ -277,11 +278,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+4</td>
             <td>+11</td>
             <td>4</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>+14</td>
             <td>+11</td>
-            <td>+11</td>
-            <td>+11</td>
-            <td>+9</td>
-            <td>+12</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>15</td>
@@ -290,11 +291,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+5</td>
             <td>+11</td>
             <td>4</td>
-            <td>+12</td>
-            <td>+11</td>
-            <td>+12</td>
-            <td>+9</td>
+            <td>+14</td>
             <td>+13</td>
+            <td>+14</td>
+            <td>+11</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>16</td>
@@ -303,11 +304,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+5</td>
             <td>+12</td>
             <td>4</td>
-            <td>+13</td>
-            <td>+12</td>
-            <td>+13</td>
-            <td>+10</td>
+            <td>+15</td>
             <td>+14</td>
+            <td>+15</td>
+            <td>+12</td>
+            <td>+16</td>
         </tr>
         <tr>
             <td>17</td>
@@ -316,11 +317,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+5</td>
             <td>+13</td>
             <td>4</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+17</td>
             <td>+14</td>
-            <td>+13</td>
-            <td>+14</td>
-            <td>+11</td>
-            <td>+15</td>
+            <td>+17</td>
         </tr>
         <tr>
             <td>18</td>
@@ -329,11 +330,11 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+6</td>
             <td>+14</td>
             <td>5</td>
-            <td>+14</td>
-            <td>+14</td>
-            <td>+14</td>
-            <td>+11</td>
-            <td>+16</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+18</td>
+            <td>+15</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>19</td>
@@ -342,31 +343,31 @@ According to sorcerers, all things in the universe consist of four elements: win
             <td>+6</td>
             <td>+14</td>
             <td>5</td>
-            <td>+15</td>
-            <td>+14</td>
-            <td>+15</td>
-            <td>+12</td>
+            <td>+18</td>
             <td>+17</td>
+            <td>+18</td>
+            <td>+15</td>
+            <td>+19</td>
         </tr>
         <tr>
-            <td class="right-align">20</td>
-            <td>1,950,000</td>
+            <td>20</td>
+            <td class="right-align">1,950,000</td>
             <td>10d4+10</td>
             <td>+6</td>
             <td>+15</td>
             <td>5</td>
-            <td>+16</td>
-            <td>+15</td>
-            <td>+16</td>
-            <td>+13</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+20</td>
             <td>+17</td>
+            <td>+21</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
             <td colspan="11">* CON modifiers no longer apply after level 10.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>
 
 ### Arcanist Magic
@@ -374,8 +375,8 @@ According to sorcerers, all things in the universe consist of four elements: win
     <thead>
         <tr>
             <th rowspan="2">Level</th>
+            <th rowspan="2">Save<br/>Target</th>
             <th rowspan="2">Invocation<br/>Dice#</th>
-            <th rowspan="2">Save<br/>Target@</th>
             <th colspan="6">Prepared Spells</th>
         </tr>
         <tr>
@@ -390,8 +391,8 @@ According to sorcerers, all things in the universe consist of four elements: win
     <tbody>
         <tr>
             <td>1</td>
+            <td>12+</td>
             <td>1d6</td>
-            <td>13+</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -401,8 +402,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>2</td>
-            <td>2d6</td>
             <td>13+</td>
+            <td>2d6</td>
             <td>2</td>
             <td>--</td>
             <td>--</td>
@@ -412,8 +413,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>3</td>
+            <td>13+</td>
             <td>3d6</td>
-            <td>14+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -423,8 +424,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>4</td>
-            <td>4d6</td>
             <td>14+</td>
+            <td>4d6</td>
             <td>2</td>
             <td>2</td>
             <td>--</td>
@@ -434,8 +435,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>5</td>
-            <td>5d6</td>
             <td>15+</td>
+            <td>5d6</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
@@ -445,8 +446,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>6</td>
+            <td>16+</td>
             <td>6d6</td>
-            <td>15+</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
@@ -456,8 +457,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>7</td>
-            <td>7d6</td>
             <td>16+</td>
+            <td>7d6</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
@@ -467,8 +468,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>8</td>
+            <td>17+</td>
             <td>8d6</td>
-            <td>16+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -478,8 +479,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>9</td>
+            <td>18+</td>
             <td>9d6</td>
-            <td>17+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -489,8 +490,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>10</td>
+            <td>19+</td>
             <td>10d6</td>
-            <td>17+</td>
             <td>4</td>
             <td>3</td>
             <td>3</td>
@@ -500,8 +501,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>11</td>
+            <td>19+</td>
             <td>11d6</td>
-            <td>18+</td>
             <td>4</td>
             <td>3</td>
             <td>3</td>
@@ -511,8 +512,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>12</td>
+            <td>20+</td>
             <td>12d6</td>
-            <td>18+</td>
             <td>4</td>
             <td>4</td>
             <td>3</td>
@@ -522,8 +523,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>13</td>
+            <td>21+</td>
             <td>13d6</td>
-            <td>19+</td>
             <td>4</td>
             <td>4</td>
             <td>3</td>
@@ -533,8 +534,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>14</td>
+            <td>22+</td>
             <td>14d6</td>
-            <td>19+</td>
             <td>5</td>
             <td>4</td>
             <td>4</td>
@@ -544,8 +545,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>15</td>
+            <td>22+</td>
             <td>15d6</td>
-            <td>20+</td>
             <td>5</td>
             <td>4</td>
             <td>4</td>
@@ -555,8 +556,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>16</td>
+            <td>23+</td>
             <td>16d6</td>
-            <td>20+</td>
             <td>5</td>
             <td>5</td>
             <td>4</td>
@@ -566,8 +567,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>17</td>
+            <td>24+</td>
             <td>17d6</td>
-            <td>21+</td>
             <td>5</td>
             <td>5</td>
             <td>4</td>
@@ -577,8 +578,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>18</td>
+            <td>25+</td>
             <td>18d6</td>
-            <td>21+</td>
             <td>6</td>
             <td>5</td>
             <td>5</td>
@@ -588,8 +589,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>19</td>
+            <td>25+</td>
             <td>19d6</td>
-            <td>22+</td>
             <td>6</td>
             <td>5</td>
             <td>5</td>
@@ -599,8 +600,8 @@ According to sorcerers, all things in the universe consist of four elements: win
         </tr>
         <tr>
             <td>20</td>
+            <td>26+</td>
             <td>20d6</td>
-            <td>22+</td>
             <td>6</td>
             <td>6</td>
             <td>5</td>
@@ -611,7 +612,7 @@ According to sorcerers, all things in the universe consist of four elements: win
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="9"># Add your INT modifier to the number of Invocation Dice you have.<br/>@ Add your INT modifier to your Save Target.<br/>$ Add your INT modifier to the number of 1st level spells you can prepare.</td>
+            <td colspan="9">$ Add your INT modifier to the number of 1st level spells you can prepare.<br/># Add your INT modifier to the number of Invocation Dice you have.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

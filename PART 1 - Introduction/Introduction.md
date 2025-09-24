@@ -44,6 +44,7 @@ If you are the Game Master, you need all of the above. If this is your first tim
 ![[d20.png]]
 The 20 sided die, or **d20**, is one of the most important dice in the game: it is used to resolve attack rolls and saving throws (concepts that will be explained later). In general, the die is rolled, modifiers added or subtracted, and if the total result equals or exceeds a target number, the roll is a success; otherwise it has failed.
 
+### Task Target Numbers
 | Difficulty      | Target |
 |:----------------|:------:|
 | Very Easy       | 6+     |

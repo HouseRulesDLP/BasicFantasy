@@ -136,7 +136,7 @@ Typically this will be some patron of the party or PC, but really it can be anyo
 The referee may optionally award extra XP to characters who excelled (e.g. single handedly defeated dangerous foes, saved the day with clever tactics) or less XP to characters who contributed little (taking their class and alignment into account).
 
 ## Awarding XP
-After tallying the XP earned in a given adventure, the amount should be divided by the number of adventurers. As described above, each retainer should receive a one-half share; so a group with four player characters and a retainer is counted as having 4½ members. If 2,000 XP are earned by this group, one share is 444 XP, and the retainer receives 222 XP.
+After tallying the XP earned in a given adventure, the amount should be divided by the number of adventurers. As described above, each retainer should receive a one-half share; so a group with four player characters and a retainer is counted as having 4½ members. If 2,000 XP are earned by this group, one share is 444 XP, and the retainer receives 224 XP.
 
 ## Leveling Up
 No character may advance more than one level due to the experience points from a single adventure. For example, Barthal the Thief is 1st level and has 1,000 XP before going on an adventure; during the adventure, he earns 2,000 more XP (an amazing feat). This would make his total 3,000 XP, and he would be a 3rd level Thief. This is not allowed; instead, he advances to 2,499 XP, one short of the amount required for 3rd level, and starts his next adventure at 2nd level.

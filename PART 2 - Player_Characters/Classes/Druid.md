@@ -22,6 +22,7 @@ Druids are nature priests, revering the anima (spirits) of the natural world. Of
 
 ### Skills
 ![](Skills.md#Climb)
+![](Skills.md#Initiative)
 ![](Skills.md#Perception)
 ![](Skills.md#Search)
 ![](Skills.md#Stealth)
@@ -29,7 +30,7 @@ Druids are nature priests, revering the anima (spirits) of the natural world. Of
 **Survival (+0):** Well used to living in the wild, Druids make survival checks at +0 instead of the normal -2.
 
 #### Druid Skills
-**Detect Spirits (+0):** A Druid can detect fae creatures and anima (nature spirits), including those inhabiting or possessing other objects/beings. Doing so requires Concentration and a full minute; so they cannot tell if something is present with a simple glance and people tend to notice when being stared at.
+**Detect Spirits (+0):** A Druid can detect the anima (spirit) of both fae and natural creatures, including those inhabiting or possessing other objects/beings. Doing so requires Concentration and a full minute; so they cannot tell if something is present with a simple glance and people tend to notice when being stared at.
 
 **Prepare Scroll (+0):** Druids can create Druidic spell scrolls and protection scrolls. See the rules on magic item creation for details.
 
@@ -41,7 +42,7 @@ Druids are nature priests, revering the anima (spirits) of the natural world. Of
 ![](Skills.md#Uncertainty)
 
 ### Druid Magic
-**Spellcasting Focus:** Druids invest their holy symbols with minor anima (nature spirits) to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar item made from natural materials), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one and convincing a minor anima to inhabit it. This takes 1 week in a Safe Haven and 100sp worth of materials.
+**Spellcasting Focus:** Druids invest their holy symbols with minor nature anima (spirits) to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar item made from natural materials), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one and convincing a minor anima to inhabit it. This takes 1 week in a Safe Haven and 100sp worth of materials.
 
 For every level the Druid has, they may carve a sigil into their Focus. Each sigil represents a specific spell the Druid has learned (i.e. granted by the spirits). Whenever they cast one of these spells, while holding this Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Rank to engrave a new sigil into a Focus.
 
@@ -59,13 +60,17 @@ Having a Focus in hand does not count against needing a free hand for spell cast
 
 **Charm Immunity:** Starting at 3rd level, Druids have *Advantage* on all saving throws to resist the Charms and Illusions of Fae and Natural creatures. Beginning at 5th level, the Druid becomes *Immune* to these affects from Natural creatures and this expands to Fae creatures by 7th level.
 
-**Languages:** At 1st level, Druids learn Sylvan. Every level thereafter, they learn to speak one new language.  Starting at 2nd level, they may learn an animal (terrestrial, avian, insect, aquatic, etc.) or plant (all plants) language. At 5th level, they can begin learning fae (dryad, wyrm, pixie, etc.) languages. At 9th level, they can begin learning elemental languages (Primordial, Auran, Aquan, Ignan and Terran).
+**Languages:** At 1st level, Druids learn Sylvan. Every level thereafter, they learn to speak one new language.  Starting at 2nd level, they may learn an animal (feline, canine, ursine, avian, insect, arachnid, fish, cephalopod, shark, etc.) or plant (terrestrial or aquatic) language. At 5th level, they can begin learning fae (dryad, wyrm, pixie, etc.) languages. At 9th level, they can begin learning elemental languages (Primordial, Auran, Aquan, Ignan and Terran).
 
-**Pass Without Trace:** Starting at 3rd level, a druid can pass through natural environments without leaving any tracks. The character is also able to move through overgrown areas at normal speed and without impediment. This ability imposes *Disadvantage* on attempts to track the druid through natural terrain. By 5th level, this ability expands to the druid's companions, so long as they remain within 15ft of the druid.
+**Pass Without Trace:** Starting at 3rd level, a druid can pass through natural environments without leaving any tracks. The character is also able to move through rough terrain caused by vegetation at normal speed and without impediment. This ability imposes *Disadvantage* on attempts to track the druid through natural terrain. By 5th level, this ability expands to the druid's companions, so long as they remain within 15ft of the druid.
 
 **Shapechanger:** At 2nd level, a druid gains the ability to change form into that of any natural terrestrial animal they are familiar with. The form assumed may not have more Hit Dice than the druid has levels. At 3rd level, this ability expands to include natural aquatic and amphibious animals. At 5th level, the druid may take the form of a natural avian animal. By 7th level, the druid may take the form of fae animals (such as basilisks, winter wolves, and the like). Finally at 11th level, the druid may shape-change into the form of an elemental.
 
-Each time the druid uses this ability, they expend one of their Invocation Dice without rolling it.
+The druid takes on the physical characteristics of the creature they change into, but retains their own mental characteristics.  They cannot cast spells in this form but they can use any magical abilities possessed by their new form.  Additionally, they heal their level in hit points each time they change form.
+
+Each time the druid uses this ability, they expend one of their Invocation Dice without rolling it.  Additionally, if the Druid maintains their shape-shifted form for more than an hour, they must expend a new Invocation Die at the beginning of each hour.
+
+If a shapechanged druid is reduced to 0 or fewer HP, they automatically revert to their natural form.
 
 ### Druid Progression
 <table>
@@ -95,266 +100,265 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
             <td>+0</td>
             <td>+1</td>
             <td>0</td>
-            <td>+2</td>
-            <td>+1</td>
             <td>+1</td>
             <td>+0</td>
-            <td>+1</td>
+            <td>-2</td>
+            <td>-4</td>
+            <td>-3</td>
         </tr>
         <tr>
             <td>2</td>
-            <td class="right-align">2,000</td>
+            <td class="right-align">2,100</td>
             <td>2d6</td>
             <td>+1</td>
             <td>+2</td>
             <td>1</td>
             <td>+3</td>
             <td>+2</td>
-            <td>+2</td>
-            <td>+1</td>
-            <td>+2</td>
+            <td>+0</td>
+            <td>-2</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>3</td>
-            <td class="right-align">4,000</td>
+            <td class="right-align">4,300</td>
             <td>3d6</td>
             <td>+1</td>
             <td>+2</td>
             <td>1</td>
-            <td>+4</td>
-            <td>+3</td>
             <td>+3</td>
             <td>+2</td>
-            <td>+3</td>
+            <td>+0</td>
+            <td>-2</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>4</td>
-            <td class="right-align">8,000</td>
+            <td class="right-align">8,500</td>
             <td>4d6</td>
             <td>+2</td>
             <td>+3</td>
             <td>1</td>
             <td>+5</td>
             <td>+4</td>
-            <td>+4</td>
-            <td>+3</td>
-            <td>+4</td>
+            <td>+2</td>
+            <td>+0</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>5</td>
-            <td class="right-align">16,000</td>
+            <td class="right-align">17,000</td>
             <td>5d6</td>
             <td>+2</td>
             <td>+4</td>
             <td>1</td>
             <td>+6</td>
             <td>+5</td>
-            <td>+5</td>
-            <td>+4</td>
-            <td>+5</td>
+            <td>+3</td>
+            <td>+1</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>6</td>
-            <td class="right-align">32,000</td>
+            <td class="right-align">35,000</td>
             <td>6d6</td>
             <td>+3</td>
             <td>+5</td>
             <td>2</td>
+            <td>+8</td>
             <td>+7</td>
-            <td>+6</td>
             <td>+5</td>
-            <td>+5</td>
-            <td>+6</td>
+            <td>+3</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>7</td>
-            <td class="right-align">64,000</td>
+            <td class="right-align">70,000</td>
             <td>7d6</td>
             <td>+3</td>
             <td>+5</td>
             <td>2</td>
-            <td>+8</td>
+            <td>+9</td>
             <td>+7</td>
-            <td>+6</td>
             <td>+5</td>
-            <td>+7</td>
+            <td>+4</td>
+            <td>+5</td>
         </tr>
         <tr>
             <td>8</td>
-            <td class="right-align">130,000</td>
+            <td class="right-align">135,000</td>
             <td>8d6</td>
             <td>+4</td>
             <td>+6</td>
             <td>2</td>
+            <td>+10</td>
             <td>+9</td>
-            <td>+8</td>
             <td>+7</td>
+            <td>+5</td>
             <td>+6</td>
-            <td>+8</td>
         </tr>
         <tr>
             <td>9</td>
-            <td class="right-align">260,000</td>
+            <td class="right-align">270,000</td>
             <td>9d6</td>
             <td>+4</td>
             <td>+7</td>
             <td>2</td>
+            <td>+12</td>
             <td>+10</td>
-            <td>+9</td>
             <td>+8</td>
             <td>+7</td>
-            <td>+9</td>
+            <td>+8</td>
         </tr>
         <tr>
             <td>10</td>
-            <td class="right-align">390,000</td>
+            <td class="right-align">405,000</td>
             <td>10d6</td>
             <td>+5</td>
             <td>+8</td>
             <td>3</td>
-            <td>+11</td>
+            <td>+13</td>
+            <td>+12</td>
             <td>+10</td>
-            <td>+9</td>
             <td>+8</td>
             <td>+9</td>
         </tr>
         <tr>
             <td>11</td>
-            <td class="right-align">520,000</td>
+            <td class="right-align">540,000</td>
             <td>10d6+1</td>
             <td>+5</td>
             <td>+8</td>
             <td>3</td>
-            <td>+13</td>
-            <td>+11</td>
+            <td>+14</td>
+            <td>+12</td>
             <td>+10</td>
             <td>+9</td>
             <td>+10</td>
         </tr>
         <tr>
             <td>12</td>
-            <td class="right-align">650,000</td>
+            <td class="right-align">675,000</td>
             <td>10d6+2</td>
             <td>+6</td>
             <td>+9</td>
             <td>3</td>
+            <td>+15</td>
             <td>+14</td>
             <td>+12</td>
-            <td>+11</td>
             <td>+10</td>
             <td>+11</td>
         </tr>
         <tr>
             <td>13</td>
-            <td class="right-align">780,000</td>
+            <td class="right-align">810,000</td>
             <td>10d6+3</td>
             <td>+6</td>
             <td>+10</td>
             <td>3</td>
+            <td>+17</td>
             <td>+15</td>
             <td>+13</td>
             <td>+12</td>
-            <td>+11</td>
-            <td>+12</td>
+            <td>+13</td>
         </tr>
         <tr>
             <td>14</td>
-            <td class="right-align">910,000</td>
+            <td class="right-align">945,000</td>
             <td>10d6+4</td>
             <td>+7</td>
             <td>+11</td>
             <td>4</td>
-            <td>+16</td>
+            <td>+19</td>
+            <td>+17</td>
+            <td>+15</td>
             <td>+14</td>
-            <td>+13</td>
-            <td>+11</td>
-            <td>+13</td>
+            <td>+15</td>
         </tr>
         <tr>
             <td>15</td>
-            <td class="right-align">1,040,000</td>
+            <td class="right-align">1,080,000</td>
             <td>10d6+5</td>
             <td>+7</td>
             <td>+11</td>
             <td>4</td>
+            <td>+19</td>
             <td>+17</td>
             <td>+15</td>
             <td>+14</td>
-            <td>+12</td>
-            <td>+14</td>
+            <td>+15</td>
         </tr>
         <tr>
             <td>16</td>
-            <td class="right-align">1,170,000</td>
+            <td class="right-align">1,215,000</td>
             <td>10d6+6</td>
             <td>+8</td>
             <td>+12</td>
             <td>4</td>
-            <td>+18</td>
-            <td>+16</td>
-            <td>+14</td>
-            <td>+13</td>
-            <td>+15</td>
-        </tr>
-        <tr>
-            <td class="right-align">17</td>
-            <td>1,300,000</td>
-            <td>10d6+7</td>
-            <td>+8</td>
-            <td>+13</td>
-            <td>4</td>
-            <td>+19</td>
-            <td>+17</td>
-            <td>+15</td>
-            <td>+14</td>
-            <td>+16</td>
-        </tr>
-        <tr>
-            <td>18</td>
-            <td class="right-align">1,430,000</td>
-            <td>10d6+8</td>
-            <td>+9</td>
-            <td>+14</td>
-            <td>5</td>
-            <td>+20</td>
-            <td>+18</td>
-            <td>+16</td>
-            <td>+15</td>
-            <td>+17</td>
-        </tr>
-        <tr>
-            <td>19</td>
-            <td class="right-align">1,560,000</td>
-            <td>10d6+9</td>
-            <td>+9</td>
-            <td>+14</td>
-            <td>5</td>
             <td>+21</td>
             <td>+19</td>
             <td>+17</td>
             <td>+16</td>
-            <td>+18</td>
+            <td>+17</td>
         </tr>
         <tr>
-            <td>20</td>
-            <td class="right-align">1,690,000</td>
-            <td>10d6+10</td>
-            <td>+10</td>
-            <td>+15</td>
-            <td>5</td>
+            <td>17</td>
+            <td class="right-align">1,350,000</td>
+            <td>10d6+7</td>
+            <td>+8</td>
+            <td>+13</td>
+            <td>4</td>
             <td>+22</td>
             <td>+20</td>
             <td>+18</td>
             <td>+17</td>
             <td>+18</td>
         </tr>
+        <tr>
+            <td>18</td>
+            <td class="right-align">1,485,000</td>
+            <td>10d6+8</td>
+            <td>+9</td>
+            <td>+14</td>
+            <td>5</td>
+            <td>+23</td>
+            <td>+22</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+20</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td class="right-align">1,620,000</td>
+            <td>10d6+9</td>
+            <td>+9</td>
+            <td>+14</td>
+            <td>5</td>
+            <td>+23</td>
+            <td>+22</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+20</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td class="right-align">1,755,000</td>
+            <td>10d6+10</td>
+            <td>+10</td>
+            <td>+15</td>
+            <td>5</td>
+            <td>+24</td>
+            <td>+24</td>
+            <td>+22</td>
+            <td>+21</td>
+            <td>+22</td>
+        </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="11">* CON modifiers no longer apply after level 10. <br/>
-            </td>
+            <td colspan="11">* CON modifiers no longer apply after level 10.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>
 
 ### Druid Magic
@@ -362,8 +366,8 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
     <thead>
         <tr>
             <th rowspan="2">Level</th>
-            <th rowspan="2">Invocation<br/>Dice#</th>
             <th rowspan="2">Save<br/>Target@</th>
+            <th rowspan="2">Invocation<br/>Dice#</th>
             <th colspan="6">Prepared Spells</th>
         </tr>
         <tr>
@@ -378,8 +382,8 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
     <tbody>
         <tr>
             <td>1</td>
+            <td>12+</td>
             <td>1d6</td>
-            <td>13+</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -389,8 +393,8 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
         </tr>
         <tr>
             <td>2</td>
-            <td>2d6</td>
             <td>13+</td>
+            <td>2d6</td>
             <td>2</td>
             <td>--</td>
             <td>--</td>
@@ -400,8 +404,8 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
         </tr>
         <tr>
             <td>3</td>
+            <td>13+</td>
             <td>3d6</td>
-            <td>14+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -411,8 +415,8 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
         </tr>
         <tr>
             <td>4</td>
-            <td>4d6</td>
             <td>14+</td>
+            <td>4d6</td>
             <td>2</td>
             <td>2</td>
             <td>--</td>
@@ -422,8 +426,8 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
         </tr>
         <tr>
             <td>5</td>
-            <td>5d6</td>
             <td>15+</td>
+            <td>5d6</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
@@ -433,10 +437,10 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
         </tr>
         <tr>
             <td>6</td>
+            <td>16+</td>
             <td>6d6</td>
-            <td>15+</td>
-            <td>4</td>
             <td>3</td>
+            <td>2</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -444,10 +448,10 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
         </tr>
         <tr>
             <td>7</td>
-            <td>7d6</td>
             <td>16+</td>
-            <td>4</td>
+            <td>7d6</td>
             <td>3</td>
+            <td>2</td>
             <td>1</td>
             <td>1</td>
             <td>--</td>
@@ -455,155 +459,151 @@ Each time the druid uses this ability, they expend one of their Invocation Dice 
         </tr>
         <tr>
             <td>8</td>
+            <td>17+</td>
             <td>8d6</td>
-            <td>16+</td>
-            <td>5</td>
             <td>4</td>
             <td>2</td>
+            <td>1</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
         </tr>
         <tr>
             <td>9</td>
+            <td>18+</td>
             <td>9d6</td>
-            <td>17+</td>
-            <td>5</td>
             <td>4</td>
             <td>2</td>
+            <td>1</td>
             <td>1</td>
             <td>1</td>
             <td>--</td>
         </tr>
         <tr>
             <td>10</td>
+            <td>19+</td>
             <td>10d6</td>
-            <td>17+</td>
-            <td>5</td>
             <td>4</td>
+            <td>3</td>
             <td>2</td>
-            <td>2</td>
-            <td>2</td>
+            <td>1</td>
+            <td>1</td>
             <td>--</td>
         </tr>
         <tr>
             <td>11</td>
+            <td>19+</td>
             <td>11d6</td>
-            <td>18+</td>
+            <td>4</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>20+</td>
+            <td>12d6</td>
+            <td>5</td>
+            <td>3</td>
+            <td>3</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>21+</td>
+            <td>13d6</td>
             <td>5</td>
             <td>4</td>
+            <td>3</td>
             <td>2</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>22+</td>
+            <td>14d6</td>
+            <td>6</td>
+            <td>4</td>
+            <td>3</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
         </tr>
         <tr>
-            <td>12</td>
-            <td>12d6</td>
-            <td>18+</td>
-            <td>6</td>
-            <td>5</td>
-            <td>3</td>
-            <td>2</td>
-            <td>2</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>13d6</td>
-            <td>19+</td>
-            <td>6</td>
-            <td>6</td>
-            <td>4</td>
-            <td>2</td>
-            <td>2</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td>14d6</td>
-            <td>19+</td>
-            <td>6</td>
-            <td>6</td>
-            <td>4</td>
-            <td>3</td>
-            <td>2</td>
-            <td>2</td>
-        </tr>
-        <tr>
             <td>15</td>
+            <td>22+</td>
             <td>15d6</td>
-            <td>20+</td>
-            <td>7</td>
-            <td>7</td>
+            <td>6</td>
             <td>5</td>
             <td>3</td>
+            <td>3</td>
             <td>2</td>
-            <td>2</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>16</td>
+            <td>23+</td>
             <td>16d6</td>
-            <td>20+</td>
-            <td>7</td>
-            <td>7</td>
             <td>6</td>
+            <td>5</td>
+            <td>3</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
         </tr>
         <tr>
             <td>17</td>
+            <td>24+</td>
             <td>17d6</td>
-            <td>21+</td>
             <td>7</td>
-            <td>7</td>
-            <td>6</td>
+            <td>5</td>
+            <td>4</td>
             <td>3</td>
-            <td>3</td>
+            <td>2</td>
             <td>2</td>
         </tr>
         <tr>
             <td>18</td>
+            <td>25+</td>
             <td>18d6</td>
-            <td>21+</td>
-            <td>7</td>
             <td>7</td>
             <td>6</td>
             <td>4</td>
+            <td>3</td>
             <td>3</td>
             <td>2</td>
         </tr>
         <tr>
             <td>19</td>
+            <td>25+</td>
             <td>19d6</td>
-            <td>22+</td>
-            <td>7</td>
-            <td>7</td>
-            <td>6</td>
-            <td>4</td>
-            <td>3</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>20</td>
-            <td>20d6</td>
-            <td>22+</td>
-            <td>7</td>
             <td>7</td>
             <td>6</td>
             <td>5</td>
             <td>4</td>
             <td>3</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>26+</td>
+            <td>20d6</td>
+            <td>7</td>
+            <td>6</td>
+            <td>5</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="9" rowspan="3">
-            @ Add your WIS modifier to the Save Target.<br/>
-            # Add your WIS modifier to the number of Invocation Dice you have.<br/>
-            $ Add your WIS modifier to the number of 1st level spells you can prepare.
-            </td>
+            <td colspan="9">$ Add your WIS modifier to the number of 1st level spells you can prepare.<br/># Add your WIS modifier to the number of Invocation Dice you have.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

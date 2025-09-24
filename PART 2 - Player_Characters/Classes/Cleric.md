@@ -22,6 +22,7 @@ Clerics are those who have devoted themselves to the service of a deity, pantheo
 
 ### Skills
 ![](Skills.md#Climb)
+![](Skills.md#Initiative)
 ![](Skills.md#Perception)
 ![](Skills.md#Search)
 ![](Skills.md#Stealth)
@@ -84,23 +85,29 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
 <table>
     <thead>
         <tr>
-            <th rowspan="2">Level</th>
-            <th rowspan="2">XP</th>
-            <th rowspan="2">Hit<br/>Dice*</th>
-            <th rowspan="2">Attack<br/>Bonus</th>
-            <th rowspan="2">Skill<br/>Bonus</th>
-            <th rowspan="2">Talents</th>
+            <th/>
+            <th/>
+            <th>Hit</th>
+            <th>Attack</th>
+            <th>Skill</th>
+            <th/>
             <th colspan="5">Saving Throws</th>
-        </tr>
-        <tr>
-            <th>Doom</th>
-            <th>Ray</th>
-            <th>Hold</th>
-            <th>Blast</th>
-            <th>Spell</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Level</td>
+            <td>XP</td>
+            <td>Dice*</td>
+            <td>Bonus</td>
+            <td>Bonus</td>
+            <td>Talents</td>
+            <td>Doom</td>
+            <td>Ray</td>
+            <td>Hold</td>
+            <td>Blast</td>
+            <td>Spell</td>
+        </tr>
         <tr>
             <td>1</td>
             <td class="right-align">0</td>
@@ -108,11 +115,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+0</td>
             <td>+1</td>
             <td>0</td>
-            <td>+2</td>
-            <td>+1</td>
             <td>+1</td>
             <td>+0</td>
-            <td>+1</td>
+            <td>-2</td>
+            <td>-4</td>
+            <td>-3</td>
         </tr>
         <tr>
             <td>2</td>
@@ -123,9 +130,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>1</td>
             <td>+3</td>
             <td>+2</td>
-            <td>+2</td>
-            <td>+1</td>
-            <td>+2</td>
+            <td>+0</td>
+            <td>-2</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>3</td>
@@ -134,11 +141,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+1</td>
             <td>+2</td>
             <td>1</td>
-            <td>+4</td>
-            <td>+3</td>
             <td>+3</td>
             <td>+2</td>
-            <td>+3</td>
+            <td>+0</td>
+            <td>-2</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>4</td>
@@ -149,9 +156,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>1</td>
             <td>+5</td>
             <td>+4</td>
-            <td>+4</td>
-            <td>+3</td>
-            <td>+4</td>
+            <td>+2</td>
+            <td>+0</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>5</td>
@@ -162,9 +169,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>1</td>
             <td>+6</td>
             <td>+5</td>
-            <td>+5</td>
-            <td>+4</td>
-            <td>+5</td>
+            <td>+3</td>
+            <td>+1</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>6</td>
@@ -173,11 +180,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+3</td>
             <td>+5</td>
             <td>2</td>
+            <td>+8</td>
             <td>+7</td>
-            <td>+6</td>
             <td>+5</td>
-            <td>+5</td>
-            <td>+6</td>
+            <td>+3</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>7</td>
@@ -186,11 +193,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+3</td>
             <td>+5</td>
             <td>2</td>
-            <td>+8</td>
+            <td>+9</td>
             <td>+7</td>
-            <td>+6</td>
             <td>+5</td>
-            <td>+7</td>
+            <td>+4</td>
+            <td>+5</td>
         </tr>
         <tr>
             <td>8</td>
@@ -199,11 +206,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+4</td>
             <td>+6</td>
             <td>2</td>
+            <td>+10</td>
             <td>+9</td>
-            <td>+8</td>
             <td>+7</td>
+            <td>+5</td>
             <td>+6</td>
-            <td>+8</td>
         </tr>
         <tr>
             <td>9</td>
@@ -212,11 +219,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+4</td>
             <td>+7</td>
             <td>2</td>
+            <td>+12</td>
             <td>+10</td>
-            <td>+9</td>
             <td>+8</td>
             <td>+7</td>
-            <td>+9</td>
+            <td>+8</td>
         </tr>
         <tr>
             <td>10</td>
@@ -225,9 +232,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+5</td>
             <td>+8</td>
             <td>3</td>
-            <td>+11</td>
+            <td>+13</td>
+            <td>+12</td>
             <td>+10</td>
-            <td>+9</td>
             <td>+8</td>
             <td>+9</td>
         </tr>
@@ -238,8 +245,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+5</td>
             <td>+8</td>
             <td>3</td>
-            <td>+13</td>
-            <td>+11</td>
+            <td>+14</td>
+            <td>+12</td>
             <td>+10</td>
             <td>+9</td>
             <td>+10</td>
@@ -251,9 +258,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+6</td>
             <td>+9</td>
             <td>3</td>
+            <td>+15</td>
             <td>+14</td>
             <td>+12</td>
-            <td>+11</td>
             <td>+10</td>
             <td>+11</td>
         </tr>
@@ -264,11 +271,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+6</td>
             <td>+10</td>
             <td>3</td>
+            <td>+17</td>
             <td>+15</td>
             <td>+13</td>
             <td>+12</td>
-            <td>+11</td>
-            <td>+12</td>
+            <td>+13</td>
         </tr>
         <tr>
             <td>14</td>
@@ -277,11 +284,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+7</td>
             <td>+11</td>
             <td>4</td>
-            <td>+16</td>
+            <td>+19</td>
+            <td>+17</td>
+            <td>+15</td>
             <td>+14</td>
-            <td>+13</td>
-            <td>+11</td>
-            <td>+13</td>
+            <td>+15</td>
         </tr>
         <tr>
             <td>15</td>
@@ -290,11 +297,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+7</td>
             <td>+11</td>
             <td>4</td>
+            <td>+19</td>
             <td>+17</td>
             <td>+15</td>
             <td>+14</td>
-            <td>+12</td>
-            <td>+14</td>
+            <td>+15</td>
         </tr>
         <tr>
             <td>16</td>
@@ -303,11 +310,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+8</td>
             <td>+12</td>
             <td>4</td>
-            <td>+18</td>
+            <td>+21</td>
+            <td>+19</td>
+            <td>+17</td>
             <td>+16</td>
-            <td>+14</td>
-            <td>+13</td>
-            <td>+15</td>
+            <td>+17</td>
         </tr>
         <tr>
             <td>17</td>
@@ -316,11 +323,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+8</td>
             <td>+13</td>
             <td>4</td>
-            <td>+19</td>
+            <td>+22</td>
+            <td>+20</td>
+            <td>+18</td>
             <td>+17</td>
-            <td>+15</td>
-            <td>+14</td>
-            <td>+16</td>
+            <td>+18</td>
         </tr>
         <tr>
             <td>18</td>
@@ -329,11 +336,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+9</td>
             <td>+14</td>
             <td>5</td>
+            <td>+23</td>
+            <td>+22</td>
             <td>+20</td>
-            <td>+18</td>
-            <td>+16</td>
-            <td>+15</td>
-            <td>+17</td>
+            <td>+19</td>
+            <td>+20</td>
         </tr>
         <tr>
             <td>19</td>
@@ -342,11 +349,11 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+9</td>
             <td>+14</td>
             <td>5</td>
-            <td>+21</td>
+            <td>+23</td>
+            <td>+22</td>
+            <td>+20</td>
             <td>+19</td>
-            <td>+17</td>
-            <td>+16</td>
-            <td>+18</td>
+            <td>+20</td>
         </tr>
         <tr>
             <td>20</td>
@@ -355,19 +362,18 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>+10</td>
             <td>+15</td>
             <td>5</td>
+            <td>+24</td>
+            <td>+24</td>
             <td>+22</td>
-            <td>+20</td>
-            <td>+18</td>
-            <td>+17</td>
-            <td>+18</td>
+            <td>+21</td>
+            <td>+22</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="11">* CON modifiers no longer apply after level 10. <br/>
-            </td>
+            <td colspan="11">* CON modifiers no longer apply after level 10.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>
 
 ### Cleric Magic
@@ -375,8 +381,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
     <thead>
         <tr>
             <th rowspan="2">Level</th>
+            <th rowspan="2">Save<br/>Target@</th>
             <th rowspan="2">Invocation<br/>Dice#</th>
-            <th rowspan="2">Save <br/>Target@</th>
             <th colspan="6">Prepared Spells</th>
         </tr>
         <tr>
@@ -391,8 +397,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
     <tbody>
         <tr>
             <td>1</td>
+            <td>12+</td>
             <td>1d6</td>
-            <td>13+</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -402,8 +408,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
         </tr>
         <tr>
             <td>2</td>
-            <td>2d6</td>
             <td>13+</td>
+            <td>2d6</td>
             <td>2</td>
             <td>--</td>
             <td>--</td>
@@ -413,8 +419,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
         </tr>
         <tr>
             <td>3</td>
+            <td>13+</td>
             <td>3d6</td>
-            <td>14+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -424,8 +430,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
         </tr>
         <tr>
             <td>4</td>
-            <td>4d6</td>
             <td>14+</td>
+            <td>4d6</td>
             <td>2</td>
             <td>2</td>
             <td>--</td>
@@ -435,8 +441,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
         </tr>
         <tr>
             <td>5</td>
-            <td>5d6</td>
             <td>15+</td>
+            <td>5d6</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
@@ -446,10 +452,10 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
         </tr>
         <tr>
             <td>6</td>
+            <td>16+</td>
             <td>6d6</td>
-            <td>15+</td>
-            <td>4</td>
             <td>3</td>
+            <td>2</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -457,10 +463,10 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
         </tr>
         <tr>
             <td>7</td>
-            <td>7d6</td>
             <td>16+</td>
-            <td>4</td>
+            <td>7d6</td>
             <td>3</td>
+            <td>2</td>
             <td>1</td>
             <td>1</td>
             <td>--</td>
@@ -468,151 +474,151 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
         </tr>
         <tr>
             <td>8</td>
+            <td>17+</td>
             <td>8d6</td>
-            <td>16+</td>
-            <td>5</td>
             <td>4</td>
             <td>2</td>
+            <td>1</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
         </tr>
         <tr>
             <td>9</td>
+            <td>18+</td>
             <td>9d6</td>
-            <td>17+</td>
-            <td>5</td>
             <td>4</td>
             <td>2</td>
+            <td>1</td>
             <td>1</td>
             <td>1</td>
             <td>--</td>
         </tr>
         <tr>
             <td>10</td>
+            <td>19+</td>
             <td>10d6</td>
-            <td>17+</td>
-            <td>5</td>
             <td>4</td>
+            <td>3</td>
             <td>2</td>
-            <td>2</td>
-            <td>2</td>
+            <td>1</td>
+            <td>1</td>
             <td>--</td>
         </tr>
         <tr>
             <td>11</td>
+            <td>19+</td>
             <td>11d6</td>
-            <td>18+</td>
+            <td>4</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>20+</td>
+            <td>12d6</td>
+            <td>5</td>
+            <td>3</td>
+            <td>3</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>21+</td>
+            <td>13d6</td>
             <td>5</td>
             <td>4</td>
+            <td>3</td>
             <td>2</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>22+</td>
+            <td>14d6</td>
+            <td>6</td>
+            <td>4</td>
+            <td>3</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
         </tr>
         <tr>
-            <td>12</td>
-            <td>12d6</td>
-            <td>18+</td>
-            <td>6</td>
-            <td>5</td>
-            <td>3</td>
-            <td>2</td>
-            <td>2</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>13d6</td>
-            <td>19+</td>
-            <td>6</td>
-            <td>6</td>
-            <td>4</td>
-            <td>2</td>
-            <td>2</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td>14d6</td>
-            <td>19+</td>
-            <td>6</td>
-            <td>6</td>
-            <td>4</td>
-            <td>3</td>
-            <td>2</td>
-            <td>2</td>
-        </tr>
-        <tr>
             <td>15</td>
+            <td>22+</td>
             <td>15d6</td>
-            <td>20+</td>
-            <td>7</td>
-            <td>7</td>
+            <td>6</td>
             <td>5</td>
             <td>3</td>
+            <td>3</td>
             <td>2</td>
-            <td>2</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>16</td>
+            <td>23+</td>
             <td>16d6</td>
-            <td>20+</td>
-            <td>7</td>
-            <td>7</td>
             <td>6</td>
+            <td>5</td>
+            <td>3</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
         </tr>
         <tr>
             <td>17</td>
+            <td>24+</td>
             <td>17d6</td>
-            <td>21+</td>
             <td>7</td>
-            <td>7</td>
-            <td>6</td>
+            <td>5</td>
+            <td>4</td>
             <td>3</td>
-            <td>3</td>
+            <td>2</td>
             <td>2</td>
         </tr>
         <tr>
             <td>18</td>
+            <td>25+</td>
             <td>18d6</td>
-            <td>21+</td>
-            <td>7</td>
             <td>7</td>
             <td>6</td>
             <td>4</td>
+            <td>3</td>
             <td>3</td>
             <td>2</td>
         </tr>
         <tr>
             <td>19</td>
+            <td>25+</td>
             <td>19d6</td>
-            <td>22+</td>
-            <td>7</td>
-            <td>7</td>
-            <td>6</td>
-            <td>4</td>
-            <td>3</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>20</td>
-            <td>20d6</td>
-            <td>22+</td>
-            <td>7</td>
             <td>7</td>
             <td>6</td>
             <td>5</td>
             <td>4</td>
             <td>3</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>26+</td>
+            <td>20d6</td>
+            <td>7</td>
+            <td>6</td>
+            <td>5</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="9" rowspan="3">@ Add your WIS modifier to the Save Target.<br/># Add your WIS modifier to the number of Invocation Dice you have.<br/>$ Add your WIS modifier to the number of 1st level spells you can prepare.</td>
+            <td colspan="9">@ Add your WIS modifier to the Save Target.<br/>$ Add your WIS modifier to the number of 1st level spells you can prepare.<br/># Add your WIS modifier to the number of Invocation Dice you have.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

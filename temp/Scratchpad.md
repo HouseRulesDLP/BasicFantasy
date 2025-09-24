@@ -31,13 +31,16 @@ This may only be performed on a Grappled character.  You attempt to choke, joint
 
 ### Intermediate Maneuvers
 
-#### Steady Aim
-**Action Type:** Move<br/>
-Your character stands her ground and focuses her aim.  She does not suffer Disadvantage for attacking at long range.  However, enemies gain Advantage on attacks made against her until the start of her next Turn.
-
 #### Disarm
 **Action Type:** Main<br/>
 Attempt to disarm an opponent as part of your attack.  Only works vs items that are not integral to their owner and are accessible to be grabbed/attacked.  For example, a sword or amulet worn outside the clothes can be disarmed; worn armor or a ring are not.  Your attack roll is at -2 and if you hit, roll an opposed STR or DEX check vs the target's STR or DEX.  Defenders holding their weapon in 2 hands gain Advantage on this roll.  If the attacker wins, the weapon falls from their hand, scattering 1d4-1 tiles in a random direction.
+
+#### Set Weapon Against Charge
+Weapons with the [Set](7_Equipment.md#Weapon%20Properties) property may be set (braced against the ground or floor) to intercept a charging creature.  For this to be done, the creature must act in an imitative phase before the attacker and counts as holding an action.  The character performing the set action losses their Dexterity bonus to AC, but their attack will automatically count as a Critical Hit if successful.
+
+#### Steady Aim
+**Action Type:** Move<br/>
+Your character stands her ground and focuses her aim.  She does not suffer Disadvantage for attacking at long range.  However, enemies gain Advantage on attacks made against her until the start of her next Turn.
 
 #### Subdual Attack
 **Action Type:** Main<br/>
@@ -51,7 +54,7 @@ For each full 4 points of Attack Bonus sacrificed, you may make one extra attack
 
 #### Power Attack
 **Action Type:** Main<br/>
-By taking Disadvantage on your attack, you may add your Strength Score to your attack in place of your Strength Modifier.
+By taking Disadvantage on your attack, you may add your Strength **Score** to your attack in place of your Strength **Modifier**.
 
 ## Unarmed Combat
 Unarmed attackers (excepting those with the Natural Weaponry trait) have Disadvantage making attacks against aware opponents that are armed.

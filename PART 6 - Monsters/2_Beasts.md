@@ -14,7 +14,7 @@ cssclasses: clean-embeds, bfrpg
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+2</td>
+			<td class="left-align">13+</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>
@@ -79,7 +79,7 @@ Griffons can be trained as mounts if raised in captivity, but even in this case 
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+2</td>
+			<td class="left-align">13+</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>
@@ -144,7 +144,7 @@ Hippogriffs are omnivorous, entering combat only as defense, save for those time
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+2</td>
+			<td class="left-align">13+</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>
@@ -213,9 +213,9 @@ The pegasus is a magnificent winged horse.  Though highly prized as aerial steed
 		</tr>
 		<tr>
 			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align">+3</td>
-			<td class="left-align">+4</td>
-			<td class="left-align">+6</td>
+			<td class="left-align">14+</td>
+			<td class="left-align">15+</td>
+			<td class="left-align">17+</td>
 		</tr>
 		<tr>
 			<td class="left-align"><b>Hit Dice:</b></td>

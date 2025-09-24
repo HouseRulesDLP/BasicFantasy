@@ -25,6 +25,7 @@ Trickster’s are thieves who’ve studied a bit of magic. While not as versatil
 
 ### Skills
 ![](Skills.md#Climb)
+![](Skills.md#Initiative)
 
 **Perception (+0):** Tricksters are specifically trained watch for guards and hunt for hidden treasures and traps. Therefore they make Perception checks with a +0 modifier.
 
@@ -95,265 +96,265 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>+0</td>
             <td>+1</td>
             <td>0</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+0</td>
-            <td>+1</td>
+            <td>-1</td>
+            <td>-2</td>
+            <td>-1</td>
+            <td>-4</td>
+            <td>-3</td>
         </tr>
         <tr>
             <td>2</td>
-            <td class="right-align">1,600</td>
+            <td class="right-align">2,000</td>
             <td>2d5</td>
             <td>+1</td>
             <td>+2</td>
             <td>1</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+1</td>
-            <td>+2</td>
+            <td>+0</td>
+            <td>-1</td>
+            <td>+0</td>
+            <td>-3</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>3</td>
-            <td class="right-align">3,200</td>
+            <td class="right-align">4,000</td>
             <td>3d5</td>
             <td>+1</td>
             <td>+2</td>
             <td>1</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+3</td>
-            <td>+2</td>
-            <td>+3</td>
+            <td>+1</td>
+            <td>+0</td>
+            <td>+1</td>
+            <td>-2</td>
+            <td>-1</td>
         </tr>
         <tr>
             <td>4</td>
-            <td class="right-align">6,500</td>
+            <td class="right-align">8,000</td>
             <td>4d5</td>
             <td>+2</td>
             <td>+3</td>
             <td>1</td>
-            <td>+3</td>
-            <td>+3</td>
-            <td>+3</td>
             <td>+2</td>
-            <td>+4</td>
+            <td>+1</td>
+            <td>+2</td>
+            <td>-1</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>5</td>
-            <td class="right-align">13,000</td>
+            <td class="right-align">16,000</td>
             <td>5d5</td>
             <td>+2</td>
             <td>+4</td>
             <td>1</td>
-            <td>+4</td>
-            <td>+4</td>
-            <td>+4</td>
             <td>+3</td>
-            <td>+5</td>
+            <td>+2</td>
+            <td>+4</td>
+            <td>+1</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>6</td>
-            <td class="right-align">27,000</td>
+            <td class="right-align">32,000</td>
             <td>6d5</td>
             <td>+3</td>
             <td>+5</td>
             <td>2</td>
             <td>+5</td>
-            <td>+5</td>
-            <td>+5</td>
             <td>+4</td>
-            <td>+6</td>
+            <td>+5</td>
+            <td>+2</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>7</td>
-            <td class="right-align">54,000</td>
+            <td class="right-align">64,000</td>
             <td>7d5</td>
             <td>+3</td>
             <td>+5</td>
             <td>2</td>
-            <td>+6</td>
             <td>+5</td>
-            <td>+6</td>
             <td>+4</td>
             <td>+6</td>
+            <td>+3</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>8</td>
-            <td class="right-align">108,000</td>
+            <td class="right-align">123,000</td>
             <td>8d5</td>
             <td>+3</td>
             <td>+6</td>
             <td>2</td>
             <td>+6</td>
-            <td>+6</td>
-            <td>+7</td>
             <td>+5</td>
             <td>+7</td>
+            <td>+4</td>
+            <td>+6</td>
         </tr>
         <tr>
             <td>9</td>
-            <td class="right-align">215,000</td>
+            <td class="right-align">245,000</td>
             <td>9d5</td>
             <td>+4</td>
             <td>+7</td>
             <td>2</td>
-            <td>+7</td>
+            <td>+8</td>
             <td>+7</td>
             <td>+8</td>
-            <td>+6</td>
-            <td>+8</td>
+            <td>+5</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>10</td>
-            <td class="right-align">325,000</td>
+            <td class="right-align">370,000</td>
             <td>10d5</td>
             <td>+4</td>
             <td>+8</td>
             <td>3</td>
-            <td>+8</td>
-            <td>+8</td>
             <td>+9</td>
+            <td>+8</td>
+            <td>+10</td>
             <td>+7</td>
             <td>+9</td>
         </tr>
         <tr>
             <td>11</td>
-            <td class="right-align">435,000</td>
+            <td class="right-align">495,000</td>
             <td>10d5+1</td>
             <td>+4</td>
             <td>+8</td>
             <td>3</td>
             <td>+9</td>
             <td>+8</td>
-            <td>+9</td>
-            <td>+7</td>
             <td>+10</td>
+            <td>+7</td>
+            <td>+9</td>
         </tr>
         <tr>
             <td>12</td>
-            <td class="right-align">545,000</td>
+            <td class="right-align">620,000</td>
             <td>10d5+2</td>
             <td>+5</td>
             <td>+9</td>
             <td>3</td>
+            <td>+11</td>
             <td>+10</td>
+            <td>+12</td>
             <td>+9</td>
-            <td>+10</td>
-            <td>+8</td>
             <td>+11</td>
         </tr>
         <tr>
             <td>13</td>
-            <td class="right-align">655,000</td>
+            <td class="right-align">745,000</td>
             <td>10d5+3</td>
             <td>+5</td>
             <td>+10</td>
             <td>3</td>
-            <td>+10</td>
-            <td>+10</td>
+            <td>+12</td>
             <td>+11</td>
-            <td>+9</td>
+            <td>+13</td>
+            <td>+10</td>
             <td>+12</td>
         </tr>
         <tr>
             <td>14</td>
-            <td class="right-align">765,000</td>
+            <td class="right-align">870,000</td>
             <td>10d5+4</td>
             <td>+6</td>
             <td>+11</td>
             <td>4</td>
-            <td>+11</td>
-            <td>+11</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>+15</td>
             <td>+12</td>
-            <td>+9</td>
-            <td>+12</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>15</td>
-            <td class="right-align">875,000</td>
+            <td class="right-align">995,000</td>
             <td>10d5+5</td>
             <td>+6</td>
             <td>+11</td>
             <td>4</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>+15</td>
             <td>+12</td>
-            <td>+11</td>
-            <td>+13</td>
-            <td>+10</td>
-            <td>+13</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>16</td>
-            <td class="right-align">985,000</td>
+            <td class="right-align">1,120,000</td>
             <td>10d5+6</td>
             <td>+7</td>
             <td>+12</td>
             <td>4</td>
+            <td>+15</td>
+            <td>+14</td>
+            <td>+16</td>
             <td>+13</td>
-            <td>+12</td>
-            <td>+14</td>
-            <td>+11</td>
-            <td>+14</td>
+            <td>+16</td>
         </tr>
         <tr>
             <td>17</td>
-            <td class="right-align">1,095,000</td>
+            <td class="right-align">1,245,000</td>
             <td>10d5+7</td>
             <td>+7</td>
             <td>+13</td>
             <td>4</td>
-            <td>+14</td>
-            <td>+13</td>
-            <td>+14</td>
-            <td>+11</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+18</td>
             <td>+15</td>
+            <td>+17</td>
         </tr>
         <tr>
             <td>18</td>
-            <td class="right-align">1,205,000</td>
+            <td class="right-align">1,370,000</td>
             <td>10d5+8</td>
             <td>+8</td>
             <td>+14</td>
             <td>5</td>
-            <td>+14</td>
-            <td>+14</td>
-            <td>+15</td>
-            <td>+12</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+19</td>
             <td>+16</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>19</td>
-            <td class="right-align">1,315,000</td>
+            <td class="right-align">1,495,000</td>
             <td>10d5+9</td>
             <td>+8</td>
             <td>+14</td>
             <td>5</td>
-            <td>+15</td>
-            <td>+14</td>
-            <td>+16</td>
-            <td>+13</td>
+            <td>+18</td>
             <td>+17</td>
+            <td>+19</td>
+            <td>+16</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>20</td>
-            <td class="right-align">1,425,000</td>
+            <td class="right-align">1,620,000</td>
             <td>10d5+10</td>
             <td>+8</td>
             <td>+15</td>
             <td>5</td>
-            <td>+16</td>
-            <td>+15</td>
-            <td>+17</td>
-            <td>+14</td>
-            <td>+17</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+21</td>
+            <td>+18</td>
+            <td>+21</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
             <td colspan="11">* CON modifiers no longer apply after level 10.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>
 
 ## Sorcerous Magic
@@ -381,7 +382,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>0</td>
             <td>+0</td>
             <td>0d6</td>
-            <td>+12</td>
+            <td>11+</td>
             <td>0</td>
             <td>--</td>
             <td>--</td>
@@ -393,7 +394,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>1</td>
             <td>+1</td>
             <td>1d6</td>
-            <td>+13</td>
+            <td>12+</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -405,7 +406,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>1</td>
             <td>+1</td>
             <td>1d6</td>
-            <td>+13</td>
+            <td>12+</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -417,7 +418,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>2</td>
             <td>+2</td>
             <td>2d6</td>
-            <td>+13</td>
+            <td>13+</td>
             <td>2</td>
             <td>--</td>
             <td>--</td>
@@ -429,7 +430,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>2</td>
             <td>+2</td>
             <td>2d6</td>
-            <td>+13</td>
+            <td>13+</td>
             <td>2</td>
             <td>--</td>
             <td>--</td>
@@ -441,7 +442,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>3</td>
             <td>+2</td>
             <td>3d6</td>
-            <td>+14</td>
+            <td>13+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -453,7 +454,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>3</td>
             <td>+2</td>
             <td>3d6</td>
-            <td>+14</td>
+            <td>13+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -465,7 +466,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>4</td>
             <td>+3</td>
             <td>4d6</td>
-            <td>+14</td>
+            <td>14+</td>
             <td>2</td>
             <td>2</td>
             <td>--</td>
@@ -477,7 +478,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>4</td>
             <td>+3</td>
             <td>4d6</td>
-            <td>+14</td>
+            <td>14+</td>
             <td>2</td>
             <td>2</td>
             <td>--</td>
@@ -489,7 +490,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>5</td>
             <td>+4</td>
             <td>5d6</td>
-            <td>+15</td>
+            <td>15+</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
@@ -501,7 +502,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>5</td>
             <td>+4</td>
             <td>5d6</td>
-            <td>+15</td>
+            <td>15+</td>
             <td>2</td>
             <td>2</td>
             <td>1</td>
@@ -513,7 +514,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>6</td>
             <td>+5</td>
             <td>6d6</td>
-            <td>+15</td>
+            <td>16+</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
@@ -525,7 +526,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>6</td>
             <td>+5</td>
             <td>6d6</td>
-            <td>+15</td>
+            <td>16+</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
@@ -537,7 +538,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>7</td>
             <td>+5</td>
             <td>7d6</td>
-            <td>+16</td>
+            <td>16+</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
@@ -549,7 +550,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>7</td>
             <td>+5</td>
             <td>7d6</td>
-            <td>+16</td>
+            <td>16+</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
@@ -561,7 +562,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>8</td>
             <td>+6</td>
             <td>8d6</td>
-            <td>+16</td>
+            <td>17+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -573,7 +574,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>8</td>
             <td>+6</td>
             <td>8d6</td>
-            <td>+16</td>
+            <td>17+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -585,7 +586,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>9</td>
             <td>+7</td>
             <td>9d6</td>
-            <td>+17</td>
+            <td>18+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -597,7 +598,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>9</td>
             <td>+7</td>
             <td>9d6</td>
-            <td>+17</td>
+            <td>18+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -609,7 +610,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
             <td>10</td>
             <td>+8</td>
             <td>10d6</td>
-            <td>+17</td>
+            <td>19+</td>
             <td>4</td>
             <td>3</td>
             <td>3</td>
@@ -619,11 +620,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="10" rowspan="3">
-            @ Add your INT modifier to the Save Target.<br/>
-            # Add your INT modifier to the number of Invocation Dice you have.<br/>
-            $ Add your INT modifier to the number of 1st level spells you can prepare.
-            </td>
+            <td colspan="10">$ Add your INT modifier to the number of 1st level spells you can prepare.<br/># Add your INT modifier to the number of Invocation Dice you have.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

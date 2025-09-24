@@ -37,7 +37,7 @@
 **Last Stand:** You do not immediately fall *unconscious* when dropped to 0 HP. Make a difficulty 18 *Doom Save* each round to remain conscious and fighting. You must still follow all the normal *Death Pool* rules.
 
 ### %%Leader%%
-**Leader:** Mercenaries or retainers under your command gain +1 to Morale & Loyalty so long as they can see & hear you.
+**Leader:** Mercenaries or retainers under your command gain *Advantage* to Morale & Loyalty so long as they can see & hear you.
 
 ### %%Main-Gauche%%
 **Main Gauche:** When fighting with a Small melee weapon in your off hand, you gain +1 to both AC and attacks.  See the two-weapon fighting rules for additional details.
@@ -46,7 +46,7 @@
 **Precise Shot:** You ignore cover penalties when making ranged attacks. You may also fire into melee without penalty or the risk of hitting anyone other than your target.
 
 ### %%Protector%%
-**Protector:** While you are in melee with a foe, any attacks that foe makes against a target other than you is done with *Disadvantage*.
+**Protector:** Select one ally within Close range you; any attacks made against that ally are made with *Disadvantage*.  If one die hits but the other misses, check the higher attack roll against your own AC to see if it hits you.
 
 ### %%Reckless%%
 **Reckless:** When you activate this knack, all your melee attacks gain *Advantage* to hit for the remainder of the round. Conversely, all attacks against you have *Advantage* until the end of the next round.
@@ -91,7 +91,7 @@
 **Quick Reflexes:** So long as you are not wearing medium or heavy armor, you may use your Reaction and spend a Fortune Point to take half damage from a single attack that hits you. You may choose to use this ability after seeing the amount of damage done.
 
 ### %%Second-Story-Work%%
-**Second-Story Work:** So long as you are not wearing medium or heavy armor, your movement is not slowed when climbing nor walking along narrow surfaces. Additionally, you take half damage from falls if you pass an Ray + Dexterity Modifier saving throw with a Difficulty of (12 + 1 per 10 feet fallen).
+**Second-Story Work:** So long as you are not wearing medium or heavy armor, your movement is not slowed when climbing nor walking along narrow surfaces. Additionally, you take half damage from falls if you pass a Ray + Dexterity Modifier saving throw with a Difficulty of (12 + 1 per 10 feet fallen).
 
 ### %%Skulker%%
 **Skulker:** While in dim lighting conditions, you have +2 on stealth checks. Additionally, you gain Low-Light Vision. If you already have Low-Light Vision, you gain Darkvision and this knack then also applies in dark lighting conditions.

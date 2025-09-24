@@ -52,15 +52,15 @@ Stowed Items are those packed away and carefully organized to be as compact as p
 These limits represent the amount of gear a character can carry without penalty. An extra 2 Readied Items or 4 Stowed Items (or fractions thereof), reduces a character's Movement by 10 feet and they take a -2 penalty on all Strength and Dexterity Checks. Additionally, for every hour so encumbered, they must make a Constitution Check vs a Difficulty of 12 or gain a level of Exhaustion. Going further beyond this limit; up to 4 Readied Items or 8 Stowed Items, reduces the character's movement to half, increases the Strength and Dexterity check penalties to -4 and increases the Exhaustion Check Difficulty to 15.  Items beyond these limits prevent a character's movement entirely.
 
 ## Movement
-The movement rate of a character or creature is expressed as the number of feet it can move per combat round. The normal player character species can all move 40’ per round. When exploring a dungeon, time is expressed in stretches, as explained above; normal movement per stretch is 3 times the movement rate per round.
+The movement rate of a character or creature is expressed as the number of feet it can move per combat round. Most player character species can all move 40’ per round. When exploring a dungeon, time is expressed in stretches, as explained above; normal movement per stretch is 3 times the movement rate per round.
 
-This may seem slow, but this rate of movement includes such things as drawing maps, watching out for traps and monsters (though they may still surprise the party), etc. In a combat situation, on the other hand, everyone is moving around swiftly, and such things as drawing maps are not important.
+This may seem slow, but this rate of movement includes such things as drawing maps/marking directions, watching out for traps and monsters (though they may still surprise the party), etc. In a combat situation, on the other hand, everyone is moving around swiftly, and such things as drawing maps are not important.
 
 ## Mapping
 In any dungeon expedition, making maps is important. Generally one player will do this, drawing a map on graph paper as the Game Master describes each room or corridor. Absolute accuracy is usually not possible; the main thing is to ensure that the party can find its way back out of the dungeon.
 
 ## Light
-A torch or lantern will provide light covering a 30’ radius; dim light will extend about 20’ further. Normal torches burn for 3p4 stretches (approximately 1 hour), while a flask of oil in a lantern will burn for 2p4 hours (approximately 1 watch). A candle will shed light over a 5’ radius, with dim light extending 5’ further.
+A torch or lantern will provide light covering a 30’ radius; dim light will extend about 20’ further. Normal torches burn for 3p4 stretches (averaging approximately 1 hour), while a flask of oil in a lantern will burn for 2p4 hours (approximately 1 watch). A candle will shed light over a 5’ radius, with dim light extending 5’ further.
 
 ### Dim Lighting
 There are conditions in which there is some light but visibility is still restricted.  Such conditions include mists/fog, full moon nights, torches and lanterns being roughly a room away and so forth.  In these conditions sight-based checks and ranged attacks are made at *Disadvantage*.
@@ -69,10 +69,10 @@ There are conditions in which there is some light but visibility is still restri
 When there isn't even dim lighting (such as underground, a moonless or overcast night, and so forth), characters will find themselves in total darkness.  In this case, everyone is treated as if they had the Blinded condition.
 
 ### Low-Light Vision
-Some beings have eyesight better adapted to dim lighting conditions. These characters can see in Dim light as if it were full daylight, except that the vision will be in black-and-white only. They are still Blinded by total Darkness.
+Some beings have eyesight better adapted to dim lighting conditions. These characters can see in dim light as if it were full daylight, except that the vision will be in black-and-white only. They are still Blinded by total darkness.
 
 ### Darkvision
-Some creatures have true Darkvision, allowing them to not only see normally in Dim lighting (they can still discern color in dim lighting) they also treat full Darkness as normal creatures would treat dim lighting.  This does not allow them to see through magical darkness.
+Some creatures have true Darkvision, allowing them to not only see normally in dim lighting (they can still discern color in dim lighting) they also treat full darkness as normal creatures would treat dim lighting.  This does not allow them to see through magical darkness.
 
 ## Doors
 If a door is stuck or locked, it will have a Force Door difficulty rating for the Strength check required to force it open.  Alternatively, it make also have a Hardness and Structure Point (SP) rating.  The number of SPs is the amount of damage required to render the door ineffective (often knocked off its hinges or out of the door frame rather than total destruction).  The door's Hardness is subtracted from the damage done on each attack.  Piercing weapons only ever do their minimum damage and blunt weapons do only half.  Forcing or destroying a door is a loud process, certainly alerting anything lurking on the other side and potentially drawing wandering monsters to investigate.

@@ -25,6 +25,7 @@ Arcane Warriors blend spellcraft and swordplay into a deadly combination. Not so
 
 ### Skills
 ![](Skills.md#Climb)
+![](Skills.md#Initiative)
 ![](Skills.md#Perception)
 ![](Skills.md#Search)
 ![](Skills.md#Stealth)
@@ -98,11 +99,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+1</td>
             <td>0</td>
             <td>0</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+0</td>
-            <td>+1</td>
+            <td>-1</td>
+            <td>-2</td>
+            <td>-2</td>
+            <td>-4</td>
+            <td>-4</td>
         </tr>
         <tr>
             <td>2</td>
@@ -112,11 +113,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+2</td>
             <td>1</td>
             <td>0</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
             <td>+1</td>
-            <td>+2</td>
+            <td>+0</td>
+            <td>+0</td>
+            <td>-2</td>
+            <td>-2</td>
         </tr>
         <tr>
             <td>3</td>
@@ -126,11 +127,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+2</td>
             <td>1</td>
             <td>0</td>
-            <td>+3</td>
-            <td>+3</td>
-            <td>+3</td>
             <td>+2</td>
-            <td>+3</td>
+            <td>+1</td>
+            <td>+1</td>
+            <td>-1</td>
+            <td>-2</td>
         </tr>
         <tr>
             <td>4</td>
@@ -140,11 +141,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+3</td>
             <td>1</td>
             <td>1</td>
-            <td>+4</td>
-            <td>+4</td>
-            <td>+4</td>
             <td>+3</td>
-            <td>+4</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td>+0</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>5</td>
@@ -154,11 +155,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+4</td>
             <td>1</td>
             <td>1</td>
-            <td>+5</td>
             <td>+4</td>
-            <td>+4</td>
-            <td>+4</td>
-            <td>+5</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td>+2</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>6</td>
@@ -168,11 +169,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+5</td>
             <td>2</td>
             <td>1</td>
-            <td>+5</td>
+            <td>+6</td>
             <td>+5</td>
             <td>+5</td>
             <td>+4</td>
-            <td>+6</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>7</td>
@@ -182,11 +183,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+5</td>
             <td>2</td>
             <td>1</td>
+            <td>+7</td>
             <td>+6</td>
             <td>+6</td>
-            <td>+6</td>
-            <td>+5</td>
-            <td>+6</td>
+            <td>+4</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>8</td>
@@ -196,11 +197,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+6</td>
             <td>2</td>
             <td>2</td>
+            <td>+8</td>
             <td>+7</td>
             <td>+7</td>
-            <td>+7</td>
+            <td>+5</td>
             <td>+6</td>
-            <td>+7</td>
         </tr>
         <tr>
             <td>9</td>
@@ -210,11 +211,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+7</td>
             <td>2</td>
             <td>2</td>
-            <td>+8</td>
-            <td>+8</td>
-            <td>+8</td>
+            <td>+10</td>
+            <td>+9</td>
+            <td>+9</td>
             <td>+7</td>
-            <td>+8</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>10</td>
@@ -224,10 +225,10 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+8</td>
             <td>3</td>
             <td>2</td>
+            <td>+11</td>
+            <td>+10</td>
+            <td>+10</td>
             <td>+9</td>
-            <td>+9</td>
-            <td>+9</td>
-            <td>+8</td>
             <td>+9</td>
         </tr>
         <tr>
@@ -238,11 +239,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+8</td>
             <td>3</td>
             <td>2</td>
-            <td>+10</td>
+            <td>+11</td>
             <td>+10</td>
             <td>+10</td>
             <td>+9</td>
-            <td>+10</td>
+            <td>+9</td>
         </tr>
         <tr>
             <td>12</td>
@@ -252,10 +253,10 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+9</td>
             <td>3</td>
             <td>3</td>
+            <td>+13</td>
+            <td>+12</td>
+            <td>+12</td>
             <td>+11</td>
-            <td>+11</td>
-            <td>+11</td>
-            <td>+9</td>
             <td>+11</td>
         </tr>
         <tr>
@@ -266,10 +267,10 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+10</td>
             <td>3</td>
             <td>3</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>+13</td>
             <td>+12</td>
-            <td>+11</td>
-            <td>+11</td>
-            <td>+10</td>
             <td>+12</td>
         </tr>
         <tr>
@@ -280,11 +281,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+11</td>
             <td>4</td>
             <td>3</td>
-            <td>+13</td>
-            <td>+12</td>
-            <td>+12</td>
-            <td>+11</td>
-            <td>+12</td>
+            <td>+16</td>
+            <td>+15</td>
+            <td>+15</td>
+            <td>+14</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>15</td>
@@ -294,11 +295,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+11</td>
             <td>4</td>
             <td>3</td>
+            <td>+16</td>
+            <td>+15</td>
+            <td>+15</td>
             <td>+14</td>
-            <td>+13</td>
-            <td>+13</td>
-            <td>+12</td>
-            <td>+13</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>16</td>
@@ -308,11 +309,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+12</td>
             <td>4</td>
             <td>4</td>
-            <td>+14</td>
-            <td>+14</td>
-            <td>+14</td>
-            <td>+13</td>
-            <td>+14</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+16</td>
         </tr>
         <tr>
             <td>17</td>
@@ -322,11 +323,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+13</td>
             <td>4</td>
             <td>4</td>
-            <td>+15</td>
-            <td>+15</td>
-            <td>+15</td>
-            <td>+14</td>
-            <td>+15</td>
+            <td>+19</td>
+            <td>+18</td>
+            <td>+18</td>
+            <td>+18</td>
+            <td>+17</td>
         </tr>
         <tr>
             <td>18</td>
@@ -336,11 +337,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+14</td>
             <td>5</td>
             <td>4</td>
-            <td>+16</td>
-            <td>+16</td>
-            <td>+16</td>
-            <td>+14</td>
-            <td>+16</td>
+            <td>+21</td>
+            <td>+20</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>19</td>
@@ -350,11 +351,11 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+14</td>
             <td>5</td>
             <td>4</td>
-            <td>+17</td>
-            <td>+17</td>
-            <td>+17</td>
-            <td>+15</td>
-            <td>+17</td>
+            <td>+21</td>
+            <td>+20</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>20</td>
@@ -364,14 +365,14 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>+15</td>
             <td>5</td>
             <td>5</td>
-            <td>+18</td>
-            <td>+18</td>
-            <td>+18</td>
-            <td>+16</td>
-            <td>+17</td>
+            <td>+22</td>
+            <td>+22</td>
+            <td>+22</td>
+            <td>+21</td>
+            <td>+21</td>
         </tr>
-    </tbody>
-    <tfoot>
+	</tbody>
+	<tfoot>
         <tr>
             <td colspan="12">* CON modifiers no longer apply after level 10.</td>
         </tr>
@@ -403,7 +404,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>0</td>
             <td>+0</td>
             <td>0d6</td>
-            <td>12+</td>
+            <td>11+</td>
             <td>0</td>
             <td>--</td>
             <td>--</td>
@@ -415,7 +416,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>1</td>
             <td>+1</td>
             <td>1d6</td>
-            <td>13+</td>
+            <td>12+</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -427,7 +428,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>1</td>
             <td>+1</td>
             <td>1d6</td>
-            <td>13+</td>
+            <td>12+</td>
             <td>1</td>
             <td>--</td>
             <td>--</td>
@@ -463,7 +464,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>3</td>
             <td>+2</td>
             <td>3d6</td>
-            <td>14+</td>
+            <td>13+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -475,7 +476,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>3</td>
             <td>+2</td>
             <td>3d6</td>
-            <td>14+</td>
+            <td>13+</td>
             <td>2</td>
             <td>1</td>
             <td>--</td>
@@ -535,7 +536,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>6</td>
             <td>+5</td>
             <td>6d6</td>
-            <td>15+</td>
+            <td>16+</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
@@ -547,7 +548,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>6</td>
             <td>+5</td>
             <td>6d6</td>
-            <td>15+</td>
+            <td>16+</td>
             <td>3</td>
             <td>2</td>
             <td>2</td>
@@ -583,7 +584,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>8</td>
             <td>+6</td>
             <td>8d6</td>
-            <td>16+</td>
+            <td>17+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -595,7 +596,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>8</td>
             <td>+6</td>
             <td>8d6</td>
-            <td>16+</td>
+            <td>17+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -607,7 +608,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>9</td>
             <td>+7</td>
             <td>9d6</td>
-            <td>17+</td>
+            <td>18+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -619,7 +620,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>9</td>
             <td>+7</td>
             <td>9d6</td>
-            <td>17+</td>
+            <td>18+</td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -631,7 +632,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
             <td>10</td>
             <td>+8</td>
             <td>10d6</td>
-            <td>17+</td>
+            <td>19+</td>
             <td>4</td>
             <td>3</td>
             <td>3</td>
@@ -641,11 +642,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="10">
-            @ Add your INT modifier to the Save Target.<br/>
-            # Add your INT modifier to the number of Invocation Dice you have.<br/>
-            $ Add your INT modifier to the number of 1st level spells you can prepare.
-            </td>
+            <td colspan="10"># Add your INT modifier to the number of Invocation Dice you have.<br/>@ Add your INT modifier to your Save Target.<br/>$ Add your INT modifier to the number of 1st level spells you can prepare.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

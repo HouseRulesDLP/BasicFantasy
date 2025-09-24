@@ -7,7 +7,7 @@ cssclasses: clean-embeds, bfrpg
 <li><strong>Prime Requisite:</strong> Strength & Dexterity 9+</li>
 <li><strong>Starting Hit Points:</strong> 6 + Constitution Modifier</li>
 <li><strong>Hit Dice (levels 2 to 10):</strong> 1d6 + Constitution Modifer</li>
-<li><strong>Hit Points Level 11+:</strong> +2 per Level</li>
+<li><strong>Hit Points after Level 10:</strong> +2 per Level</li>
 <li><strong>Armor Training:</strong> Light Armor, Bucklers & Shields</li>
 <li><strong>Weapon Training:</strong> All</li>
 </ul>
@@ -23,6 +23,7 @@ There are those who make their living dealing death from the shadows. These peop
 
 ### Skills
 **Climb (+3):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at *Disadvantage*.  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
+![](Skills.md#Initiative)
 
 **Perception (+0):** This skill is used to notice things at a glance. Most classes roll this as a Competence -1 skill check adjusted by the character's Wisdom modifier.
 ![](Skills.md#Search)
@@ -33,7 +34,7 @@ There are those who make their living dealing death from the shadows. These peop
 #### Assassin Skills
 **Brew Poison (-3):** Assassins can craft their own poisons for half the cost of buying one. There will be modifiers based upon how difficult the poison is to make. This is also the skill used to brew an antidote (if the assassin has a sample of the original poison). Use of this skill requires an alchemy kit and downtime. A critical failure of this check subjects the assassin to the poison they are brewing (or making an antidote for). A regular failure simply means that the poison or antidote is ineffective and the ingredients, time and expense of the brewing were wasted.
 
-**Climb Wall (-1):** This goes beyond the normal climbing skill that every adventurer has and even goes beyond the climbing skill of the [ranger](Ranger.md). This skill allows the assassin to climb walls with minimal hand/fingertip holds that would normally be impossible to scale without equipment. Assassins are able to perform normal climbs at +3 and climb cliffs at +1. Rolls are made for each 100ft (or fraction thereof) to be climbed. Failure indicates a fall at the half-way point, suffering falling damage.
+**Climb Wall (-1):** This goes beyond the normal climbing skill that every adventurer has and even goes beyond the climbing skill of the [ranger](Ranger.md). This skill allows the assassin to climb walls with minimal hand/fingertip holds that would normally be impossible to scale without equipment. Assassins are able to perform normal climbs at +3 (already factored into the *climb* skill, above) and climb cliffs at +1. Rolls are made for each 100ft (or fraction thereof) to be climbed. Failure indicates a fall at the half-way point, suffering falling damage.
 
 **Decipher Document (+0):** A successful check allows the assassin to understand the gist of a non-magical text in a language they do not know, break a cipher or identify unusual symbols. Starting at 10th level, magical texts may be read but the roll is made with Disadvantage and this does **not** confer the ability to cast spells from scrolls.
 
@@ -75,7 +76,7 @@ There are those who make their living dealing death from the shadows. These peop
             <th rowspan="2">Talents</th>
             <th rowspan="2">Knacks</th>
             <th rowspan="2">Sneak<br/>Attack</th>
-            <th colspan="5">Alternate Saves</th>
+            <th colspan="5">Saving Throws</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -90,61 +91,61 @@ There are those who make their living dealing death from the shadows. These peop
             <td>1</td>
             <td class="right-align">0</td>
             <td>1d6</td>
-            <td>+0</td>
+            <td>+1</td>
             <td>+1</td>
             <td>0</td>
             <td>0</td>
             <td>+1d4</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+0</td>
-            <td>+1</td>
+            <td>-1</td>
+            <td>-2</td>
+            <td>-2</td>
+            <td>-4</td>
+            <td>-4</td>
         </tr>
         <tr>
             <td>2</td>
             <td class="right-align">1,750</td>
             <td>2d6</td>
-            <td>+1</td>
+            <td>+2</td>
             <td>+2</td>
             <td>1</td>
             <td>0</td>
             <td>+1d4</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
             <td>+1</td>
-            <td>+2</td>
+            <td>+0</td>
+            <td>+0</td>
+            <td>-2</td>
+            <td>-2</td>
         </tr>
         <tr>
             <td>3</td>
             <td class="right-align">3,500</td>
             <td>3d6</td>
-            <td>+1</td>
+            <td>+2</td>
             <td>+2</td>
             <td>1</td>
             <td>1</td>
             <td>+1d4</td>
             <td>+2</td>
-            <td>+2</td>
-            <td>+3</td>
-            <td>+2</td>
-            <td>+3</td>
+            <td>+1</td>
+            <td>+1</td>
+            <td>-1</td>
+            <td>-2</td>
         </tr>
         <tr>
             <td>4</td>
             <td class="right-align">7,000</td>
             <td>4d6</td>
-            <td>+2</td>
+            <td>+3</td>
             <td>+3</td>
             <td>1</td>
             <td>1</td>
             <td>+1d4</td>
             <td>+3</td>
-            <td>+3</td>
-            <td>+4</td>
-            <td>+3</td>
-            <td>+4</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td>+0</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>5</td>
@@ -156,240 +157,240 @@ There are those who make their living dealing death from the shadows. These peop
             <td>2</td>
             <td>+2d4</td>
             <td>+4</td>
+            <td>+3</td>
             <td>+4</td>
-            <td>+5</td>
-            <td>+4</td>
-            <td>+5</td>
+            <td>+2</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>6</td>
-            <td class="right-align">30,000</td>
+            <td class="right-align">28,000</td>
             <td>6d6</td>
-            <td>+3</td>
+            <td>+4</td>
             <td>+5</td>
             <td>2</td>
             <td>2</td>
             <td>+2d4</td>
-            <td>+5</td>
-            <td>+5</td>
-            <td>+5</td>
-            <td>+5</td>
             <td>+6</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td>+4</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>7</td>
-            <td class="right-align">60,000</td>
+            <td class="right-align">56,000</td>
             <td>7d6</td>
             <td>+4</td>
             <td>+5</td>
             <td>2</td>
             <td>3</td>
             <td>+2d4</td>
+            <td>+7</td>
             <td>+6</td>
             <td>+6</td>
-            <td>+6</td>
-            <td>+6</td>
-            <td>+6</td>
+            <td>+5</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>8</td>
-            <td class="right-align">120,000</td>
+            <td class="right-align">108,000</td>
             <td>8d6</td>
             <td>+5</td>
             <td>+6</td>
             <td>2</td>
             <td>3</td>
             <td>+2d4</td>
+            <td>+8</td>
             <td>+7</td>
             <td>+7</td>
-            <td>+7</td>
-            <td>+7</td>
-            <td>+7</td>
+            <td>+6</td>
+            <td>+6</td>
         </tr>
         <tr>
             <td>9</td>
-            <td class="right-align">240,000</td>
+            <td class="right-align">215,000</td>
             <td>9d6</td>
             <td>+5</td>
             <td>+7</td>
             <td>2</td>
             <td>3</td>
             <td>+3d4</td>
-            <td>+8</td>
-            <td>+8</td>
-            <td>+8</td>
+            <td>+10</td>
+            <td>+9</td>
+            <td>+9</td>
             <td>+7</td>
-            <td>+8</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>10</td>
-            <td class="right-align">360,000</td>
+            <td class="right-align">325,000</td>
             <td>10d6</td>
             <td>+6</td>
             <td>+8</td>
             <td>3</td>
             <td>3</td>
             <td>+3d4</td>
+            <td>+11</td>
+            <td>+10</td>
+            <td>+10</td>
             <td>+9</td>
-            <td>+9</td>
-            <td>+9</td>
-            <td>+8</td>
             <td>+9</td>
         </tr>
         <tr>
             <td>11</td>
-            <td class="right-align">480,000</td>
+            <td class="right-align">435,000</td>
             <td>10d6+2</td>
-            <td>+6</td>
+            <td>+7</td>
             <td>+8</td>
             <td>3</td>
             <td>4</td>
             <td>+3d4</td>
+            <td>+11</td>
             <td>+10</td>
+            <td>+11</td>
             <td>+9</td>
-            <td>+10</td>
             <td>+9</td>
-            <td>+10</td>
         </tr>
         <tr>
             <td>12</td>
-            <td class="right-align">600,000</td>
+            <td class="right-align">545,000</td>
             <td>10d6+4</td>
             <td>+7</td>
             <td>+9</td>
             <td>3</td>
             <td>4</td>
             <td>+3d4</td>
+            <td>+13</td>
+            <td>+12</td>
+            <td>+12</td>
             <td>+11</td>
-            <td>+10</td>
-            <td>+11</td>
-            <td>+10</td>
             <td>+11</td>
         </tr>
         <tr>
             <td>13</td>
-            <td class="right-align">720,000</td>
+            <td class="right-align">655,000</td>
             <td>10d6+6</td>
-            <td>+7</td>
+            <td>+8</td>
             <td>+10</td>
             <td>3</td>
-            <td>4</td>
+            <td>5</td>
             <td>+4d4</td>
-            <td>+11</td>
-            <td>+11</td>
-            <td>+12</td>
-            <td>+10</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>+14</td>
+            <td>+13</td>
             <td>+12</td>
         </tr>
         <tr>
             <td>14</td>
-            <td class="right-align">840,000</td>
+            <td class="right-align">765,000</td>
             <td>10d6+8</td>
-            <td>+8</td>
+            <td>+9</td>
             <td>+11</td>
             <td>4</td>
-            <td>4</td>
+            <td>5</td>
             <td>+4d4</td>
-            <td>+12</td>
-            <td>+12</td>
-            <td>+13</td>
-            <td>+11</td>
-            <td>+12</td>
+            <td>+16</td>
+            <td>+15</td>
+            <td>+16</td>
+            <td>+15</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>15</td>
-            <td class="right-align">960,000</td>
+            <td class="right-align">875,000</td>
             <td>10d6+10</td>
-            <td>+8</td>
+            <td>+9</td>
             <td>+11</td>
             <td>4</td>
-            <td>5</td>
+            <td>6</td>
             <td>+4d4</td>
-            <td>+13</td>
-            <td>+12</td>
+            <td>+16</td>
+            <td>+15</td>
+            <td>+16</td>
+            <td>+15</td>
             <td>+14</td>
-            <td>+12</td>
-            <td>+13</td>
         </tr>
         <tr>
             <td>16</td>
-            <td class="right-align">1,080,000</td>
+            <td class="right-align">985,000</td>
             <td>10d6+12</td>
-            <td>+9</td>
+            <td>+10</td>
             <td>+12</td>
             <td>4</td>
-            <td>5</td>
+            <td>6</td>
             <td>+4d4</td>
-            <td>+14</td>
-            <td>+13</td>
-            <td>+15</td>
-            <td>+13</td>
-            <td>+14</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+16</td>
         </tr>
         <tr>
             <td>17</td>
-            <td class="right-align">1,200,000</td>
+            <td class="right-align">1,095,000</td>
             <td>10d6+14</td>
-            <td>+9</td>
+            <td>+10</td>
             <td>+13</td>
             <td>4</td>
             <td>6</td>
             <td>+5d4</td>
-            <td>+15</td>
-            <td>+14</td>
-            <td>+16</td>
-            <td>+14</td>
-            <td>+15</td>
+            <td>+19</td>
+            <td>+18</td>
+            <td>+19</td>
+            <td>+18</td>
+            <td>+17</td>
         </tr>
         <tr>
             <td>18</td>
-            <td class="right-align">1,320,000</td>
+            <td class="right-align">1,205,000</td>
             <td>10d6+16</td>
-            <td>+10</td>
+            <td>+11</td>
             <td>+14</td>
             <td>5</td>
             <td>6</td>
             <td>+5d4</td>
-            <td>+15</td>
-            <td>+15</td>
-            <td>+17</td>
-            <td>+15</td>
-            <td>+16</td>
+            <td>+21</td>
+            <td>+20</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>19</td>
-            <td class="right-align">1,440,000</td>
+            <td class="right-align">1,315,000</td>
             <td>10d6+18</td>
-            <td>+10</td>
+            <td>+11</td>
             <td>+14</td>
             <td>5</td>
             <td>7</td>
             <td>+5d4</td>
-            <td>+16</td>
-            <td>+16</td>
-            <td>+18</td>
-            <td>+16</td>
-            <td>+17</td>
+            <td>+21</td>
+            <td>+20</td>
+            <td>+21</td>
+            <td>+20</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>20</td>
-            <td class="right-align">1,560,000</td>
+            <td class="right-align">1,425,000</td>
             <td>10d6+20</td>
-            <td>+11</td>
+            <td>+12</td>
             <td>+15</td>
             <td>5</td>
             <td>7</td>
             <td>+5d4</td>
-            <td>+17</td>
-            <td>+17</td>
-            <td>+18</td>
-            <td>+17</td>
-            <td>+17</td>
+            <td>+22</td>
+            <td>+22</td>
+            <td>+22</td>
+            <td>+21</td>
+            <td>+21</td>
         </tr>
-	</tbody>
-	<tfoot>
+    </tbody>
+    <tfoot>
         <tr>
             <td colspan="13">* CON modifiers no longer apply after level 10.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

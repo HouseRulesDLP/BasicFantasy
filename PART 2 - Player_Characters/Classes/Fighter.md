@@ -18,14 +18,15 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
 ### Starting Equipment
 - 2d6sp
 - Adventurers' Pack
-- Archer's Pack or
-  Hoplite's Pack or
-  Skirmisher's Pack and +2d6sp or
-  Warrior's Pack
+- Archer's Pack or<br/>
+  Hoplite's Pack or<br/>
+  Warrior's Pack or<br/>
+  Skirmisher's Pack and +2d6sp
 
 
 ### Adventurer Skills
 ![](Skills.md#Climb)
+![](Skills.md#Initiative)
 ![](Skills.md#Perception)
 ![](Skills.md#Search)
 ![](Skills.md#Stealth)
@@ -92,11 +93,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+1</td>
             <td>0</td>
             <td>1</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+1</td>
-            <td>+1</td>
             <td>+0</td>
+            <td>-1</td>
+            <td>-2</td>
+            <td>-3</td>
+            <td>-4</td>
         </tr>
         <tr>
             <td>2</td>
@@ -107,10 +108,10 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>1</td>
             <td>1</td>
             <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>+2</td>
             <td>+1</td>
+            <td>+0</td>
+            <td>-1</td>
+            <td>-2</td>
         </tr>
         <tr>
             <td>3</td>
@@ -120,11 +121,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+2</td>
             <td>1</td>
             <td>2</td>
-            <td>+3</td>
-            <td>+3</td>
-            <td>+3</td>
-            <td>+3</td>
             <td>+2</td>
+            <td>+1</td>
+            <td>+0</td>
+            <td>+0</td>
+            <td>-2</td>
         </tr>
         <tr>
             <td>4</td>
@@ -135,10 +136,10 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>1</td>
             <td>2</td>
             <td>+4</td>
-            <td>+4</td>
-            <td>+4</td>
-            <td>+4</td>
             <td>+3</td>
+            <td>+2</td>
+            <td>+1</td>
+            <td>+0</td>
         </tr>
         <tr>
             <td>5</td>
@@ -149,10 +150,10 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>1</td>
             <td>3</td>
             <td>+5</td>
-            <td>+5</td>
-            <td>+5</td>
-            <td>+5</td>
             <td>+4</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>6</td>
@@ -162,11 +163,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+5</td>
             <td>2</td>
             <td>3</td>
-            <td>+6</td>
-            <td>+6</td>
-            <td>+6</td>
+            <td>+7</td>
             <td>+6</td>
             <td>+5</td>
+            <td>+5</td>
+            <td>+3</td>
         </tr>
         <tr>
             <td>7</td>
@@ -176,11 +177,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+5</td>
             <td>2</td>
             <td>4</td>
+            <td>+8</td>
             <td>+7</td>
-            <td>+7</td>
-            <td>+7</td>
-            <td>+7</td>
-            <td>+5</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>8</td>
@@ -190,11 +191,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+6</td>
             <td>2</td>
             <td>4</td>
+            <td>+9</td>
             <td>+8</td>
-            <td>+8</td>
-            <td>+8</td>
-            <td>+8</td>
-            <td>+6</td>
+            <td>+7</td>
+            <td>+7</td>
+            <td>+5</td>
         </tr>
         <tr>
             <td>9</td>
@@ -204,8 +205,8 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+7</td>
             <td>2</td>
             <td>5</td>
-            <td>+9</td>
-            <td>+9</td>
+            <td>+11</td>
+            <td>+10</td>
             <td>+9</td>
             <td>+9</td>
             <td>+7</td>
@@ -218,10 +219,10 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+8</td>
             <td>3</td>
             <td>5</td>
+            <td>+12</td>
+            <td>+11</td>
             <td>+10</td>
-            <td>+10</td>
-            <td>+10</td>
-            <td>+10</td>
+            <td>+11</td>
             <td>+8</td>
         </tr>
         <tr>
@@ -232,8 +233,8 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+8</td>
             <td>3</td>
             <td>6</td>
-            <td>+11</td>
-            <td>+11</td>
+            <td>+13</td>
+            <td>+12</td>
             <td>+11</td>
             <td>+11</td>
             <td>+9</td>
@@ -246,10 +247,10 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+9</td>
             <td>3</td>
             <td>6</td>
+            <td>+14</td>
+            <td>+13</td>
             <td>+12</td>
-            <td>+12</td>
-            <td>+12</td>
-            <td>+12</td>
+            <td>+13</td>
             <td>+10</td>
         </tr>
         <tr>
@@ -260,11 +261,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+10</td>
             <td>3</td>
             <td>7</td>
-            <td>+13</td>
-            <td>+13</td>
-            <td>+13</td>
-            <td>+13</td>
-            <td>+11</td>
+            <td>+16</td>
+            <td>+15</td>
+            <td>+14</td>
+            <td>+15</td>
+            <td>+12</td>
         </tr>
         <tr>
             <td>14</td>
@@ -274,11 +275,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+11</td>
             <td>4</td>
             <td>7</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+17</td>
             <td>+14</td>
-            <td>+14</td>
-            <td>+14</td>
-            <td>+14</td>
-            <td>+11</td>
         </tr>
         <tr>
             <td>15</td>
@@ -288,11 +289,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+11</td>
             <td>4</td>
             <td>8</td>
-            <td>+15</td>
-            <td>+15</td>
-            <td>+15</td>
-            <td>+15</td>
-            <td>+12</td>
+            <td>+18</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+17</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>16</td>
@@ -302,11 +303,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+12</td>
             <td>4</td>
             <td>8</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+18</td>
+            <td>+19</td>
             <td>+16</td>
-            <td>+16</td>
-            <td>+16</td>
-            <td>+16</td>
-            <td>+13</td>
         </tr>
         <tr>
             <td>17</td>
@@ -316,11 +317,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+13</td>
             <td>4</td>
             <td>9</td>
+            <td>+21</td>
+            <td>+20</td>
+            <td>+19</td>
+            <td>+21</td>
             <td>+17</td>
-            <td>+17</td>
-            <td>+17</td>
-            <td>+17</td>
-            <td>+14</td>
         </tr>
         <tr>
             <td>18</td>
@@ -330,11 +331,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+14</td>
             <td>5</td>
             <td>9</td>
-            <td>+18</td>
-            <td>+18</td>
-            <td>+18</td>
-            <td>+18</td>
-            <td>+15</td>
+            <td>+23</td>
+            <td>+22</td>
+            <td>+21</td>
+            <td>+22</td>
+            <td>+19</td>
         </tr>
         <tr>
             <td>19</td>
@@ -344,11 +345,11 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+14</td>
             <td>5</td>
             <td>10</td>
+            <td>+23</td>
+            <td>+22</td>
+            <td>+21</td>
+            <td>+23</td>
             <td>+19</td>
-            <td>+19</td>
-            <td>+19</td>
-            <td>+19</td>
-            <td>+16</td>
         </tr>
         <tr>
             <td>20</td>
@@ -358,16 +359,16 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <td>+15</td>
             <td>5</td>
             <td>10</td>
-            <td>+20</td>
-            <td>+20</td>
-            <td>+19</td>
-            <td>+20</td>
-            <td>+17</td>
+            <td>+24</td>
+            <td>+24</td>
+            <td>+23</td>
+            <td>+24</td>
+            <td>+21</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
             <td colspan="12">* CON modifiers no longer apply after level 10.</td>
         </tr>
-    </tfoot>
+	</tfoot>
 </table>

@@ -1,200 +1,100 @@
 ### Monster
-<table>
+<table class="monster">
 	<tbody>
 		<tr>
-			<td class="sub-header" colspan=7>Name</td>
+			<td class="sub-header" colspan=7></td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Tags:</b></td>
-			<td class="left-align" colspan=6></td>
+			<td class="field"><b>Tags:</b></td>
+			<td class="data" colspan=6></td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>No. Appearing:</b></td>
-			<td class="left-align" colspan=6></td>
+			<td class="field"><b>No. Appearing:</b></td>
+			<td class="data" colspan=6></td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Initiative:</b></td>
-			<td class="left-align" colspan=6></td>
+			<td class="field"><b>Initiative:</b></td>
+			<td class="data" colspan=6>+#</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Hit Dice:</b></td>
-			<td class="left-align" colspan=6></td>
+			<td class="field"><b>Hit Dice:</b></td>
+			<td class="data" colspan=6>#d8+# (##hp)</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Size:</b></td>
-			<td class="left-align" colspan=6></td>
+			<td class="field"><b>Size:</b></td>
+			<td class="data" colspan=6>Medium</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Armor Class:</b></td>
-			<td class="left-align" colspan=6></td>
+			<td class="field"><b>Armor Class:</b></td>
+			<td class="data" colspan=6>10 (natural)</td>
 		</tr>
 		<tr>
-			<td class="left-align" rowspan=2><b>Saving Throws:</b></td>
-			<td align="center"><b>Doom</b></td>
-			<td align="center"><b>Ray</b></td>
-			<td align="center"><b>Hold</b></td>
-			<td align="center"><b>Blast</b></td>
-			<td align="center"><b>Spell</b></td>
-			<td rowspan=2></td>
+			<td class="field" rowspan=2><b>Saving Throws:</b></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
 		</tr>
 		<tr>
-    		<td align="center">+0</td>
-    		<td align="center">+0</td>
-    		<td align="center">+0</td>
-    		<td align="center">+0</td>
-    		<td align="center">+0</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Morale:</b></td>
-			<td class="left-align" colspan=6></td>
+			<td class="field"><b>Morale:</b></td>
+			<td class="data" colspan=6>+#</td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Movement:</b></td>
-			<td class="left-align" colspan=6></td>
+			<td class="field"><b>Movement:</b></td>
+			<td class="data" colspan=6>40'</td>
 		</tr>
 		<tr>
-			<td class="left-align" rowspan=3><b>Abilities:</b></td>
-			<td align="center"><b>ST</b></td>
-			<td align="center"><b>DX</b></td>
-			<td align="center"><b>CN</b></td>
-			<td align="center"><b>IN</b></td>
-			<td align="center"><b>WI</b></td>
-			<td align="center"><b>CH</b></td>
+			<td class="field" rowspan=3><b>Abilities:</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
 		</tr>
 		<tr>
-    		<td align="center">10</td><!--ST-->
-    		<td align="center">10</td><!--DX-->
-    		<td align="center">10</td><!--CN-->
-    		<td align="center">10</td><!--IN-->
-    		<td align="center">10</td><!--WI-->
-    		<td align="center">10</td><!--CH-->
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">10</td><!--DX-->
+    		<td class="data">10</td><!--CN-->
+    		<td class="data">10</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">10</td><!--CH-->
 		</tr>
 		<tr>
-    		<td align="center">+0</td><!--ST-->
-    		<td align="center">+0</td><!--DX-->
-    		<td align="center">+0</td><!--CN-->
-    		<td align="center">+0</td><!--IN-->
-    		<td align="center">+0</td><!--WI-->
-    		<td align="center">+0</td><!--CH-->
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">+0</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">+0</td><!--CH-->
 		</tr>
 		<tr>
-    		<td class="left-align"><b>Attack Bonus:</b></td>
-    		<td class="left-align" colspan=6></td>
+    		<td class="field"><b>Attack Bonus:</b></td>
+    		<td class="data" colspan=6>+0</td>
 		</tr>
 		<tr>
-			<td class="left-align" rowspan=3><b>Attacks:</b></td>
-			<td class="left-align" colspan=6>Attack (TH +#, Dmg #d#)</td>
+			<td class="field" rowspan=2><b>Attacks:</b></td>
+			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
 		</tr>
 		<tr>
-    		<td class="left-align" colspan=6>Attack (TH +#, Dmg #d#)</td>
+    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
 		</tr>
 		<tr>
-    		<td class="left-align" colspan=6>Attack (TH +#, Dmg #d#)</td>
+			<td class="field"><b>Treasure:</b></td>
+			<td class="data" colspan=6></td>
 		</tr>
 		<tr>
-			<td class="left-align"><b>Treasure:</b></td>
-			<td class="left-align" colspan=6></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>XP:</b></td>
-			<td class="left-align" colspan=6></td>
-		</tr>
-	</tbody>
-</table>
-
-#### Description
-{description}
-
-#### Special Abilities
-{special abilities}
-
-#### Treasure
-{treasure}
-
-### Monster-Group
-<table>
-	<tbody>
-		<tr>
-			<td class="sub-header"></td>
-			<td class="sub-header">name</td>
-			<td class="sub-header">name</td>
-			<td class="sub-header">name</td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Tags:</b></td>
-			<td colspan=3></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>No. Appearing:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Initiative:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Hit Dice:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Size:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Armor Class:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Saving Throws:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Morale:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Movement:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Abilities:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Treasure:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>XP:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td class="left-align"><b>Attacks:</b></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td class="field"><b>XP:</b></td>
+			<td class="data" colspan=6>0</td>
 		</tr>
 	</tbody>
 </table>
