@@ -40,7 +40,7 @@ Trickster’s are thieves who’ve studied a bit of magic. While not as versatil
 
 **Legerdemain (-1):** A successful check allows a Trickster to perform a trick of sleight of hand, such as palming a small object, slipping a poison into a drink, or pilfering a small item in the possession of another creature.
 
-**Pick Lock (-1):** A successful check allows a Trickster to open a mechanical lock without the key. Magical locks may also be attempted, and thanks to their magical training, they do not suffer Disadvantage. This requires the use of thieves' tools and at least one Turn. A failed check may not be retried unless the Trickster has some way to improve their chances. On a natural 1, the Trickster must make a Doom Save or accidentally jam the lock, rendering it impossible to open without force.
+**Pick Lock (-1):** A successful check allows a Trickster to open a mechanical lock without the key. Magical locks may also be attempted, and thanks to their magical training, they do not suffer [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage). This requires the use of thieves' tools and at least one Turn. A failed check may not be retried unless the Trickster has some way to improve their chances. On a natural 1, the Trickster must make a Doom Save or accidentally jam the lock, rendering it impossible to open without force.
 
 **Arcana:** This is the Trickster's skill with arcane magic and knowledge (specifically Sorcery). The following skills (Detect Magic, Prepare Scroll, Brew Potion and Create Minor Magic Item) are based off of this skill.
 

@@ -22,7 +22,7 @@ There are those who make their living dealing death from the shadows. These peop
 - Disguise Kit
 
 ### Skills
-**Climb (+3):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at *Disadvantage*.  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
+**Climb (+3):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
 ![](Skills.md#Initiative)
 
 **Perception (+0):** This skill is used to notice things at a glance. Most classes roll this as a Competence -1 skill check adjusted by the character's Wisdom modifier.
@@ -36,7 +36,7 @@ There are those who make their living dealing death from the shadows. These peop
 
 **Climb Wall (-1):** This goes beyond the normal climbing skill that every adventurer has and even goes beyond the climbing skill of the [ranger](Ranger.md). This skill allows the assassin to climb walls with minimal hand/fingertip holds that would normally be impossible to scale without equipment. Assassins are able to perform normal climbs at +3 (already factored into the *climb* skill, above) and climb cliffs at +1. Rolls are made for each 100ft (or fraction thereof) to be climbed. Failure indicates a fall at the half-way point, suffering falling damage.
 
-**Decipher Document (+0):** A successful check allows the assassin to understand the gist of a non-magical text in a language they do not know, break a cipher or identify unusual symbols. Starting at 10th level, magical texts may be read but the roll is made with Disadvantage and this does **not** confer the ability to cast spells from scrolls.
+**Decipher Document (+0):** A successful check allows the assassin to understand the gist of a non-magical text in a language they do not know, break a cipher or identify unusual symbols. Starting at 10th level, magical texts may be read but the roll is made with [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) and this does **not** confer the ability to cast spells from scrolls.
 
 **Disguise (+0):** Assassins frequently have to appear as someone else in order to get close to a victim. Each time someone new is encountered an opposed roll between the Assassin's *Disguise* skill and the observer's *Perception* skill should be made. If the assassin wins, the disguise fools the observer. If the assassin loses by 4 or less, the observer may be suspicions, but they don't know for certain that it's a disguise. If the assassin fails by 5 or more, the observer sees through the disguise entirely. Attempting to pass as another species will incur penalties based on how different the GM feels the character's species is from the species they are trying to pass as (typically a human will have an easier time passing for an elf than a goblin).
 

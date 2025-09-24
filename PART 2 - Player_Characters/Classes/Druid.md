@@ -58,11 +58,11 @@ Having a Focus in hand does not count against needing a free hand for spell cast
 
 ### Special Abilities
 
-**Charm Immunity:** Starting at 3rd level, Druids have *Advantage* on all saving throws to resist the Charms and Illusions of Fae and Natural creatures. Beginning at 5th level, the Druid becomes *Immune* to these affects from Natural creatures and this expands to Fae creatures by 7th level.
+**Charm Immunity:** Starting at 3rd level, Druids have [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on all saving throws to resist the Charms and Illusions of Fae and Natural creatures. Beginning at 5th level, the Druid becomes *Immune* to these affects from Natural creatures and this expands to Fae creatures by 7th level.
 
 **Languages:** At 1st level, Druids learn Sylvan. Every level thereafter, they learn to speak one new language.  Starting at 2nd level, they may learn an animal (feline, canine, ursine, avian, insect, arachnid, fish, cephalopod, shark, etc.) or plant (terrestrial or aquatic) language. At 5th level, they can begin learning fae (dryad, wyrm, pixie, etc.) languages. At 9th level, they can begin learning elemental languages (Primordial, Auran, Aquan, Ignan and Terran).
 
-**Pass Without Trace:** Starting at 3rd level, a druid can pass through natural environments without leaving any tracks. The character is also able to move through rough terrain caused by vegetation at normal speed and without impediment. This ability imposes *Disadvantage* on attempts to track the druid through natural terrain. By 5th level, this ability expands to the druid's companions, so long as they remain within 15ft of the druid.
+**Pass Without Trace:** Starting at 3rd level, a druid can pass through natural environments without leaving any tracks. The character is also able to move through rough terrain caused by vegetation at normal speed and without impediment. This ability imposes [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on attempts to track the druid through natural terrain. By 5th level, this ability expands to the druid's companions, so long as they remain within 15ft of the druid.
 
 **Shapechanger:** At 2nd level, a druid gains the ability to change form into that of any natural terrestrial animal they are familiar with. The form assumed may not have more Hit Dice than the druid has levels. At 3rd level, this ability expands to include natural aquatic and amphibious animals. At 5th level, the druid may take the form of a natural avian animal. By 7th level, the druid may take the form of fae animals (such as basilisks, winter wolves, and the like). Finally at 11th level, the druid may shape-change into the form of an elemental.
 

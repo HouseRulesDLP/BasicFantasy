@@ -84,7 +84,7 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
 ### Special Abilities
 **Laying on Hands:** The touch of a paladin may heal the touched creature a number of hit points equal to that creature's Constitution Modifier (minimum of 1).  The paladin may use this ability once per day per level.  Starting at 5th level, the paladin's touch may cure one natural disease. This expands to two uses at level 10, three at level 15 and four at level 20.
 
-**Purity of Body:** Paladins have *Advantage* on all saving throws to resist disease.
+**Purity of Body:** Paladins have [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on all saving throws to resist disease.
 
 **Smite:** Paladins may infuse holy power into their strikes. After a successful hit against an unholy creature (as would be affected but their [Turning the Unholy](#Turning%20the%20Unholy) ability), they may choose to roll one of their Invocation Dice and add it to the damage. The invocation die is expended if it rolls a 1 or 2, as normal. This damage is considered to be holy magic for the purposes of overcoming damage resistance and immunity. At level 5, the paladin may invest 2 Invocation Dice on a single attack. This expands to three dice at level 10, four dice at level 15 and 5 dice at level 20. Note that, while invocation dice used this way may be expended, they cannot suffer a *Mishap*.
 

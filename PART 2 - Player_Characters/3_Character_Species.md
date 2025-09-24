@@ -24,7 +24,7 @@ Dwarves are a short, stocky species; both male and female Dwarves average around
 #### Dust of Ages
 The age of the dwarf is long since past. A Dwarf’s Base and Max Fortune Points are reduced by 1 (to a minimum 1 **Max Fortune**).
 #### Enduring as Stone
-Dwarves have endurance beyond that of humans.  They gain +1 HP per level.  Additionally, hit points rolled to heal a dwarf are rolled with *Advantage*.
+Dwarves have endurance beyond that of humans.  They gain +1 HP per level.  Additionally, hit points rolled to heal a dwarf are rolled with [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 #### Fortitude of Iron
 Dwarves have a +2 bonus on saving throws to resist poison and disease.
 #### Low-Light Vision
@@ -82,7 +82,7 @@ Giantkin are believed to have the blood of true giants running in their veins.  
 Giantkin calculate their encumbrance limits as if their Strength score were 4 points higher.
 
 #### Massive
-Giantkin treat two-handed melee weapons as if they were Versatile and Versatile weapons as if they were one-handed (while still gaining *Advantage* on damage rolls).  However, their large hands wield small weapons with *Disadvantage* and any armor built for their size costs 4 times the normal amount.  Finally, they must eat 4 times as much as a human.
+Giantkin treat two-handed melee weapons as if they were Versatile and Versatile weapons as if they were one-handed (while still gaining [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on damage rolls).  However, their large hands wield small weapons with *Disadvantage* and any armor built for their size costs 4 times the normal amount.  Finally, they must eat 4 times as much as a human.
 
 ## Goblin
 **AKA:** Kobold, Koballus, Luton, Skreetok<br/>

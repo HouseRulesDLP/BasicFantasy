@@ -5,9 +5,9 @@ cssclasses: clean-embeds, bfrpg
 Experience points are given for foes overcome, treasure obtained, and quests completed. 
 
 ### Foe XP
-The following table provides XP values for foes overcome, though this does not necessarily mean killed.  A foes bargained with, intimidated, snuck past or otherwise "defeated" counts.  In some cases, where the GM determines the challenge was less or greater than expected or only a partial "victory" was obtained, these values may be adjusted up or down accordingly.
+The following table provides XP values for foes overcome, though this does not necessarily mean killed.  A foe bargained with, intimidated, snuck past or otherwise "defeated" counts.  In some cases, where the GM determines the challenge was less or greater than expected or only a partial "victory" was obtained, these values may be adjusted up or down accordingly.
 
-Where a foe has both a character level and hit dice given, use the larger value as the foe’s level.
+Where a foe has both a character level and hit dice given, use the larger value as the foe’s level and add a "special ability" asterisk.
 
 If asterisks appear after the hit dice listing for a foe, each asterisk adds the special ability bonus once; for example, a creature with a hit dice figure of 2** is worth 56 XP.
 
@@ -48,7 +48,7 @@ NPCs should be treated as foes of a number of hit dice equivalent to the NPC’s
 
 
 ### Treasure Obtained
-Treasure does not earn XP unless that treasure is "wasted" or spent in such a way that it does not benefit any PC or the party in any way other than "social" or "role-play" benefits (this includes hirelings and allies).  For example, treasure blown on several nights of carousing would earn XP for the character.  However, treasure spent to purchase a new suit of armor would not.  If carousing doesn't fit for your character concept, then look at your characters passions for inspiration for ways to "waste" your treasure.  For example, someone with the passion to "Spread the faith of the Great Church" could gain XP for tithing to their church, and earn a good name for themselves in the process.  Likewise, someone who's passion is "Travelling to new places and meeting new cultures" would be perfectly justified in counting money spent on useless souvenirs of each new location visited toward their XP.  Treasure eligible to be counted for XP earns the character 1 XP per SP value.
+Treasure does not earn XP unless that treasure is "wasted" or spent in such a way that it does not benefit any PC or the party in any material way (including hirelings and allies).  For example, treasure blown on several nights of carousing would earn XP for the character.  However, treasure spent to purchase a new suit of armor would not.  If carousing doesn't fit for your character concept, then look at your characters passions for inspiration for ways to "waste" your treasure.  For example, someone with the passion to "Spread the faith of the Great Church" could gain XP for tithing to their church, and earn a good name for themselves in the process.  Likewise, someone who's passion is "Travelling to new places and meeting new cultures" would be perfectly justified in counting money spent on useless souvenirs at each new location visited toward their XP.  Treasure eligible to be counted for XP earns the character 1 XP per SP value.
 
 ### Quests Completed
 How much XP a quest is worth depends partly on the level of the PCs taking part in the quest.  Calculate the average level of the party and consult the table below:

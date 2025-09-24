@@ -6,7 +6,7 @@ cssclasses:
 Everyone did something before they became an adventurer. Roll (1d100) or select from the Background Career Table to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment. Your character is automatically proficient with any weapon provided by their background occupation, but not the entire weapon weight class.
 
 ## Using Background Careers
-If your character is making a d20 check to which their background career would apply, but they don't have a specific class skill for, the roll is made using their Skill Bonus at -3.  In the rare instance where both your class and background apply to a roll, use your class skill at *Advantage*.
+If your character is making a d20 check to which their background career would apply, but they don't have a specific class skill for, the roll is made using their Skill Bonus at -3.  In the rare instance where both your class and background apply to a roll, use your class skill at [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
 ## Background Career Table  
 The column used for the roll should be chosen based on the culture in which your character was raised.

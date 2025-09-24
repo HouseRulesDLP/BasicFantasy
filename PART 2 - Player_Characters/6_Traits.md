@@ -83,7 +83,7 @@ You gain a +2 bonus on all reaction rolls involving natural, fae or giant animal
 
 #### Armor Training (light/medium/heavy)
 **Prerequisite:** none<br/>
-Your character understands how to move in a particular weight of armor effectively. They must have light armor training before they can take medium. They must have medium armor training before they can take heavy. Without this Trait (or equivalent Class Ability), a character suffers Disadvantage on any Physical Checks while wearing armor they have not been trained for.
+Your character understands how to move in a particular weight of armor effectively. They must have light armor training before they can take medium. They must have medium armor training before they can take heavy. Without this Trait (or equivalent Class Ability), a character suffers [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on any Physical Checks while wearing armor they have not been trained for.
 
 #### Broad Skills
 **Prerequisite:** none<br/>
@@ -95,7 +95,7 @@ Your character can recover 1 level of Exhaustion with a Short Rest.
 
 #### Contortionist
 **Prerequisite:** Dexterity 13+<br/>
-Your character makes rolls to escape restraints with *Advantage*.
+Your character makes rolls to escape restraints with [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
 #### Die Hard
 **Prerequisite:** Constitution 13+<br/>
@@ -111,11 +111,11 @@ Your character's starting and max Fortune Point values increase by 1 each. This 
 
 #### Healer
 **Prerequisite:** Wisdom 13+<br/>
-Your character is a gifted practitioner of medicine. When caring for someone who is healing, their rate of HP recovery is increased by a number of HP equal to the patient's HD. The patient also has *Advantage* on rolls to recover from disease, poison and lingering injuries. Additionally, your character has *Advantage* when attempting to stabilize a dying character.
+Your character is a gifted practitioner of medicine. When caring for someone who is healing, their rate of HP recovery is increased by a number of HP equal to the patient's HD. The patient also has [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on rolls to recover from disease, poison and lingering injuries. Additionally, your character has *Advantage* when attempting to stabilize a dying character.
 
 #### Intimidating
 **Prerequisite:** Charisma and Strength 11+<br/>
-You gain *Advantage* on Charisma checks to intimidate, threaten or brow-beat others. This will not win you any friends.
+You gain [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on Charisma checks to intimidate, threaten or brow-beat others. This will not win you any friends.
 
 #### Leadership
 **Prerequisite:** Charisma 13+<br/>
@@ -123,11 +123,11 @@ Add three to your maximum number of hirelings.  Additionally, all of your hireli
 
 #### Linguist
 **Prerequisite:** Intelligence 11+<br/>
-Due to study and a gift for languages, your character knows three additional languages.  You also gain the Decipher Document ability as a [Bard](Bard.md#Bard%20Skills).  If your character already has the Decipher Document skill, then this trait grants *Advantage* on rolling that skill. This trait may be taken multiple times, gaining three new languages each time.
+Due to study and a gift for languages, your character knows three additional languages.  You also gain the Decipher Document ability as a [Bard](Bard.md#Bard%20Skills).  If your character already has the Decipher Document skill, then this trait grants [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on rolling that skill. This trait may be taken multiple times, gaining three new languages each time.
 
 #### Merchant's Eye
 **Prerequisite:** none<br/>
-Your character has a gift for appraising objects of various sorts. Under ordinary circumstances, he automatically knows the approximate value of any item. If a roll is deemed necessary, the character makes it as a Skilled check. If it is already a Skilled check for the character (such as being of the Merchant background), they have *Advantage* on appraisal checks.
+Your character has a gift for appraising objects of various sorts. Under ordinary circumstances, he automatically knows the approximate value of any item. If a roll is deemed necessary, the character makes it as a Skilled check. If it is already a Skilled check for the character (such as being of the Merchant background), they have [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on appraisal checks.
 
 #### Second Wind
 **Prerequisite:** Constitution 11+<br/>
@@ -165,7 +165,7 @@ When your character is armed with two daggers, he receives a +1 bonus to hit, a 
 
 #### Mage Slayer
 **Prerequisite:** An attack bonus of +2 or greater<br/>
-If a creature within melee reach casts a spell, your character may use their reaction to make a melee attack against it. When a creature must make a Concentration Check due to your character's actions, it does so with *Disadvantage*.
+If a creature within melee reach casts a spell, your character may use their reaction to make a melee attack against it. When a creature must make a Concentration Check due to your character's actions, it does so with [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
 #### Off-Hand Proficiency
 **Prerequisite:** An attack bonus of +1 or greater and Dexterity of 11+<br/>
@@ -206,7 +206,7 @@ You gain access to an additional Arcane Tradition.
 
 #### Potent Magic
 **Prerequisite:** The ability to cast spells.<br/>
-Your character picks two spells that she already knows. Saving Throws to resist these spells are performed with *Disadvantage*. This trait may be taken multiple times, applying to different spells each time.
+Your character picks two spells that she already knows. Saving Throws to resist these spells are performed with [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage). This trait may be taken multiple times, applying to different spells each time.
 
 #### Supreme Concentration
 **Prerequisite:** The ability to cast spells.<br/>
@@ -232,7 +232,7 @@ The caster picks two spells they already know. These spells no longer count as h
 
 #### {Beast} Speech
 **Prerequisite:** none<br/>
-Whether because of heritage, a mystical pact, or an unknown gift, your character has a great affinity with the named type of animal. She may speak with them, has a rough sense of when they are nearby, and gains *Advantage* on any D20 Checks involving them. This trait may be taken multiple times, applying to a different animal type each time.
+Whether because of heritage, a mystical pact, or an unknown gift, your character has a great affinity with the named type of animal. She may speak with them, has a rough sense of when they are nearby, and gains [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on any D20 Checks involving them. This trait may be taken multiple times, applying to a different animal type each time.
 
 #### Cat's Eyes
 **Prerequisite:** none<br/>
@@ -240,7 +240,7 @@ You gain the Low-Light Vision trait if you do not already have it. If you do, yo
 
 #### Child of the {Terrain}
 **Prerequisite:** none<br/>
-Pick a terrain type (such as forest, desert, ocean, mountain, etc). Your character can never become lost in this terrain except by magical means. Additionally, sometimes the spirits of the land in this terrain whisper to her and she gains *Advantage* on any Charisma Check to interact with such spirits. This trait may be taken multiple times, applying to a different terrain type each time.
+Pick a terrain type (such as forest, desert, ocean, mountain, etc). Your character can never become lost in this terrain except by magical means. Additionally, sometimes the spirits of the land in this terrain whisper to her and she gains [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on any Charisma Check to interact with such spirits. This trait may be taken multiple times, applying to a different terrain type each time.
 
 #### Fae Touched
 **Prerequisite:** none<br/>
@@ -274,7 +274,7 @@ Your character has the frightening ability to look into another’s soul.  When 
 
 #### Spirit Friend
 **Prerequisite:** none<br/>
-For some reason, spirits are naturally disposed to like or obey your character. Perhaps he is more real to them than other physical beings, or has a mystical heritage of some sort. Your character gains *Advantage* on all social checks involving disembodied spirits and on all rolls to summon or bind them.
+For some reason, spirits are naturally disposed to like or obey your character. Perhaps he is more real to them than other physical beings, or has a mystical heritage of some sort. Your character gains [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on all social checks involving disembodied spirits and on all rolls to summon or bind them.
 
 #### Touched by Magic
 **Prerequisite:** none<br/>

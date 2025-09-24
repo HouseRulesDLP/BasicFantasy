@@ -1,7 +1,7 @@
 ### Adventurer Skills
 
 #### %%Climb%%
-**Climb (+0):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at *Disadvantage*.  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
+**Climb (+0):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
 
 #### %%Initiative%%
 **Initiative (+0):**  This skill indicates how quickly a character reacts in combat.  It can also be used for matters of reflex and other "snap" reactions. See the [Initiative](Combat_Encounters.md#Initiative) rules for more detail.

@@ -7,7 +7,7 @@ There may come times when an adventuring group finds themselves in need of speci
 ### Loyalty
 Long-term **Hirelings** and all **Allies** have a **Loyalty Rating** describing how reliable the NPC is to the PC leading them. Loyalty typically starts at +0 (Average) and will change over time depending on the hireling’s relationship with their employer.
 
-A **Hireling** who attains a **Loyalty** of Elite or higher is a potential candidate to become an **Ally**.
+A **Hireling** who attains a **Loyalty** of Steadfast or higher is a potential candidate to become an **Ally**.
 
 #### Loyalty Rating
 | Loyalty Rating | Descriptor |
@@ -25,14 +25,14 @@ A **Hireling** who attains a **Loyalty** of Elite or higher is a potential c
 | >= +10         | Unwavering |
 
 ### Retaining Hirelings
-See the Services table for information on typical Hireling costs.
+See the [Specialists](#Specialists) table for information on typical Hireling costs.
 
-To employ a Hireling, the potential employer must first find a suitable Hireling and negotiate the terms of their employment. Standard length of employment is usually a number of days, weeks, months, seasons or years and generally decided upon up front. Once the terms have been offered, the prospective employer must make a Charisma Check. The Difficulty of this hiring check starts at 10 + the potential hireling’s Skill Rank Modifier (for the skill in question) due to demand for highly skilled workers. This Difficulty may be further modified by circumstances as seen fit by the GM (high or low pay being offered, potential danger, etc). Compare the result to the table below.
+To employ a Hireling, the potential employer must first find a suitable Hireling and negotiate the terms of their employment. Standard length of employment is usually a number of days, weeks, months, seasons or years and generally decided upon up front. Once the terms have been offered, the prospective employer must make a Charisma Check. The [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) of this hiring check starts at Easy (9) + the potential hireling’s Skill Rank Modifier (for the skill in question) due to demand for highly skilled workers. This Difficulty may be further modified by circumstances as seen fit by the GM (high or low pay being offered, potential danger, etc). Compare the result to the table below.
 
 #### Hiring Check Result
 | Outcome           | Result                                                                                                                                                                                                     |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Fail by 8 or more | **Hostility:** The hireling will not only refuse employment but will speak poorly about the character to everyone they know, causing Disadvantage on all future hiring rolls in this locale for the next week. |
+| Fail by 8 or more | **Hostility:** The hireling will not only refuse employment but will speak poorly about the character to everyone they know, causing *Disadvantage* on all future hiring rolls in this locale for the next week. |
 | Fail by 5 to 7    | **Refusal:** The hireling flat out refuses employment.                                                                                                                                                         |
 | Fail by 1 to 5    | **Negotiation:** The hireling will negotiate for greater pay, better benefits or some similar concession. If granted, they will hire on with the character as normal.                                          |
 | Succeed by 0 to 2 | **Acceptance:** The hireling hires on as normal.                                                                                                                                                               |
@@ -48,7 +48,7 @@ A PC cannot retain more hirelings than their **Charisma Score**.
 
 
 ## Allies
-**Allies** follow the above rules for [Hirelings](#Hirelings) except that they do not have a defined term of service nor are they hired for pay. Instead, they travel with their companion(s) for glory and a half-share of the loot. They have a p[Loyalty Rating](#Loyalty%20Rating) the same as a Hireling and their loyalty should be checked at the end of every adventure (after the division of treasure) to see if they choose to stick around. Similar to hirelings, calamities may also invoke a Loyalty Test.
+**Allies** follow the above rules for [Hirelings](#Hirelings) except that they do not have a defined term of service nor are they hired for pay. Instead, they travel with their companion(s) for glory and a half-share of the loot. They have a [Loyalty Rating](#Loyalty%20Rating) the same as a Hireling and their loyalty should be checked at the end of every adventure (after the division of treasure) to see if they choose to stick around. Similar to hirelings, calamities may also invoke a Loyalty Test.
 
 A **Loyalty Test** is performed in the same manner as a Hiring / Rehire check for a Hireling.
 
@@ -71,7 +71,7 @@ Alternately, a spellcaster seeking to create certain magic items may employ an a
 
 ### Animal Trainer
 **Cost:** 10 to 25sp per day<br/>
-Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer. The lowest cost above is for an average animal trainer, able to train one type of “normal” animal such as guard dogs or warhorses; those able to train more than one sort of animal, or to train monstrous creatures such as hippogriffs, are more expensive to hire. The Game Master must decide how long it takes to train an animal; in some cases, animal training may take years, a fact the player characters may find inconvenient as well as expensive. A single animal trainer can train and manage no more than 5 animals at a time, though in most cases once an animal is fully trained, if it is put into service right away the animal trainer won’t be needed to handle it any longer.
+Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer. The lowest cost above is for an average animal trainer, able to train one type of “normal” animal such as guard dogs or warhorses; those able to train more than one sort of animal, or to train monstrous creatures such as hippogriffs, are more expensive to hire. The Game Master must decide how long it takes to train an animal; in some cases, animal training may take years, a fact the player characters may find inconvenient as well as expensive. A single animal trainer can train and manage no more than 10 Hit Dice worth of animals at a time, though in most cases once an animal is fully trained, if it is put into service right away the animal trainer won’t be needed to handle it any longer.
 
 ### Armorer (or Weaponsmith)
 **Cost:** 4 to 20sp per day<br/>
@@ -112,7 +112,7 @@ As mercenaries are almost always veteran troops, the average mercenary is a 1st 
 
 Mercenaries will virtually never go into a dungeon, lair, or ruin, at least until it has been fully cleared. Rather, they are used in outdoor military engagements; high level player characters may hire mercenaries to defend or help defend their castles or other holdings.
 
-Mercenaries housed in a player character’s stronghold require 200 square feet per platoon but cost 25% less per month, as this is covered by their room and board. (Elven mercenaries, however, require 500 square feet of space per platoon in order to reduce their pay, as they demand better living conditions.) See the Stronghold section for more details.
+Mercenaries housed in a player character’s stronghold require 200 square feet per platoon but cost 25% less per month, as this is covered by their room and board. (elite mercenaries, however, require 500 square feet of space per platoon in order to reduce their pay, as they demand better living conditions.) See the Stronghold section for more details.
 
 Statistics are given below for the most common sorts of mercenaries; the statistics are for first level characters, and should be adjusted when higher level characters are indicated (as given above). In particular, multiply the given cost of each mercenary by his or her level. Listed costs are per day and should be doubled for wartime/hazardous duty.
 

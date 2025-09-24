@@ -38,7 +38,7 @@ Distances in the dungeon are measured in feet. Outdoors, several ranges are conv
 
 Any given character can only carry so much. Some groups may wish to handwave the tracking of encumbrance and that's completely understandable. The rules here are meant to provide some degree of verisimilitude without having to track pounds, ounces or "coins" of carried gear and treasure.
 
-Encumbrance is tracked in 'Items' or 'Slots' (the terms are used interchangeably in these rules). A single Item is any object that can be carried in one hand reasonably comfortably weighing no more than about 5 pounds (~2.25kg), such as a sword, a torch, a lute, etc. Larger objects, take up at least 2 Slots (or more for even larger objects; like a full treasure chest). Worn clothing does not count as an Item, but carried clothing does. Small items (such as coins) do not count as an Item unless they are carried in bulk (such as 100 coins taking up 1 Slot).
+Encumbrance is tracked in 'Items' or 'Slots' (the terms are used interchangeably in these rules). A single Item is any object that can be carried in one hand reasonably comfortably weighing no more than about 5 pounds (~2.25kg), such as a sword, a torch, a lute, etc. Larger objects, take up at least 2 Slots (or more for even bigger objects; like a full treasure chest). Worn clothing does not count as an Item, but carried clothing does. Small items (such as coins) do not count as an Item unless they are carried in bulk (such as 100 coins taking up 1 Slot).
 
 Additionally, some equipment may be Bundled to reduce the number of Slots they take up (such as a Bundle of 3 Torches only taking up 1 Slot). These Bundles require the Ready an Item Main Action to break apart for use after which the individual objects making up the Bundle must be tracked separately.
 
@@ -63,7 +63,7 @@ In any dungeon expedition, making maps is important. Generally one player will d
 A torch or lantern will provide light covering a 30’ radius; dim light will extend about 20’ further. Normal torches burn for 3p4 stretches (averaging approximately 1 hour), while a flask of oil in a lantern will burn for 2p4 hours (approximately 1 watch). A candle will shed light over a 5’ radius, with dim light extending 5’ further.
 
 ### Dim Lighting
-There are conditions in which there is some light but visibility is still restricted.  Such conditions include mists/fog, full moon nights, torches and lanterns being roughly a room away and so forth.  In these conditions sight-based checks and ranged attacks are made at *Disadvantage*.
+There are conditions in which there is some light but visibility is still restricted.  Such conditions include mists/fog, full moon nights, torches and lanterns being roughly a room away and so forth.  In these conditions sight-based checks and ranged attacks are made at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
 ### Darkness
 When there isn't even dim lighting (such as underground, a moonless or overcast night, and so forth), characters will find themselves in total darkness.  In this case, everyone is treated as if they had the Blinded condition.
@@ -74,32 +74,33 @@ Some beings have eyesight better adapted to dim lighting conditions. These chara
 ### Darkvision
 Some creatures have true Darkvision, allowing them to not only see normally in dim lighting (they can still discern color in dim lighting) they also treat full darkness as normal creatures would treat dim lighting.  This does not allow them to see through magical darkness.
 
+## Searching
+It can be beneficial for PCs to search areas of the dungeon as they explore.  This gives them better odds of spotting hidden things like traps, secret doors, hidden treasures and so forth.  Searching takes a full [Stretch](#Time%20and%20Scale) to search a single 10ft x 10ft area.  If multiple characters search the same area, designate a primary searcher (who rolls the search check) and treat the rest as taking the Help action. Each 10x10 ft area can only be searched once unless the characters find some way of improving their odds.
+
 ## Doors
-If a door is stuck or locked, it will have a Force Door difficulty rating for the Strength check required to force it open.  Alternatively, it make also have a Hardness and Structure Point (SP) rating.  The number of SPs is the amount of damage required to render the door ineffective (often knocked off its hinges or out of the door frame rather than total destruction).  The door's Hardness is subtracted from the damage done on each attack.  Piercing weapons only ever do their minimum damage and blunt weapons do only half.  Forcing or destroying a door is a loud process, certainly alerting anything lurking on the other side and potentially drawing wandering monsters to investigate.
+If a door is stuck or locked, it will have a *Force Door* difficulty rating for the Strength check required to force it open.  Alternatively, it may also have a *Hardness* and *Structure Point (SP)* rating.  The number of SPs is the amount of damage required to render the door ineffective (often knocked off its hinges or out of the door frame rather than total destruction).  The door's Hardness is subtracted from the damage done on each attack.  Piercing weapons only ever do their minimum damage and blunt weapons do only half.  Forcing or destroying a door is a loud process, certainly alerting anything lurking on the other side and potentially drawing wandering monsters to investigate.
 
-Locked doors will also have a Pick difficulty.  The pick difficulty is the target number for lockpicking attempts.
+Locked doors will also have a *Pick Locks* difficulty; this is the target number for lockpicking attempts.
 
-A careful character might choose to listen at a door before opening it. Listening characters must make a Perception check with a difficulty based on the door's thickness and material. Sounds heard might include voices, footsteps, or any other sound the GM considers appropriate. Of course, the room beyond the door might really be silent; thus, the Game Master must make the roll, so as not to give anything away to the players.
+A careful character might choose to listen at a door before opening it. Listening characters must make a [Perception](snips/Skills.md#Perception) check with a difficulty based on the door's thickness and material. Sounds heard might include voices, footsteps, or any other sound the GM considers appropriate. Of course, the room beyond the door might really be silent; thus, the Game Master must make the roll, so as not to give anything away to the players.
 
 ## Traps
-Dungeons and ruins frequently contain traps, including spear-throwers, covered pits, etc. The GM will decide what is required to trigger a trap, and what happens when the trap is triggered. (Some guidance on this is provided in the Game Master section later in this book.) In general, there will be some way to avoid or reduce the effect of the trap being sprung. For instance, a save vs. Ray is often used to avoid falling into a covered pit (with Dexterity bonus added), while spear-throwers, automated crossbows, and the like are sometimes treated as if they were monsters (attacking vs. the victim’s Armor Class at some given attack bonus).
+Dungeons and ruins frequently contain traps, including spear-throwers, covered pits, etc. The GM will decide what is required to trigger a trap, and what happens when the trap is triggered. (Some guidance on this is provided in the Game Master section later in this book.) In general, there will be some way to avoid or reduce the effect of the trap being sprung. For instance, a Saving Throw vs. Ray is often used to avoid falling into a covered pit (with Dexterity bonus added), while spear-throwers, trip-wired crossbows, and the like are sometimes treated as if they were monsters (attacking vs. the victim’s Armor Class at some given attack bonus).
 
-A trap will have a Concealment score; which is just the difficulty number of a Search check to find the trap when it is being actively searched for.  Most traps are well enough hidden that they cannot be spotted casually.  A search for traps takes at least a stretch per 10’ square area. A single character may only effectively search a given area for traps once.  Another attempt may only be made after the character has done something to improve their odds.
+A trap will have a *Concealment* score; which is just the [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) for a [Search](#Searching) check to find the trap when it is being actively searched for.  Most traps are well enough hidden that they cannot be spotted casually.
 
-Trap detection may not be allowed if the trap is purely magical in nature; on the other hand, anyone with the Detect Magic ability may use that to search for magical traps in the same manner as above.
+Trap detection may not be allowed if the trap is purely magical in nature; on the other hand, anyone with the [Detect Magic](PART%202%20-%20Player_Characters/Classes/Arcanist.md#Arcanist%20Skills) skill may use that to [Search](#Searching) for magical traps.
 
 Like with listening at doors (above), the GM should make any rolls to search for traps.
 
 ## Secret Doors
-Like traps, secret doors will have a Concealment score and a search for secret doors is conducted in the same manner.  However, secret doors also often have a Spot chance, which is the target number to casually spot a secret door with a typical Perception check as the character(s) pass near it.  This is often quite a bit higher than the Concealment score (typically +3 to +6 over Concealment).
-
-Multiple character searching for secret doors in the same area should use the Help action.
+Like traps, secret doors will have a *Concealment* score and a [Search](#Searching) for secret doors is conducted in the same manner.  However, secret doors also often have a *Spot* chance, which is the [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) to casually spot a secret door with a typical [Perception](snips/Skills.md#Perception) check as the character(s) pass near it.  This is often quite a bit higher than the Concealment score (typically +3 to +6 over Concealment).
 
 Note that finding a secret door does not grant understanding of how it works. The GM may require additional rolls or other actions to be taken before the door can be opened.
 
 ## Dungeon Survival
-As described in the [Equipment](7_Equipment.md) section, normal characters must consume one day’s worth of rations (or equivalent food) and at least one quart of water per day.
+As described in the [Equipment](7_Equipment.md) section, normal characters must consume one day’s worth of [Rations](PART%202%20-%20Player_Characters/7_Equipment.md#Rations) (or equivalent food) and at least one quart of [water](PART%202%20-%20Player_Characters/7_Equipment.md#Waterskin%20or%20Wineskin) per day.
 
-Failure to consume enough food requires the character to make a Difficulty 12 Constitution check or gain a level of Fatigue.  Each consecutive day without food increases the difficulty of this check by 3.  Additionally, so long as the character is in this state of Starvation, their natural healing is halved and they cannot regain any levels of Fatigue. Once the difficulty of the starvation check exceeds 20, natural healing is reduced to zero.   Eating enough food for a day (over the course of about a day, not all at once) restores full natural healing and recovery of Fatigue.
+Failure to consume enough food requires the character to make a [Moderate (12+)](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) Constitution check or gain a level of Fatigue.  Each consecutive day without food increases the difficulty of this check by 3.  Additionally, so long as the character is in this state of Starvation, their natural healing is halved and they cannot regain any levels of Fatigue. Once the difficulty of the starvation check exceeds 20, natural healing is reduced to zero.   Eating enough food for a day (over the course of about a day, not all at once) restores full natural healing and recovery of Fatigue.
 
 Inadequate water affects characters more swiftly; after a single day without adequate water, the character suffers 1d4 Fatigue, and will gain an additional 1d4 Fatigue per day thereafter; natural healing and fatigue recovery are lost immediately upon the first die roll.  There is no CON check to resist this condition.

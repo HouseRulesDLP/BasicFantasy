@@ -1,16 +1,18 @@
+# Characer Classes
 
-- **Core Classes**
-	- [Arcanist](Arcanist.md)
-	- [Cleric](Cleric.md)
-	- [Fighter](Fighter.md)
-	- [Rogue](Rogue.md)
-- **Optional Classes**
-	- [Arcane_Warrior](Arcane_Warrior.md)
-	- [Assassin](Assassin.md)
-	- [Bard](Bard.md)
-	- [Druid](Druid.md)
-	- [Paladin](Paladin.md)
-	- [Ranger](Ranger.md)
-	- [Trickster](Trickster.md)
-	- [Warden](Warden.md)
-	- [Warrior-Monk](Warrior-Monk.md)
+## Core Classes
+- [Arcanist](Arcanist.md)
+- [Cleric](Cleric.md)
+- [Fighter](Fighter.md)
+- [Rogue](Rogue.md)
+
+## Optional Classes
+- [Arcane_Warrior](Arcane_Warrior.md)
+- [Assassin](Assassin.md)
+- [Bard](Bard.md)
+- [Druid](Druid.md)
+- [Paladin](Paladin.md)
+- [Ranger](Ranger.md)
+- [Trickster](Trickster.md)
+- [Warden](Warden.md)
+- [Warrior-Monk](Warrior-Monk.md)

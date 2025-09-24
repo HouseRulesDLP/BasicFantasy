@@ -7,11 +7,11 @@ cssclasses: clean-embeds, bfrpg
 
 #### Defend
 **Action Type:** Main<br/>
-Use your main action to spend your Turn blocking & dodging incoming attacks.  Imposes Disadvantage on the attack rolls of anyone directly targeting your character.
+Use your main action to spend your Turn blocking & dodging incoming attacks.  Imposes [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on the attack rolls of anyone directly targeting your character.
 
 #### Grapple
 **Action Type:** Main<br/>
-Use your main action, try to grab a target with one or both hands.  Make an attack roll vs target's Dexterity instead of their AC.  The target's magical bonuses to AC apply here as well.  If you are attempting to grab with just one hand, make your attack roll with *Disadvantage*.  On a successful hit, the target gains the Grappled condition and the attacker gains the Grappling condition.  The attacker may also immediately attempt to apply the Crush maneuver as a free action during this round only; on subsequent rounds attempting to Crush is a Main Action.
+Use your main action, try to grab a target with one or both hands.  Make an attack roll vs target's Dexterity instead of their AC.  The target's magical bonuses to AC apply here as well.  If you are attempting to grab with just one hand, make your attack roll with [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).  On a successful hit, the target gains the Grappled condition and the attacker gains the Grappling condition.  The attacker may also immediately attempt to apply the Crush maneuver as a free action during this round only; on subsequent rounds attempting to Crush is a Main Action.
 
 #### Charge
 **Action Type:** Main<br/>
@@ -19,7 +19,7 @@ Move your full move and make an attack as your Main Action.  At a minimum, the l
 
 #### Shove
 **Action Type:** Main<br/>
-If your attack hits, instead of doing damage, your target must make a Ray + DEX or Hold + STR save vs your attack roll (defender's choice).  A target with more than 2 legs gains *Advantage* on this roll as do targets of a larger Size.  Targets of a smaller size suffer *Disadvantage* on this roll.  If the save is failed, the target is forced back 5 feet directly away from the attacker.  If the target is shoved into an solid obstacle, they must pass a Diff 12 DEX check or fall prone; if the obstacle is another character, both must make this save.
+If your attack hits, instead of doing damage, your target must make a Ray + DEX or Hold + STR save vs your attack roll (defender's choice).  A target with more than 2 legs gains [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on this roll as do targets of a larger Size.  Targets of a smaller size suffer [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on this roll.  If the save is failed, the target is forced back 5 feet directly away from the attacker.  If the target is shoved into an solid obstacle, they must pass a Diff 12 DEX check or fall prone; if the obstacle is another character, both must make this save.
 
 #### Trip
 **Action Type:** Main<br/>
@@ -33,14 +33,14 @@ This may only be performed on a Grappled character.  You attempt to choke, joint
 
 #### Disarm
 **Action Type:** Main<br/>
-Attempt to disarm an opponent as part of your attack.  Only works vs items that are not integral to their owner and are accessible to be grabbed/attacked.  For example, a sword or amulet worn outside the clothes can be disarmed; worn armor or a ring are not.  Your attack roll is at -2 and if you hit, roll an opposed STR or DEX check vs the target's STR or DEX.  Defenders holding their weapon in 2 hands gain Advantage on this roll.  If the attacker wins, the weapon falls from their hand, scattering 1d4-1 tiles in a random direction.
+Attempt to disarm an opponent as part of your attack.  Only works vs items that are not integral to their owner and are accessible to be grabbed/attacked.  For example, a sword or amulet worn outside the clothes can be disarmed; worn armor or a ring are not.  Your attack roll is at -2 and if you hit, roll an opposed STR or DEX check vs the target's STR or DEX.  Defenders holding their weapon in 2 hands gain [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on this roll.  If the attacker wins, the weapon falls from their hand, scattering 1d4-1 tiles in a random direction.
 
 #### Set Weapon Against Charge
 Weapons with the [Set](7_Equipment.md#Weapon%20Properties) property may be set (braced against the ground or floor) to intercept a charging creature.  For this to be done, the creature must act in an imitative phase before the attacker and counts as holding an action.  The character performing the set action losses their Dexterity bonus to AC, but their attack will automatically count as a Critical Hit if successful.
 
 #### Steady Aim
 **Action Type:** Move<br/>
-Your character stands her ground and focuses her aim.  She does not suffer Disadvantage for attacking at long range.  However, enemies gain Advantage on attacks made against her until the start of her next Turn.
+Your character stands her ground and focuses her aim.  She does not suffer [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) for attacking at long range.  However, enemies gain [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on attacks made against her until the start of her next Turn.
 
 #### Subdual Attack
 **Action Type:** Main<br/>
@@ -54,9 +54,9 @@ For each full 4 points of Attack Bonus sacrificed, you may make one extra attack
 
 #### Power Attack
 **Action Type:** Main<br/>
-By taking Disadvantage on your attack, you may add your Strength **Score** to your attack in place of your Strength **Modifier**.
+By taking [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on your attack, you may add your Strength **Score** to your attack in place of your Strength **Modifier**.
 
 ## Unarmed Combat
-Unarmed attackers (excepting those with the Natural Weaponry trait) have Disadvantage making attacks against aware opponents that are armed.
+Unarmed attackers (excepting those with the Natural Weaponry trait) have [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) making attacks against aware opponents that are armed.
 
 ## Conditions

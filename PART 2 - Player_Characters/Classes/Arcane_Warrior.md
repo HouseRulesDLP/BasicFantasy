@@ -60,14 +60,15 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 
 ### Knacks
 At level 4, the arcane warrior may select one of the following **Knacks**, denoting how they prefer to fight. They may select additional Knacks at levels 8, 12, 16 and 20. Unless noted otherwise, each knack may only be taken once.
-1. **Cleave:** If your melee attack drops a target to 0 or fewer HP, you may immediately make another melee attack against a different foe. If you have movement left, you may use it between attacks.
-2. **Deadly Blow:** When making a melee attack, roll damage with *Advantage*.
-3. **Exploit Opening:** Each time you take this talent lower your critical hit threshold by 1. This knack may be taken 3 times.
-4. **Fearless:** You automatically pass saving throws vs Fear. All allies that can see and hear you gain *Advantage* on saving throws vs Fear.
-5. **Indomitable:** You gain a +1 on all your saving throws.
-6. **Protector:** While you are in melee with a foe, any attacks that foe makes against a target other than you is done with *Disadvantage*.
-7. **Slayer:** Pick a specific type of enemy (bears, goblins, dragons, etc). You gain +1 to hit and +2 critical chance vs these creatures. You also gain *Advantage* on saving throws vs the supernatural abilities of these creatures.
-8. **Weapon Specialist:** Pick a specific type of weapon (battle axe, arming sword, longbow, etc). You gain +1 to hit and +Level/2 (round up) damage while wielding weapons of this type. You may take this knack multiple times, applying it to a different weapon each time.
+
+1. ![](snips/Knacks.md#Cleave)
+2. ![](snips/Knacks.md#Deadly-Blow)
+3. ![](snips/Knacks.md#Exploit-Opening)
+4. ![](snips/Knacks.md#Fearless)
+5. ![](snips/Knacks.md#Indomitable)
+6. ![](snips/Knacks.md#Protector)
+7. ![](snips/Knacks.md#Slayer)
+8. ![](snips/Knacks.md#Weapon-Specialist)
 
 ### Arcane Warrior Progression
 <table>

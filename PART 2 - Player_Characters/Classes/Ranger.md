@@ -22,7 +22,7 @@ Rangers are warriors specially trained to haunt and hunt the wilderness. They pa
   Skimisher's Pack plus +2d6sp
 
 ### Skills
-**Climb (+2):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at *Disadvantage*.  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
+**Climb (+2):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
 ![](Skills.md#Initiative)
 
 **Perception (+1):** The ranger's hunting and tracking skills grant them keen observational abilities and so make their Perception rolls at +1.
@@ -37,7 +37,7 @@ Rangers are warriors specially trained to haunt and hunt the wilderness. They pa
 
 **Stalking (+0):** This is the skill of remaining undetected in the wilderness. So long as there is at least light brush available for concealment, the ranger may use this skill. This ability only works in natural wilderness.
 
-**Tracking (-1):** The ranger may spend a Turn to search a 30x30 foot area in natural wilderness to try to find tracks left by any creatures in the area. On a success, they will know the type of creatures that made the tracks and may follow them. If conditions worsen (the ground gets harder, it starts to rain, the quarry crosses a river, etc), a new check will need to be made. In general, if the GM feels that tracking should be easier than normal (soft ground, tracking a large party, etc), the ranger should roll with Advantage. If the GM feels tracking will be harder than normal (hard ground, unfamiliar terrain, etc), the roll will be made at Disadvantage.
+**Tracking (-1):** The ranger may spend a Turn to search a 30x30 foot area in natural wilderness to try to find tracks left by any creatures in the area. On a success, they will know the type of creatures that made the tracks and may follow them. If conditions worsen (the ground gets harder, it starts to rain, the quarry crosses a river, etc), a new check will need to be made. In general, if the GM feels that tracking should be easier than normal (soft ground, tracking a large party, etc), the ranger should roll with [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage). If the GM feels tracking will be harder than normal (hard ground, unfamiliar terrain, etc), the roll will be made at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 ![](Skills.md#Uncertainty)
 
 ### Special Abilities

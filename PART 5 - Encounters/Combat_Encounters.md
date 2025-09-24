@@ -19,25 +19,22 @@ cssclasses:
 *Then we turned back to the sarcophagus…*
 
 ### Order of Play
-When the party of adventurers comes in contact with potential enemies, time shifts to [Combat Rounds](1_Dungeon_Adventures.md#Time%20and%20Scale) (10 seconds long, as described previously).  Before beginning combat, surprise is checked (see below).  Unsurprised characters then roll for Initiative, and act in order of the rolls (again, as described below).
+When the party of adventurers comes in contact with potential enemies, time shifts to [Combat Rounds](1_Dungeon_Adventures.md#Time%20and%20Scale) (10 seconds long, as described previously).  Before beginning combat, surprise is checked (see below).  Unsurprised characters then roll for [Initiative](snips/Skills.md#Initiative), and act in either the Fast or Slow phase (as described [below](#Initiative)).
 
 ### Surprise
-When surprise is possible, roll 1d6 for each side which might be surprised; most normal characters are surprised on a roll of 1-2. Surprised characters
-are unable to act for one round. Characters or creatures which are well hidden and prepared to perform an ambush surprise on a roll of 1-4 on 1d6. Some characters or creatures (such as Elves) are described as being less likely to be surprised; reduce the range by 1 for such creatures.
-
-When surprise is possible, each side makes a [Moderate](Introduction.md#Task%20Target%20Numbers) [Perception](Skills.md#Perception) check, using the perception of whosoever is on lookout.  If no one is on lookout, use the best Perception skill, but at *Disadvantage*.  If multiple characters are on lookout, use the best Perception skill among the lookouts, boosted by the Help action.  If a side fails their Perception check they are surprised.
+When surprise is possible, each side makes a [Moderate](Introduction.md#Task%20Target%20Numbers) [Perception](Skills.md#Perception) check, using the perception of whosoever is on lookout.  If no one is on lookout, use the best Perception skill, but at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).  If multiple characters are on lookout, use the best Perception skill among the lookouts, boosted by the Help action.  If a side fails their Perception check they are surprised.
 
 For example: Darion the [Human](3_Character_Species.md#Human) [Fighter](Fighter.md) and Morningstar the [Elf](3_Character_Species.md#Elf) [Arcane_Warrior](Arcane_Warrior.md) open a door and come face-to-face with a party of goblins. The GM rolls for the goblins; on a 11- they are all surprised. Then Morningstar's player rolls against his character's Perception (assuming he was on lookout).  As Morningstar is an elf, he gets +2 on the roll due to his [Elven Senses](3_Character_Species.md#Elf#Elven%20Senses).  If the total of the roll is 12 or higher, the party is not surprised, otherwise they are.
 
 Surprised characters or creatures stand flat-footed for one round. They still defend themselves, so there is no penalty to Armor Class, but they cannot move nor attack during the round of surprise.
 
 #### Ambush
-If one side is attempting to ambush another, the ambushing side rolls a group [Stealth](Skills.md#Stealth) check instead of Perception.  There is no chance for the ambushers to be surprised and the outcome of their stealth check becomes the target number of the opposing group's Perception check.
+If one side is attempting to ambush another, the ambushing side rolls a group [Stealth](Skills.md#Stealth) check instead of Perception.  Normally, there is no chance for the ambushers to be surprised and the outcome of their stealth check becomes the target number of the opposing group's Perception check.
 
 ### NPC Reactions
 When a group of player characters meet one or more potentially hostile NPCs, it's important to know how the NPCs will react to the party. In many cases, the reaction of the monster or monsters is obvious… zombies guarding a tomb will virtually always attack intruders, for example.
 
-In cases where the reaction of the NPCs to the party is not obvious, a reaction roll may be made. The Game Master rolls 1d20, adding the Charisma bonus of the “lead” character (or applying his or her Charisma penalty) along with any other adjustments he or she feels are reasonable, and consults the table below:
+In cases where the reaction of the NPCs to the party is not obvious, a reaction roll may be made. The Game Master rolls 1d20, adding double the Charisma bonus of the “lead” character (or applying double his or her Charisma penalty) along with any other adjustments he or she feels are reasonable, and consults the table below:
 
 | d20   | Reaction    |
 |:-----:|:------------|
@@ -71,11 +68,11 @@ Characters, creatures, and vehicles of various sorts have a turning distance. Th
 
 All normal player characters, and in fact most moderately sized creatures which walk on the ground, have a turning distance of 5'. If no turning distance is given for a creature, assume that it is 5'.
 
-In general, a facing change is any turn of up to 90º (a right-angle turn); on a square-gridded map, this means turning to face directly to the right or left of the figure's current facing. A half-turn (45º) still counts as a full facing change. If using hexes, “diagonal” movement is not available, so a facing change is the 60º turn to face toward the hex-side to the right or left of the current facing.  A creature using their normal ("walking") speed may turn more than 90 degrees in a single turn at a cost of 5 feet of movement per extra 90 degrees (or fraction thereof).
+In general, a facing change is any turn of up to 90º (a right-angle turn); on a square-gridded map, this means turning to face directly to the right or left of the figure's current facing. A half-turn (45º) still counts as a full facing change. If using hexes, “diagonal” movement is not available, so a facing change is the 60º turn to face toward the hex-side to the right or left of the current facing.
 
 There are a few exceptions to this rule:
 
-- A creature may change their facing up to 180 degrees in a single turn so long as they are using their normal ("walking") speed at a cost of 1/2 their normal movement.
+- A creature may change their facing up to 180 degrees in a single rotation so long as they are using their normal ("walking") speed at a cost of 1/2 their normal movement.
 - Any creature that does not move away from its starting position during the combat round may make as many facing changes as desired (though circumstances, such as trying to turn a horse around in a narrow corridor, may prevent this).
 - Incorporeal flying creatures, such as specters, can turn freely at any point while moving.
 - Creatures which are running (moving at double speed) increase their turning distance by 10' (or, if it is 5' normally, it increases to 10').

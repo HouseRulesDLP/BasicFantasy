@@ -31,10 +31,10 @@ The movement rates shown on the table above are figured based on an 8 hour day o
 | **Clear:** Plains, Trail                 | ×1         |
 | **Improved:** Road (Paved)               | ×1 1/3     |
 
-Characters may choose to perform a **forced march**, traveling 12 hours per day. If this is done, add an additional 50% to the distance traveled. Each day of a forced march requires the characters to pass a difficulty 12 Constitution check or gain a level of Fatigue. Each consecutive day increases the difficulty by +3. A day spent resting “restarts” the progression.
+Characters may choose to perform a **forced march**, traveling 12 hours per day. If this is done, add an additional 50% to the distance traveled. Each day of a forced march requires the characters to pass a [Moderate (12+)](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) Constitution check or gain a level of Fatigue. Each consecutive day increases the difficulty by +3. A day spent resting “restarts” the progression back to Moderate difficulty.
 
 ## Becoming Lost
-Though adventurers following roads, rivers, or other obvious landmarks are unlikely to become lost, striking out into trackless forest, windblown desert, and so on is another matter. Secretly roll the party leader's Survival + Wisdom modifier vs a difficulty based on the local visibility conditions:
+Though adventurers following roads, rivers, or other obvious landmarks are unlikely to become lost, striking out into trackless forest, windblown desert, and so on is another matter. Secretly roll the party guide's [Survival](snips/Skills.md#Survival) + Wisdom modifier vs a [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) based on the local visibility conditions:
 
 | Terrain | Visibility | Difficulty |
 |:--------|-----------:|:----------:|
@@ -43,7 +43,7 @@ Though adventurers following roads, rivers, or other obvious landmarks are unlik
 | **Impenetrable:** Sand/Dust/Snow storm, jungle, swamp. . . | 100 yards  | 18 |
 
 ## Waterborne Travel
-Travel by water may be done in a variety of boats or ships; see the table in the Vehicles section for details. Travel distances are based on a 12 hour day of travel, rather than the usual 8 hours per day given above. Note that sailed ships may travel 24 hours per day (if a qualified navigator is aboard), and so may be able to cover twice the normal distance per day of travel. This is in addition to the multiplier given below. If the ship stops each night, as is done by some vessels traveling along a coastline as well as those vessels having less than the minimum number of regular crewmen on board, the two-times multiplier does not apply.
+Travel by water may be done in a variety of boats or ships; see the table in the Vehicles section for details. Travel distances are based on a 12 hour day of travel, rather than the usual 8 hours per day given above. Note that sailed ships may travel 24 hours per day (if a qualified navigator is aboard), and so may be able to cover twice the normal distance per day of travel. This is in addition to the multiplier given below. If the ship stops each night, as is done by some vessels traveling along a coastline as well as those vessels having less than the minimum number of regular crew on board, the two-times multiplier does not apply.
 
 Movement of sailed ships varies depending on weather conditions, as shown on the following table. Sailing movement modifiers shown apply when sailing with the wind; sailing against the wind involves tacking (called “zigzagging” by landlubbers) which reduces movement rates as indicated on the table.
 
@@ -79,5 +79,5 @@ Movement of sailed ships varies depending on weather conditions, as shown on the
 **Gale:** Sailing against the wind is not possible, and ships exposed to a gale may be damaged or sunk; apply 2d8 points of damage to any such ship, per hour sailed.
 
 ## Traveling by Air
-When traveling by air, overland movement rates are doubled, and all terrain effects are ignored. Most winged creatures must maintain at least one-third normal forward movement in order to remain airborne; however, magical devices such as **flying carpets** generally do not have this limitation.
+When traveling by air, overland movement rates are based on the creatures' flying speed and doubled, and all terrain effects are ignored. Most winged creatures must maintain at least one-third normal forward movement in order to remain airborne; however, magical devices such as **flying carpets** generally do not have this limitation.
 

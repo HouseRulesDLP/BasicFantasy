@@ -50,14 +50,14 @@ A monk starts by knowing one of the following Qi Stunts at level 1.  They learn 
 1. **Arrow Catching (var):** The monk uses their Reaction to make a Ray plus Dexterity Modifier save vs the attack total to catch an arrow, bolt, dart, sling bullet, etc. aimed directly at them.  This ability cannot be used on large weapons like thrown boulders or siege weapons nor does it work on non-physical weapons.  By spending 1 Qi point, they may immediately throw the weapon back at the attacker with a 20/60 range increment.  By spending 2 Qi points, they may throw the weapon at any target.
 2. **Battle Meditation (1):** By entering a nearly meditative state in combat, the monk may add their Wisdom Modifier to their melee Attack Rolls and Armor class for 1 round.
 3. **Dim Mak (2):** For the remainder of the monk's Turn, their melee attacks ignore any Hardness score the target has.  Against living creatures, if the attack hits and does damage, the target must make a Doom Save or gain the Poisoned condition for 2p4 rounds.
-4. **Eagle's Sight (1):** The monk gains Advantage on their Perception checks for 1 round.
+4. **Eagle's Sight (1):** The monk gains [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on their Perception checks for 1 round.
 5. **Flow Like Water (0):** The monk may add their Skill Bonus to any check to escape a grab or entangle.
 6. **Flurry (var):** For each Qi point spent, the monk may make one extra attack.  These extra attacks must be unarmed.
 7. **Harmonious Qi (3):** The monk may reroll any failed save.
 8. **Iron Body (3):** The monk gains resistance to all non-magical sources of damage for 1 round.
 9. **Iron Fist (1):** The monk's melee attacks count as magical for the purposes of overcoming resistance.  The "plus" value is equal to the monk's level/4 (rounded down), with a value of 0 being the equivalent of Silver or Cold Iron.  This does not grant any actual increase to the monk's to hit or damage rolls.
 10. **Mind Over Body (1):** By spending at least an hour in meditation, the Monk reduces their daily need for food, water and sleep by 1/2.  This increases to 3/4 by level 7 and eliminates the need entirely by level 15.
-11. **Mind Palace (1):** The monk gains *Advantage* on saving throws to resist mind-affecting attacks (such as charms and illusions).  This choice must be made before the saving throw is rolled.
+11. **Mind Palace (1):** The monk gains [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on saving throws to resist mind-affecting attacks (such as charms and illusions).  This choice must be made before the saving throw is rolled.
 12. **Qi Healing (var):** The monk meditates as part of their Short Rest, and may heal themselves of one additional Hit Die per point of Qi spent on this ability.
 13. **Qi Projection (1):** The monk projects their Qi energy through their open palm to send a wave of force out to a range of Level times 5 feet.  Any target hit by this attack takes the monk's Unarmed Damage.
 14. **Qi Purification (3):** The monk spends their Short Rest in meditation.  At the end of the short rest, in addition to their normal healing, the monk purges herself of any natural disease or poison in her system.  By spending 4 points, the monk may purge herself of supernatural diseases and poisons.

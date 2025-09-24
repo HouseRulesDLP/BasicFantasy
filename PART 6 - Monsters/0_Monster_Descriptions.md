@@ -11,10 +11,10 @@ Any special tag denoting this creature's type or types.  For example, creatures 
 ### No. Appearing
 This is given in terms of one or more die rolls.  Monsters that have no lairs will have a single die roll; those that have lairs and/or those that can be found in the wilderness will be noted appropriately.  For example, a monster noted as “1d6, Wild 2d6, Lair 3d6” is encountered in groups of 1d6 individuals in a dungeon setting, 2d6 individuals in the wilderness, or 3d6 individuals in a lair.
 
-Note that number appearing applies to combatants.  Non-combatant monsters (juveniles, and sometimes females) do not count in this number.  The text of the monster description should explain this in detail where it matters, but the GM is always the final arbiter.
+Note that number appearing applies to combatants.  Non-combatant monsters (juveniles, the elderly, the infirm, and sometimes {based on culture} females) do not count in this number.  The text of the monster description should explain this in detail where it matters, but the GM is always the final arbiter.
 
 ### Initiative
-This is the creature's bonus to its initiative roll.
+This is the [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) a character's [Initiative](snips/Skills.md#Initiative) roll must pass in order to act in the [Fast](PART%205%20-%20Encounters/Combat_Encounters.md#Initiative) phase.
 
 ### Hit Dice
 This line gives the creature’s number of hit dice, and lists any bonus hit points.  Monsters always roll eight sided dice (d8) for hit points, 
@@ -39,13 +39,13 @@ The general size category of the creature.
 Most creatures are measured by height or length; some are measured in diameter. Those measured in diameter may be given a different size category than indicated above. For instance, while a 6-foot tall humanoid is considered *Medium*, a spherical creature 6 feet in diameter has much more mass, so  is considered *Large*.  Similarly, a creature 12 feet long with a very slender body (like a snake) might be considered only *Medium*. Adjustments like these should not move a creature more than one size category in either direction. 
 
 ### Armor Class
-This line gives the creature’s AC for normal combat.  If the monster customarily wears armor, the typical armor worn will be given in parenthesis.  Some monsters are only able to be hit (damaged) by silver or magical weapons; these are indicated either in words or with a dagger †; some monsters may only be hit with magical weapons, indicated by a double dagger ‡
+This line gives the creature’s AC for normal combat.  If the monster customarily wears armor, the typical armor worn will be given in parenthesis.  Some monsters are only able to be hit (damaged) by silver, fire or some other specialized attack; these are indicated a dagger † and further elaborated on in the creature's Special Abilities section; some monsters may only be hit with magical weapons, indicated by a double dagger ‡
 
 ### Saving Throws
-These show the monster’s modifier for the 5 different types of saving throw.  The  monsters  listed  here  have  their  save  chances  pre-calculated. When inventing your own monsters or modifying monsters, the save chances of intelligent monsters should normally be the same as those of a character of the most suitable class to match the monster’s abilities and of a level equal to the number of hit dice the monster has.  Most often, this will be a fighter.
+These show the monster’s modifier for the 5 different types of saving throw.  The  monsters  listed  here  have  their  save  chances  precalculated. When inventing your own monsters or modifying monsters, the save chances of intelligent monsters should normally be the same as those of a character of the most suitable class to match the monster’s abilities and of a level equal to the number of hit dice the monster has.  Most often, this will be a fighter.
 
 ### Morale
-This is the modifier to the creature's Morale checks.  Typically a morale check is against a target of 12, but other circumstances may raise or lower this target number.
+This is the modifier to the creature's Morale checks.  Typically a morale check is against a Moderate (12+) [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers), but other circumstances may raise or lower this target number.
 
 ### Movement
 This line gives the monster's movement rate, or rates for those monsters able to move in more than one fashion.  For example, Ogres have a normal walking movement of 30', and this is all that is listed for them. Mermaids can only move about in the water, and so their movement is given as Swim 40'.  Pegasi can both walk and fly, so their movement is listed as 80' Fly 160'.

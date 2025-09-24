@@ -12,31 +12,42 @@ For convenience, working animals are listed here together.  Such creatures obvio
 <table class="monster">
 	<tbody>
 		<tr>
+			<td class="field"/>
+			<td class="sub-header" colspan=6>Dromedary</td>
+			<td class="sub-header" colspan=6>Bactrian</td>
+		</tr>
+		<tr>
 			<td class="field"><b>Tags:</b></td>
-			<td class="data" colspan=6>animal, mammal</td>
+			<td class="data" colspan=12>animal, mammal</td>
 		</tr>
 		<tr>
 			<td class="field"><b>No. Appearing:</b></td>
-			<td class="data" colspan=6>Wild 2d4</td>
+			<td class="data" colspan=12>Wild 2d4</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Initiative:</b></td>
-			<td class="data" colspan=6>11+</td>
+			<td class="data" colspan=12>11+</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Hit Dice:</b></td>
-			<td class="data" colspan=6>2d8+4 (13hp)</td>
+			<td class="data" colspan=12>2d8+4 (13hp)</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Size:</b></td>
-			<td class="data" colspan=6>Large</td>
+			<td class="data" colspan=12>Large</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Armor Class:</b></td>
-			<td class="data" colspan=6>13 (natural)</td>
+			<td class="data" colspan=12>13 (natural)</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=2><b>Saving Throws:</b></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
 			<td class="subtable-header"><b>Doom</b></td>
 			<td class="subtable-header"><b>Ray</b></td>
 			<td class="subtable-header"><b>Hold</b></td>
@@ -50,17 +61,29 @@ For convenience, working animals are listed here together.  Such creatures obvio
     		<td class="data">+0</td>
     		<td class="data">-1</td>
     		<td class="data">-2</td>
+    		<td class="data">+2</td>
+    		<td class="data">+1</td>
+    		<td class="data">+0</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Morale:</b></td>
-			<td class="data" colspan=6>-3 (+3)</td>
+			<td class="data" colspan=12>-3 (+3)</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Movement:</b></td>
-			<td class="data" colspan=6>50ft [40ft]</td>
+			<td class="data" colspan=6>50ft</td>
+			<td class="data" colspan=6>40ft</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=3><b>Abilities:</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
 			<td class="subtable-header"><b>ST</b></td>
 			<td class="subtable-header"><b>DX</b></td>
 			<td class="subtable-header"><b>CN</b></td>
@@ -75,9 +98,21 @@ For convenience, working animals are listed here together.  Such creatures obvio
     		<td class="data">6</td><!--IN-->
     		<td class="data">12</td><!--WI-->
     		<td class="data">4</td><!--CH-->
+    		<td class="data">15</td><!--ST-->
+    		<td class="data">10</td><!--DX-->
+    		<td class="data">17</td><!--CN-->
+    		<td class="data">6</td><!--IN-->
+    		<td class="data">12</td><!--WI-->
+    		<td class="data">4</td><!--CH-->
 		</tr>
 		<tr>
     		<td class="data">+2</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+2</td><!--CN-->
+    		<td class="data">-1</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-2</td><!--CH-->
+    		<td class="data">+1</td><!--ST-->
     		<td class="data">+0</td><!--DX-->
     		<td class="data">+2</td><!--CN-->
     		<td class="data">-1</td><!--IN-->
@@ -87,27 +122,30 @@ For convenience, working animals are listed here together.  Such creatures obvio
 		<tr>
     		<td class="field"><b>Attack Bonus:</b></td>
     		<td class="data" colspan=6>+1</td>
+    		<td class="data" colspan=6>+1</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=2><b>Attacks:</b></td>
-			<td class="data" colspan=6>1 Bite (TH +3, Dmg 1d3b)</td>
+			<td class="data" colspan=6>1 Bite (TH +3, Dmg 1d3+2b)</td>
+			<td class="data" colspan=6>1 Bite (TH +2, Dmg 1d3+1b)</td>
 		</tr>
 		<tr>
-    		<td class="data" colspan=6>1 Hoof (TH +3, Dmg 1d4+2b)</td>
+    		<td class="data" colspan=6>1 Kick (TH +3, Dmg 1d4+2b)</td>
+    		<td class="data" colspan=6>1 Kick (TH +2, Dmg 1d4+1b)</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Treasure:</b></td>
-			<td class="data" colspan=6>none</td>
+			<td class="data" colspan=12>none</td>
 		</tr>
 		<tr>
 			<td class="field"><b>XP:</b></td>
-			<td class="data" colspan=6>40</td>
+			<td class="data" colspan=12>40</td>
 		</tr>
 	</tbody>
 </table>
 
 #### Description
-Camels are known for their ability to travel long distances without food or water.  The statistics presented here are for the dromedary, or one-humped camel, which thrives in warm deserts.  A dromedary stands about 7 feet tall at the shoulder, with its hump rising 1 foot higher.  The two-humped, or Bactrian, camel is suited to cooler, rocky areas.  It is stockier, slower (speed given in brackets), and tougher than the dromedary.  A camel can carry up to 400 pounds (80 item slots) unencumbered.
+Camels are known for their ability to travel long distances without food or water.  The statistics presented here are for the dromedary, or one-humped camel, which thrives in warm deserts.  A dromedary stands about 7 feet tall at the shoulder, with its hump rising 1 foot higher.  The two-humped, or Bactrian, camel is suited to cooler, rocky areas.  It is stockier, slower and tougher than the dromedary.  A camel can carry up to 400 pounds (80 item slots) unencumbered.
 
 Camels can be trained for war.  Such camels use the morale value given in parenthesis.
 
@@ -286,7 +324,7 @@ Camels can be trained for war.  Such camels use the morale value given in parent
 **Guard/War dogs** are also large breed dogs, but these have been trained for fighting.  Like all dogs, they have keen  senses of smell and hearing, making them adept at detecting intruders. Most war  dogs are not  usually vicious,  and  will  rarely  attack without cause. The status of war dogs varies greatly; some are loyal and beloved pets, others are watch dogs, and some are trained for battle. 
 
 #### Special Abilities
-**Keen senses:** Dogs have *Advantage* on perception checks involving smell or hearing.
+**Keen senses:** Dogs have [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on perception checks involving smell or hearing.
 
 ### Elephant
 <table class="monster">
@@ -3400,7 +3438,7 @@ A **Giant Monkey** weights around 180 pounds and stands as tall as an adult huma
 </table>
 
 #### Description
-**Owls** hunt rodents, mall lizards, and insects, attacking humans only when frightened (or magically commanded). They have 120' Low-light Vision  and *Advantage* on hearing perception checks. They fly in near total silence, gaining *Advantage* on stealth checks.  Their eye sight is worse than that of humans, suffering Disadvantage on sight perception checks in full daylight.
+**Owls** hunt rodents, mall lizards, and insects, attacking humans only when frightened (or magically commanded). They have 120' Low-light Vision  and [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on hearing perception checks. They fly in near total silence, gaining *Advantage* on stealth checks.  Their eye sight is worse than that of humans, suffering [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on sight perception checks in full daylight.
 
 A typical **giant owl** stands about 9 feet tall, has a wingspan of up to 20 feet, and resembles its smaller cousins in nearly every way.  A giant owl attacks by gliding silently just a few feet above its prey and plunging to strike when directly overhead.  It has the same senses and stealth abilities as its smaller cousins.
 

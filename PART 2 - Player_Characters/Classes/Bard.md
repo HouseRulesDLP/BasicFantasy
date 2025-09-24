@@ -31,7 +31,7 @@ Bards are those who have learned history, oral tradition, music, and performance
 ![](Skills.md#Survival)
 
 #### Bard Skills
-**Decipher Document (+0):** A successful check allows the bard to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols. By 5th level, Bards can attempt decipher magical writing, but the roll is made at Disadvantage.
+**Decipher Document (+0):** A successful check allows the bard to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols. By 5th level, Bards can attempt decipher magical writing, but the roll is made at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
 **Legerdemain (-3):** A successful check allows a bard to perform a trick of sleight of hand, such as palming a small object, slipping poison into a drink, or pilfering a small item in the possession of another creature.
 

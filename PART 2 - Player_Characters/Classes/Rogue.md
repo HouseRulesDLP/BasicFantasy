@@ -21,7 +21,7 @@ Thieves are those who take what they want or need by stealth, disarming traps an
 - Rogue's Pack
 
 ### Skills
-**Climb (+4):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at *Disadvantage*.  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
+**Climb (+4):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
 ![](Skills.md#Initiative)
 
 **Perception (+0):** Thieves are specifically trained watch for guards and hunt for hidden treasures and traps. Therefore they make Perception checks with a +0 modifier.
@@ -35,18 +35,18 @@ Thieves are those who take what they want or need by stealth, disarming traps an
 #### Rogue Skills
 **Climb Wall (+0):** This goes beyond the normal climbing skill that every adventurer has and even goes beyond the climbing skill of the ranger. This skill allows the Rogue to climb walls with minimal hand/fingertip holds that would normally be impossible to scale without equipment. Thieves are able to perform normal climbs at +4 (already factored into the *climb* skill, above) and climb cliffs at +2. Rolls are made for each 100ft (or fraction thereof) to be climbed. Failure indicates a fall at the half-way point.
 
-**Decipher Document (-3):** A successful check allows the Rogue to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols. Starting at 10th level, magical texts may be read but the roll is made with Disadvantage.
+**Decipher Document (-3):** A successful check allows the Rogue to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols. Starting at 10th level, magical texts may be read but the roll is made with [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
-**Disarm Device (-2):** A successful check allows the Rogue to disarm mechanical traps and similar devices. Magical traps may also be attempted, but at Disadvantage on the roll. Thieves' tools are required for this check, and at least one Turn is required to complete the task. A failed check may not be retried unless the Rogue has some way to improve their chances. On a natural 1, the Rogue must make a Doom Save or accidentally spring the trap.
+**Disarm Device (-2):** A successful check allows the Rogue to disarm mechanical traps and similar devices. Magical traps may also be attempted, but at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on the roll. Thieves' tools are required for this check, and at least one Turn is required to complete the task. A failed check may not be retried unless the Rogue has some way to improve their chances. On a natural 1, the Rogue must make a Doom Save or accidentally spring the trap.
 
 **Legerdemain (-1):** A successful check allows a Rogue to perform a trick of sleight of hand, such as palming a small object, slipping a poison into a drink, or pilfering a small item in the possession of another creature.
 
-**Pick Lock (+0):** A successful check allows a Rogue to open a mechanical lock without the key. Magical locks may also be attempted, but at Disadvantage on the roll. This requires the use of thieves' tools and at least one Turn. A failed check may not be retried unless the Rogue has some way to improve their chances. On a natural 1, the Rogue must make a Doom Save or accidentally jam the lock, rendering it impossible to open without force.
+**Pick Lock (+0):** A successful check allows a Rogue to open a mechanical lock without the key. Magical locks may also be attempted, but at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on the roll. This requires the use of thieves' tools and at least one Turn. A failed check may not be retried unless the Rogue has some way to improve their chances. On a natural 1, the Rogue must make a Doom Save or accidentally jam the lock, rendering it impossible to open without force.
 ![](Skills.md#Uncertainty)
 
 ---
 ### Special Abilities
-**Sneak Attack:** When a Rogue has *Advantage* on an attack, add the listed damage on the table below to the attack.
+**Sneak Attack:** When a Rogue has [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on an attack roll, add the listed damage on the table below to the attack.
 
 **Knacks:** At 3rd level, select one of the following special abilities, denoting your preferred approach to crime. You may select additional abilities at levels 6, 9, 12, 15 and 18. Unless noted otherwise, each knack may only be taken once.
 

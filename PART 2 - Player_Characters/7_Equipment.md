@@ -107,7 +107,7 @@ When it comes to weapons of higher or lower [Quality](#Quality), it is recommend
 - **Reload:** This weapon must be reloaded after each use, requiring a Main Action.
 - **Set:** This weapon may be set to receive a charge, potentially doing double damage.
 - **Snare:** A large or smaller creature hit by this weapon is Restrained. A Restrained creature may spend a Main Action to attempt a Dexterity Check vs a Difficulty equal to the Attack Roll total to escape. Alternatively, a Difficulty 15 Strength Check may be attempted to break the ensnaring weapon.
-- **Versatile:** This weapon may be wielded with either 1 or 2 hands. If 2 hands are used, roll damage with *Advantage*. Small creatures using this weapon one-handed have *Disadvantage* on their Attack Rolls. If they use 2 hands they do **not** roll damage with Advantage.
+- **Versatile:** This weapon may be wielded with either 1 or 2 hands. If 2 hands are used, roll damage with [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage). Small creatures using this weapon one-handed have [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on their Attack Rolls. If they use 2 hands they do **not** roll damage with Advantage.
 
 ### Damage Types
 - **(B)lunt**
@@ -120,7 +120,7 @@ If a weapon lists 2 or more Damage Types, the wielder must specify the Damage Ty
 ### Size
 - **(S)mall:** Anyone can use these weapons in their off-hand.
 - **(M)edium:** No special notes.
-- **(L)arge:** Small creatures have *Disadvantage* when wielding weapons with this tag.
+- **(L)arge:** Small creatures have [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) when wielding weapons with this tag.
 
 ### Melee Weapons
 <table>
@@ -646,7 +646,7 @@ Chain Weapons incorporate a length of chain or other flexible material to allow 
 Clubs, Cudgels, and Walking Sticks represent a variety of simple bludgeoning weapons and objects. This includes the basic club, gentleman's cane, hiking stick, shillelagh, knobkerry, or wizard's staff. Because of their design and lesser weight, these weapons are less effective than a mace or hammer of similar proportion. A walking stick, staff, or cane may be purchased with a silver head or handle (at double cost). The Greatclub is a heavy, two-handed club, possibly with reinforcing bands or wraps.
 
 ##### Sap or Blackjack
-The Sap or blackjack is a leather pouch weighted with sand or lead shot. This weapon is intended to render a foe unconscious. When used in a sneak attack (as by rogues or assassins), the blackjack has a chance of knocking its victim unconscious with a blow to the head – A Hold Save vs the Attack Roll must be made or the victim will be Stunned for 1d4 rounds. A protected head greatly reduces this outcome. If the target is wearing a helmet they gain *Advantage* on the save.  Beings with particularly thick skulls may also garner advantage, per GM discretion.
+The Sap or blackjack is a leather pouch weighted with sand or lead shot. This weapon is intended to render a foe unconscious. When used in a sneak attack (as by rogues or assassins), the blackjack has a chance of knocking its victim unconscious with a blow to the head – A Hold Save vs the Attack Roll must be made or the victim will be Stunned for 1d4 rounds. A protected head greatly reduces this outcome. If the target is wearing a helmet they gain [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on the save.  Beings with particularly thick skulls may also garner advantage, per GM discretion.
 
 ##### Hooks
 Hooks cover a variety of hook-shaped weapons or implements, from short-handled meat hooks to gaff hooks and shepherd's crooks (the latter being Medium-sized). A hook can have a sharpened point, or simply be used as an odd-shaped bludgeon.
@@ -859,7 +859,7 @@ These are armored 'gloves' with added weight, ridges, studs, etc. to give a punc
 	</tfoot>
 </table>
 
-Missile weapon ranges are given in feet.  The number before the slash is their short range and the number after is long.  Attacks at short range are made normally, but attacks at long are made with *Disadvantage*.
+Missile weapon ranges are given in feet.  The number before the slash is their short range and the number after is long.  Attacks at short range are made normally, but attacks at long are made with [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
 #### Bows
 Bows are slender lengths (staves) of wood or other materials, bent and fastened at the ends with a shorter length of animal tendon or other strong fiber. The tension of the bent staff is what provides the power to launch arrows great distances. Careful selection of materials and changing the length of the stave can increase the power and range of these weapons. Short bows have staves around 4 foot unstrung, though shorter staves of more flexible materials may be favored by smaller characters. Long bows are typically around 6 feet unstrung, though longer staves are not unheard of.
@@ -867,7 +867,7 @@ Bows are slender lengths (staves) of wood or other materials, bent and fastened 
 #### Crossbows
 Crossbows are essentially short, heavy bows (laths) of wood or metal set across a stock or tiller. Much of the popularity of the crossbow comes from its ease in use – and much shorter training time for men-at-arms – compared to bows. The mechanical lock & pulling mechanisms means higher tensions can be drawn and held without tiring the archer. This allows for ready fire, and with greater ranges than a regular bow, at the expense of a slower rate of fire.
 
-**Light Crossbows** are hand- or lever-drawn, and have a rate of fire of 1 per 2 rounds (one round to draw and set, ready to fire the next). Man-sized creatures (including Dwarves) may attempt to fire a light crossbow with one hand, but at *Disadvantage* attack roll.
+**Light Crossbows** are hand- or lever-drawn, and have a rate of fire of 1 per 2 rounds (one round to draw and set, ready to fire the next). Man-sized creatures (including Dwarves) may attempt to fire a light crossbow with one hand, but at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) attack roll.
 
 The **Heavy Crossbow** is a more powerful weapon, usually requiring composite or steel laths. Like light crossbows, the heavy draw strength means it can only fire 1 per 2 rounds. Heavy crossbows are often mechanically drawn, though some may use a braced draw (holding the bow with a stirrup, and using the arms and legs to draw the string back).
 
@@ -904,7 +904,7 @@ Like other items, armor [Quality](#quality) can vary.  It is generally recommend
 - **Weight:** This is the armor category noted for proficiency purposes
 	- (L)ight, (M)edium, (H)eavy, (B)uckler and (S)hield.
 - **Encumbering:** Reduces movement by 10ft (for Medium armor) or 20ft (for Heavy armor). Also for every 1 minute of intense activity (such as combat), make a Constitution Check vs Difficulty 12 (Medium) or 15 (Heavy) or gain 1 level of Exhaustion.
-- **Noisy:** Imposes *Disadvantage* on stealth checks.
+- **Noisy:** Imposes [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on [Stealth](snips/Skills.md#Stealth) checks.
 - **DEX Mod:** This is the amount of your Dexterity Modifier (round up) that may be added to your AC. If your Dexterity modifier is negative, always apply the full value.
 
 ### Worn Armor
@@ -1112,7 +1112,7 @@ It takes time to don (put on) or doff (take off) armor. You only benefit from ar
 | Buckler/Shield | 1 action | 1 action |
 
 ### Armor Training
-A character may have been trained in the proper wearing and movement for Light, Medium and Heavy armor through either a Class Ability or Trait. While wearing armor they have not been trained in, a character will suffer Disadvantage on all their Physical Checks.
+A character may have been trained in the proper wearing and movement for Light, Medium and Heavy armor through either a Class Ability or Trait. While wearing armor they have not been trained in, a character will suffer [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on all their Physical Checks.
 
 ## General Equipment
 This is a list of common adventuring gear, much of which can be found in various general stores throughout the land. Some specialized items (such as Acid, Alchemist’s Fire, Poisons and the like) will only be available at specialty shops like alchemy shops, herbalists and so forth.
@@ -1626,10 +1626,16 @@ This is a list of common adventuring gear, much of which can be found in various
 			<td class="left-align">20ft bright + 20ft dim light for 3p4 Stretches</td><!--properties-->
 		</tr>
 		<tr>
-			<td class="left-align"><a class="internal-link" href="#waterskin+or+wineskin">Wine/Water Skin</a></td><!--item-->
+			<td class="left-align"><a class="internal-link" href="#waterskin+or+wineskin">Wine/Water Skin (qt)</a></td><!--item-->
 			<td class="right-align">1sp</td><!--price-->
 			<td>1</td><!--slots-->
 			<td class="left-align">Holds 1 qt of liquid (enough for 1 day in temperate climes)</td><!--properties-->
+		</tr>
+		<tr>
+			<td class="left-align"><a class="internal-link" href="#waterskin+or+wineskin">Wine/Water Skin (gal)</a></td><!--item-->
+			<td class="right-align">3sp</td><!--price-->
+			<td>2</td><!--slots-->
+			<td class="left-align">Holds 1 gallon of liquid (4 quarts).</td><!--properties-->
 		</tr>
 		<tr>
 			<td class="sub-header" colspan=4>Tools</td>
@@ -1650,7 +1656,7 @@ This is a list of common adventuring gear, much of which can be found in various
 			<td class="left-align"><a class="internal-link" href="#block+and+tackle">Block and Tackle</a></td><!--item-->
 			<td class="right-align">5sp</td><!--price-->
 			<td>1</td><!--slots-->
-			<td class="left-align">Advantage on STR checks for lifting.</td><!--properties-->
+			<td class="left-align"><i>Advantage</i> on STR checks for lifting.</td><!--properties-->
 		</tr>
 		<tr>
 			<td class="left-align">Bucket</td><!--item-->
@@ -1800,7 +1806,7 @@ Wooden handles and leather 'bag', about a foot long. Good for helping fires or c
 Can be used to reduce the load for lifting, but uses more rope to do so; up to ¼ weight, with 4 times the rope.
 
 #### Caltrops
-Metal spikes that look like large jacks, shaped so that there is always one sharp point facing up. One bag can be scattered in a 5' radius, creating difficult terrain. If a creature moves through or spends a round fighting in an area scattered with caltrops, it must pass a Diff 12 DEX check or step on one. Heavy boots grant *Advantage* on the check. Stepping on a caltrop deals 1d4 point of piercing damage. If the creature is attempting to move or charge through the caltrops and it steps on one, the pain forces it to stop, unless the creature is mindless or cannot feel pain.
+Metal spikes that look like large jacks, shaped so that there is always one sharp point facing up. One bag can be scattered in a 5' radius, creating difficult terrain. If a creature moves through or spends a round fighting in an area scattered with caltrops, it must pass a Diff 12 DEX check or step on one. Heavy boots grant [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on the check. Stepping on a caltrop deals 1d4 point of piercing damage. If the creature is attempting to move or charge through the caltrops and it steps on one, the pain forces it to stop, unless the creature is mindless or cannot feel pain.
 
 #### Candle
 A Candle will shed light over a 5' radius, with dim light extending 5' further. A normal candle will burn 3p4 stretches (approximately 1 hour).
@@ -1901,7 +1907,7 @@ Leg-hold traps for fur-bearing animals. Traps are designed for different sized a
 A sort of litter designed to be pulled by a person or animal. Anyone hauling a travois moves at half speed, regardless of how much weight is actually being pulled.
 
 #### Waterskin or Wineskin
-This is a container for drinking water or wine; though generally water is taken into a dungeon or wilderness environment. The standard waterskin holds one quart of liquid, which is the minimum amount required by a normal character in a single day. If adventuring in the desert or other hot, dry areas, a character may need as much as ten times this amount.
+This is a container for drinking water or wine; though generally water is taken into a dungeon or on wilderness environment. The standard waterskin holds one quart of liquid, which is the minimum amount required by a normal character in a single day.  Larger (gallon-sized) waterskins are typically reserved for long overland journeys. If adventuring in the desert or other hot, dry areas, a character may need two to five times the normal amount of water.
 
 #### Wax
 **Beeswax** is a softer wax, useful for making impressions, hasty patches, stuffing in ears, etc.
@@ -2274,7 +2280,7 @@ Stored in a small ceramic jar or tin and sufficient for 50 pages of normal writi
 			<td class="left-align"><a class="internal-link" href="#climbing+tools">Climbing Tools</a></td><!--item-->
 			<td class="right-align">20sp</td><!--price-->
 			<td>2</td><!--slots-->
-			<td class="left-align">Advantage on climb checks; noisy; takes up both hands.</td><!--properties-->
+			<td class="left-align"><em>Advantage</em> on climb checks; noisy; takes up both hands.</td><!--properties-->
 		</tr>
 		<tr>
 			<td class="left-align"><a class="internal-link" href="#dead+hammer">Dead Hammer</a></td><!--item-->
@@ -2399,7 +2405,7 @@ A device for sprinkling holy water – either from an internal reservoir, or dra
 Covers a variety of similarly-pieced board games, such as Backgammon, Chess, Go, Mancala, Shogi, Senet, Xianqi, etc. Quality sets made from exotic materials are much higher in cost.
 
 #### Books or Tomes
-Books can be leather or hard-bound (leather-wrapped wood); pages may be as small as 5” x 7”, usually closer to 10” x 6”. A book will generally use half a sheet of paper per book page. Tomes are larger, heavier volumes, and always hard-bound – sometimes even metal-bound. Typically these will have 12” x 10” pages or larger. A tome will use a full sheet of paper per page of tome.  **Lore books** grant *Advantage* on lore checks for their specific subject.
+Books can be leather or hard-bound (leather-wrapped wood); pages may be as small as 5” x 7”, usually closer to 10” x 6”. A book will generally use half a sheet of paper per book page. Tomes are larger, heavier volumes, and always hard-bound – sometimes even metal-bound. Typically these will have 12” x 10” pages or larger. A tome will use a full sheet of paper per page of tome.  **Lore books** grant [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on lore checks for their specific subject.
 
 #### Bowstring
 Needed for building bows and replacing broken strings.  Different lengths of string are required for each type of bow (short and long).
@@ -2426,7 +2432,7 @@ A hammer or mallet with a head made of treated wood, plant resins, or other mate
 Often cut from ivory or wood, but other substances (metal, cut crystal, etc.) are not unknown. It will cost double to closely match a specific set of dice (to substitute a loaded set, for example). Swapping dice requires a successful pick pockets roll.
 
 #### Disguise Kit
-A simple kit for altering one's appearance. Includes makeup, hair dye, and a few wigs and/or fake beards. Clothing and prosthetics (fake noses and the like) are not included.  Attempting to use the disguise skill without this kit incurs *Disadvantage* on the roll.
+A simple kit for altering one's appearance. Includes makeup, hair dye, and a few wigs and/or fake beards. Clothing and prosthetics (fake noses and the like) are not included.  Attempting to use the disguise skill without this kit incurs [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on the roll.
 
 #### Folding Rods
 Comes in 4” segments, and extends up to 3' in length. These may either be hinged, or separate pieces akin to a collapsing pole. May support up to 10 lb.
@@ -2466,7 +2472,7 @@ Cover a wide range of music-making devices. Examples from each category:
 **Rustproofing Oil** is prized by sailors and dungeon delvers alike. It is a special mineral oil that provides exceptional protection against corrosion. Metal equipment treated regularly is immune to “natural” corrosion, and may help resist damage from corrosion attacks. Note that this protection applies only to the equipment, not the person using it.
 
 #### Prayer Books
-Standard texts of a given religion – the specific intent here is for use in service, though this may also include full scriptures. This also applies to texts on scrolls as well.  Grants *Advantage* on lore checks regarding the religion in question.
+Standard texts of a given religion – the specific intent here is for use in service, though this may also include full scriptures. This also applies to texts on scrolls as well.  Grants [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on lore checks regarding the religion in question.
 
 #### Scribe, Scrivener or Mapmaker Kit
 These are examples of a basic and complete sets: 
@@ -2489,7 +2495,7 @@ A smaller, more portable option would be the leather-bound **Traveling Spellbook
 Either will fit into a backpack or satchel. The arcanist's starting book is assumed to be a traveling spellbook.
 
 #### Thieves' Tools
-Thieves' Picks and Tools are required for the use of skills like picking locks and removing traps. These abilities may not be usable without appropriate tools.  If the GM does allow an attempt, it will be made at *Disadvantage*.
+Thieves' Picks and Tools are required for the use of skills like picking locks and removing traps. These abilities may not be usable without appropriate tools.  If the GM does allow an attempt, it will be made at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
 ### Bags and Pouches
 Items suitable for carrying your gear in a secure fashion.  **Slots** indicate how many slots this item takes from your encumbrance when carried (it takes up none when worn).  **Capacity** is the number of slots worth of items that will fit inside the container.
