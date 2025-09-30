@@ -17,7 +17,7 @@ _Beyond lay a stone sarcophagus, resting atop a raised platform. Strewn about th
 
 _Morningstar called “Wait!” but it was too late… I had already laid hands upon the sarcophagus. The bones on the floor began to rattle, then rose up and assembled themselves in a mockery of life. Without delay they picked up their swords from the floor and began to attack us. I would have to wait until later to kick myself, I mused, as I put my back against the sarcophagus and began to fight the monsters…_
 
-## What is this ?
+## What is this?
 
 The **Basic Fantasy Role-Playing Game** is a rules-light game system written with inspiration from early roleplaying game systems.  It is intended for those who are fans of “old-school” game mechanics.  Basic Fantasy RPG is simple enough for children in perhaps second or third grade to play, yet still has enough depth for adults as well.
 
@@ -102,3 +102,19 @@ Occasionally the rules will call for a die type that doesn’t actually exist. B
 **Disadvantage:** When making a roll, roll two dice and take the _worst_ result.
 
 If a check has both _Advantage_ and _Disadvantage_ count up the number of each. If there are more Advantages, the roll is made at _Advantage_. If there are more Disadvantages, the roll is made at _Disadvantage_. If they are equal, the roll is made normally.
+
+### Countdown Pool
+Occasionally, the rules will call for the formation of a **Countdown Pool**.  Typically this is expressed in the form of "#p#" followed by a time unit (such as 2p6 minutes).  This is a pool of dice that are rolled at every specified time increment.  Each die that comes up a ‘1’ is removed from the pool.  When all dice have been removed from the pool, whatever effect is indicated by the countdown pool completes.
+
+#### The Death Pool
+One special **Countdown Pool** is the **Death Pool**.  A Death Pool is a number of 4-sided dice equal to the creature's *Constitution Modifier* plus its *Wisdom Modifier*; with a minimum pool size of 1.  This is rolled at the end of each of the creature's [Turns](1_Dungeon_Adventures.md#Time%20and%20Scale) and when the pool is empty, the creature expires.  Only PCs and important NPCs will have a Death Pool.  All other creatures will simply die when they reach 0 HP.
+
+#### Countdown Pool Average Number of Rolls
+| Pool Size | D6    | D4  | D3  | D2  |
+|:---------:|:-----:|:---:|:---:|:---:|
+| 1         | 3-4   | 1-2 | 1-2 | 1-2 |
+| 2         | 7-8   | 4-5 | 3-4 | 2-3 |
+| 3         | 9-10  | 6-7 | 4-5 | 2-3 |
+| 4         | 11-12 | 7-8 | 5-6 | 3-4 |
+| 5         | 12-13 | 8-9 | 5-6 | 3-4 |
+| 6         | 13-14 | 8-9 | 6-7 | 3-4 |

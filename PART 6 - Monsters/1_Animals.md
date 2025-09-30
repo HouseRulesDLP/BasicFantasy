@@ -2628,6 +2628,190 @@ A boar is covered in coarse, grayish-black fur. Adults are about 4 feet long and
 
 **Low-Light Vision:** Hunting cats have low-light vision out to 120'.
 
+### Crocodile
+<table class="monster">
+	<tbody>
+		<tr>
+			<td class="field"/>
+			<td class="sub-header" colspan=6>Normal</td>
+			<td class="sub-header" colspan=6>Large</td>
+			<td class="sub-header" colspan=6>Giant</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Tags:</b></td>
+			<td class="data" colspan=18>reptile, amphibious</td>
+		</tr>
+		<tr>
+			<td class="field"><b>No. Appearing:</b></td>
+			<td class="data" colspan=6>Wild 1d8</td>
+			<td class="data" colspan=6>Wild 1d4</td>
+			<td class="data" colspan=6>Wild 1d3</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Initiative:</b></td>
+			<td class="data" colspan=6>11+</td>
+			<td class="data" colspan=6>12+</td>
+			<td class="data" colspan=6>14+</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Hit Dice:</b></td>
+			<td class="data" colspan=6>2d8+2 (11hp)</td>
+			<td class="data" colspan=6>6d8+12 (39hp)</td>
+			<td class="data" colspan=6>15d8+45 (113hp)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Size:</b></td>
+			<td class="data" colspan=6>Large</td>
+			<td class="data" colspan=6>Huge</td>
+			<td class="data" colspan=6>Gigantic</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Armor Class:</b></td>
+			<td class="data" colspan=6>15 (natural)</td>
+			<td class="data" colspan=6>17 (natural)</td>
+			<td class="data" colspan=6>19 (natural)</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Saving Throws:</b></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+		</tr>
+		<tr>
+    		<td class="data">+2</td>
+    		<td class="data">+1</td>
+    		<td class="data">+0</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">+7</td>
+    		<td class="data">+6</td>
+    		<td class="data">+5</td>
+    		<td class="data">+5</td>
+    		<td class="data">+3</td>
+    		<td class="data">+18</td>
+    		<td class="data">+17</td>
+    		<td class="data">+16</td>
+    		<td class="data">+17</td>
+    		<td class="data">+14</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Morale:</b></td>
+			<td class="data" colspan=6>-3</td>
+			<td class="data" colspan=6>+1</td>
+			<td class="data" colspan=6>+3</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Movement:</b></td>
+			<td class="data" colspan=18>30' (10'), Swim 30' (10')</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=3><b>Abilities:</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+		</tr>
+		<tr>
+    		<td class="data">16</td><!--ST-->
+    		<td class="data">12</td><!--DX-->
+    		<td class="data">14</td><!--CN-->
+    		<td class="data">6</td><!--IN-->
+    		<td class="data">12</td><!--WI-->
+    		<td class="data">6</td><!--CH-->
+    		<td class="data">18</td><!--ST-->
+    		<td class="data">11</td><!--DX-->
+    		<td class="data">16</td><!--CN-->
+    		<td class="data">6</td><!--IN-->
+    		<td class="data">12</td><!--WI-->
+    		<td class="data">6</td><!--CH-->
+    		<td class="data">22</td><!--ST-->
+    		<td class="data">10</td><!--DX-->
+    		<td class="data">18</td><!--CN-->
+    		<td class="data">6</td><!--IN-->
+    		<td class="data">12</td><!--WI-->
+    		<td class="data">6</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="data">+2</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+1</td><!--CN-->
+    		<td class="data">-1</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-1</td><!--CH-->
+    		<td class="data">+3</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+2</td><!--CN-->
+    		<td class="data">-1</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-1</td><!--CH-->
+    		<td class="data">+5</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+3</td><!--CN-->
+    		<td class="data">-1</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-1</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="field"><b>Attack Bonus:</b></td>
+    		<td class="data" colspan=6>+1</td>
+    		<td class="data" colspan=6>+4</td>
+    		<td class="data" colspan=6>+10</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Attacks:</b></td>
+			<td class="data" colspan=6>1 Bite (TH +3, Dmg 1d8+2p)</td>
+			<td class="data" colspan=6>1 attack (TH +7, Dmg 2d8+3p)</td>
+			<td class="data" colspan=6>1 attack (TH +15, Dmg 3d8+5p)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Treasure:</b></td>
+			<td class="data" colspan=18>none</td>
+		</tr>
+		<tr>
+			<td class="field"><b>XP:</b></td>
+			<td class="data" colspan=6>40</td>
+			<td class="data" colspan=6>500</td>
+			<td class="data" colspan=6>2,750</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Description
+Crocodiles are aggressive predators 11 to 12 feet long. They lie mostly submerged in rivers or marshes, with only their eyes and nostrils showing, waiting for prey to come within reach; when in their natural element, they have Stealth +4.  Crocodiles can hold their breath for up to 4 hours at a time (sometimes even longer) and they prefer to drag their prey underwater to drown their prey.
+
+**Large Crocodiles:** These huge creatures are from 12-20 feet long. Large crocodiles fight and behave like their smaller cousins.
+
+**Giant Crocodiles:** These huge creatures usually live in salt water and are generally more than 20 feet long. Giant crocodiles fight and behave like their smaller cousins.
+
 ### Deer
 <table class="monster">
 	<tbody>
@@ -3441,6 +3625,558 @@ A **Giant Monkey** weights around 180 pounds and stands as tall as an adult huma
 **Owls** hunt rodents, mall lizards, and insects, attacking humans only when frightened (or magically commanded). They have 120' Low-light Vision  and [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on hearing perception checks. They fly in near total silence, gaining *Advantage* on stealth checks.  Their eye sight is worse than that of humans, suffering [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on sight perception checks in full daylight.
 
 A typical **giant owl** stands about 9 feet tall, has a wingspan of up to 20 feet, and resembles its smaller cousins in nearly every way.  A giant owl attacks by gliding silently just a few feet above its prey and plunging to strike when directly overhead.  It has the same senses and stealth abilities as its smaller cousins.
+
+### Rat
+<table class="monster">
+	<tbody>
+		<tr>
+			<td class="field"/>
+			<td class="sub-header" colspan=6>Normal (swarm)</td>
+			<td class="sub-header" colspan=6>Giant</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Tags:</b></td>
+			<td class="data" colspan=12>animal, mammal, rodent</td>
+		</tr>
+		<tr>
+			<td class="field"><b>No. Appearing:</b></td>
+			<td class="data" colspan=6>5d10, Wild 5d10, Lair 5d10</td>
+			<td class="data" colspan=6>3d6, Wild 3d10, Lair 3d10</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Initiative:</b></td>
+			<td class="data" colspan=6>11+</td>
+			<td class="data" colspan=6>12+</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Hit Dice:</b></td>
+			<td class="data" colspan=6>0* (1hp)</td>
+			<td class="data" colspan=6>1d4+1* (3hp)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Size:</b></td>
+			<td class="data" colspan=6>Tiny</td>
+			<td class="data" colspan=6>Small</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Armor Class:</b></td>
+			<td class="data" colspan=6>11 (natural)</td>
+			<td class="data" colspan=6>13 (natural)</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Saving Throws:</b></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+		</tr>
+		<tr>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">-3</td>
+    		<td class="data">-4</td>
+    		<td class="data">-5</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">-3</td>
+    		<td class="data">-4</td>
+    		<td class="data">-5</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Morale:</b></td>
+			<td class="data" colspan=6>-8</td>
+			<td class="data" colspan=6>+1</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Movement:</b></td>
+			<td class="data" colspan=6>20', Swim 10'</td>
+			<td class="data" colspan=6>40', Swim 20'</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=3><b>Abilities:</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+		</tr>
+		<tr>
+    		<td class="data">2</td><!--ST-->
+    		<td class="data">9</td><!--DX-->
+    		<td class="data">13</td><!--CN-->
+    		<td class="data">2</td><!--IN-->
+    		<td class="data">13</td><!--WI-->
+    		<td class="data">2</td><!--CH-->
+    		<td class="data">4</td><!--ST-->
+    		<td class="data">13</td><!--DX-->
+    		<td class="data">13</td><!--CN-->
+    		<td class="data">4</td><!--IN-->
+    		<td class="data">13</td><!--WI-->
+    		<td class="data">4</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="data">-3</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+1</td><!--CN-->
+    		<td class="data">-3</td><!--IN-->
+    		<td class="data">+1</td><!--WI-->
+    		<td class="data">-3</td><!--CH-->
+    		<td class="data">-2</td><!--ST-->
+    		<td class="data">+1</td><!--DX-->
+    		<td class="data">+1</td><!--CN-->
+    		<td class="data">-2</td><!--IN-->
+    		<td class="data">+1</td><!--WI-->
+    		<td class="data">-2</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="field"><b>Attack Bonus:</b></td>
+    		<td class="data" colspan=6>+0</td>
+    		<td class="data" colspan=6>+0</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Attacks:</b></td>
+			<td class="data" colspan=6>1 biting swarm (TH +0, Dmg 1d6p)</td>
+			<td class="data" colspan=6>1 bite (TH +1, Dmg 1d4+1p)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Treasure:</b></td>
+			<td class="data" colspan=6>none</td>
+			<td class="data" colspan=6>C</td>
+		</tr>
+		<tr>
+			<td class="field"><b>XP:</b></td>
+			<td class="data" colspan=6>12</td>
+			<td class="data" colspan=6>12</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Description
+These omnivorous rodents thrive almost anywhere. Normal rats attack as a swarm; each point of damage done to the swarm reduces their numbers by one animal.
+
+Giant rats are scavengers, but will attack to defend their nests and territories. A giant rat can grow to be up to 4 feet long and weigh over 50 pounds. A single giant rat, or a small group of up to four, will generally be shy, but larger packs attack fearlessly, biting and chewing with their sharp incisors.
+
+#### Special Abilities
+A character who suffers one or more rat bites must make an [Easy (9+)](Introduction.md#Task%20Target%20Numbers) Doom Save or they will gain the Sickened Condition in 3p6 hours. While Sickened, the character will lose one point of Constitution per hour; after losing each point, the character is allowed a save vs. Doom (adjusted by the current Constitution bonus or penalty) to break the fever and end the condition. Any character reduced to zero Constitution is dead.
+
+### Snake
+<table class="monster">
+	<tbody>
+		<tr>
+			<td class="field"/>
+			<td class="sub-header" colspan=6>Non-Poisonous</td>
+			<td class="sub-header" colspan=6>Poisonous</td>
+			<td class="sub-header" colspan=6>Constrictor</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Tags:</b></td>
+			<td class="data" colspan=18>animal, reptile</td>
+		</tr>
+		<tr>
+			<td class="field"><b>No. Appearing:</b></td>
+			<td class="data" colspan=6>1d4, Wild 1d4, Lair 1d4</td>
+			<td class="data" colspan=6>1d4, Wild 1d4, Lair 1d4</td>
+			<td class="data" colspan=6>1d3, Wild 1d3, Lair 1d3</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Initiative:</b></td>
+			<td class="data" colspan=6>13+</td>
+			<td class="data" colspan=6>13+</td>
+			<td class="data" colspan=6>13+</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Hit Dice:</b></td>
+			<td class="data" colspan=6>1d8 (5hp)</td>
+			<td class="data" colspan=6>1d8* (5hp)</td>
+			<td class="data" colspan=6>5d8* (23hp)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Size:</b></td>
+			<td class="data" colspan=6>Tiny</td>
+			<td class="data" colspan=6>Tiny</td>
+			<td class="data" colspan=6>Medium</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Armor Class:</b></td>
+			<td class="data" colspan=6>14 (natural)</td>
+			<td class="data" colspan=6>14 (natural)</td>
+			<td class="data" colspan=6>14 (natural)</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Saving Throws:</b></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+		</tr>
+		<tr>
+    		<td class="data">+0</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">-3</td>
+    		<td class="data">-4</td>
+    		<td class="data">+0</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">-3</td>
+    		<td class="data">-4</td>
+    		<td class="data">+5</td>
+    		<td class="data">+4</td>
+    		<td class="data">+3</td>
+    		<td class="data">+3</td>
+    		<td class="data">+1</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Morale:</b></td>
+			<td class="data" colspan=6>-3</td>
+			<td class="data" colspan=6>-3</td>
+			<td class="data" colspan=6>+1</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Movement:</b></td>
+			<td class="data" colspan=6>30'</td>
+			<td class="data" colspan=6>30'</td>
+			<td class="data" colspan=6>30'</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=3><b>Abilities:</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+		</tr>
+		<tr>
+    		<td class="data">2</td><!--ST-->
+    		<td class="data">16</td><!--DX-->
+    		<td class="data">11</td><!--CN-->
+    		<td class="data">1</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">3</td><!--CH-->
+    		<td class="data">2</td><!--ST-->
+    		<td class="data">16</td><!--DX-->
+    		<td class="data">11</td><!--CN-->
+    		<td class="data">1</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">3</td><!--CH-->
+    		<td class="data">15</td><!--ST-->
+    		<td class="data">14</td><!--DX-->
+    		<td class="data">12</td><!--CN-->
+    		<td class="data">1</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">3</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="data">-3</td><!--ST-->
+    		<td class="data">+2</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">-4</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-3</td><!--CH-->
+    		<td class="data">-3</td><!--ST-->
+    		<td class="data">+2</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">-4</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-3</td><!--CH-->
+    		<td class="data">+1</td><!--ST-->
+    		<td class="data">+1</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">-4</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-3</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="field"><b>Attack Bonus:</b></td>
+    		<td class="data" colspan=6>+1</td>
+    		<td class="data" colspan=6>+1</td>
+    		<td class="data" colspan=6>+3</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Attacks:</b></td>
+			<td class="data" colspan=6>1 Bite (TH +3, Dmg 1d4+2p)</td>
+			<td class="data" colspan=6>1 Bite (TH +3, Dmg 1d4+2p plus poison)</td>
+			<td class="data" colspan=6>1 Bite (TH +4, Dmg 1d4+1p)</td>
+		</tr>
+		<tr>
+    		<td class="data" colspan=6></td>
+    		<td class="data" colspan=6></td>
+    		<td class="data" colspan=6>Constrict (see below)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Treasure:</b></td>
+			<td class="data" colspan=18>none</td>
+		</tr>
+		<tr>
+			<td class="field"><b>XP:</b></td>
+			<td class="data" colspan=6>20</td>
+			<td class="data" colspan=6>24</td>
+			<td class="data" colspan=6>384</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Description
+Snakes are long, slender reptiles that can be found anywhere in the entire world, even in the coldest arctic regions.
+
+There are basically two types of snakes, in all manner of sizes. The poisonous snakes make up for their relatively smaller size with deadly venoms, while the larger constrictors squeeze their victims to death. Both types sleep for days after eating. All snakes shed their skin several times each year.
+
+Snakes fear fire and will retreat from open flames, suffering a -6 morale modifier when flames are used against them.
+
+Some snakes hunt by night and can track warm-blooded prey by body heat as well as by sight. They have the equivalent of 30-foot [Darkvision](1_Dungeon_Adventures.md#Darkvision).
+
+##### Poisonous Snake
+Typical varieties of poisonous snakes include the asp, cobra, copperhead, coral snake, death adder, krait, mamba, puff adder, rattlesnake, sidewinder, and water moccasin.
+
+Sea Snakes are a swimming variety of poisonous snake found in tropical regions.  Sea snakes only move 10' on the ground, but have a 30' swim movement.
+
+##### Constrictor Snake
+Common constrictor species include anacondas, boas, and reticulate pythons, all of which can reach lengths of 30 feet.
+
+#### Special Abilities
+##### Poison
+Anyone bitten by a poisonous snake must make a [Moderate (12+)](Introduction.md#Task%20Target%20Numbers) Doom save (adjusted by Constitution) or suffer the effects of the poison: typically 2p4 rounds Paralysis or 1d6 additional Poison damage, plus the Poisoned condition for 2p4 rounds.
+
+##### Constrict
+After a successful bite attack, a constrictor snake may choose to wrap itself around the victim if it is a [Medium](0_Monster_Descriptions.md#Size) or smaller creature, causing the Grappled condition.  Each round thereafter, the snake does 2d4b damage on each of it's actions as long as the grapple is maintained.
+
+### Snake, Giant
+<table class="monster">
+	<tbody>
+		<tr>
+			<td class="field"/>
+			<td class="sub-header" colspan=6>Non-Poisonous</td>
+			<td class="sub-header" colspan=6>Poisonous</td>
+			<td class="sub-header" colspan=6>Constrictor</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Tags:</b></td>
+			<td class="data" colspan=18>animal, giant, reptile</td>
+		</tr>
+		<tr>
+			<td class="field"><b>No. Appearing:</b></td>
+			<td class="data" colspan=6>1d2, Wild 1d2, Lair 1d2</td>
+			<td class="data" colspan=6>1d2, Wild 1d2, Lair 1d2</td>
+			<td class="data" colspan=6>1d2, Wild 1d2, Lair 1d2</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Initiative:</b></td>
+			<td class="data" colspan=6>14+</td>
+			<td class="data" colspan=6>14+</td>
+			<td class="data" colspan=6>13+</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Hit Dice:</b></td>
+			<td class="data" colspan=6>2d8+2 (11hp)</td>
+			<td class="data" colspan=6>2d8+2* (11hp)</td>
+			<td class="data" colspan=6>6d8* (27hp)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Size:</b></td>
+			<td class="data" colspan=6>Medium</td>
+			<td class="data" colspan=6>Medium</td>
+			<td class="data" colspan=6>Huge</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Armor Class:</b></td>
+			<td class="data" colspan=6>15 (natural)</td>
+			<td class="data" colspan=6>15 (natural)</td>
+			<td class="data" colspan=6>15 (natural)</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Saving Throws:</b></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+		</tr>
+		<tr>
+    		<td class="data">+2</td>
+    		<td class="data">+1</td>
+    		<td class="data">+0</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">+2</td>
+    		<td class="data">+1</td>
+    		<td class="data">+0</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">+7</td>
+    		<td class="data">+6</td>
+    		<td class="data">+5</td>
+    		<td class="data">+5</td>
+    		<td class="data">+3</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Morale:</b></td>
+			<td class="data" colspan=6>+1</td>
+			<td class="data" colspan=6>+1</td>
+			<td class="data" colspan=6>+1</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Movement:</b></td>
+			<td class="data" colspan=6>40'</td>
+			<td class="data" colspan=6>40'</td>
+			<td class="data" colspan=6>30'</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=3><b>Abilities:</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+		</tr>
+		<tr>
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">18</td><!--DX-->
+    		<td class="data">13</td><!--CN-->
+    		<td class="data">2</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">3</td><!--CH-->
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">18</td><!--DX-->
+    		<td class="data">13</td><!--CN-->
+    		<td class="data">2</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">3</td><!--CH-->
+    		<td class="data">19</td><!--ST-->
+    		<td class="data">14</td><!--DX-->
+    		<td class="data">12</td><!--CN-->
+    		<td class="data">1</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">3</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+3</td><!--DX-->
+    		<td class="data">+1</td><!--CN-->
+    		<td class="data">-3</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-3</td><!--CH-->
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+3</td><!--DX-->
+    		<td class="data">+1</td><!--CN-->
+    		<td class="data">-3</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-3</td><!--CH-->
+    		<td class="data">+3</td><!--ST-->
+    		<td class="data">+1</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">-4</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">-3</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="field"><b>Attack Bonus:</b></td>
+    		<td class="data" colspan=6>+1</td>
+    		<td class="data" colspan=6>+1</td>
+    		<td class="data" colspan=6>+5</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Attacks:</b></td>
+			<td class="data" colspan=6>1 Bite (TH +4, Dmg 1d8+3p)</td>
+			<td class="data" colspan=6>1 Bite (TH +4, Dmg 1d8+3p plus poison)</td>
+			<td class="data" colspan=6>1 Bite (TH +8, Dmg 1d8+3p)</td>
+		</tr>
+		<tr>
+    		<td class="data" colspan=6></td>
+    		<td class="data" colspan=6></td>
+    		<td class="data" colspan=6>Constrict (see below)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Treasure:</b></td>
+			<td class="data" colspan=18>none</td>
+		</tr>
+		<tr>
+			<td class="field"><b>XP:</b></td>
+			<td class="data" colspan=6>40</td>
+			<td class="data" colspan=6>28</td>
+			<td class="data" colspan=6>600</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Description
+See [Snake](#Snake), above.
+
+#### Special Abilities
+##### Poison
+Anyone bitten by a poisonous giant snake must make a [Tricky (15+)](Introduction.md#Task%20Target%20Numbers) Doom save (adjusted by Constitution) or suffer the effects of the poison: typically 2p6 rounds Paralysis or 2d6 additional Poison damage, plus the Poisoned condition for 2p6 rounds.
+
+##### Constrict
+After a successful bite attack, a giant constrictor snake may choose to wrap itself around the victim if it is a [Large](0_Monster_Descriptions.md#Size) or smaller creature, causing the Grappled condition.  Each round thereafter, the snake does 2d8b damage on each of it's actions as long as the grapple is maintained.
+
+Giant sea snakes are both poisonous and capable of constriction and have an XP value of 700.
 
 ### Wolf
 <table class="monster">

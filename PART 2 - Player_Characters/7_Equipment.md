@@ -3263,7 +3263,7 @@ Loose garment draped over the shoulders and going to the wearer’s knees if not
 #### Turban
 A length of cloth that is wrapped around the wearer’s head, usually in arid or dessert settings. During dust storms a portion of the turban can be brought down over the wearer’s eyes and mouth to prevent sand from getting in the wearer’s face.
 
-### Storage and Containers
+## Storage and Containers
 See also [Bags and Pouches](#Bags%20and%20Pouches).
 
 <table>
@@ -3468,7 +3468,7 @@ A **Strongbox** comes equipped with a lock (diff 15 to pick, 18 to break) and is
 #### Crates
 Wooden box that uses thins slats nailed to corner pieces. The slats are generally one to three inches (2.5 to 7.5 cm) wide and have a space of ¾ to 1.5 inches (2 to 3.75 cm) between slats on the sides. There is generally no lid or if there is the slats will use the same spacing as the sides. These are generally used for fruits and vegetables or for small animals, like chickens or smaller.
 
-### Animals
+## Animals
 <table>
 	<thead>
 		<tr>
@@ -3603,13 +3603,13 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Boar</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#boar">Boar</a></td><!--Item-->
 			<td class="right-align">10sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Bull</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#bull">Bull</a></td><!--Item-->
 			<td class="right-align">20sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
@@ -3633,13 +3633,13 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Deer, doe</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#deer">Deer, doe</a></td><!--Item-->
 			<td class="right-align">5sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Deer, stag</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#deer">Deer, stag</a></td><!--Item-->
 			<td class="right-align">9sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
@@ -3663,7 +3663,7 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Ox</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#bull">Ox</a></td><!--Item-->
 			<td class="right-align">15sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
@@ -3789,13 +3789,13 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Crocodilian#</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#crocodile">Crocodilian#</a></td><!--Item-->
 			<td class="right-align">500sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Dog, pet</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#dog">Dog, pet</a></td><!--Item-->
 			<td class="right-align">5sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
@@ -3837,7 +3837,7 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Owl</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#owl">Owl</a></td><!--Item-->
 			<td class="right-align">3sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
@@ -3855,31 +3855,31 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Rodent, common</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#rat">Rodent, common</a></td><!--Item-->
 			<td class="right-align">1cp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Rodent, giant</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#rat">Rodent, giant</a></td><!--Item-->
 			<td class="right-align">1sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Snake, poisonous</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#snake">Snake, poisonous</a></td><!--Item-->
 			<td class="right-align">5cp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Snake, constrictor#</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#snake">Snake, constrictor#</a></td><!--Item-->
 			<td class="right-align">50sp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
 		</tr>
 		<tr>
-			<td class="left-align">Snake, small nonpoisonous</td><!--Item-->
+			<td class="left-align"><a class="internal-link" href="1_Animals.md#snake">Snake, small nonpoisonous</a></td><!--Item-->
 			<td class="right-align">1cp</td><!--Price-->
 			<td></td><!--Speed-->
 			<td class="left-align"></td><!--Notes-->
@@ -3904,4 +3904,44 @@ Wooden box that uses thins slats nailed to corner pieces. The slats are generall
 	</tfoot>
 </table>
 
-### Poisons and Antitoxins
+## Poisons and Antitoxins
+Poisons come in many different forms and the table below serves as a non-exhaustive examples of some of the more well-known poisons.
+
+Antitoxins are derived from specific poisons and typically have a cost 2-3 times that of the poison that it counters.
+
+Creating either a poison or antidote requires an alchemist (or someone with the potion/poison making skill), a recipe or sample and time.  See the rules on potion making for more details.
+
+### Poison Properties
+- **Rarity:** How hard it is to find the poison in question.  This is already factored into the price.
+- **Save:** Which saving throw is used to resist the poison.
+- **Potency:** The [Target Number](Introduction.md#Task%20Target%20Numbers) of the saving throw.
+- **Application:** How the poison must be administered:
+	- *Injection* - The skin of the target must be broken and the poison introduced into the bloodstream.
+	- *Ingested* - The poison can be delivered in food or drink.  Injection is also effective.
+	- *Inhaled* - These poisons typically come in the form of a gas or powder that must be inhaled.  Can also be ingested or injected.
+	- *Contact* - Contact with bare skin is enough to administer this poison.  Injection, Ingestion and Inhalation also work.
+- **Onset:** The amount of time before the victim will begin showing symptoms and must make their first saving throw.
+- **Successful/Failed Save:** The effects of the poison if the victim succeeds or fails their saving throw.
+- **Notes:** Any additional information regarding the poison.
+
+| Name                  | Price   | Rarity    | Save  | Potency        | Application | Onset       | Successful Save                                              | Failed Save                                                                 | Notes                                 |
+|-----------------------|--------:|:---------:|:-----:|----------------|:-----------:|:-----------:|--------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------|
+| Assassin’s Blood      | 1,500sp | Very Rare | Doom  | Moderate (12+) | Injection   | Immediate   | 1d6 poison damage                                            | Poisoned for 2p6 watches + 1d12 poison damage.                              |                                       |
+| Basilisk Venom        | 600sp   | Rare      | Doom  | Hard (18+)     | Injection   | Immediate   | Paralysis (1p4 rounds)                                       | Paralysis + 1d6 poison damage / round for 2p4 rounds                        | May repeat save each round.           |
+| Burnt Othur Fumes     | 1,350sp | Rare      | Doom  | Tricky (15+)   | Inhaled     | Immediate   | none                                                         | Poisoned + 3d6 poison damage plus 1d6 poison damage / round for 2p4 rounds. | May repeat save each round.           |
+| Carcass Crawler Mucus | 680sp   | Uncommon  | Hold  | Moderate (12+) | Contact     | Immediate   | Poisoned for 1p4 rounds                                      | Paralyzed for 2p4 rounds                                                    | May repeat save each round.           |
+| Essence of Ether      | 200sp   | Uncommon  | Hold  | Tricky (15+)   | Inhaled     | Immediate   | Poisoned for 1p6 rounds                                      | Fall unconscious for 1p4 Watches.                                           |                                       |
+| Malice                | 900sp   | Rare      | Doom  | Tricky (15+)   | Contact     | Immediate   | Poisoned for 1p4 rounds                                      | Poisoned and Blinded for 2p6 Turns                                          |                                       |
+| Midnight Tears        | 1,500sp | Very Rare | Doom  | Hard (18+)     | Ingested    | special     | Poisoned plus 1d4 poison damage / hour while asleep.         | Poisoned + 1d6 damage / hour while asleep.                                  | Must pass Doom save to be woken up.   |
+| Oil of Taggit         | 50sp    | Rare      | Hold  | Moderate (12+) | Ingested    | 2p4 rounds  | Poisoned for 1p4 rounds                                      | Fall unconscious for 1p4 Watches.                                           |                                       |
+| Pale Tincture         | 940sp   | Very Rare | Doom  | Tricky (15+)   | Contact     | 2p4 minutes | none                                                         | Poisoned + 1d6 damage per long rest.  No natural healing.                   | May repeat save after each long rest. |
+| Purple Worm Poison    | 3,000sp | Very Rare | Doom  | Hard (18+)     | Injection   | Immediate   | Poisoned for 3p4 rounds, taking 1d6 poison damage per round. | Poisoned for 3p6 rounds, taking 1d8 poison damage per round.                |                                       |
+| Serpent Venom         | 340sp   | Uncommon  | Doom  | Moderate (12+) | Injection   | Immediate   | Poisoned for 2p4 rounds, taking 1d4 poison damage per round. | Poisoned for 3p6 rounds, taking 1d4 poison damage per round.                |                                       |
+| Sleeping Drought      | 20sp    | Common    | Hold  | Tricky (15+)   | Ingested    | 2p4 rounds  | Poisoned for 1p4 rounds                                      | Fall unconscious for 2p6 Turns                                              |                                       |
+| Snake Venom           | 60sp    | Common    | Doom  | Moderate (12+) | Injection   | 1p4 rounds  | none                                                         | Poisoned + 1d4 poison damage / round for 2p4 rounds                         | May repeat save each round.           |
+| Torpor                | 110sp   | Uncommon  | Doom  | Tricky (15+)   | Ingested    | 2p4 minutes | none                                                         | Poisoned and unconscious for 6p6 hours.                                     |                                       |
+| Truth Serum           | 200sp   | Rare      | Spell | Moderate (12+) | Ingested    | 2p4 minutes | none                                                         | Cannot knowingly speak a lie for 2p6 Turns.                                 |
+|                       |         |           |       |                |             |             |                                                              |                                                                             |
+| Antitoxin             | varies  | as poison | n/a   | n/a            | Ingested    | special     | n/a                                                          | n/a                                                                         | Counters the effects of the poison for which it was made. |
+
+## Services
