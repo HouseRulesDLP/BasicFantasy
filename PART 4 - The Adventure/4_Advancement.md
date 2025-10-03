@@ -1,6 +1,9 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - bfrpg
+  - clean-embeds
 ---
+
 ## Experience Points (XP)
 Experience points are given for foes overcome, treasure obtained, and quests completed. 
 

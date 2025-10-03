@@ -1,5 +1,7 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - bfrpg
+  - clean-embeds
 ---
 
 ### Name
