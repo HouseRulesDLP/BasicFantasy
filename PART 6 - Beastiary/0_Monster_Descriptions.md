@@ -19,11 +19,11 @@ Note that number appearing applies to combatants.  Non-combatant monsters (juven
 This is the [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) a character's [Initiative](snips/Skills.md#Initiative) roll must pass in order to act in the [Fast](PART%205%20-%20Encounters/Combat_Encounters.md#Initiative) phase.
 
 ### Hit Dice
-This line gives the creature’s number of hit dice, and lists any bonus hit points.  Monsters always roll eight sided dice (d8) for hit points, 
-unless otherwise noted.  So for example a creature with 3+2 hit dice rolls 3d8 and adds 2 points to the total.  After the hit dice, the average hit point roll is given in parenthesis.
+This line gives the creature’s number of hit dice, and lists any bonus hit points.  Monsters always roll eight sided dice (d8) for hit points, unless otherwise noted.  So for example a creature with 3+2 hit dice rolls 3d8 and adds 2 points to the total.  After the hit dice, the average hit point roll is given in parenthesis.
 
 One or more asterisks ('\*') may appear after the hit dice figure; where present, they indicate a Special Ability Bonus to experience points (XP) awarded for the monster.  See Character Advancement in the Adventure section for more details.
 
+Some creatures will roll a single 4- or 6-sided die for their hit dice.  Such write-ups represent non-combatants (such as your typical peasant {1d4}) or modestly trained soldier (such as a typical spearman {1d6}).  Both 1d4 and 1d6 HD write-ups are considered 0-level "monsters" where relevant.
 ### Size
 The general size category of the creature.
 

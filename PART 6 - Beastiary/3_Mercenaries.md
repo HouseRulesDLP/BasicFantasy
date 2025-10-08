@@ -4,7 +4,6 @@ cssclasses:
   - clean-embeds
 ---
 ### Archer
-### Monster-Group
 <table class="monster">
 	<tbody>
 		<tr>
@@ -175,7 +174,7 @@ cssclasses:
 		</tr>
 		<tr>
 			<td class="field"><b>Treasure:</b></td>
-			<td class="data" colspan=18>see below</td>
+			<td class="data" colspan=18>3d6cp / individual</td>
 		</tr>
 		<tr>
 			<td class="field"><b>XP:</b></td>
@@ -352,7 +351,7 @@ cssclasses:
 		</tr>
 		<tr>
 			<td class="field"><b>Treasure:</b></td>
-			<td class="data" colspan=18>see below</td>
+			<td class="data" colspan=18>3d6cp / individual</td>
 		</tr>
 		<tr>
 			<td class="field"><b>XP:</b></td>
@@ -365,9 +364,203 @@ cssclasses:
 
 #### Description
 Skilled at ranged combat, this type of troop will engage in melee combat if truly necessary. Longbow and Mounted Shortbow troops begin training as soon as they can walk. Crossbow troops, both mounted and foot, require the least amount of training.
+### Assassin/Rogue/Spy
+<table class="monster">
+	<tbody>
+		<tr>
+			<td class="field"/>
+			<td class="sub-header" colspan=6></td>
+			<td class="sub-header" colspan=6></td>
+			<td class="sub-header" colspan=6></td>
+		</tr>
+		<tr>
+			<td class="field"><b>Tags:</b></td>
+			<td class="data" colspan=6></td>
+			<td class="data" colspan=6></td>
+			<td class="data" colspan=6></td>
+		</tr>
+		<tr>
+			<td class="field"><b>No. Appearing:</b></td>
+			<td class="data" colspan=6></td>
+			<td class="data" colspan=6></td>
+			<td class="data" colspan=6></td>
+		</tr>
+		<tr>
+			<td class="field"><b>Initiative:</b></td>
+			<td class="data" colspan=6>+#</td>
+			<td class="data" colspan=6>+#</td>
+			<td class="data" colspan=6>+#</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Hit Dice:</b></td>
+			<td class="data" colspan=6>#d8+# (##hp)</td>
+			<td class="data" colspan=6>#d8+# (##hp)</td>
+			<td class="data" colspan=6>#d8+# (##hp)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Size:</b></td>
+			<td class="data" colspan=6>Medium</td>
+			<td class="data" colspan=6>Medium</td>
+			<td class="data" colspan=6>Medium</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Armor Class:</b></td>
+			<td class="data" colspan=6>10 (natural)</td>
+			<td class="data" colspan=6>10 (natural)</td>
+			<td class="data" colspan=6>10 (natural)</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Saving Throws:</b></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+		</tr>
+		<tr>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+    		<td class="data">+#</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Morale:</b></td>
+			<td class="data" colspan=6>+#</td>
+			<td class="data" colspan=6>+#</td>
+			<td class="data" colspan=6>+#</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Movement:</b></td>
+			<td class="data" colspan=6>40'</td>
+			<td class="data" colspan=6>40'</td>
+			<td class="data" colspan=6>40'</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=3><b>Abilities:</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+		</tr>
+		<tr>
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">10</td><!--DX-->
+    		<td class="data">10</td><!--CN-->
+    		<td class="data">10</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">10</td><!--CH-->
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">10</td><!--DX-->
+    		<td class="data">10</td><!--CN-->
+    		<td class="data">10</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">10</td><!--CH-->
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">10</td><!--DX-->
+    		<td class="data">10</td><!--CN-->
+    		<td class="data">10</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">10</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">+0</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">+0</td><!--CH-->
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">+0</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">+0</td><!--CH-->
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">+0</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">+0</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="field"><b>Attack Bonus:</b></td>
+    		<td class="data" colspan=6>+0</td>
+    		<td class="data" colspan=6>+0</td>
+    		<td class="data" colspan=6>+0</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Attacks:</b></td>
+			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+		</tr>
+		<tr>
+    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Treasure:</b></td>
+			<td class="data" colspan=6></td>
+			<td class="data" colspan=6></td>
+			<td class="data" colspan=6></td>
+		</tr>
+		<tr>
+			<td class="field"><b>XP:</b></td>
+			<td class="data" colspan=6>0</td>
+			<td class="data" colspan=6>0</td>
+			<td class="data" colspan=6>0</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Description
+{description}
+
+#### Special Abilities
+{special abilities}
 
 #### Treasure
-3d6cp per individual
+{treasure}
+
 ### Cavalry
 <table class="monster">
 	<tbody>
@@ -454,8 +647,8 @@ Skilled at ranged combat, this type of troop will engage in melee combat if trul
 		<tr>
 			<td class="field"><b>Movement:</b></td>
 			<td class="data" colspan=6>40', 80' (10') mounted</td>
-			<td class="data" colspan=6>25', 60' (10') mounted</td>
-			<td class="data" colspan=6>25', 50' (10') mounted</td>
+			<td class="data" colspan=6>30', 60' (10') mounted</td>
+			<td class="data" colspan=6>30', 50' (10') mounted</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=3><b>Abilities:</b></td>
@@ -542,7 +735,9 @@ Skilled at ranged combat, this type of troop will engage in melee combat if trul
 		</tr>
 		<tr>
 			<td class="field"><b>Treasure:</b></td>
-			<td class="data" colspan=18>see below</td>
+			<td class="data" colspan=6>3d6sp per individual</td>
+			<td class="data" colspan=6>4d6sp per individual</td>
+			<td class="data" colspan=6>5d6sp per individual</td>
 		</tr>
 		<tr>
 			<td class="field"><b>XP:</b></td>
@@ -554,12 +749,7 @@ Skilled at ranged combat, this type of troop will engage in melee combat if trul
 </table>
 
 #### Description
-Light, Medium and Heavy cavalry are named as much for the type of warhorse they ride as for the weight of their arms and armament. Both heavy and medium prefer to battle in close formation, making devastating charges. Light cavalry prefers an open formation and quick lightning strikes before fading back to regroup and slash again.
-
-#### Treasure
-- **Light:** 3d6sp per individual 
-- **Medium:** 4d6sp per individual 
-- **Heavy:** 5d6sp per individual
+Light, Medium and Heavy cavalry are named as much for the type of [Horse](PART%206%20-%20Beastiary/1_Animals.md#Horse) they ride as for the weight of their arms and armament. Both heavy and medium prefer to battle in close formation, making devastating charges. Light cavalry prefers an open formation and quick lightning strikes before fading back to regroup and slash again.
 ### Engineer
 <table class="monster">
 	<tbody>
@@ -644,7 +834,7 @@ Light, Medium and Heavy cavalry are named as much for the type of warhorse they 
     		<td class="data" colspan=6>+0</td>
 		</tr>
 		<tr>
-			<td class="field" rowspan=2><b>Attacks:</b></td>
+			<td class="field" rowspan=1><b>Attacks:</b></td>
 			<td class="data" colspan=6>1 light melee weapon (TH +0, Dmg 1d6)</td>
 		</tr>
 		<tr>
@@ -744,8 +934,8 @@ Required for the operation of siege weapons (such as catapults, ballistae, trebu
 		<tr>
 			<td class="field"><b>Movement:</b></td>
 			<td class="data" colspan=6>40'</td>
-			<td class="data" colspan=6>25'</td>
-			<td class="data" colspan=6>25'</td>
+			<td class="data" colspan=6>30'</td>
+			<td class="data" colspan=6>30'</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=3><b>Abilities:</b></td>
@@ -987,7 +1177,7 @@ Barely trained and often conscripted, a peasant militia is good for little more 
 		</tr>
 		<tr>
 			<td class="field"><b>Armor Class:</b></td>
-			<td class="data" colspan=18>as troop type</td>
+			<td class="data" colspan=18>as troop type (possibly one category heavier)</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=2><b>Saving Throws:</b></td>
@@ -1129,7 +1319,7 @@ Barely trained and often conscripted, a peasant militia is good for little more 
 #### Description
 A **sergeant** can lead up to ten troops independently or in service to a lieutenant or captain. In any given company, there must be one sergeant for every ten soldiers.
 
-A **lieutenant** may lead up to thirty soldiers, as well as the necessary number of sergeants. Additionally, a lieutenant may command up to three unassigned sergeants. When serving a captain, only the lieutenant counts against the number of men that may be led. Lieutenants that lead ranged troops will swap STR and DEX.
+A **lieutenant** may lead up to thirty soldiers, as well as the necessary number of sergeants. Additionally, a lieutenant may command up to three unassigned sergeants. Lieutenants that lead ranged troops will swap STR and DEX.
 
 A **captain** may lead 100 soldiers and five lieutenants, as well as the necessary number of sergeants. Captains in charge of a ranged company will swap STR and DEX
 ### Ship's Complement
@@ -1137,45 +1327,39 @@ A **captain** may lead 100 soldiers and five lieutenants, as well as the neces
 	<tbody>
 		<tr>
 			<td class="field"/>
-			<td class="sub-header" colspan=6></td>
-			<td class="sub-header" colspan=6></td>
-			<td class="sub-header" colspan=6></td>
+			<td class="sub-header" colspan=6>Marine</td>
+			<td class="sub-header" colspan=6>Rower</td>
+			<td class="sub-header" colspan=6>Sailor</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Tags:</b></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
+			<td class="data" colspan=18>Humanoid (human)</td>
 		</tr>
 		<tr>
 			<td class="field"><b>No. Appearing:</b></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
+			<td class="data" colspan=6>1d10</td>
+			<td class="data" colspan=6>2d10</td>
+			<td class="data" colspan=6>3d10</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Initiative:</b></td>
-			<td class="data" colspan=6>+#</td>
-			<td class="data" colspan=6>+#</td>
-			<td class="data" colspan=6>+#</td>
+			<td class="data" colspan=18>11+</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Hit Dice:</b></td>
-			<td class="data" colspan=6>#d8+# (##hp)</td>
-			<td class="data" colspan=6>#d8+# (##hp)</td>
-			<td class="data" colspan=6>#d8+# (##hp)</td>
+			<td class="data" colspan=6>1d8 (5hp)</td>
+			<td class="data" colspan=6>1d6+1 (5hp)</td>
+			<td class="data" colspan=6>1d4 (3hp)</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Size:</b></td>
-			<td class="data" colspan=6>Medium</td>
-			<td class="data" colspan=6>Medium</td>
-			<td class="data" colspan=6>Medium</td>
+			<td class="data" colspan=18>Medium</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Armor Class:</b></td>
-			<td class="data" colspan=6>10 (natural)</td>
-			<td class="data" colspan=6>10 (natural)</td>
-			<td class="data" colspan=6>10 (natural)</td>
+			<td class="data" colspan=6>15 (ringmail + shield)</td>
+			<td class="data" colspan=6>14 (hardened leather + buckler)</td>
+			<td class="data" colspan=6>13 (buckler)</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=2><b>Saving Throws:</b></td>
@@ -1199,31 +1383,31 @@ A **captain** may lead 100 soldiers and five lieutenants, as well as the neces
 			<td class="data" rowspan=2></td>
 		</tr>
 		<tr>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
+    		<td class="data">+0</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">-3</td>
+    		<td class="data">-4</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">-3</td>
+    		<td class="data">-4</td>
+    		<td class="data">-5</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">-3</td>
+    		<td class="data">-4</td>
+    		<td class="data">-5</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Morale:</b></td>
-			<td class="data" colspan=6>+#</td>
-			<td class="data" colspan=6>+#</td>
-			<td class="data" colspan=6>+#</td>
+			<td class="data" colspan=6>+0</td>
+			<td class="data" colspan=6>+0</td>
+			<td class="data" colspan=6>-1</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Movement:</b></td>
-			<td class="data" colspan=6>40'</td>
+			<td class="data" colspan=6>30'</td>
 			<td class="data" colspan=6>40'</td>
 			<td class="data" colspan=6>40'</td>
 		</tr>
@@ -1257,7 +1441,7 @@ A **captain** may lead 100 soldiers and five lieutenants, as well as the neces
     		<td class="data">10</td><!--CH-->
     		<td class="data">10</td><!--ST-->
     		<td class="data">10</td><!--DX-->
-    		<td class="data">10</td><!--CN-->
+    		<td class="data">14</td><!--CN-->
     		<td class="data">10</td><!--IN-->
     		<td class="data">10</td><!--WI-->
     		<td class="data">10</td><!--CH-->
@@ -1277,7 +1461,7 @@ A **captain** may lead 100 soldiers and five lieutenants, as well as the neces
     		<td class="data">+0</td><!--CH-->
     		<td class="data">+0</td><!--ST-->
     		<td class="data">+0</td><!--DX-->
-    		<td class="data">+0</td><!--CN-->
+    		<td class="data">+1</td><!--CN-->
     		<td class="data">+0</td><!--IN-->
     		<td class="data">+0</td><!--WI-->
     		<td class="data">+0</td><!--CH-->
@@ -1290,41 +1474,229 @@ A **captain** may lead 100 soldiers and five lieutenants, as well as the neces
 		</tr>
 		<tr>
     		<td class="field"><b>Attack Bonus:</b></td>
-    		<td class="data" colspan=6>+0</td>
+    		<td class="data" colspan=6>+1</td>
     		<td class="data" colspan=6>+0</td>
     		<td class="data" colspan=6>+0</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=2><b>Attacks:</b></td>
-			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
-			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
-			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+			<td class="data" colspan=6>1 Spear (TH +1, Dmg 1d8)</td>
+			<td class="data" colspan=6>1 light melee weapon (TH +0, Dmg 1d6)</td>
+			<td class="data" colspan=6>1 light melee weapon (TH +0, Dmg 1d6)</td>
 		</tr>
 		<tr>
-    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
-    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
-    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+    		<td class="data" colspan=6>1 light melee weapon (TH +1, Dmg 1d6)</td>
+    		<td class="data" colspan=6></td>
+    		<td class="data" colspan=6></td>
 		</tr>
 		<tr>
 			<td class="field"><b>Treasure:</b></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
+			<td class="data" colspan=6>2d6sp / person</td>
+			<td class="data" colspan=6>2d6cp / person</td>
+			<td class="data" colspan=6>2d4cp / person</td>
 		</tr>
 		<tr>
 			<td class="field"><b>XP:</b></td>
-			<td class="data" colspan=6>0</td>
-			<td class="data" colspan=6>0</td>
-			<td class="data" colspan=6>0</td>
+			<td class="data" colspan=6>20</td>
+			<td class="data" colspan=6>10</td>
+			<td class="data" colspan=6>10</td>
 		</tr>
 	</tbody>
 </table>
 
 #### Description
-{description}
+**Marine:** Trained primarily to repel and engage in boarding actions, marines otherwise fight in close order as heavy infantry.
 
-#### Special Abilities
-{special abilities}
+**Rower:** Accustomed to protracted periods of steady rowing, rowers are well paid and willing to fight as heavy infantry.
 
-#### Treasure
-{treasure}
+**Sailor:** Necessary for the operation of most sailing vessels, sailors will fight as light infantry, but are unwilling to wear armor.
+### Ship Commanders
+<table class="monster">
+	<tbody>
+		<tr>
+			<td class="field"/>
+			<td class="sub-header" colspan=6>Mate</td>
+			<td class="sub-header" colspan=6>Master</td>
+			<td class="sub-header" colspan=6>Captain</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Tags:</b></td>
+			<td class="data" colspan=18>Humanoid (human)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>No. Appearing:</b></td>
+			<td class="data" colspan=6>1 per 10 crew</td>
+			<td class="data" colspan=6>1 per 30 crew</td>
+			<td class="data" colspan=6>1 per ship</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Initiative:</b></td>
+			<td class="data" colspan=6>+0</td>
+			<td class="data" colspan=6>+0</td>
+			<td class="data" colspan=6>+1</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Hit Dice:</b></td>
+			<td class="data" colspan=6>1d8 (5hp)</td>
+			<td class="data" colspan=6>3d8 (14hp)</td>
+			<td class="data" colspan=6>5d8+5 (28hp)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Size:</b></td>
+			<td class="data" colspan=18>Medium</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Armor Class:</b></td>
+			<td class="data" colspan=6>14 (hardened leather + buckler)</td>
+			<td class="data" colspan=6>15 (ringmail + shield)</td>
+			<td class="data" colspan=6>16 (scalemail + shield)</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Saving Throws:</b></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+		</tr>
+		<tr>
+    		<td class="data">+0</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">-3</td>
+    		<td class="data">-4</td>
+    		<td class="data">+2</td>
+    		<td class="data">+1</td>
+    		<td class="data">+0</td>
+    		<td class="data">+0</td>
+    		<td class="data">-2</td>
+    		<td class="data">+5</td>
+    		<td class="data">+4</td>
+    		<td class="data">+3</td>
+    		<td class="data">+3</td>
+    		<td class="data">+1</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Morale:</b></td>
+			<td class="data" colspan=6>+1</td>
+			<td class="data" colspan=6>+2</td>
+			<td class="data" colspan=6>+2</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Movement:</b></td>
+			<td class="data" colspan=6>40'</td>
+			<td class="data" colspan=6>30'</td>
+			<td class="data" colspan=6>30'</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=3><b>Abilities:</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+		</tr>
+		<tr>
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">10</td><!--DX-->
+    		<td class="data">10</td><!--CN-->
+    		<td class="data">10</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">14</td><!--CH-->
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">14</td><!--DX-->
+    		<td class="data">10</td><!--CN-->
+    		<td class="data">10</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">14</td><!--CH-->
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">14</td><!--DX-->
+    		<td class="data">14</td><!--CN-->
+    		<td class="data">10</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">14</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">+0</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">+1</td><!--CH-->
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+1</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">+0</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">+1</td><!--CH-->
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+1</td><!--DX-->
+    		<td class="data">+1</td><!--CN-->
+    		<td class="data">+0</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">+1</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="field"><b>Attack Bonus:</b></td>
+    		<td class="data" colspan=6>+1</td>
+    		<td class="data" colspan=6>+2</td>
+    		<td class="data" colspan=6>+4</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Attacks:</b></td>
+			<td class="data" colspan=6>1 Cutlass (TH +1, Dmg 1d6s/p)</td>
+			<td class="data" colspan=6>1 Cutlass (TH +3, Dmg 1d6+1s/p)</td>
+			<td class="data" colspan=6>1 Rapier (TH +5, Dmg 1d8+1p)</td>
+		</tr>
+		<tr>
+    		<td class="data" colspan=6>1 light melee weapon (TH +1, Dmg 1d6)</td>
+    		<td class="data" colspan=6>1 light melee weapon (TH +3, Dmg 1d6+1)</td>
+    		<td class="data" colspan=6>1 light melee weapon (TH +5, Dmg 1d6+1)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Treasure:</b></td>
+			<td class="data" colspan=6>3d6sp (each)</td>
+			<td class="data" colspan=6>2d6gp (each)</td>
+			<td class="data" colspan=6>4d6gp (each)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>XP:</b></td>
+			<td class="data" colspan=6>20</td>
+			<td class="data" colspan=6>80</td>
+			<td class="data" colspan=6>320</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Description
+A **Ship's Mate** is roughly equivalent to a warrant officer. At least one mate is required for every ten crew or part thereof that makes up a ship’s complement.
+
+At least one **master** is required for every thirty crew or part thereof that makes up a ship’s complement, but not including mates.
+
+A ship must have a **captain** of the appropriate type if it is to operate without fear of preventable disaster.

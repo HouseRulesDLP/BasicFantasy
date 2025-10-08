@@ -47,7 +47,7 @@ In cases where the reaction of the NPCs to the party is not obvious, a reaction 
 As always, interpreting the results of this roll is left to the GM, who may choose to alter the result if he or she believes a different result would be more enjoyable to play out than the one rolled.
 
 ### Initiative
-Each combat round is broken up into 3 imitative phases: Fast, NPC and Slow.  
+Each combat round is broken up into 3 initative phases: Fast, NPC and Slow.  
 
 Each NPC has an Initiative score that acts as a target number for the PCs' initiative rolls.  Groups of NPCs with mixed Initiative scores will act on the initiative of their leader.  Who that leader is, is determined by the GM.
 
