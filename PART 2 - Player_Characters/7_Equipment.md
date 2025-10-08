@@ -4603,3 +4603,7 @@ Trained in driving carts/wagons and will help load/unload their vehicle.
 Required for the production of complex weaponry and the maintenance of the arms of any soldiery; there must be at least one weaponsmith available for every 50 soldiers retained. The weaponsmith must be provided with a workroom and forge at an additional cost, but sufficient apprentices and assistants are assumed in his monthly wage.  A single weaponsmith can make up to 400sp worth of weapons per month. For every 3 assistants (30sp/month/assistant), the output may be doubled.  One weapon smith may benefit from no more than 6 assistants.
 
 [Expert](#Hireling%20Skill%20Ranks) and higher ranked armorers may be employed to weaponsmith in making magic weapons.  In this case, the weaponsmith is considered to be taking the Help action.
+
+#### Mercenaries
+Mercenaries are typically employed to guard a stronghold, encampment or similar fortified position. The costs on the table below are for upkeep and basic equipping. Armorer Smiths, Blacksmiths and Weapon Smiths are required to maintain the gear of your troops.
+
