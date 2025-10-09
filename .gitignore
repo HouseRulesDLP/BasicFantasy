@@ -1,3 +1,5 @@
-/.obsidian
+/.obsidian/plugins
+/.obsidian/themes
+/.obsidian/*.json
 misc/*.ods\#
 OpenOffice/.~lock.House Rules.ods\#

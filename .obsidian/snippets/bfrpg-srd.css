@@ -1,0 +1,333 @@
+/*
+    clean-embeds.css snippet
+
+    Removes title, link, padding, margins from embeds,
+    so they really look like the same note.
+
+    To be used with `cssclass: clean-embeds` in YAML frontmatter.
+
+    2021-08-24 Matthias C. Hormann (Moonbase59)
+
+    TODO: Find out how to correct PDF export. L/R margins & vspace too large on embeds.
+*/
+
+/* remove title and the table from the "Metatable" plugin */
+.markdown-preview-view.clean-embeds .markdown-embed-title,
+.markdown-preview-view.clean-embeds .obsidian-metatable {
+  display: none;
+}
+
+/*
+  For links to embeds NOT to be shown, uncomment the following
+  and comment out the other section below.
+*/
+
+/*
+.markdown-preview-view.clean-embeds .markdown-embed-link,
+.markdown-preview-view.clean-embeds .file-embed-link {
+  display: none;
+}
+*/
+
+/*
+  For links to embeds to BE shown, uncomment the following
+  until the "End link show/hide stuff" comment
+  and comment out the section above.
+*/
+
+/* Link icon */
+.markdown-preview-view.clean-embeds .markdown-embed-link,
+.markdown-preview-view.clean-embeds .file-embed-link {
+  top: 0;
+  right: 0;
+  left: unset;
+  text-align: right;
+  border: none;
+  margin: 0;
+  width: 24px;
+  height: 24px;
+  color: var(--text-faint);
+  cursor: pointer;
+}
+
+/* for Ars Magna theme and others that change ::before */
+.markdown-preview-view.clean-embeds .markdown-embed-link::before,
+.markdown-preview-view.clean-embeds .file-embed-link::before {
+  display: none;
+}
+
+/* Link icon size & hide */
+.markdown-preview-view.clean-embeds .file-embed-link svg,
+.markdown-preview-view.clean-embeds .markdown-embed-link svg {
+  height: 24px;
+  width: 24px;
+  opacity: 0;
+  display: unset;
+}
+
+/* show on hover */
+.markdown-preview-view.clean-embeds .markdown-embed:hover .file-embed-link svg,
+.markdown-preview-view.clean-embeds .markdown-embed:hover .markdown-embed-link svg {
+  opacity: 1;
+}
+
+/* change background on hover, to exactly see what’s embedded */
+.markdown-preview-view.clean-embeds .markdown-embed:hover,
+.markdown-preview-view.clean-embeds .file-embed:hover {
+  background-color: var(--background-secondary) !important;
+}
+
+/* End link show/hide stuff */
+
+
+
+/* remove border and scroll */
+/* unfortunately needs !important for some themes */
+.markdown-preview-view.clean-embeds .markdown-embed,
+.markdown-preview-view.clean-embeds .file-embed {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.markdown-preview-view.clean-embeds .markdown-embed-content,
+.markdown-preview-view.clean-embeds .markdown-embed-content > .markdown-preview-view { 
+  max-height: unset;
+  padding: 0 !important; /* !important for "Pisum" theme */
+  margin: 0;
+  border: 0;
+}
+
+/* remove <br> between internal embeds */
+.clean-embeds .markdown-preview-section div > br {
+  display: none;
+}
+
+
+/* remove vertical space added by markdown-preview-sizer */
+.clean-embeds div.markdown-preview-sizer.markdown-preview-section {
+  min-height: unset !important;
+  padding-bottom: 0 !important;
+}
+
+/* special considerations for printing (PDF export) */
+@media print {
+
+  /* remove frontmatter box if "Show frontmatter" was enabled */
+  /* Also remove metadata table from "Metatable" plugin */
+  pre.frontmatter,
+  .obsidian-metatable {
+    display: none;
+  }
+}
+```
+
+
+/* ------------- */
+/* Standard Text */
+/* ------------- */
+{
+    font-family: "Soutane";
+    font-size: 12pt;
+    font-weight: normal;
+} 
+/* ------------- */
+
+/* ------- */
+/* Headers */
+/* ------- */
+.markdown-preview-view h1,
+.cm-header-1 {
+    font: 'Soutane Black';
+    margin-top: 3.75em;
+    font-size: 3.5em;
+    font-weight: bold;
+    text-align: left;
+    clear: both;
+}
+.markdown-preview-view h2,
+.cm-header-2 {
+    font: 'Soutane Black';
+    font-size: 2.67em;
+    text-align: left;
+    font-weight: bold;
+    margin: 0em;
+    margin-bottom: 0.72em;
+    page-break-before: always;
+    border-bottom: solid 1px lightgrey;
+}
+.markdown-preview-view h3,
+.cm-header-3 {
+    font: 'Soutane Black';
+    font-size: 1.63em;
+    text-align: left;
+    font-weight: normal;
+    margin: 0em;
+    background-color: #F5F4F2 !important;
+    border-bottom: 0pt solid #000;
+}
+.markdown-preview-view h4,
+.cm-header-4 {
+    font: 'Soutane Black';
+    font-size: 1.38em;
+    text-align: left;
+    margin: 0em;
+    margin-top: 0.6em;
+    font-weight: normal;
+}
+.markdown-preview-view h5,
+.cm-header-5 {
+    font: 'Soutane Black';
+    font-size: 1.13em;
+    text-align: left;
+    margin: 0em;
+    font-weight: normal;
+}
+/* ------- */
+
+/* ------ */
+/* Tables */
+/* ------ */
+.bfrpg table {
+    border-collapse: collapse;
+    border-bottom: solid 2px black;
+    align: center;
+}
+.bfrpg table thead th {
+    font-family: 'Soutane Black';
+    font-weight: strong;
+    font-size: 1.1em;
+    padding-left: 1em;
+    border-bottom: solid 1px black !important;
+    vertical-align: bottom;
+    min-width: 3.44em;
+    background-color: lightgrey !important;
+}
+.bfrpg table td {
+    min-width: 3.44em;
+    font-size: 1em;
+    padding-left: 1em;
+    vertical-align: top;
+    text-align: center;
+    border: solid 1px grey !important;
+}
+.bfrpg table th.right-align,
+.bfrpg table td.right-align {
+    align: right !important;
+}
+.bfrpg table th.left-align,
+.bfrpg table td.left-align {
+    text-align: left;
+}
+.bfrpg table td.sub-header {
+    padding-left: 0.3em;
+    font-weight: bold;
+    border-top: solid 2px grey !important;
+    border-bottom: solid 1px grey !important;
+}
+.bfrpg table td.sub-header-left {
+    padding-left: 0.3em;
+    text-align: left;
+    font-weight: bold;
+    border-top: solid 2px grey !important;
+    border-bottom: solid 1px grey !important;
+}
+.bfrpg table tr:nth-child(odd) {
+    background-color: #F5F4F2 !important;
+}
+.bfrpg table tbody tr:hover td {
+    background-color: #f5f1da;
+}
+.bfrpg table tfoot td {
+    text-align: left;
+}
+.bfrpg-diagram table {
+    border: solid 1px black;
+}
+.bfrpg-diagram td {
+    width: 3em;
+    height: 3em;
+    border: solid 1px black;
+    text-align: center;
+    vertical-align: center;
+}
+/* ------ */
+
+/* ----------------- */
+/* Monster Statblock */
+/* ----------------- */
+.monster table {
+    border-collapse: collapse;
+    border: solid 2px grey !important;
+    text-align: center;
+}
+.monster table td.field {
+    font-family: 'Soutane Black';
+    font-weight: strong;
+    font-size: 1.1em;
+    padding-left: 1em;
+    vertical-align: middle;
+    min-width: 3.44em;
+    background-color: lightgrey !important;
+    text-align: right;
+}
+.monster table td.data {
+    min-width: 3.44em;
+    font-size: 1em;
+    padding-left: 1em;
+    vertical-align: middle;
+    text-align: center;
+    border: solid 1px grey !important;
+}
+.monster table td.sub-header {
+    font-weight: bold;
+    border: solid 1px black !important;
+    text-align: center;
+}
+.monster table td.subtable-header {
+    padding-left: 0.3em;
+    font-weight: bold;
+    border: solid 1px grey !important;
+    text-align: center;
+    background-color: whitesmoke !important;
+}
+.monster table td.sub-header-left {
+    padding-left: 0.3em;
+    font-weight: bold;
+    border: solid 1px black !important;
+    text-align: left;
+}
+.monster table td.spacer {
+    background-color: lightgrey !important;
+}
+.monster table tbody tr:hover td {
+    background-color: #f5f1da;
+}
+.monster table tfoot td {
+    text-align: left;
+}
+/* ----------------- */
+
+/* ----- */
+/* Lists */
+/* ----- */
+.bfrpg li {
+    margin: 0em;
+    margin-left: 2em;
+}
+
+/* ---- */
+/* Note */
+/* ---- */
+.bfrpg-note {
+    font-family: 'Soutane Black';
+    font-size: 1em;
+    background-color: #F5F4F2;
+    color: black;
+    border-width: 5px;
+    border-image-outset: 5px 0px;
+    padding: 0px 0px 0px 1px;
+    border: solid 0.5px lightgrey;
+}
+
+/* ---- */
