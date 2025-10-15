@@ -4592,7 +4592,7 @@ Typically serving as valets, butlers, maids, messengers or simple lackeys, serva
 ##### Scribe
 Practiced in the art of writing, a typical scribe is expected to keep records, write letters and copy documents. Others may possess additional skills, such as cartography, counterfeiting, cryptography, illuminating or the ability to write, read or otherwise comprehend more than one language. Such accomplished individuals might command ten times the standard wage.
 ##### Spy/Assassin
-A spy is hired to gather information about a person or group, while an assassin will eliminate said person or group. They may be an outsider who tries to infiltrate or may be a traitor already connected with the target person or group.  These characters are typically [Rogues](Rogue.md) of levels 1, 3, 5, 9 or 13th level (for Apprentice, Journeyman, Expert, Master and Grand master [ranks](#Hireling%20Skill%20Ranks)).
+A spy is hired to gather information about a person or group, while an [Assassin](3_Mercenaries.md#Assassin) will eliminate said person or group. They may be an outsider who tries to infiltrate or may be a traitor already connected with the target person or group.
 ##### Steward
 Responsible for the administration of a stronghold in the absence or inability of the owning noble, a steward holds a position of great prestige and trust. Usually, such an individual is promoted from a soldier of the rank of captain or higher, and will not afterwards take kindly to being asked to reassume that role, even temporarily. Whilst serving within the stronghold, a typical is capable of leading 40 soldiers and 2 lieutenants per point of [Skill Bonus](#Hireling%20Skill%20Ranks), as well as the necessary number of sergeants. Given that a fortress is well provisioned, garrisoned and supported at the time at which he is appointed, a steward will see to it that such remains the case. Of course, if a player character expects her dependents to vigorously resist any enemy action in her absence or incapacity, she must ensure that the loyalty of such soldiers is strongly maintained.
 ##### Tailor
@@ -4607,3 +4607,167 @@ Required for the production of complex weaponry and the maintenance of the arms 
 #### Mercenaries
 Mercenaries are typically employed to guard a stronghold, encampment or similar fortified position. The costs on the table below are for upkeep and basic equipping. Armorer Smiths, Blacksmiths and Weapon Smiths are required to maintain the gear of your troops.
 
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2" class="left-align">Type</th>
+            <th colspan="3" align="center">Prices</th>
+            <th rowspan="2" class="left-align">Notes</th>
+        </tr>
+        <tr>
+            <th class="right-align">per Month</th>
+            <th class="right-align">per Day$</th>
+            <th class="right-align">Equipment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="left-align">Archer, Crossbow</td>
+            <td class="right-align">40sp</td>
+            <td class="right-align">14cp</td>
+            <td class="right-align">125sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align">Archer, Longbow</td>
+            <td class="right-align">80sp</td>
+            <td class="right-align">27cp</td>
+            <td class="right-align">150sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align">Archer, Mounted Shortbow</td>
+            <td class="right-align">120sp</td>
+            <td class="right-align">4sp</td>
+            <td class="right-align">600sp</td>
+            <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">light warhorse.</a></td>
+        </tr>
+        <tr>
+            <td class="left-align">Archer, Mounted Crossbow</td>
+            <td class="right-align">80sp</td>
+            <td class="right-align">27cp</td>
+            <td class="right-align">625sp</td>
+            <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">light warhorse.</a></td>
+        </tr>
+        <tr>
+            <td class="left-align">Archer, Shortbow</td>
+            <td class="right-align">40sp</td>
+            <td class="right-align">14cp</td>
+            <td class="right-align">100sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align">Artillerist</td>
+            <td class="right-align">750sp</td>
+            <td class="right-align">25sp</td>
+            <td class="right-align">65sp</td>
+            <td class="left-align">See Engineer entry, <a class="internal-link" href="#engineer">above</a>. One is required per catapult, ballista, trebuchet or equivalent. Equipment price does not include the cost of the siege weapon.</td>
+        </tr>
+        <tr>
+            <td class="left-align">Captain</td>
+            <td class="right-align">x20#</td>
+            <td class="right-align">x20#</td>
+            <td class="right-align">*</td>
+            <td class="left-align">One required per 100 troops.</td>
+        </tr>
+        <tr>
+            <td class="left-align">Cavalry, Heavy</td>
+            <td class="right-align">120sp</td>
+            <td class="right-align">4sp</td>
+            <td class="right-align">2,680sp</td>
+            <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">heavy warhorse.</a></td>
+        </tr>
+        <tr>
+            <td class="left-align">Cavalry, Light</td>
+            <td class="right-align">60sp</td>
+            <td class="right-align">2sp</td>
+            <td class="right-align">600sp</td>
+            <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">light warhorse.</a></td>
+        </tr>
+        <tr>
+            <td class="left-align">Cavalry, Medium</td>
+            <td class="right-align">80sp</td>
+            <td class="right-align">27cp</td>
+            <td class="right-align">1,375sp</td>
+            <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">medium warhorse.</a></td>
+        </tr>
+        <tr>
+            <td class="left-align">Infantry, Heavy</td>
+            <td class="right-align">40sp</td>
+            <td class="right-align">14cp</td>
+            <td class="right-align">350sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align">Infantry, Heavy Mounted</td>
+            <td class="right-align">60sp</td>
+            <td class="right-align">2sp</td>
+            <td class="right-align">850sp</td>
+            <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">riding horse.</a></td>
+        </tr>
+        <tr>
+            <td class="left-align">Infantry, Light</td>
+            <td class="right-align">20sp</td>
+            <td class="right-align">7cp</td>
+            <td class="right-align">75sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align">Infantry, Light Mounted</td>
+            <td class="right-align">40sp</td>
+            <td class="right-align">14cp</td>
+            <td class="right-align">225sp</td>
+            <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">riding horse.</a></td>
+        </tr>
+        <tr>
+            <td class="left-align">Lieutenant</td>
+            <td class="right-align">x10#</td>
+            <td class="right-align">x10#</td>
+            <td class="right-align">*</td>
+            <td class="left-align">One required per 30 troops.</td>
+        </tr>
+        <tr>
+            <td class="left-align">Militia</td>
+            <td class="right-align">10sp</td>
+            <td class="right-align">4cp</td>
+            <td class="right-align">10sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align">Pike</td>
+            <td class="right-align">60sp</td>
+            <td class="right-align">2sp</td>
+            <td class="right-align">330sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align">Sapper</td>
+            <td class="right-align">750sp</td>
+            <td class="right-align">25sp</td>
+            <td class="right-align">55sp</td>
+            <td class="left-align">See the Engineer entry, <a class="internal-link" href="#engineer">above</a>. One is required per non-ranged siege weapon and to supervise tunneling under walls. Cost does not include siege weapon or digging tools.</td>
+        </tr>
+        <tr>
+            <td class="left-align">Sergeant</td>
+            <td class="right-align">x5#</td>
+            <td class="right-align">x5#</td>
+            <td class="right-align">@</td>
+            <td class="left-align">One required per 10 troops.</td>
+        </tr>
+        <tr>
+            <td class="left-align">Slinger</td>
+            <td class="right-align">60sp</td>
+            <td class="right-align">2sp</td>
+            <td class="right-align">60sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tfoot>
+            <tr>
+                <td colspan="5">$ - Daily cost is doubled for hazardous/wartime duty. Even so, will not venture into obvious suicide (like monster lairs and dungeons).<br/>
+                # - Pay rate for leaders is a multiplier of the base troop type (for example, a Heavy Infantry Lieutenant costs 400sp per month).<br>
+                * - Cost is the same as troop type at minimum. Lieutenants and Captains may have upgraded equipment. Captians may be mounted, even if leading infantry units.
+                * <br>@ - Price is the same as troop type; no upgrades.</td>
+            </tr>
+        </tfoot>
+	</tbody>
+</table>

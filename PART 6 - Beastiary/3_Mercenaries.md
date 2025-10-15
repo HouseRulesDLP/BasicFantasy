@@ -364,50 +364,46 @@ cssclasses:
 
 #### Description
 Skilled at ranged combat, this type of troop will engage in melee combat if truly necessary. Longbow and Mounted Shortbow troops begin training as soon as they can walk. Crossbow troops, both mounted and foot, require the least amount of training.
-### Assassin/Rogue/Spy
+### Assassin
 <table class="monster">
 	<tbody>
 		<tr>
 			<td class="field"/>
-			<td class="sub-header" colspan=6></td>
-			<td class="sub-header" colspan=6></td>
-			<td class="sub-header" colspan=6></td>
+			<td class="sub-header" colspan=6>Apprentice</td>
+			<td class="sub-header" colspan=6>Journeyman</td>
+			<td class="sub-header" colspan=6>Expert</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Tags:</b></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
+			<td class="data" colspan=18>Humanoid (human)</td>
 		</tr>
 		<tr>
 			<td class="field"><b>No. Appearing:</b></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
-			<td class="data" colspan=6></td>
+			<td class="data" colspan=6>1d4</td>
+			<td class="data" colspan=6>1d4</td>
+			<td class="data" colspan=6>1d3</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Initiative:</b></td>
-			<td class="data" colspan=6>+#</td>
-			<td class="data" colspan=6>+#</td>
-			<td class="data" colspan=6>+#</td>
+			<td class="data" colspan=6>12+</td>
+			<td class="data" colspan=6>13+</td>
+			<td class="data" colspan=6>13+</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Hit Dice:</b></td>
-			<td class="data" colspan=6>#d8+# (##hp)</td>
-			<td class="data" colspan=6>#d8+# (##hp)</td>
-			<td class="data" colspan=6>#d8+# (##hp)</td>
+			<td class="data" colspan=6>1d8* (5hp)</td>
+			<td class="data" colspan=6>4d8* (18hp)</td>
+			<td class="data" colspan=6>7d8** (32hp)</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Size:</b></td>
-			<td class="data" colspan=6>Medium</td>
-			<td class="data" colspan=6>Medium</td>
-			<td class="data" colspan=6>Medium</td>
+			<td class="data" colspan=18>Medium</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Armor Class:</b></td>
-			<td class="data" colspan=6>10 (natural)</td>
-			<td class="data" colspan=6>10 (natural)</td>
-			<td class="data" colspan=6>10 (natural)</td>
+			<td class="data" colspan=6>13 (cloth)</td>
+			<td class="data" colspan=6>14 (hardened leather)</td>
+			<td class="data" colspan=6>15 (hardened leather)</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=2><b>Saving Throws:</b></td>
@@ -431,33 +427,33 @@ Skilled at ranged combat, this type of troop will engage in melee combat if trul
 			<td class="data" rowspan=2></td>
 		</tr>
 		<tr>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
-    		<td class="data">+#</td>
+    		<td class="data">-1</td>
+    		<td class="data">-2</td>
+    		<td class="data">-1</td>
+    		<td class="data">-4</td>
+    		<td class="data">-3</td>
+    		<td class="data">+2</td>
+    		<td class="data">+1</td>
+    		<td class="data">+2</td>
+    		<td class="data">-1</td>
+    		<td class="data">+1</td>
+    		<td class="data">+5</td>
+    		<td class="data">+4</td>
+    		<td class="data">+6</td>
+    		<td class="data">+3</td>
+    		<td class="data">+4</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Morale:</b></td>
-			<td class="data" colspan=6>+#</td>
-			<td class="data" colspan=6>+#</td>
-			<td class="data" colspan=6>+#</td>
+			<td class="data" colspan=6>+0</td>
+			<td class="data" colspan=6>+1</td>
+			<td class="data" colspan=6>+2</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Movement:</b></td>
 			<td class="data" colspan=6>40'</td>
-			<td class="data" colspan=6>40'</td>
-			<td class="data" colspan=6>40'</td>
+			<td class="data" colspan=6>50'</td>
+			<td class="data" colspan=6>50'</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=3><b>Abilities:</b></td>
@@ -482,60 +478,60 @@ Skilled at ranged combat, this type of troop will engage in melee combat if trul
 		</tr>
 		<tr>
     		<td class="data">10</td><!--ST-->
-    		<td class="data">10</td><!--DX-->
+    		<td class="data">14</td><!--DX-->
     		<td class="data">10</td><!--CN-->
     		<td class="data">10</td><!--IN-->
     		<td class="data">10</td><!--WI-->
     		<td class="data">10</td><!--CH-->
     		<td class="data">10</td><!--ST-->
-    		<td class="data">10</td><!--DX-->
+    		<td class="data">14</td><!--DX-->
     		<td class="data">10</td><!--CN-->
     		<td class="data">10</td><!--IN-->
     		<td class="data">10</td><!--WI-->
     		<td class="data">10</td><!--CH-->
     		<td class="data">10</td><!--ST-->
-    		<td class="data">10</td><!--DX-->
+    		<td class="data">14</td><!--DX-->
     		<td class="data">10</td><!--CN-->
-    		<td class="data">10</td><!--IN-->
+    		<td class="data">14</td><!--IN-->
     		<td class="data">10</td><!--WI-->
     		<td class="data">10</td><!--CH-->
 		</tr>
 		<tr>
     		<td class="data">+0</td><!--ST-->
-    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+1</td><!--DX-->
     		<td class="data">+0</td><!--CN-->
     		<td class="data">+0</td><!--IN-->
     		<td class="data">+0</td><!--WI-->
     		<td class="data">+0</td><!--CH-->
     		<td class="data">+0</td><!--ST-->
-    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+1</td><!--DX-->
     		<td class="data">+0</td><!--CN-->
     		<td class="data">+0</td><!--IN-->
     		<td class="data">+0</td><!--WI-->
     		<td class="data">+0</td><!--CH-->
     		<td class="data">+0</td><!--ST-->
-    		<td class="data">+0</td><!--DX-->
+    		<td class="data">+1</td><!--DX-->
     		<td class="data">+0</td><!--CN-->
-    		<td class="data">+0</td><!--IN-->
+    		<td class="data">+1</td><!--IN-->
     		<td class="data">+0</td><!--WI-->
     		<td class="data">+0</td><!--CH-->
 		</tr>
 		<tr>
     		<td class="field"><b>Attack Bonus:</b></td>
     		<td class="data" colspan=6>+0</td>
-    		<td class="data" colspan=6>+0</td>
-    		<td class="data" colspan=6>+0</td>
+    		<td class="data" colspan=6>+1</td>
+    		<td class="data" colspan=6>+2</td>
 		</tr>
 		<tr>
 			<td class="field" rowspan=2><b>Attacks:</b></td>
-			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
-			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
-			<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+			<td class="data" colspan=6>1 Dagger (TH +2, Dmg 1d6+1p)</td>
+			<td class="data" colspan=6>1 Shortsword (TH +4, Dmg 1d6+1p/s)</td>
+			<td class="data" colspan=6>1 Rapier (TH +6, Dmg 1d8+1p)</td>
 		</tr>
 		<tr>
-    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
-    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
-    		<td class="data" colspan=6>1 attack (TH +#, Dmg #d#)</td>
+    		<td class="data" colspan=6>1 Throwing Knife (TH +2, Dmg 1d4+1p, Range 20'/60')</td>
+    		<td class="data" colspan=6>1 Crossbow (TH +4, Dmg 1d8+1p, Range 60'/180')</td>
+    		<td class="data" colspan=6>1 Crossbow (TH +6, Dmg 1d8+1p, Range 60'/180')</td>
 		</tr>
 		<tr>
 			<td class="field"><b>Treasure:</b></td>
@@ -545,18 +541,167 @@ Skilled at ranged combat, this type of troop will engage in melee combat if trul
 		</tr>
 		<tr>
 			<td class="field"><b>XP:</b></td>
-			<td class="data" colspan=6>0</td>
-			<td class="data" colspan=6>0</td>
-			<td class="data" colspan=6>0</td>
+			<td class="data" colspan=6>24</td>
+			<td class="data" colspan=6>192</td>
+			<td class="data" colspan=6>1,050</td>
+		</tr>
+		<tr><td class="spacer" colspan=19>&nbsp;</td></tr>
+		<tr>
+			<td class="field"/>
+			<td class="sub-header" colspan=6>Master</td>
+			<td class="sub-header" colspan=6>Grand Master</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Tags:</b></td>
+			<td class="data" colspan=12>Humanoid (human)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>No. Appearing:</b></td>
+			<td class="data" colspan=6>1d2</td>
+			<td class="data" colspan=6>1</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Initiative:</b></td>
+			<td class="data" colspan=6>14+</td>
+			<td class="data" colspan=6>15+</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Hit Dice:</b></td>
+			<td class="data" colspan=6>9d8** (41hp)</td>
+			<td class="data" colspan=6>11d8** (50hp)</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Size:</b></td>
+			<td class="data" colspan=12>Medium</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Armor Class:</b></td>
+			<td class="data" colspan=6>15 (hardened leather)</td>
+			<td class="data" colspan=6>16 (hardened leather)</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Saving Throws:</b></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+			<td class="subtable-header"><b>Doom</b></td>
+			<td class="subtable-header"><b>Ray</b></td>
+			<td class="subtable-header"><b>Hold</b></td>
+			<td class="subtable-header"><b>Blast</b></td>
+			<td class="subtable-header"><b>Spell</b></td>
+			<td class="data" rowspan=2></td>
+		</tr>
+		<tr>
+    		<td class="data">+8</td>
+    		<td class="data">+7</td>
+    		<td class="data">+8</td>
+    		<td class="data">+5</td>
+    		<td class="data">+7</td>
+    		<td class="data">+9</td>
+    		<td class="data">+8</td>
+    		<td class="data">+10</td>
+    		<td class="data">+7</td>
+    		<td class="data">+9</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Morale:</b></td>
+			<td class="data" colspan=6>+3</td>
+			<td class="data" colspan=6>+3</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Movement:</b></td>
+			<td class="data" colspan=6>50'</td>
+			<td class="data" colspan=6>50'</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=3><b>Abilities:</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+			<td class="subtable-header"><b>ST</b></td>
+			<td class="subtable-header"><b>DX</b></td>
+			<td class="subtable-header"><b>CN</b></td>
+			<td class="subtable-header"><b>IN</b></td>
+			<td class="subtable-header"><b>WI</b></td>
+			<td class="subtable-header"><b>CH</b></td>
+		</tr>
+		<tr>
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">14</td><!--DX-->
+    		<td class="data">10</td><!--CN-->
+    		<td class="data">14</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">14</td><!--CH-->
+    		<td class="data">10</td><!--ST-->
+    		<td class="data">16</td><!--DX-->
+    		<td class="data">10</td><!--CN-->
+    		<td class="data">14</td><!--IN-->
+    		<td class="data">10</td><!--WI-->
+    		<td class="data">14</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+1</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">+1</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">+1</td><!--CH-->
+    		<td class="data">+0</td><!--ST-->
+    		<td class="data">+2</td><!--DX-->
+    		<td class="data">+0</td><!--CN-->
+    		<td class="data">+1</td><!--IN-->
+    		<td class="data">+0</td><!--WI-->
+    		<td class="data">+1</td><!--CH-->
+		</tr>
+		<tr>
+    		<td class="field"><b>Attack Bonus:</b></td>
+    		<td class="data" colspan=6>+6</td>
+    		<td class="data" colspan=6>+7</td>
+		</tr>
+		<tr>
+			<td class="field" rowspan=2><b>Attacks:</b></td>
+			<td class="data" colspan=6>1 Rapier (TH +7, Dmg 1d8+1)</td>
+			<td class="data" colspan=6>1 Rapier (TH +9, Dmg 1d8+2)</td>
+		</tr>
+		<tr>
+			<td class="data" colspan=6>1 Crossbow (TH +7, Dmg 1d8+1, Range 60'/180')</td>
+			<td class="data" colspan=6>1 Crossbow (TH +9, Dmg 1d8+2, Range 60'/180')</td>
+		</tr>
+		<tr>
+			<td class="field"><b>Treasure:</b></td>
+			<td class="data" colspan=6></td>
+			<td class="data" colspan=6></td>
+		</tr>
+		<tr>
+			<td class="field"><b>XP:</b></td>
+			<td class="data" colspan=6>1,750</td>
+			<td class="data" colspan=6>2,450</td>
 		</tr>
 	</tbody>
 </table>
 
 #### Description
-{description}
+Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.  Apprentice assassins typically only appear when working in a team supporting a journeyman or higher ranked assassin.
 
 #### Special Abilities
-{special abilities}
+**Poison:** Assassins typically coat their weapons in [Poison](7_Equipment.md#Poisons%20and%20Antitoxins).  [Snake Venom](7_Equipment.md#Snake%20Venom) is a favorite for low-ranking assassins with more exotic poisons being used for higher-ranking (and wealthier) assassins.
+
+**Sneak Attack:** If an assassin makes an attack with Advantage, they may add additional sneak attack damage.
+- Apprentice: +1d4
+- Journeyman: +2d4
+- Expert: +3d4
+- Master: +4d4
+- Grand Master: +5d4
+
+**Vital Targets:** Assassins of Expert rank and above score critical hits on a natural 19 or 20.
+
+**Precision:** Assassins of Master rank and above ignore cover when making ranged attacks and may fire into melee without risk of hitting the wrong target.
 
 #### Treasure
 {treasure}

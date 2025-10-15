@@ -191,7 +191,6 @@
 .bfrpg table {
     border-collapse: collapse;
     border-bottom: solid 2px black;
-    align: center;
 }
 .bfrpg table thead th {
     font-family: 'Soutane Black';
@@ -208,16 +207,15 @@
     font-size: 1em;
     padding-left: 1em;
     vertical-align: top;
-    text-align: center;
     border: solid 1px grey !important;
 }
 .bfrpg table th.right-align,
 .bfrpg table td.right-align {
-    align: right !important;
+    text-align: right !important;
 }
 .bfrpg table th.left-align,
 .bfrpg table td.left-align {
-    text-align: left;
+    text-align: left !important;
 }
 .bfrpg table td.sub-header {
     padding-left: 0.3em;
@@ -239,7 +237,7 @@
     background-color: #f5f1da;
 }
 .bfrpg table tfoot td {
-    text-align: left;
+    text-align: left !important;
 }
 .bfrpg-diagram table {
     border: solid 1px black;
