@@ -4622,140 +4622,140 @@ Mercenaries are typically employed to guard a stronghold, encampment or similar 
     </thead>
     <tbody>
         <tr>
-            <td class="left-align">Archer, Crossbow</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#archer">Archer, Crossbow</a></td>
             <td class="right-align">40sp</td>
             <td class="right-align">14cp</td>
             <td class="right-align">125sp</td>
             <td class="left-align"/>
         </tr>
         <tr>
-            <td class="left-align">Archer, Longbow</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#archer">Archer, Longbow</a></td>
             <td class="right-align">80sp</td>
             <td class="right-align">27cp</td>
             <td class="right-align">150sp</td>
             <td class="left-align"/>
         </tr>
         <tr>
-            <td class="left-align">Archer, Mounted Shortbow</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#archer">Archer, Mounted Shortbow</a></td>
             <td class="right-align">120sp</td>
             <td class="right-align">4sp</td>
             <td class="right-align">600sp</td>
             <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">light warhorse.</a></td>
         </tr>
         <tr>
-            <td class="left-align">Archer, Mounted Crossbow</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#archer">Archer, Mounted Crossbow</a></td>
             <td class="right-align">80sp</td>
             <td class="right-align">27cp</td>
             <td class="right-align">625sp</td>
             <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">light warhorse.</a></td>
         </tr>
         <tr>
-            <td class="left-align">Archer, Shortbow</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#archer">Archer, Shortbow</a></td>
             <td class="right-align">40sp</td>
             <td class="right-align">14cp</td>
             <td class="right-align">100sp</td>
             <td class="left-align"/>
         </tr>
         <tr>
-            <td class="left-align">Artillerist</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#engineer">Artillerist</a></td>
             <td class="right-align">750sp</td>
             <td class="right-align">25sp</td>
             <td class="right-align">65sp</td>
             <td class="left-align">See Engineer entry, <a class="internal-link" href="#engineer">above</a>. One is required per catapult, ballista, trebuchet or equivalent. Equipment price does not include the cost of the siege weapon.</td>
         </tr>
         <tr>
-            <td class="left-align">Captain</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#military leaders">Captain</a></td>
             <td class="right-align">x20#</td>
             <td class="right-align">x20#</td>
             <td class="right-align">*</td>
             <td class="left-align">One required per 100 troops.</td>
         </tr>
         <tr>
-            <td class="left-align">Cavalry, Heavy</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#cavalry">Cavalry, Heavy</td>
             <td class="right-align">120sp</td>
             <td class="right-align">4sp</td>
             <td class="right-align">2,680sp</td>
             <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">heavy warhorse.</a></td>
         </tr>
         <tr>
-            <td class="left-align">Cavalry, Light</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#cavalry">Cavalry, Light</a></td>
             <td class="right-align">60sp</td>
             <td class="right-align">2sp</td>
             <td class="right-align">600sp</td>
             <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">light warhorse.</a></td>
         </tr>
         <tr>
-            <td class="left-align">Cavalry, Medium</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#cavalry">Cavalry, Medium</a></td>
             <td class="right-align">80sp</td>
             <td class="right-align">27cp</td>
             <td class="right-align">1,375sp</td>
             <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">medium warhorse.</a></td>
         </tr>
         <tr>
-            <td class="left-align">Infantry, Heavy</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#infantry">Infantry, Heavy</a></td>
             <td class="right-align">40sp</td>
             <td class="right-align">14cp</td>
             <td class="right-align">350sp</td>
             <td class="left-align"/>
         </tr>
         <tr>
-            <td class="left-align">Infantry, Heavy Mounted</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#infantry">Infantry, Heavy Mounted</a></td>
             <td class="right-align">60sp</td>
             <td class="right-align">2sp</td>
             <td class="right-align">850sp</td>
             <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">riding horse.</a></td>
         </tr>
         <tr>
-            <td class="left-align">Infantry, Light</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#infantry">Infantry, Light</a></td>
             <td class="right-align">20sp</td>
             <td class="right-align">7cp</td>
             <td class="right-align">75sp</td>
             <td class="left-align"/>
         </tr>
         <tr>
-            <td class="left-align">Infantry, Light Mounted</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#infantry">Infantry, Light Mounted</a></td>
             <td class="right-align">40sp</td>
             <td class="right-align">14cp</td>
             <td class="right-align">225sp</td>
             <td class="left-align">Rides a <a class="internal-link" href="1_Animals.md#horse">riding horse.</a></td>
         </tr>
         <tr>
-            <td class="left-align">Lieutenant</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#military leaders">Lieutenant</a></td>
             <td class="right-align">x10#</td>
             <td class="right-align">x10#</td>
             <td class="right-align">*</td>
             <td class="left-align">One required per 30 troops.</td>
         </tr>
         <tr>
-            <td class="left-align">Militia</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#militia">Militia</a></td>
             <td class="right-align">10sp</td>
             <td class="right-align">4cp</td>
             <td class="right-align">10sp</td>
             <td class="left-align"/>
         </tr>
         <tr>
-            <td class="left-align">Pike</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#infantry">Pike</a></td>
             <td class="right-align">60sp</td>
             <td class="right-align">2sp</td>
             <td class="right-align">330sp</td>
             <td class="left-align"/>
         </tr>
         <tr>
-            <td class="left-align">Sapper</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#engineer">Sapper</a></td>
             <td class="right-align">750sp</td>
             <td class="right-align">25sp</td>
             <td class="right-align">55sp</td>
             <td class="left-align">See the Engineer entry, <a class="internal-link" href="#engineer">above</a>. One is required per non-ranged siege weapon and to supervise tunneling under walls. Cost does not include siege weapon or digging tools.</td>
         </tr>
         <tr>
-            <td class="left-align">Sergeant</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#military leaders">Sergeant</a></td>
             <td class="right-align">x5#</td>
             <td class="right-align">x5#</td>
             <td class="right-align">@</td>
             <td class="left-align">One required per 10 troops.</td>
         </tr>
         <tr>
-            <td class="left-align">Slinger</td>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#archer">Slinger</a></td>
             <td class="right-align">60sp</td>
             <td class="right-align">2sp</td>
             <td class="right-align">60sp</td>
@@ -4765,9 +4765,79 @@ Mercenaries are typically employed to guard a stronghold, encampment or similar 
             <tr>
                 <td colspan="5">$ - Daily cost is doubled for hazardous/wartime duty. Even so, will not venture into obvious suicide (like monster lairs and dungeons).<br/>
                 # - Pay rate for leaders is a multiplier of the base troop type (for example, a Heavy Infantry Lieutenant costs 400sp per month).<br>
-                * - Cost is the same as troop type at minimum. Lieutenants and Captains may have upgraded equipment. Captians may be mounted, even if leading infantry units.
-                * <br>@ - Price is the same as troop type; no upgrades.</td>
+                * - Cost is the same as troop type at minimum. Lieutenants and Captains may have upgraded equipment. Captains may be mounted, even if leading infantry units.<br>
+                @ - Price is the same as troop type; no upgrades.</td>
             </tr>
         </tfoot>
 	</tbody>
+</table>
+
+#### Sailors
+The number of crew required to operate and maintain a ship will depend on the size of the ship. No matter the size, a Ship's Captain will be required, though a sufficiently experienced and capable PC can potentially act in that role.
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2" class="left-align">Type</th>
+            <th colspan="3" align="center">Prices</th>
+            <th rowspan="2" class="left-align">Notes</th>
+        </tr>
+        <tr>
+            <th class="right-align">per Month</th>
+            <th class="right-align">per Day$</th>
+            <th class="right-align">Equipment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#ship's complement">Marine</a></td>
+            <td class="right-align">60sp</td>
+            <td class="right-align">2sp</td>
+            <td class="right-align">135sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#ship's complement">Rower</a></td>
+            <td class="right-align">100sp</td>
+            <td class="right-align">34cp</td>
+            <td class="right-align">60sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#ship's complement">Sailor</a></td>
+            <td class="right-align">40sp</td>
+            <td class="right-align">14cp</td>
+            <td class="right-align">20sp</td>
+            <td class="left-align"/>
+        </tr>
+        <tr>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#ship commanders">Ship's Captain</a></td>
+            <td class="right-align">2,000sp</td>
+            <td class="right-align">70sp</td>
+            <td class="right-align">370sp</td>
+            <td class="left-align">One required per ship.</td>
+        </tr>
+        <tr>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#ship commanders">Ship's Lieutenant</a></td>
+            <td class="right-align">x10#</td>
+            <td class="right-align">x10#</td>
+            <td class="right-align">*</td>
+            <td class="left-align">One required per 30 crew.</td>
+        </tr>
+        <tr>
+            <td class="left-align"><a class="internal-link" href="3_Mercenaries.md#ship commanders">Ship's Mate</a></td>
+            <td class="right-align">x5#</td>
+            <td class="right-align">x5#</td>
+            <td class="right-align">@</td>
+            <td class="left-align">One required per 10 crew.</td>
+        </tr>
+    </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="5">$ - Daily cost is doubled for hazardous/wartime duty. Even so, will not venture into obvious suicide (like monster lairs and dungeons).<br/>
+                # - Pay rate for lieutenants is a multiplier of the base troop type (for example, a Marine Lieutenant costs 600sp per month).<br>
+                * - Cost is the same as troop type at minimum. Lieutenants may have upgraded equipment.<br>
+                @ - Price is the same as troop type; no upgrades.</td>
+            </tr>
+        </tfoot>
 </table>

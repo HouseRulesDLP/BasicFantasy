@@ -692,7 +692,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 #### Special Abilities
 **Poison:** Assassins typically coat their weapons in [Poison](7_Equipment.md#Poisons%20and%20Antitoxins).  [Snake Venom](7_Equipment.md#Snake%20Venom) is a favorite for low-ranking assassins with more exotic poisons being used for higher-ranking (and wealthier) assassins.
 
-**Sneak Attack:** If an assassin makes an attack with Advantage, they may add additional sneak attack damage.
+**Sneak Attack:** If an assassin makes an attack with Advantage, they may add additional sneak attack damage on a successful hit.
 - Apprentice: +1d4
 - Journeyman: +2d4
 - Expert: +3d4
@@ -1180,7 +1180,7 @@ Required for the operation of siege weapons (such as catapults, ballistae, trebu
 
 **Heavy Infantry:** Intended primarily for fighting and maneuvering in close order on open ground, heavy footmen employ heavy arms and armor.
 
-Either type may be mounted on riding horses. Not trained to fight while mounted, they will dismount before entering combat (leaving 1 in 4 troops to guard the horses).
+Either type may be mounted on riding horses. Not trained to fight while mounted, they will dismount before entering combat (leaving 1/4 of their troops to guard the horses).
 
 **Pike Infantry:** Trained to fight with long pikes and maneuver in close formation on flat terrain. Mixed formations of more than one hundred pike and heavy infantry require at least two months of drilling to be effective.
 ### Militia
@@ -1464,7 +1464,7 @@ Barely trained and often conscripted, a peasant militia is good for little more 
 #### Description
 A **sergeant** can lead up to ten troops independently or in service to a lieutenant or captain. In any given company, there must be one sergeant for every ten soldiers.
 
-A **lieutenant** may lead up to thirty soldiers, as well as the necessary number of sergeants. Additionally, a lieutenant may command up to three unassigned sergeants. Lieutenants that lead ranged troops will swap STR and DEX.
+A **lieutenant** may lead up to thirty soldiers, as well as the necessary number of sergeants. Lieutenants in charge of a ranged troop will swap STR and DEX
 
 A **captain** may lead 100 soldiers and five lieutenants, as well as the necessary number of sergeants. Captains in charge of a ranged company will swap STR and DEX
 ### Ship's Complement
@@ -1702,7 +1702,7 @@ A **captain** may lead 100 soldiers and five lieutenants, as well as the neces
 			<td class="subtable-header"><b>Ray</b></td>
 			<td class="subtable-header"><b>Hold</b></td>
 			<td class="subtable-header"><b>Blast</b></td>
-			<td class="subtable-header"><b>Spell</b></td>
+			<td class="subtable-header"><b>Spell</b><65/td>
 			<td class="data" rowspan=2></td>
 			<td class="subtable-header"><b>Doom</b></td>
 			<td class="subtable-header"><b>Ray</b></td>
