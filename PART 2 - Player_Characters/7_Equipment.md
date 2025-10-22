@@ -4841,3 +4841,224 @@ The number of crew required to operate and maintain a ship will depend on the si
             </tr>
         </tfoot>
 </table>
+
+## Stock and Trade Goods
+<table>
+	<thead>
+		<tr>
+			<th class="left-align">Item</th>
+			<th class="right-align">Price</th>
+			<th>Slots</th>
+			<th class="left-align">Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="sub-header-left" colspan=4>Foodstuffs and Provisions</td>
+		</tr>
+		<tr>
+			<td class="left-align">Pickled Fish</td><!--item-->
+			<td class="right-align">3sp</td><!--price-->
+			<td>6</td><!--slots-->
+			<td class="left-align">per 5 gallon barrel</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Pickled Vegetables</td><!--item-->
+			<td class="right-align">1sp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per quart</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Sugar</td><!--item-->
+			<td class="right-align">5sp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Fruit, Dried</td><!--item-->
+			<td class="right-align">1sp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Nuts</td><!--item-->
+			<td class="right-align">5sp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Fresh Fruit</td><!--item-->
+			<td class="right-align">5sp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Candied Fruits/Herbs</td><!--item-->
+			<td class="right-align">5sp</td><!--price-->
+			<td>@</td><!--slots-->
+			<td class="left-align">per ounce</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Cured Meats</td><!--item-->
+			<td class="right-align">2gp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Carcass, Game/Animal</td><!--item-->
+			<td class="right-align">1sp/HD</td><!--price-->
+			<td>varies</td><!--slots-->
+			<td class="left-align"></td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Herbs/Spices</td><!--item-->
+			<td class="right-align">25cp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Garlic</td><!--item-->
+			<td class="right-align">28cp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Salt</td><!--item-->
+			<td class="right-align">5sp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Grain (raw)</td><!--item-->
+			<td class="right-align">1cp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Meal (rough)</td><!--item-->
+			<td class="right-align">2cp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Flour</td><!--item-->
+			<td class="right-align">3cp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Lumber</td><!--item-->
+			<td class="right-align">5gp</td><!--price-->
+			<td>1,000</td><!--slots-->
+			<td class="left-align">per cord (128 cubic feet)</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Firewood</td><!--item-->
+			<td class="right-align">1cp</td><!--price-->
+			<td>4</td><!--slots-->
+			<td class="left-align">per day's worth (temperate)/20 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Tobacco</td><!--item-->
+			<td class="right-align">25cp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Pipeweed</td><!--item-->
+			<td class="right-align">1gp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">per 5 pounds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="sub-header-left" colspan=4>Alcohol by the Barrel (30 gal)</td>
+		</tr>
+		<tr>
+			<td class="left-align">Small Beer</td><!--item-->
+			<td class="right-align">4sp</td><!--price-->
+			<td>50</td><!--slots-->
+			<td class="left-align"></td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Beer</td><!--item-->
+			<td class="right-align">4sp</td><!--price-->
+			<td>50</td><!--slots-->
+			<td class="left-align"></td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Ale/Cider</td><!--item-->
+			<td class="right-align">8sp</td><!--price-->
+			<td>50</td><!--slots-->
+			<td class="left-align"></td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Wine</td><!--item-->
+			<td class="right-align">8sp</td><!--price-->
+			<td>50</td><!--slots-->
+			<td class="left-align"></td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Mead</td><!--item-->
+			<td class="right-align">8sp</td><!--price-->
+			<td>50</td><!--slots-->
+			<td class="left-align"></td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Spirits</td><!--item-->
+			<td class="right-align">4gp</td><!--price-->
+			<td>50</td><!--slots-->
+			<td class="left-align"></td><!--notes-->
+		</tr>
+		<tr>
+			<td class="sub-header-left" colspan=4>Cloth and Skins</td>
+		</tr>
+		<tr>
+			<td class="left-align">Cloth</td><!--item-->
+			<td class="right-align">7sp</td><!--price-->
+			<td>2</td><!--slots-->
+			<td class="left-align">per 10 sq yrds</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Pelt</td><!--item-->
+			<td class="right-align">1sp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">for a Medium sized animal</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Leather</td><!--item-->
+			<td class="right-align">1sp</td><!--price-->
+			<td>2</td><!--slots-->
+			<td class="left-align">per sq foot</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="sub-header-left" colspan=4>Plates & Silverware</td>
+		</tr>
+		<tr>
+			<td class="left-align">Place Setting</td><!--item-->
+			<td class="right-align">6cp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">stone/ceramic cup, bowl & utencils</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align">Serving Vessel</td><!--item-->
+			<td class="right-align">4sp</td><!--price-->
+			<td>1</td><!--slots-->
+			<td class="left-align">individual serving bowl, platter or pitcher</td><!--notes-->
+		</tr>
+		<tr>
+			<td class="left-align"></td><!--item-->
+			<td class="right-align"></td><!--price-->
+			<td></td><!--slots-->
+			<td class="left-align"></td><!--notes-->
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan=4>
+				* Clothing takes up no encumbrance when worn but takes up the listed slots when carried.<br/>
+				@ Up to 10 such items can be carried in a single slot.<br/>
+				# Up to 100 such items can be carried in a single slot.
+			</td>
+		</tr>
+	</tfoot>
+</table>

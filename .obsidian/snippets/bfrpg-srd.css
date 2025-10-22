@@ -191,6 +191,7 @@
 .bfrpg table {
     border-collapse: collapse;
     border-bottom: solid 2px black;
+    text-align: center;
 }
 .bfrpg table thead th {
     font-family: 'Soutane Black';
@@ -201,6 +202,7 @@
     vertical-align: bottom;
     min-width: 3.44em;
     background-color: lightgrey !important;
+    text-align: center;
 }
 .bfrpg table td {
     min-width: 3.44em;
@@ -208,6 +210,7 @@
     padding-left: 1em;
     vertical-align: top;
     border: solid 1px grey !important;
+    text-align: center;
 }
 .bfrpg table th.right-align,
 .bfrpg table td.right-align {

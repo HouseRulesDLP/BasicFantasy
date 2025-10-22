@@ -1468,6 +1468,8 @@ A **lieutenant** may lead up to thirty soldiers, as well as the necessary numb
 
 A **captain** may lead 100 soldiers and five lieutenants, as well as the necessary number of sergeants. Captains in charge of a ranged company will swap STR and DEX
 ### Ship's Complement
+The number of crew required to operate and maintain a ship will depend on the size of the ship. No matter the size, a Ship's Captain will be required, though a sufficiently experienced and capable PC can potentially act in that role.
+
 <table class="monster">
 	<tbody>
 		<tr>
