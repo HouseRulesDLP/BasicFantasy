@@ -8,6 +8,6 @@ Any being of a supernatural nature has a *True Name*, and that name may be used 
 Due to their inherently magical nature, *fae-blooded* creatures gain a +2 bonus on all *Saving Throws* vs magic.
 
 #### %%Small Stature%%
-Being [Small](0_Monster_Descriptions.md#Size) hurts in a fight. Small creatures have [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) wielding any weapon with a [Size](PART%202%20-%20Player_Characters/7_Equipment.md#Size) of Large, or when wielding a weapon with the Versatile [Weapon Property](PART%202%20-%20Player_Characters/7_Equipment.md#Weapon%20Properties) one-handed.
+Being [Small](0_Monster_Descriptions.md#Size) hurts in a fight. Small creatures have [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) wielding any weapon with a [Size](7_Equipment.md#Size) of Large, or when wielding a weapon with the Versatile [Weapon Property](7_Equipment.md#Weapon%20Properties) one-handed.
 
 On the other hand, they gain a +2 bonus on all [Stealth](snips/Skills.md#Stealth) checks.

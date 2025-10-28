@@ -99,7 +99,7 @@ Like traps, secret doors will have a *Concealment* score and a [Search](#Searchi
 Note that finding a secret door does not grant understanding of how it works. The GM may require additional rolls or other actions to be taken before the door can be opened.
 
 ## Dungeon Survival
-As described in the [Equipment](7_Equipment.md) section, normal characters must consume one day’s worth of [Rations](PART%202%20-%20Player_Characters/7_Equipment.md#Rations) (or equivalent food) and at least one quart of [water](PART%202%20-%20Player_Characters/7_Equipment.md#Waterskin%20or%20Wineskin) per day.
+As described in the [7_Equipment](7_Equipment.md) section, normal characters must consume one day’s worth of [Rations](7_Equipment.md#Rations) (or equivalent food) and at least one quart of [water](7_Equipment.md#Waterskin%20or%20Wineskin) per day.
 
 Failure to consume enough food requires the character to make a [Moderate (12+)](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) Constitution check or gain a level of Fatigue.  Each consecutive day without food increases the difficulty of this check by 3.  Additionally, so long as the character is in this state of Starvation, their natural healing is halved and they cannot regain any levels of Fatigue. Once the difficulty of the starvation check exceeds 20, natural healing is reduced to zero.   Eating enough food for a day (over the course of about a day, not all at once) restores full natural healing and recovery of Fatigue.
 
