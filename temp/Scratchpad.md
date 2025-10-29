@@ -1,5 +1,7 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+- clean-embeds
+- bfrpg
 ---
 ## Combat Maneuvers
 
@@ -60,3 +62,14 @@ By taking [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%2
 Unarmed attackers (excepting those with the Natural Weaponry trait) have [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) making attacks against aware opponents that are armed.
 
 ## Conditions
+
+## Arcane Traditions
+### Common Spells
+### Beast
+### Necromancy
+### Fire
+### Sky
+### Life
+### Light
+### Metal
+### Shadow

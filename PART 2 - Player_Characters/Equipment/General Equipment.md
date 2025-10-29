@@ -1518,9 +1518,9 @@ An **Illumination Kit** (priced as an [Artisan's Tools](#Artisan%20or%20Craft%20
 #### Spellbook
 The Spellbook is an essential feature of any arcanist's kit. This is where his or her spells and formulae are stored and what’s used for reference in preparation. 
 
-The **Reference Spellbook** is a larger hard-bound tome, typically 13” x 10” with 128 pages. One reference book can hold up to 256 levels of spells. 
+The **Reference Spellbook** is a larger hard-bound tome of 128 pages; typically 13” x 10” (130"sq). One reference book has 256 pages for spells. 
 
-A smaller, more portable option would be the leather-bound **Traveling Spellbook**. This book is typically about 10” x 6.5”, with 64 pages, and can store up to 64 levels of spells. 
+A smaller, more portable option would be the leather-bound **Traveling Spellbook**. This book is typically has 64 pages; about 10” x 6.5” (64"sq).  The smaller size and page count means it can only hold up to 64 pages of spells.
 
 Either will fit into a backpack or satchel. The arcanist's starting book is assumed to be a traveling spellbook.
 

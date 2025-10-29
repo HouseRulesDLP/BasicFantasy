@@ -1,5 +1,7 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - bfrpg
+  - clean-embeds
 ---
 ## Arcanist
 <div class="bfrpg-note">
@@ -43,7 +45,7 @@ Arcanists are those who seek and use knowledge of the arcane.  Their magic is a 
 ### Arcane Magic
 **Spellcasting Focus** As part of their apprenticeship, Arcanists create a device to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
-For every level the Arcanist has, they may carve a sigil into their focus. Each sigil represents a specific spell the Arcanist has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day times the spell's Rank and 50sp per Day to engrave a new sigil into a focus.
+For every level the Arcanist has, they may carve a sigil into their focus. Each sigil represents a specific spell the Arcanist has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day times the spell's Tier and 50sp per Day to engrave a new sigil into a focus.
 
 Having a Magical Focus in hand does not count against needing a free hand for spell casting.
 

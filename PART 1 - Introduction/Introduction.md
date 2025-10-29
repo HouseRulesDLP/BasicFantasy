@@ -16,6 +16,17 @@ _Then I heard a loud click, and Barthal turned to me with a smile. “It’s ope
 _Beyond lay a stone sarcophagus, resting atop a raised platform. Strewn about the floor were many human skeletons. Apoqulis made a sign with his hand that I didn’t recognize; then we walked in carefully, trying not to trip over the bones. I noticed among the bones several bronze swords, covered in verdigris. I stepped to the sarcophagus. “The lid is likely very heavy,” I said. “Come, Morningstar, rather than lift it, let’s turn it about so we can see what treasures lie inside.”_
 
 _Morningstar called “Wait!” but it was too late… I had already laid hands upon the sarcophagus. The bones on the floor began to rattle, then rose up and assembled themselves in a mockery of life. Without delay they picked up their swords from the floor and began to attack us. I would have to wait until later to kick myself, I mused, as I put my back against the sarcophagus and began to fight the monsters…_
+## Table of Contents
+- [What is this?](#What%20is%20this?)
+- [What is a Role-Playing Game?](#What%20is%20a%20Role-Playing%20Game?)
+- [What Do I Need to Play?](#What%20Do%20I%20Need%20to%20Play?)
+- [Using the Dice](#Using%20the%20Dice)
+	- [Task Target Numbers](#Task%20Target%20Numbers)
+	- [Unusual Dice](#Unusual%20Dice)
+	- [Advantage and Disadvantage](#Advantage%20and%20Disadvantage)
+	- [Countdown Pool](#Countdown%20Pool)
+		- [The Death Pool](#The%20Death%20Pool)
+		- [Countdown Pool Average Number of Rolls](#Countdown%20Pool%20Average%20Number%20of%20Rolls)
 
 ## What is this?
 
@@ -93,6 +104,8 @@ Occasionally the rules will call for a die type that doesn’t actually exist. B
 - **d3:** Roll a d6 and divide by 2, rounding up.
 - **d5:** Roll a d10 and divide by 2, rounding up.
 - **d16:** Roll a d4 and d8. If the d4 equals 3 or 4, add 8 to the d8 roll. Otherwise add 0.
+### Natural Result
+When rolling any die type, the value on the face of the die, with no modifiers, is referred to as the **Natural Result** or **Natural Roll**.  This is important for some rules, but is most often seen with Attack Rolls and Saving Throws, where a Natural 1 or Natural 20 may have additional results.
 
 <hr style="border:1px dashed lightgray;"/>
 
