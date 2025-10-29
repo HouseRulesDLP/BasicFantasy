@@ -3,6 +3,7 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
+# Beasts
 ### Griffon
 <table>
 	<tbody>

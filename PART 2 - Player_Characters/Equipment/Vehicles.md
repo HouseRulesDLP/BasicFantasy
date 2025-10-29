@@ -3,6 +3,40 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
+- [Vehicles](#Vehicles)
+	- [Land Transportation](#Land%20Transportation)
+		- [Land Vehicle Notes](#Land%20Vehicle%20Notes)
+			- [Carriage](#Carriage)
+			- [Cart](#Cart)
+			- [Chariot](#Chariot)
+			- [Coach](#Coach)
+			- [Dog Cart](#Dog%20Cart)
+			- [Sedan Chair](#Sedan%20Chair)
+			- [Sledge](#Sledge)
+			- [Sleigh](#Sleigh)
+			- [Travois](#Travois)
+			- [Wagon](#Wagon)
+	- [Water Transportation](#Water%20Transportation)
+		- [Waterborne Vehicle Descriptions](#Waterborne%20Vehicle%20Descriptions)
+			- [Canoe](#Canoe)
+			- [Caravel](#Caravel)
+			- [Carrack](#Carrack)
+			- [Galleon](#Galleon)
+			- [Galley](#Galley)
+			- [Coaster](#Coaster)
+			- [Cog](#Cog)
+			- [Drakkar](#Drakkar)
+			- [Longship](#Longship)
+			- [Raft](#Raft)
+			- [Riverboat](#Riverboat)
+			- [Rowboat](#Rowboat)
+			- [Sailboat](#Sailboat)
+	- [Vehicle Gear](#Vehicle%20Gear)
+		- [Vehicle Gear Descriptions](#Vehicle%20Gear%20Descriptions)
+			- [Paddle](#Paddle)
+			- [Oars](#Oars)
+			- [Sail](#Sail)
+
 ## Vehicles
 The following tables give details of various land and sea vehicles. Game Masters should feel free to create their own vehicles, in which case the table can be used for guidance. Some of the statistics given below are explained in detail later.
 

@@ -3,7 +3,7 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
-
+# Advancement
 ## Experience Points (XP)
 Experience points are given for foes overcome, treasure obtained, and quests completed. 
 

@@ -1,6 +1,7 @@
 ---
 cssclasses: clean-embeds, bfrpg
 ---
+# Wilderness Adventures
 ## Wilderness Movement Rates
 Movement rates when traveling in the wilderness are related directly to encounter movement rates, as shown on the table below:
 

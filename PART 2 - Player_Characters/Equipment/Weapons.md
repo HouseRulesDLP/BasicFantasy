@@ -3,6 +3,31 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
+- [Weapons](#Weapons)
+	- [Weapon Quality](#Weapon%20Quality)
+	- [Weapon Properties](#Weapon%20Properties)
+	- [Damage Types](#Damage%20Types)
+	- [Size](#Size)
+	- [Melee Weapons](#Melee%20Weapons)
+		- [Axes](#Axes)
+		- [Daggers](#Daggers)
+		- [Swords](#Swords)
+		- [Hammers and Maces](#Hammers%20and%20Maces)
+		- [Spears and Polearms](#Spears%20and%20Polearms)
+		- [Chain Weapons](#Chain%20Weapons)
+		- [Other Weapons](#Other%20Weapons)
+			- [Clubs](#Clubs)
+			- [Sap or Blackjack](#Sap%20or%20Blackjack)
+			- [Hooks](#Hooks)
+			- [Sickles and Scythes](#Sickles%20and%20Scythes)
+			- [Improvised Weapons](#Improvised%20Weapons)
+			- [Spiked Gauntlets and Cestus](#Spiked%20Gauntlets%20and%20Cestus)
+	- [Ranged Weapons](#Ranged%20Weapons)
+		- [Bows](#Bows)
+		- [Crossbows](#Crossbows)
+		- [Slings](#Slings)
+		- [Blowguns](#Blowguns)
+		- [Hurlants](#Hurlants)
 
 ## Weapons
 The weapon tables below are not meant to be exhaustive, but represent those most commonly found in a typical western-style fantasy campaign. For more exotic weaponry from far off lands, it’s often easiest to simply find an equivalent entry on one of the below tables and modify it’s stats based on quality and rarity. For example, a katana could be interpreted as a Rare Excellent-Quality arming sword (+1 to hit, x4 cost).

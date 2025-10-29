@@ -3,7 +3,6 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
-
 ## Animals
 <table>
 	<thead>

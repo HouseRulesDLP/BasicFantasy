@@ -3,6 +3,16 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
+- [Siege Engines](#Siege%20Engines)
+	- [Siege Engine Descriptions](#Siege%20Engine%20Descriptions)
+		- [Ballista](#Ballista)
+		- [Battering Ram](#Battering%20Ram)
+		- [Bore](#Bore)
+		- [Catapult](#Catapult)
+		- [Sow](#Sow)
+		- [Siege Tower](#Siege%20Tower)
+		- [Trebuchet](#Trebuchet)
+
 ## Siege Engines
 These are weapons used to attack strongholds or sometimes ships. Their cost will vary for remote locations (due to [rarity](Quality%20and%20Rarity.md#Rarity)). A siege engine that throws missiles (a ballista, onager, or trebuchet) must have a trained [artillerist](3_Mercenaries.md#Engineer) to fire it; this is person making the attack rolls for the weapon. Missile-throwing engines have attack penalties, detailed below. Note that siege engines are not generally usable against individuals or monsters; the GM may make exceptions for very large monsters like giants or dragons.
 <table>

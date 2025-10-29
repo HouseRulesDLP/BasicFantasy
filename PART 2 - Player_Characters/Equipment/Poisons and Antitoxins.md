@@ -3,6 +3,41 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
+- [Poisons and Antitoxins](#Poisons%20and%20Antitoxins)
+	- [Poison Properties](#Poison%20Properties)
+	- [Poison Descriptions](#Poison%20Descriptions)
+		- [Arsenic](#Arsenic)
+		- [Assassin's Blood](#Assassin's%20Blood)
+		- [Basilisk Venom](#Basilisk%20Venom)
+		- [Belladonna](#Belladonna)
+		- [Black Lotus](#Black%20Lotus)
+			- [Dust](#Dust)
+			- [Essence](#Essence)
+			- [Extract](#Extract)
+		- [Burnt Othur Fumes](#Burnt%20Othur%20Fumes)
+		- [Carcass Crawler Mucus](#Carcass%20Crawler%20Mucus)
+		- [Cyanide](#Cyanide)
+		- [Essence of Ether](#Essence%20of%20Ether)
+		- [Giant Scorpion Venom](#Giant%20Scorpion%20Venom)
+		- [Giant Snake Venom](#Giant%20Snake%20Venom)
+		- [Giant Spider Venom](#Giant%20Spider%20Venom)
+		- [Grey Lotus Dust](#Grey%20Lotus%20Dust)
+		- [Malice](#Malice)
+		- [Midnight Tears](#Midnight%20Tears)
+		- [Oil of Taggit](#Oil%20of%20Taggit)
+		- [Milk of the Poppy](#Milk%20of%20the%20Poppy)
+		- [Pale Tincture](#Pale%20Tincture)
+		- [Poison Ivy](#Poison%20Ivy)
+		- [Purple Lotus Extract](#Purple%20Lotus%20Extract)
+		- [Purple Worm Venom](#Purple%20Worm%20Venom)
+		- [Rhododendron](#Rhododendron)
+		- [Sleeping Drought](#Sleeping%20Drought)
+		- [Snake Venom](#Snake%20Venom)
+		- [Torpor](#Torpor)
+		- [Truth Serum](#Truth%20Serum)
+		- [Wyvern Venom](#Wyvern%20Venom)
+		- [Yellow Lotus Smoke](#Yellow%20Lotus%20Smoke)
+
 ## Poisons and Antitoxins
 Poisons come in many different forms and the table below serves as a non-exhaustive list of examples containing some of the more well-known poisons.
 

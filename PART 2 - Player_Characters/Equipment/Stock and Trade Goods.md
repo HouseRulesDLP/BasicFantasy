@@ -3,6 +3,30 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
+- [Stock and Trade Goods](#Stock%20and%20Trade%20Goods)
+	- [Trade Good Descriptions](#Trade%20Good%20Descriptions)
+		- [Artwork](#Artwork)
+			- [Antiquities](#Antiquities)
+			- [Carvings](#Carvings)
+			- [Folk Art](#Folk%20Art)
+			- [Statues](#Statues)
+		- [Carpets & Rugs](#Carpets%20&%20Rugs)
+		- [Cloth](#Cloth)
+		- [Cushions/Pillows](#Cushions/Pillows)
+		- [Drink Barrels](#Drink%20Barrels)
+		- [Fruits](#Fruits)
+		- [Herbs & Spices](#Herbs%20&%20Spices)
+		- [Lamps](#Lamps)
+		- [Loom](#Loom)
+		- [Metals](#Metals)
+			- [Adamantite](#Adamantite)
+			- [Mithral](#Mithral)
+			- [Oricalcum](#Oricalcum)
+		- [Pelt](#Pelt)
+		- [Spinning Wheel](#Spinning%20Wheel)
+		- [Sundial](#Sundial)
+		- [Water Clock](#Water%20Clock)
+
 ## Stock and Trade Goods
 <table>
 	<thead>

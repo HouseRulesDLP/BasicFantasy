@@ -3,6 +3,25 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
+- [Armor and Shields](#Armor%20and%20Shields)
+	- [Armor Properties](#Armor%20Properties)
+	- [Worn Armor](#Worn%20Armor)
+		- [Soft](#Soft)
+		- [Hardened or Studded Leather](#Hardened%20or%20Studded%20Leather)
+		- [Ringmail](#Ringmail)
+		- [Scalemail](#Scalemail)
+		- [Chainmail](#Chainmail)
+		- [Reinforced Chain or Double Mail](#Reinforced%20Chain%20or%20Double%20Mail)
+		- [Half-Plate](#Half-Plate)
+		- [Platemail](#Platemail)
+		- [Full Plate](#Full%20Plate)
+	- [Bucklers and Shields](#Bucklers%20and%20Shields)
+		- [Buckler](#Buckler)
+		- [Medium Shield](#Medium%20Shield)
+		- [Large Shield](#Large%20Shield)
+	- [Donning and Doffing Armor](#Donning%20and%20Doffing%20Armor)
+	- [Armor Training](#Armor%20Training)
+
 ## Armor and Shields
 The armor list below should be considered as general categories of armor rather than a definitive list.  There are too many types of armor in both history and fantasy to create a truly exhaustive list and, instead, armor should be associated with its nearest category to determine it’s game mechanics.
 

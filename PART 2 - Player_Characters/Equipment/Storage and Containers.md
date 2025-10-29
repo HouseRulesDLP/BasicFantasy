@@ -3,6 +3,13 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
+- [Storage and Containers](#Storage%20and%20Containers)
+		- [Barrels](#Barrels)
+		- [Baskets](#Baskets)
+		- [Caskets](#Caskets)
+		- [Chests](#Chests)
+		- [Crates](#Crates)
+
 ## Storage and Containers
 See also [Bags and Pouches](#Bags%20and%20Pouches).
 

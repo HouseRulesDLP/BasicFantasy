@@ -1,6 +1,7 @@
 ---
 cssclasses: clean-embeds, bfrpg
 ---
+# Hirelings and Allies
 ## Hirelings
 There may come times when an adventuring group finds themselves in need of specialized help or just additional assistance. This is when player characters must dig in to their coin pouches and try to persuade other people to work for them. **Hirelings** are skilled or unskilled individuals who will hire on with a character for a predetermined length of time for a specified amount of pay (usually on a per-day basis). **Allies** are those individuals who have a personal connection to a character and work with them for a share of the loot and glory rather than simple pay.
 

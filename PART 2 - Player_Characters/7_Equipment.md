@@ -3,6 +3,7 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
+# Equipment
 - [Coinage](Coinage.md)
 - [Quality and Rarity](Quality%20and%20Rarity.md)
 - [Haggling](Haggling.md)

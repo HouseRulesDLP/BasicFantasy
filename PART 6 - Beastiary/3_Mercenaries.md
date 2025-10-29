@@ -3,6 +3,7 @@ cssclasses:
   - monster
   - clean-embeds
 ---
+# Mercenaries
 ### Archer
 <table class="monster">
 	<tbody>
