@@ -3,7 +3,23 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
-## Arcanist
+# Arcanist
+- [Starting Equipment](#Starting%20Equipment)
+- [Skills](#Skills)
+	- [Arcanist Skills](#Arcanist%20Skills)
+- [Arcane Magic](#Arcane%20Magic)
+- [Arcane Traditions](#Arcane%20Traditions)
+		- [Animism](#Animism)
+		- [Conjuration](#Conjuration)
+		- [Mentalism](#Mentalism)
+		- [Necromancy](#Necromancy)
+		- [Sorcery](#Sorcery)
+		- [Thaumaturgy](#Thaumaturgy)
+		- [Witchcraft](#Witchcraft)
+		- [Wizardry](#Wizardry)
+- [Arcanist Progression](#Arcanist%20Progression)
+- [Arcanist Spells](#Arcanist%20Spells)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Intelligence 11+</li>
@@ -17,12 +33,12 @@ cssclasses:
 
 Arcanists are those who seek and use knowledge of the arcane.  Their magic is a not a matter of faith (like the Cleric), but rather that of study and formulae.  Arcanist are the worst of all the classes at fighting; hours spent studying massive tomes of magic do not lead a character to become strong or adept with weapons.  They are the least hardy, having the least Hit Points and worst Saving Throws.
 
-### Starting Equipment
+## Starting Equipment
 - 2d6sp
 - Adventurers' Pack
 - Mage's Pack
 
-### Skills
+## Skills
 ![](Skills.md#Climb)
 ![](Skills.md#Initiative)
 ![](Skills.md#Perception)
@@ -30,7 +46,7 @@ Arcanists are those who seek and use knowledge of the arcane.  Their magic is a 
 ![](Skills.md#Stealth)
 ![](Skills.md#Survival)
 
-#### Arcanist Skills
+### Arcanist Skills
 **Detect Magic (+0)** Being sensitive to the world of magic, an Arcanist may determine if a person, place or thing is magical. Doing so requires Concentration and a full minute; so they cannot tell if something is magical simply by being in its presence and people tend to notice when a spellcaster is staring at them. They can also attempt to decipher magical writing in the same way with this skill.
 
 **Prepare Scroll (+0)** Arcanists can create arcane spell scrolls and protection scrolls. See the rules on magic item creation for details.
@@ -42,7 +58,7 @@ Arcanists are those who seek and use knowledge of the arcane.  Their magic is a 
 **Create Major Magic Item (-5)** Starting at 10th level, Arcanists can create major arcane items. See the rules on magic item creation for details.
 ![](Skills.md#Uncertainty)
 
-### Arcane Magic
+## Arcane Magic
 **Spellcasting Focus** As part of their apprenticeship, Arcanists create a device to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
 For every level the Arcanist has, they may carve a sigil into their focus. Each sigil represents a specific spell the Arcanist has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day times the spell's Tier and 50sp per Day to engrave a new sigil into a focus.
@@ -57,7 +73,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 
 **Tradition** An Arcanist must select an Arcane Tradition (Wizardry, Sorcery, Necromancy, etc). This will determine which spells they have access to. See the rules on Magic for details.
 
-### Arcane Traditions
+## Arcane Traditions
 
 #### Animism
 The world is alive. It is full of spirits and gods, and all things have a soul. Like nature itself, spirits and gods are neither good nor evil. They may not be omnipotent, but they possess great power and should be treated with respect. If you speak to them in the right way, they may lend power to your animist magic.
@@ -83,7 +99,7 @@ According to sorcerers, all things in the universe consist of four elements: win
 #### Wizardry
 
 
-### Arcanist Progression
+## Arcanist Progression
 <table>
     <thead>
         <tr>
@@ -372,7 +388,7 @@ According to sorcerers, all things in the universe consist of four elements: win
 	</tfoot>
 </table>
 
-### Arcanist Magic
+## Arcanist Spells
 <table>
     <thead>
         <tr>

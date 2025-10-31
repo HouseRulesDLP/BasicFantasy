@@ -1,7 +1,14 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - bfrpg
+  - clean-embeds
 ---
-## Fighter
+# Fighter
+- [Starting Equipment](#Starting%20Equipment)
+- [Adventurer Skills](#Adventurer%20Skills)
+- [Special Abilities](#Special%20Abilities)
+- [Fighter Progression](#Fighter%20Progression)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Strength and Constitution 9+</li>
@@ -12,19 +19,16 @@ cssclasses: clean-embeds, bfrpg
 <li><strong>Weapon Training:</strong> all</li>
 </ul>
 </div>
-
 Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for whom fighting is a way of life. They train in combat, and they generally approach problems head-on, weapon in hand.
 
-### Starting Equipment
+## Starting Equipment
 - 2d6sp
 - Adventurers' Pack
 - Archer's Pack or<br/>
   Hoplite's Pack or<br/>
   Warrior's Pack or<br/>
   Skirmisher's Pack and +2d6sp
-
-
-### Adventurer Skills
+## Adventurer Skills
 ![](Skills.md#Climb)
 ![](Skills.md#Initiative)
 ![](Skills.md#Perception)
@@ -32,8 +36,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
 ![](Skills.md#Stealth)
 ![](Skills.md#Survival)
 ![](Skills.md#Uncertainty)
-
-### Special Abilities
+## Special Abilities
 **Hauler:** Add your Constitution Modifier to your Strength Score for calculating encumbrance limits.
 
 **Minimum Damage:** Fighters are experts at dealing damage. If your attack misses the target's AC by your level your less, you still deal your attack's minimum damage to the target.
@@ -62,8 +65,7 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
 18. ![](Knacks.md#Shield-Master)
 19. ![](Knacks.md#Slayer)
 20. ![](Knacks.md#Weapon-Specialist)
-
-### Fighter Progression
+## Fighter Progression
 <table>
     <thead>
         <tr>

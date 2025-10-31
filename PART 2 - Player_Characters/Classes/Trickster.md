@@ -1,8 +1,16 @@
 ---
 cssclasses:
-cssclasses: clean-embeds, bfrpg
+  - bfrpg
+  - clean-embeds
 ---
-## Trickster
+# Trickster
+- [Starting Equipment](#Starting%20Equipment)
+- [Skills](#Skills)
+	- [Trickster Skills](#Trickster%20Skills)
+- [Arcane Magic](#Arcane%20Magic)
+- [Trickster Progression](#Trickster%20Progression)
+- [Sorcerous Magic](#Sorcerous%20Magic)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Dexterity and Intelligence 11+</li>
@@ -13,17 +21,16 @@ cssclasses: clean-embeds, bfrpg
 <li><strong>Weapon Training:</strong> Small and Medium Weapons</li>
 </ul>
 </div>
-
 Trickster’s are thieves who’ve studied a bit of magic. While not as versatile in their skills as a dedicated thief and not as powerful a spellcaster as a true arcanist, they blend the abilities of both in unexpected ways.
 
-### Starting Equipment
+## Starting Equipment
 - 1d6sp
 - Adventurers' Pack
 - Rogue's Pack
 - Magical Focus
 - Traveler's Spellbook
 
-### Skills
+## Skills
 ![](Skills.md#Climb)
 ![](Skills.md#Initiative)
 
@@ -34,8 +41,7 @@ Trickster’s are thieves who’ve studied a bit of magic. While not as versatil
 **Stealth (-1):** This skill allows the Trickster to remain undetected, even when shadows are the only cover available.
 
 ![](Skills.md#Survival)
-
-#### Trickster Skills
+### Trickster Skills
 **Decipher Document (-3):** A successful check allows the Trickster to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols. Magical texts may be read using the Detect Magic skill (below).
 
 **Legerdemain (-1):** A successful check allows a Trickster to perform a trick of sleight of hand, such as palming a small object, slipping a poison into a drink, or pilfering a small item in the possession of another creature.
@@ -52,8 +58,7 @@ Trickster’s are thieves who’ve studied a bit of magic. While not as versatil
 
 **Create Minor Magic Item (-3):** Starting at 10th level, Tricksters can create minor arcane items. See the rules on magic item creation for details.
 ![](Skills.md#Uncertainty)
-
-### Arcane Magic
+## Arcane Magic
 **Spellcasting Focus:** As part of their apprenticeship, Tricksters create a focus to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
 For every *caster level* the Trickster has, they may carve a sigil into their focus. Each sigil represents a specific spell the Trickster has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Rank to engrave a new sigil into a focus.
@@ -67,8 +72,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 **Exhausting Magic:** At a cost of 1 level of *Exhaustion*, a Trickster may choose to pass an invocation roll that just failed. This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any *Mishaps* still occur.
 
 **Arcane Tradition:** Trickster's always follow the *Sorcery* tradition.
-
-### Trickster Progression
+## Trickster Progression
 <table>
     <thead>
         <tr>
@@ -620,7 +624,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="10">$ Add your INT modifier to the number of 1st level spells you can prepare.<br/># Add your INT modifier to the number of Invocation Dice you have.</td>
+            <td colspan="10"># Add your INT modifier to the number of Invocation Dice you have.<br/>@ Add your INT modifier to your Save Target.<br/>$ Add your INT modifier to the number of 1st level spells you can prepare.</td>
         </tr>
 	</tfoot>
 </table>

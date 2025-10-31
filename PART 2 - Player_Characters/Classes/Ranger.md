@@ -1,7 +1,15 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - clean-embeds
+  - bfrpg
 ---
-## Ranger
+# Ranger
+- [Starting Equipment](#Starting%20Equipment)
+- [Skills](#Skills)
+	- [Ranger Skills](#Ranger%20Skills)
+- [Special Abilities](#Special%20Abilities)
+- [Ranger Progression](#Ranger%20Progression)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Constitution and Wisdom 11+</li>
@@ -12,16 +20,16 @@ cssclasses: clean-embeds, bfrpg
 <li><strong>Weapon Training:</strong> all</li>
 </ul>
 </div>
-Rangers are warriors specially trained to haunt and hunt the wilderness. They patrol for dangers on the edge of civilization, yet have a strong desire to preserve nature. As such, they are predisposed to working with druids and wardens.
+Rangers are warriors specially trained to haunt and hunt the wilderness. They patrol for dangers on the edge of civilization, yet have a strong desire to preserve nature. As such, they are predisposed to working with [Druids](Druid.md) and [Wardens](Warden.md).
 
 ---
-### Starting Equipment
+## Starting Equipment
 - 2d6sp
 - Adventurers' Pack
 - Archer's Pack or<br/>
-  Skimisher's Pack plus +2d6sp
+  Skirmisher's Pack plus +2d6sp
 
-### Skills
+## Skills
 **Climb (+2):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
 ![](Skills.md#Initiative)
 
@@ -40,7 +48,7 @@ Rangers are warriors specially trained to haunt and hunt the wilderness. They pa
 **Tracking (-1):** The ranger may spend a Turn to search a 30x30 foot area in natural wilderness to try to find tracks left by any creatures in the area. On a success, they will know the type of creatures that made the tracks and may follow them. If conditions worsen (the ground gets harder, it starts to rain, the quarry crosses a river, etc), a new check will need to be made. In general, if the GM feels that tracking should be easier than normal (soft ground, tracking a large party, etc), the ranger should roll with [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage). If the GM feels tracking will be harder than normal (hard ground, unfamiliar terrain, etc), the roll will be made at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 ![](Skills.md#Uncertainty)
 
-### Special Abilities
+## Special Abilities
 **Knacks:** At 3rd level, select one of the following special abilities, denoting how you prefer to fight. You may select additional abilities at levels 6, 9, 12, 15 and 18. Unless noted otherwise, each knack may only be taken once.
 1. ![](Knacks.md#Battle-Rage)
 2. ![](Knacks.md#Cavalry)
@@ -52,8 +60,7 @@ Rangers are warriors specially trained to haunt and hunt the wilderness. They pa
 8. ![](Knacks.md#Precise-Shot)
 9. ![](Knacks.md#Slayer)
 10. ![%%Weapon-Specialist-II%%](Knacks.md#Weapon-Specialist-II)
-
-### Ranger Progression
+## Ranger Progression
 <table>
     <thead>
         <tr>

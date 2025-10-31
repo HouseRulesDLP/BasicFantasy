@@ -1,7 +1,17 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - bfrpg
+  - clean-embeds
 ---
-## Warrior-Monk
+# Warrior-Monk
+- [Starting Equipment](#Starting%20Equipment)
+- [Skills](#Skills)
+	- [Warrior-Monk Skills](#Warrior-Monk%20Skills)
+- [Special Abilities](#Special%20Abilities)
+	- [Qi Stunts](#Qi%20Stunts)
+- [Warrior-Monk Progression](#Warrior-Monk%20Progression)
+- [Unarmed Combat and Qi Uses](#Unarmed%20Combat%20and%20Qi%20Uses)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Dexterity and Wisdom 11+, Constitution 9+</li>
@@ -15,7 +25,7 @@ cssclasses: clean-embeds, bfrpg
 
 Practicing a martial tradition from far-off lands, warrior-monks are a rare and often misunderstood group.  They practice the art of combat as a way of tuning their body and mind to work as one.  They seek to harness a power they call Qi (or Ki, Chi, Prana or any host of other names), which they claim is a power generated when the body and spirit work in harmony.  They say this ability flows through everything and by mastering the flow of Qi trough their own self, they can achieve wonderous feats.
 
-### Starting Equipment
+## Starting Equipment
 - 3d6sp
 - Traveler's Pack
 - Book (prayer, philosophy or some similar lore)
@@ -24,7 +34,7 @@ Practicing a martial tradition from far-off lands, warrior-monks are a rare and 
 - Medium Weapon
 - Simple Scribe's Kit
 
-### Skills
+## Skills
 ![](Skills.md#Climb)
 ![](Skills.md#Initiative)
 
@@ -34,17 +44,19 @@ Practicing a martial tradition from far-off lands, warrior-monks are a rare and 
 ![](Skills.md#Stealth)
 ![](Skills.md#Survival)
 
-#### Warrior-Monk Skills
+### Warrior-Monk Skills
 **Acrobatics (+0):** Monks are trained to control their bodies and so are highly balanced and coordinated.  When a monk takes falling damage, they may make an Acrobatics check with a difficulty of 12 + 1 per full 10ft fallen.  If they succeed, they only take 1/2 damage from the fall.
 ![](Skills.md#Uncertainty)
 
-### Special Abilities
+## Special Abilities
 **Evasive:** Eschewing armor, monks have an nearly uncanny ability to dodge incoming attacks and avoid damage.  They increase their unarmored Armor Class by 2 plus their Level/4, rounded down (as shown on the table below).
 
 **Unarmed Combat:** While monks train with a great variety of weapons and can handle them nearly as well as a fighter can, they also train extensively in turning their own bodies into weapons.  As a result their unarmed attacks do the damage listed on the table below.  Unarmed attacks are Finesse attacks.
 
 ### Qi Stunts
 Monks spend most of their lives learning to strengthen and focus their Qi.  In so doing, they gain access to many fabulous abilities fueled by this Qi.  The monk gains their Level plus their Wisdom Modifier Qi Points, with which to power their special abilities.  A monk may not spend more Qi points in 1 round than their Level/4 (rounded up).  Qi points may be recovered after a Long Rest by spending 3 minutes in meditation per point of Qi to be recovered.
+
+Qi Stunts are not magical.
 
 A monk starts by knowing one of the following Qi Stunts at level 1.  They learn a new ability at every odd-numbered level thereafter.  The value in parenthesis is the number of Qi points that must be spent to use this ability.
 1. **Arrow Catching (var):** The monk uses their Reaction to make a Ray plus Dexterity Modifier save vs the attack total to catch an arrow, bolt, dart, sling bullet, etc. aimed directly at them.  This ability cannot be used on large weapons like thrown boulders or siege weapons nor does it work on non-physical weapons.  By spending 1 Qi point, they may immediately throw the weapon back at the attacker with a 20/60 range increment.  By spending 2 Qi points, they may throw the weapon at any target.
@@ -68,7 +80,7 @@ A monk starts by knowing one of the following Qi Stunts at level 1.  They learn 
 19. **Way of the Cat (0):** The monk gains the Climb Walls and Stealth skills as a [Rogue](Rogue.md).
 20. **Wind Step (1):** The monk adds 1/4 their level (rounded up) times 10 feet to their movement speed for 1 round.
 
-### Warrior-Monk Progression
+## Warrior-Monk Progression
 <table>
     <thead>
         <tr>
@@ -357,7 +369,7 @@ A monk starts by knowing one of the following Qi Stunts at level 1.  They learn 
 	</tfoot>
 </table>
 
-### Unarmed Combat and Qi Uses
+## Unarmed Combat and Qi Uses
 <table>
     <thead>
         <tr>

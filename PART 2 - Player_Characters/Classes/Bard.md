@@ -1,7 +1,15 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - bfrpg
+  - clean-embeds
 ---
-## Bard
+# Bard
+- [Starting Equipment](#Starting%20Equipment)
+- [Skills](#Skills)
+	- [Bard Skills](#Bard%20Skills)
+- [Bard Songs](#Bard%20Songs)
+- [Bard Progression](#Bard%20Progression)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Dexterity 9+, Intelligence 11+, Charisma 11+</li>
@@ -15,12 +23,12 @@ cssclasses: clean-embeds, bfrpg
 
 Bards are those who have learned history, oral tradition, music, and performance. They travel widely looking for inspiration for the next great ballad or epic poem. A Bard is a welcome addition to most adventuring crews, as he has several useful skills to assist other characters.
 
-### Starting Equipment
+## Starting Equipment
 - 2d6sp
 - Adventurers' Pack
 - Minstrel's Pack
 
-### Skills
+## Skills
 ![](Skills.md#Climb)
 ![](Skills.md#Initiative)
 
@@ -30,18 +38,19 @@ Bards are those who have learned history, oral tradition, music, and performance
 ![](Skills.md#Stealth)
 ![](Skills.md#Survival)
 
-#### Bard Skills
+### Bard Skills
 **Decipher Document (+0):** A successful check allows the bard to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols. By 5th level, Bards can attempt decipher magical writing, but the roll is made at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
 **Legerdemain (-3):** A successful check allows a bard to perform a trick of sleight of hand, such as palming a small object, slipping poison into a drink, or pilfering a small item in the possession of another creature.
 
 **Lore (+0):** This skill may be used to identify monsters (the better the roll, the more detail recalled), identify famous magic items or recall information about a given subject.
 ![](Skills.md#Uncertainty)
-
-### Bard Songs
+## Bard Songs
 Bards know many songs and are capable of weaving magic into a song. At first level, a bard's songs can only affect humanoids. By 4th level, they can also affect animals, Fae creatures by 7th level and monsters by 9th. Playing a bard song requires *Concentration* for the duration of the song. A bard may sing a number of magical songs per day equal to their level. Mindless and deaf creatures are always immune to the effects of a bard's magical songs.
 
 Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledge of a new magical song at every odd level. It is recommended that players customize the names of their bard songs as it adds a bit of flavor.
+
+These songs do count as magic for the purposes of counterspells, dispels, anti-magic and other effects that affect magic. Where a Spell Tier is needed, use 1/3 the bard's level (rounded up).
 
 **Allegro of Alertness:** While this song is playing, all allies of the bard who can hear her gain [Advantage](Introduction.md#Advantage%20and%20Disadvantage) on any rolls to avoid being *surprised* or *ambushed*.
 
@@ -70,8 +79,7 @@ Bards begin play knowing 1 + Charisma Modifier magical songs. They gain knowledg
 **Traveling Tune:** Playing this song during travel increases the bard and his allies wilderness travel speed by 10%.
 
 **Triumphant Tune:** All allies within 30ft who can hear the bard may add the bard's Charisma modifier to their *AC*.
-
-### Bard Progression
+## Bard Progression
 <table>
     <thead>
         <tr>

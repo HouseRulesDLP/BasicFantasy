@@ -1,7 +1,15 @@
 ---
 cssclasses: clean-embeds, bfrpg
 ---
-## Arcane Warrior
+# Arcane Warrior
+- [Starting Equipment](#Starting%20Equipment)
+- [Skills](#Skills)
+	- [Arcane Warrior Skills](#Arcane%20Warrior%20Skills)
+- [Arcane Magic](#Arcane%20Magic)
+- [Knacks](#Knacks)
+- [Arcane Warrior Progression](#Arcane%20Warrior%20Progression)
+- [Arcane Spells](#Arcane%20Spells)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Strength and Intelligence 11+</li>
@@ -15,7 +23,7 @@ cssclasses: clean-embeds, bfrpg
 
 Arcane Warriors blend spellcraft and swordplay into a deadly combination. Not so adept at fighting as a dedicated [Fighter](Fighter.md), nor so magically versed as a true [Arcanist](Arcanist.md), arcane warriors are still never to be taken lightly.
 
-### Starting Equipment
+## Starting Equipment
 - 1d6sp
 - Adventurer's Pack
 - Hoplite's Pack or 
@@ -23,7 +31,7 @@ Arcane Warriors blend spellcraft and swordplay into a deadly combination. Not so
 - Magical Focus
 - Traveler's Spellbook
 
-### Skills
+## Skills
 ![](Skills.md#Climb)
 ![](Skills.md#Initiative)
 ![](Skills.md#Perception)
@@ -31,7 +39,7 @@ Arcane Warriors blend spellcraft and swordplay into a deadly combination. Not so
 ![](Skills.md#Stealth)
 ![](Skills.md#Survival)
 
-#### Arcane Warrior Skills
+### Arcane Warrior Skills
 **Arcana:** This is the arcane warrior's skill with arcane magic and knowledge. The following skills (Detect Magic, Prepare Scroll, Brew Potion and Create Minor Magic Item) are based off of this skill.
 
 **Detect Magic (+0):** Being sensitive to the world of magic, an arcane warrior may determine if a person, place or thing is magical. Doing so requires Concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a spellcaster is staring at them. You can also attempt to decipher magical writing in the same way with this skill.
@@ -43,7 +51,7 @@ Arcane Warriors blend spellcraft and swordplay into a deadly combination. Not so
 **Create Minor Magic Item (-3):** Starting at 10th level, arcane warriors can create minor arcane items. See the rules on magic item creation for details.
 ![](Skills.md#Uncertainty)
 
-### Arcane Magic
+## Arcane Magic
 **Magical Focus:** As part of their apprenticeship, arcane warriors create a Magical Focus to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
 For every *caster level* the arcane warrior has, they may carve a sigil into their focus. Each sigil represents a specific spell the arcane warrior has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day times the spell's Rank and 50sp per Day to engrave a new sigil into a focus.
@@ -58,7 +66,7 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 
 **Tradition:** An arcane warrior must select a Arcane Tradition (Wizardry, Sorcery, Necromancy, etc). This will determine which spells they have access to. See the rules on Magic for details.
 
-### Knacks
+## Knacks
 At level 4, the arcane warrior may select one of the following **Knacks**, denoting how they prefer to fight. They may select additional Knacks at levels 8, 12, 16 and 20. Unless noted otherwise, each knack may only be taken once.
 
 1. ![](snips/Knacks.md#Cleave)
@@ -70,7 +78,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
 7. ![](snips/Knacks.md#Slayer)
 8. ![](snips/Knacks.md#Weapon-Specialist)
 
-### Arcane Warrior Progression
+## Arcane Warrior Progression
 <table>
     <thead>
         <tr>
@@ -380,7 +388,7 @@ At level 4, the arcane warrior may select one of the following **Knacks**, denot
     </tfoot>
 </table>
 
-### Arcane Magic
+## Arcane Spells
 <table>
     <thead>
         <tr>

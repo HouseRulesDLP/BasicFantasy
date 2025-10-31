@@ -1,7 +1,15 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - bfrpg
+  - clean-embeds
 ---
-## Assassin
+# Assassin
+- [Starting Equipment](#Starting%20Equipment)
+- [Skills](#Skills)
+	- [Assassin Skills](#Assassin%20Skills)
+- [Special Abilities](#Special%20Abilities)
+- [Assassin Progression](#Assassin%20Progression)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Strength & Dexterity 9+</li>
@@ -15,13 +23,13 @@ cssclasses: clean-embeds, bfrpg
 
 There are those who make their living dealing death from the shadows. These people are called assassins. Most are trained by secret guilds or societies; civilized lands generally forbid and destroy such organizations.
 
-### Starting Equipment
+## Starting Equipment
 - 5d6sp
 - Adventurers' Pack
 - Rogue's Pack
 - Disguise Kit
 
-### Skills
+## Skills
 **Climb (+3):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
 ![](Skills.md#Initiative)
 
@@ -31,7 +39,7 @@ There are those who make their living dealing death from the shadows. These peop
 **Stealth (+0):** The ability to remain undetected.  Assassins may use this skill even when shadows are the only cover available.  Characters can only move at 1/2 their normal speed while using stealth.
 ![](Skills.md#Survival)
 
-#### Assassin Skills
+### Assassin Skills
 **Brew Poison (-3):** Assassins can craft their own poisons for half the cost of buying one. There will be modifiers based upon how difficult the poison is to make. This is also the skill used to brew an antidote (if the assassin has a sample of the original poison). Use of this skill requires an alchemy kit and downtime. A critical failure of this check subjects the assassin to the poison they are brewing (or making an antidote for). A regular failure simply means that the poison or antidote is ineffective and the ingredients, time and expense of the brewing were wasted.
 
 **Climb Wall (-1):** This goes beyond the normal climbing skill that every adventurer has and even goes beyond the climbing skill of the [ranger](Ranger.md). This skill allows the assassin to climb walls with minimal hand/fingertip holds that would normally be impossible to scale without equipment. Assassins are able to perform normal climbs at +3 (already factored into the *climb* skill, above) and climb cliffs at +1. Rolls are made for each 100ft (or fraction thereof) to be climbed. Failure indicates a fall at the half-way point, suffering falling damage.
@@ -43,7 +51,7 @@ There are those who make their living dealing death from the shadows. These peop
 **Legerdemain (-1):** A successful check allows an assassin to perform a trick of sleight of hand, such as palming a small object, slipping a poison into a drink, or pilfering a small item in the possession of another creature.
 ![](Skills.md#Uncertainty)
 
-### Special Abilities
+## Special Abilities
 **Sneak Attack:** When an assassin has [Advantage](Introduction.md#Advantage%20and%20Disadvantage) on an attack, add the listed damage on the table below to the attack.
 
 **Knacks:** At 3rd level, select one of the following special abilities, denoting your preferred approach to crime. You gain additional kancks at levels levels shown on the table below. Unless noted otherwise, each knack may only be taken once.
@@ -64,7 +72,7 @@ There are those who make their living dealing death from the shadows. These peop
 15. ![](Knacks.md#Skulker)
 16. ![](Knacks.md#Watchful)
 
-### Assassin Progression
+## Assassin Progression
 <table>
     <thead>
         <tr>

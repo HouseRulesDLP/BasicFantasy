@@ -1,7 +1,15 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - bfrpg
+  - clean-embeds
 ---
-## Rogue
+# Rogue
+- [Starting Equipment](#Starting%20Equipment)
+- [Skills](#Skills)
+	- [Rogue Skills](#Rogue%20Skills)
+- [Special Abilities](#Special%20Abilities)
+- [Rogue Progression](#Rogue%20Progression)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Dexterity 11+</li>
@@ -13,14 +21,12 @@ cssclasses: clean-embeds, bfrpg
 </ul>
 </div>
 
-Thieves are those who take what they want or need by stealth, disarming traps and picking locks to get to the gold they crave; or "borrowing" money from pockets, belt-pouches, etc. right under the nose of the "mark" without the victim ever knowing.
-
-### Starting Equipment
+Rogues are those who take what they want or need by stealth, disarming traps and picking locks; or "borrowing" money from pockets, belt-pouches, etc. right under the nose of the "mark" without the victim ever knowing.
+## Starting Equipment
 - 6d6sp
 - Adventurers' Pack
 - Rogue's Pack
-
-### Skills
+## Skills
 **Climb (+4):** This skill allows the adventurer to climb trees, ropes and other surfaces not necessarily intended for climbing but still having plenty of handholds.  Attempts to climb an actual cliff without the proper equipment may be attempted at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).  Sheer surfaces with no real handholds (like mortared walls) cannot even be attempted.  Ladders and other devices actually made for climbing do not require a roll.
 ![](Skills.md#Initiative)
 
@@ -32,7 +38,7 @@ Thieves are those who take what they want or need by stealth, disarming traps an
 
 ![](Skills.md#Survival)
 
-#### Rogue Skills
+### Rogue Skills
 **Climb Wall (+0):** This goes beyond the normal climbing skill that every adventurer has and even goes beyond the climbing skill of the ranger. This skill allows the Rogue to climb walls with minimal hand/fingertip holds that would normally be impossible to scale without equipment. Thieves are able to perform normal climbs at +4 (already factored into the *climb* skill, above) and climb cliffs at +2. Rolls are made for each 100ft (or fraction thereof) to be climbed. Failure indicates a fall at the half-way point.
 
 **Decipher Document (-3):** A successful check allows the Rogue to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols. Starting at 10th level, magical texts may be read but the roll is made with [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
@@ -45,7 +51,7 @@ Thieves are those who take what they want or need by stealth, disarming traps an
 ![](Skills.md#Uncertainty)
 
 ---
-### Special Abilities
+## Special Abilities
 **Sneak Attack:** When a Rogue has [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on an attack roll, add the listed damage on the table below to the attack.
 
 **Knacks:** At 3rd level, select one of the following special abilities, denoting your preferred approach to crime. You may select additional abilities at levels 6, 9, 12, 15 and 18. Unless noted otherwise, each knack may only be taken once.
@@ -64,7 +70,7 @@ Thieves are those who take what they want or need by stealth, disarming traps an
 12. ![](Knacks.md#Watchful)
 
 ---
-### Rogue Progression
+## Rogue Progression
 <table>
     <thead>
         <tr>

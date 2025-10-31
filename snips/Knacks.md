@@ -64,7 +64,7 @@
 **Weapon Specialist:** Pick a specific type of weapon (battle axe, arming sword, longbow, etc). You gain +1 to hit and +Level/2 (round up) damage while wielding weapons of this type. This knack may be taken multiple times, applying to a different weapon each time.
 
 ### %%Blackjack%%
-**Blackjack:** When attacking a humanoid victim not wearing a helmet while you have [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on your attack, you can attempt to knock them out with a suitable "non-lethal" attack (blackjack, weapon pommel, etc). The victim will take 1d4 bludgeoning damage and must make a Hardiness save vs. your attack total or fall unconscious for 2p4 Rounds.
+**Blackjack:** When attacking a humanoid victim not wearing a helmet while you have [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on your attack, you can attempt to knock them out with a suitable "non-lethal" attack (blackjack, weapon pommel, etc). The victim will take 1d4 bludgeoning damage and must make a Hold save vs. your attack total or fall unconscious for 2p4 Rounds.
 
 ### %%Code-Breaker%%
 **Code Breaker:** You have +2 on checks to decipher secret codes and unknown languages.

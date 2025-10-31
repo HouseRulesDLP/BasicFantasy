@@ -1,7 +1,18 @@
 ---
-cssclasses: clean-embeds, bfrpg
+cssclasses:
+  - bfrpg
+  - clean-embeds
 ---
-## Cleric
+# Cleric
+- [Starting Equipment](#Starting%20Equipment)
+- [Skills](#Skills)
+	- [Cleric Skills](#Cleric%20Skills)
+- [Miracles](#Miracles)
+	- [Turning the Unholy](#Turning%20the%20Unholy)
+		- [Explanation of Effects](#Explanation%20of%20Effects)
+- [Cleric Progression](#Cleric%20Progression)
+- [Divine Magic](#Divine%20Magic)
+
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Wisdom 11+</li>
@@ -15,12 +26,12 @@ cssclasses: clean-embeds, bfrpg
 
 Clerics are those who have devoted themselves to the service of a deity, pantheon or other belief system. Most Clerics spend their time in mundane forms of service such as preaching and ministering in a temple; but there are those who are called to go abroad from the temple and serve their deity in a more direct way, smiting *undead* monsters and aiding in the battle against evil and chaos. Player character Clerics are assumed to be among the latter group.
 
-### Starting Equipment
+## Starting Equipment
 - 2d6sp
 - Adventurers' Pack
 - Cleric's Pack
 
-### Skills
+## Skills
 ![](Skills.md#Climb)
 ![](Skills.md#Initiative)
 ![](Skills.md#Perception)
@@ -28,7 +39,7 @@ Clerics are those who have devoted themselves to the service of a deity, pantheo
 ![](Skills.md#Stealth)
 ![](Skills.md#Survival)
 
-#### Cleric Skills
+### Cleric Skills
 **Detect Holy (+0):** A Cleric can detect holy and unholy spirits and magic, including those inhabiting or possessing other objects/beings. Doing so requires *Concentration* and a full minute; so they cannot tell if something is present with a simple glance and people tend to notice when being stared at.
 
 **Prepare Scroll (+0):** Clerics can create holy spell scrolls and protection scrolls. See the rules on magic item creation for details.
@@ -40,18 +51,18 @@ Clerics are those who have devoted themselves to the service of a deity, pantheo
 **Create Major Holy Item (-5):** Starting at 10th level, clerics can create major magic items that are of a holy nature. See the rules on magic item creation for details.
 ![](Skills.md#Uncertainty)
 
-## Divine Magic
-**Holy Symbol:** A cleric carries a Holy Symbol that's been specially consecrated by the religious order to which they belong. This holy symbol also serves as their spellcasting focus. It may take most any form (an amulet, an embossed shield, a circlet, etc), but must be easily seen, recognized and potentially grabbed by others. It also takes up 1 Inventory Slot. A holy symbol may be replaced by consecrating a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
+## Miracles
+**Holy Symbol:** A cl-eric carries a Holy Symbol that's been specially consecrated by the religious order to which they belong. This holy symbol also serves as their spellcasting focus. It may take most any form (an amulet, an embossed shield, a circlet, etc), but must be easily seen, recognized and potentially grabbed by others. It also takes up 1 Inventory Slot. A holy symbol may be replaced by consecrating a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
 For every level the Cleric has, they may carve a *sigil* into their Holy Symbol. Each sigil represents a specific spell the Cleric has learned (i.e. granted by their deity). Whenever they cast one of these spells, while holding this Holy Symbol, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Tier to engrave a new sigil into a Holy Symbol.
 
 Having a Holy Symbol in hand does not count against needing a free hand for spell casting.
 
-**Deity Disfavor:** Clerics must follow the tenets of their religious order. Failure to do so may result in loss of class abilities until a proper penance (as determined by their superiors in the order, or the deity itself) is performed.
+**Deity Disfavor:** Clerics must follow the tenets of their religious order. Failure to do so may result in loss of class abilities until a proper penance (as determined by their superiors in the order, or the deity itself) is performed.  The required tenets vary by religion, but one thing they all have in common is requiring at least an hour of prayer/ritual each day.
 
 **Invocation Dice:** As a spellcaster, clerics have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Wisdom modifier. The cleric may choose how many dice to roll each time they attempt to cast a spell.
 
-**Spellcasting:** Clerics receive their spells from their deities through prayer and meditation. The table below shows the number of spells of each level they may be granted upon completing their morning rituals after a full night's rest. It takes 10 minutes of uninterrupted prayer times the tier of the spell for each spell that is to be granted.
+**Spellcasting:** Clerics receive their spells from their deities through prayer and meditation. The table below shows the number of spells of each tier they may be granted at each level.  Unlike arcane casters (like the [Arcanist](Arcanist.md)), divine casters do not need to prepare their spells ahead of time.  Instead they may cast any spell they have been granted.
 
 **Exhausting Magic:** At a cost of 1 level of Exhaustion, a cleric may choose to pass an invocation roll that just failed. This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any Mishaps still occur.
 
@@ -72,42 +83,35 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
 | Cleric Level +3          | 18+    |
 | Cleric Level +4          | 21+    |
 | >= Cleric Level +5       | --     |
-
 #### Explanation of Effects
 - **--:** The cleric is incapable of affecting creatures of this HD or higher.
 - **{#+}:** To successfully turn these creatures, the cleric must roll this or higher on a d20 plus their Wisdom modifier. Creatures are affected as result 'T', below. If the cleric fails this roll, this group of unholy creatures are immune to being turned by this cleric for 24 hours.
-- **T:** These creatures are automatically Turned. Turned creatures become *Frightened* of the cleric for a number of minutes equal to the cleric's level.
-- **D:** Roll to determine the number of affected hit dice as for a 'T' result (above). However, instead of becoming Frightened, any undead creatures are permanently destroyed. Extra-planar unholy creatures (such as fiends) are banished back to their home plane for a minimum of 1 year per level of the Cleric. Unholy living creatures native to the plane they are currently on that are affected take 1d6 Holy damage per 2 full levels of the Cleric, each.
+- **T:** These creatures are automatically Turned. Turned creatures become *Frightened* of the cleric (even if they are normally immune to the Frightened condition) for a number of minutes equal to the cleric's level.
+- **D:** Roll to determine the number of affected hit dice as for a 'T' result (above). However, in addition to becoming Frightened, affected targets each take 1d6 Holy damage per full level of the cleric. Extra-planar unholy creatures (such as fiends) that are reduced to 0 HP, are banished back to their home plane for a minimum of 1 year per level of the Cleric.
 - **DD:** As 'D', above, but the number of HD affected are 3d6 plus the cleric's level and any damage done is 1d6 per Cleric level.
 
 ---
-### Cleric Progression
+## Cleric Progression
 <table>
     <thead>
         <tr>
-            <th/>
-            <th/>
-            <th>Hit</th>
-            <th>Attack</th>
-            <th>Skill</th>
-            <th/>
+            <th rowspan="2">Level</th>
+            <th rowspan="2">XP</th>
+            <th rowspan="2">Hit<br/>Dice*</th>
+            <th rowspan="2">Attack<br/>Bonus</th>
+            <th rowspan="2">Skill<br/>Bonus</th>
+            <th rowspan="2">Talents</th>
             <th colspan="5">Saving Throws</th>
+        </tr>
+        <tr>
+            <th>Doom</th>
+            <th>Ray</th>
+            <th>Hold</th>
+            <th>Blast</th>
+            <th>Spell</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Level</td>
-            <td>XP</td>
-            <td>Dice*</td>
-            <td>Bonus</td>
-            <td>Bonus</td>
-            <td>Talents</td>
-            <td>Doom</td>
-            <td>Ray</td>
-            <td>Hold</td>
-            <td>Blast</td>
-            <td>Spell</td>
-        </tr>
         <tr>
             <td>1</td>
             <td class="right-align">0</td>
@@ -376,14 +380,14 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
 	</tfoot>
 </table>
 
-### Cleric Magic
+## Divine Magic
 <table>
     <thead>
         <tr>
             <th rowspan="2">Level</th>
             <th rowspan="2">Save<br/>Target@</th>
             <th rowspan="2">Invocation<br/>Dice#</th>
-            <th colspan="6">Prepared Spells</th>
+            <th colspan="6">Granted Spells</th>
         </tr>
         <tr>
             <th>1$</th>
@@ -421,8 +425,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>3</td>
             <td>13+</td>
             <td>3d6</td>
-            <td>2</td>
-            <td>1</td>
+            <td>3</td>
+            <td>--</td>
             <td>--</td>
             <td>--</td>
             <td>--</td>
@@ -432,8 +436,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>4</td>
             <td>14+</td>
             <td>4d6</td>
-            <td>2</td>
-            <td>2</td>
+            <td>3</td>
+            <td>1</td>
             <td>--</td>
             <td>--</td>
             <td>--</td>
@@ -443,9 +447,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>5</td>
             <td>15+</td>
             <td>5d6</td>
+            <td>3</td>
             <td>2</td>
-            <td>2</td>
-            <td>1</td>
+            <td>--</td>
             <td>--</td>
             <td>--</td>
             <td>--</td>
@@ -466,9 +470,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>16+</td>
             <td>7d6</td>
             <td>3</td>
-            <td>2</td>
+            <td>3</td>
             <td>1</td>
-            <td>1</td>
+            <td>--</td>
             <td>--</td>
             <td>--</td>
         </tr>
@@ -477,7 +481,7 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>17+</td>
             <td>8d6</td>
             <td>4</td>
-            <td>2</td>
+            <td>3</td>
             <td>1</td>
             <td>1</td>
             <td>--</td>
@@ -488,10 +492,10 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>18+</td>
             <td>9d6</td>
             <td>4</td>
+            <td>3</td>
             <td>2</td>
             <td>1</td>
-            <td>1</td>
-            <td>1</td>
+            <td>--</td>
             <td>--</td>
         </tr>
         <tr>
@@ -512,9 +516,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>4</td>
             <td>3</td>
             <td>2</td>
+            <td>2</td>
             <td>1</td>
-            <td>1</td>
-            <td>1</td>
+            <td>--</td>
         </tr>
         <tr>
             <td>12</td>
@@ -522,8 +526,8 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>12d6</td>
             <td>5</td>
             <td>3</td>
-            <td>3</td>
-            <td>1</td>
+            <td>2</td>
+            <td>2</td>
             <td>1</td>
             <td>1</td>
         </tr>
@@ -533,9 +537,9 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
             <td>13d6</td>
             <td>5</td>
             <td>4</td>
-            <td>3</td>
             <td>2</td>
-            <td>1</td>
+            <td>2</td>
+            <td>2</td>
             <td>1</td>
         </tr>
         <tr>
