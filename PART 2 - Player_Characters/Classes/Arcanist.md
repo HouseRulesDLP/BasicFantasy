@@ -75,29 +75,26 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 
 ## Arcane Traditions
 
-#### Animism
+### Animism
 The world is alive. It is full of spirits and gods, and all things have a soul. Like nature itself, spirits and gods are neither good nor evil. They may not be omnipotent, but they possess great power and should be treated with respect. If you speak to them in the right way, they may lend power to your animist magic.
+### Astromancy
+The heavens are the realm of the gods.  So, if one studies the sky, one can discern hidden secrets and, potentially, even divine the future.
+### Ausomancy
 
-#### Conjuration
-
-
-#### Mentalism
-Mentalists believe that your mind and body are the center of the universe. By focusing and training your mind, you gain control of your body and the magic that flows through it and the world.
-
-#### Necromancy
-
-
-#### Sorcery
-According to sorcerers, all things in the universe consist of four elements: wind, water, earth, and fire in different combinations. The mind and spirit are associated with wind. Adaptability and creativity are linked to water. Action and energy are linked to fire, and steadfastness and determination are properties of the element earth.
-
-#### Thaumaturgy
-
-
-#### Witchcraft
-
-
-#### Wizardry
-
+### Conjuration
+According to conjurers, all things in the universe consist of four elements: wind, water, earth, and fire in different combinations. The mind and spirit are associated with wind. Adaptability and creativity are linked to water. Action and energy are linked to fire, and steadfastness and determination are properties of the element earth.
+### Illusion
+deception and misdirection
+### Necromancy
+death
+### Runic
+knowledge and secrets
+### Sorcery
+chaos and entropy
+### Thaumaturgy
+order and spirits
+### Umbramancy
+shadows and cold
 
 ## Arcanist Progression
 <table>

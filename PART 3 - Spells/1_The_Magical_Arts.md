@@ -59,15 +59,15 @@ When learning a new spell, it must be recorded in the mage’s spellbook. Each s
     </tr>
 </table>
 
-Once the calculated learning time has passed, the mage makes an Intelligence+(Arcana) skill roll with a Diff equal to 8 plus twice the spell's base Tier (14+ for a 3rd Tier spell).  Failure results in the loss of all time and materials used in the attempt and the mage may not attempt to learn this spell again until they’ve gained a new caster level.
+Once the calculated learning time has passed, the mage makes an Intelligence+(Arcana) skill roll with a [Target Number](Introduction.md#Task%20Target%20Numbers) equal to 6 plus thrice the spell's base Tier (15+ for a 3rd Tier spell).  Failure results in the loss of all time and materials used in the attempt and the mage may not attempt to learn this spell again until they’ve gained a new caster level.
 ##### Learning From a Mentor
 Spellcasters may also learn spells from other casters (if they can find one willing to teach their jealously guarded secrets).  The teacher is assumed to be taking the Help action in regards to the student learning the spell.  This also halves the amount of time required to learn the spell (though the material cost remains the same).
 #### Replacing a Spellbook
 If a spellbook is lost or destroyed, it may be recreated using the spells that the spellcaster already has Prepared.  Doing so requires a new [spellbook](#Spellbooks) and takes the same cost in time and materials as learning each spell anew.
 ##### Backup Spellbooks
-With the amount of time and expense required to replace a lost spellbook (not to mention the loss of any spells not already prepared), it is no wonder that spellcasters often keep backup copies of their spellbooks hidden away somewhere safe.  The creation of a backup spellbooks is quicker and more certain than trying to recreate a lost spellbook from memory as you're simply copying rather than re-creating.  It only take 1 hour and 50sp per page in the spellbook to create a copy as you don't have to do all of the study and preparation.
+With the amount of time and expense required to replace a lost spellbook (not to mention the loss of any spells not already prepared), it is no wonder that spellcasters often keep backup copies of their spellbooks hidden away somewhere safe.  The creation of a backup spellbooks is quicker and more certain than trying to recreate a lost spellbook from memory as you're simply copying rather than re-creating.  It only take half the time and cost per page in the spellbook to create a copy as you don't have to do all of the study and preparation.
 ### Preparing Spells
-An arcane spellcaster may only cast spells they have prepared.  Spells take time to prepare.  A spellcasters may only prepare as many spells as shown on their Class Table, plus additional *Tier 1* spells equal to their Intelligence Modifier. Preparing a spell takes 15 minutes times the spell's [Tier](magic/Spells.md#tier).  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
+An arcane spellcaster may only cast spells they have prepared.  Spells take time to prepare.  A spellcaster may only prepare as many spells as shown on their Class Table, plus additional *Tier 1* spells equal to their Intelligence Modifier. Preparing a spell takes 15 minutes times the spell's [Tier](magic/Spells.md#tier).  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
 #### Preparation Time
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 |
 |:------:|:------:|:------:|:------:|:------:|:------:|
@@ -76,15 +76,14 @@ An arcane spellcaster may only cast spells they have prepared.  Spells take time
 A spellcaster, so long as they have access to their spellbook, may cast unprepared spells using said spellbook.  Doing so increases the casting time of the spell [1 step](PART%204%20-%20The%20Adventure/1_Dungeon_Adventures.md#Time%20Steps), to a minimum of 10 minutes.  Spells cast in this way do not benefit from the [Sigils](#sigils) carved into a [Spellcasting Focus](#Spellcasting%20Foci).
 
 *For example, a character wishing to cast Augury as an unprepared spell must have their spellbook on hand.  Since the base casting time is 10 minutes, it will now take 1 hour to cast the spell in this manner.*
-## Divine Spells
-- Spontaneous Casters
-- Fewer spells/level
+## Divine Magic
+[Clerics](Cleric.md), [Druids](Druid.md) and other divine casters do not maintain spellbooks.  Instead, their spells are divinely granted by their patron deities and may be cast without memorization and preparation.
 ## Spellcasting Foci
 A [Spellcasting Focus](PART%202%20-%20Player_Characters/Classes/Arcanist.md#Arcane%20Magic) is a device that aids a spellcaster in channeling and controlling their magic.  This device must be easily seen, recognized and hand-held.  It also takes up 1 [inventory slot](PART%204%20-%20The%20Adventure/1_Dungeon_Adventures.md#Carrying%20Capacity).
 ### Sigils
 A spellcaster may inscribe a number of **Sigils** into their focus equal to their Caster Level. Each Sigil represents a specific spell they have learned (i.e. recorded in their [Spellbook](#spellbooks)). Whenever a caster casts one of these spells, while their Spellcasting Focus is in hand, the player rolls d8s for their [Invocation Dice](#the%20invocation%20roll) instead of d6s.
 
-This is why highly-skilled mages are always carrying around staffs; more room for sigils.
+This is why highly-skilled casters are always carrying around staffs; more room for sigils.
 #### Inscribing Sigils
 It takes 1 Day times the spell's Tier and 50sp per day to engrave a new Sigil into your focus.
 ### Replacing a Spellcasting Focus
@@ -93,20 +92,19 @@ A focus may be replaced by constructing a new one which takes 1 week in a **Safe
 
 With thanks to the [Spell Dice](https://www.necropraxis.com/2013/11/01/spell-dice/) system by Necropraxis.
 ### Quick Summary
-- Spellcasters get an [invocation pool](#the%20invocation%20dice%20pool) of six-sided dice based on their Caster Level and Wisdom Modifier.
+- Spellcasters get an [invocation pool](#the%20invocation%20dice%20pool) of six-sided dice based on their Caster Level and either Wisdom or Intelligence Modifier.
 - Any number of dice may be used to cast a spell.
 - [Spell difficulty](#spell%20difficulty) is equal to the spell’s [tier](magic/Spells.md#tier) times 3.
 - Any **Invocation Die** that that roll a [natural](CoreRules.md#natural%20roll) 1 or 2 is removed from the pool (aka *Expended*).
 - Some expended *Invocation Dice* may be recovered after a rest.
 ### The Invocation Dice Pool
-A spellcaster gets a pool of six-sided dice with which to cast their spells.  The total number of dice in the pool is based on the character’s Caster Level plus additional dice equal to their *Wisdom Modifier*.
+A spellcaster gets a pool of six-sided dice with which to cast their spells.  The total number of dice in the pool is based on the character’s Caster Level plus additional dice equal to either their *Wisdom Modifier* (divine casters) or *Intelligence Modifier* (arcane casters).
 
-*Example: A 5th level [Arcanist](PART%202%20-%20Player_Characters/Classes/Arcanist.md) with a 16 Wisdom (+2 modifier) has a pool of 7d6 <u>Invocation Dice</u> (5 for Caster Level + 2 for Wisdom).*
+*Example: A 5th level [Arcanist](PART%202%20-%20Player_Characters/Classes/Arcanist.md) with a 16 Intelligence (+2 modifier) has a pool of 7d6 <u>Invocation Dice</u> (5 for Caster Level + 2 for Intelligence).*
 
 When casting a spell, the caster may choose to roll any number of *Invocation Dice* in order to try to meet or exceed the [Spell Difficulty](#spell%20difficulty).  Any dice rolling a [Natural](PART%201%20-%20Introduction/Introduction.md#Natural%20Result) ‘1’ or ‘2’ are *Expended* from the pool (though still counted toward the casting result) and cannot be used again until *Recovered*.
-
 #### Exhausting Magic
-If a spellcaster finds themselves in need of a quick boost of magical energy, they may add double their Caster Level to their *Invocation Roll* by gaining 1 level of Exhaustion.  This may be done as a Free Action.
+At a cost of 1 level of Exhaustion, an spellcaster may choose to pass an invocation roll that just failed. This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any Mishaps still occur.
 #### Magical Focus
 While a spellcaster has their [Magical Focus](#magical%20focus) is in hand, and if that focus has the proper [Sigils](#sigils) carved into it, the spellcaster may roll d8s instead of d6s for their *Invocation Dice*.
 
@@ -149,13 +147,13 @@ A spell’s **difficulty** is equal to 3 times the [tier](magic/Spells.md#tier) 
 
 If a spell’s *Difficulty* is not met, the spell is not cast.  However, the mage may choose to continue casting the spell.  This requires that the mage reserve the dice already used in casting the spell and **Concentrate** long enough to satisfy the spell’s **Casting Time** again.  Once this time increment has passed, the mage may choose to roll additional [Invocation Dice](#the%20invocation%20dice%20pool) and add their total to the *Spellcasting Roll*.  In this way, more difficult Spells can be cast over multiple “rounds”.
 
-*Example: The above 5th level [Arcanist](PART%202%20-%20Player_Characters/Classes/Arcanist.md) with a 16 Wisdom is attempting to cast a "fireball" at **Tier** 3 (difficulty 9).  They choose to be conservative and roll only 3 dice, rolling a ‘1’, '3' and ‘4’, for a total of 8.  As the total is less than the **difficulty**, the spell is not cast.  The character chooses to continue the casting. This means they are now **concentrating** and they set aside the 3 dice already rolled, leaving 4 left unallocated in their **invocation pool**.  On their next round (since the spell has a **casting time** of 1 **action**), they choose to roll one more die, getting another ‘1’.  This brings their total to 9, successfully casting the spell.  The two ‘1’s are now **expended**, and the other three committed dice are now released.  This leaves the caster with 5 dice in their **invocation pool**.  Note that no [Mishap](#Mishaps) roll is made because the two '1's occurred on two separate rolls.*
+*Example: The above 5th level [Arcanist](PART%202%20-%20Player_Characters/Classes/Arcanist.md) with a 16 Intelligence is attempting to cast a "fireball" at **Tier** 3 (difficulty 9).  They choose to be conservative and roll only 3 dice, rolling a ‘1’, '3' and ‘4’, for a total of 8.  As the total is less than the **difficulty**, the spell is not cast.  The character chooses to continue the casting. This means they are now **concentrating** and they set aside the 3 dice already rolled, leaving 4 left unallocated in their **invocation pool**.  On their next round (since the spell has a **casting time** of 1 **action**), they choose to roll one more die, getting another ‘1’.  This brings their total to 9, successfully casting the spell.  The two ‘1’s are now **expended**, and the other three committed dice are now released.  This leaves the caster with 5 dice in their **invocation pool**.  Note that no [Mishap](#Mishaps) roll is made because the two '1's occurred on two separate rolls.*
 ### Invocation Dice Recovery
-Whenever a spellcaster completes a Short Rest, they may roll a portion of their *Expended* [Invocation Dice](#the%20invocation%20dice%20pool).  Any of those dice that come up a 2+ are placed back into the caster’s *Invocation Pool*.  The number of dice that may be rolled after a short rest is equal to their *Wisdom Modifier*.
+Whenever a spellcaster completes a Short Rest, they may roll a portion of their *Expended* [Invocation Dice](#the%20invocation%20dice%20pool).  Any of those dice that come up a 2+ are placed back into the caster’s *Invocation Pool*.  The number of dice that may be rolled after a short rest is equal to their *Intelligence (arcane) or Wisdom (divine) Modifier*.
 
 After a Long Rest, the same procedure is followed with the following 2 exceptions:
-- A number of dice equal to the character’s *Wisdom Modifier* are recovered without rolling.
-- The caster may then roll all their remaining *Expended* *Invocation Dice*.
+- A number of dice equal to the character’s *Intelligence (arcane) or Wisdom (divine) Modifier* are recovered without rolling.
+- The caster may then roll **all** their remaining *Expended* *Invocation Dice*.
 
 After an Extended Rest, all *Invocation Dice* that have been *Expended* are automatically recovered.
 ## Magical Attacks and Saving Throws
@@ -163,20 +161,22 @@ Once a spell has successfully been *Invoked*, the mage may then need to make a *
 
 Frequently, a spell will require the target to make a **Saving Throw** instead of requiring a caster to make an **Attack Roll**.  In this case, the caster's [Save Target](PART%202%20-%20Player_Characters/Classes/Arcanist.md#Arcane%20Magic) is the target number.  If the target succeeds on their save, the effects of the spell may be reduced or even mitigated entirely (according to the spell's description).
 ## Spell Identification
-If a mage can directly see and hear another spellcaster as they cast a spell, they may attempt an Intelligence+(Arcana) check vs. the spell's [Casting Difficulty](#spell%20difficulty) in order to identify the spell being cast.  If the observing mage can only see or hear the casting mage, but not both, this check is performed at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
+If an arcane spellcaster can directly see and hear another arcane spellcaster as they cast a spell, they may attempt an Intelligence+(Arcana) check vs. the spell's [Casting Difficulty](#spell%20difficulty) in order to identify the spell being cast.  If the observing mage can only see or hear the casting mage, but not both, this check is performed at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 
-If the check is successful and the mage has the spell in their spellbook, they completely identify the spell and whether or not it is being **upcast** and to what **Tier**.
+Divine casters follow the same procedure (above) to identify the spells of other divine casters.  However, in this case, they use their Wisdom + Theology (or Druidry) skill.
 
-If the check is successful but the mage does not have the spell in their spellbook, they will only be able to discern the following:
+If the check is successful and the caster knows the spell (must be in an arcane caster's spellbook or be a spell granted to a divine caster), they completely identify the spell and whether or not it is being **upcast** and to what **Tier**.
+
+If the check is successful but the mage does not know the spell, they will only be able to discern the following:
 1. Whether or not the spell is being cast at a *Tier* the observing mage can cast.
 2. What the spell's governing Ability is (Intelligence, Wisdom or Charisma)
 3. Whether the spell is offensive, defensive or utilitarian in nature.
 
 If the check is failed, the observing mage gains no information.
 
-Characters without the [Detect Magic](PART%202%20-%20Player_Characters/Classes/Arcanist.md#Arcanist%20Skills) skill may not attempt this check at all.
+Characters without the [Detect Magic](PART%202%20-%20Player_Characters/Classes/Arcanist.md#Arcanist%20Skills), [Detect Holy](Cleric.md#Cleric%20Skills) or [Detect Anima](Druid.md#Druid%20Skills) skill may not attempt this check at all.
 ## Concentration
-Several Spells require **Concentration** to maintain their effects after casting.  A caster may normally only *Concentrate* on one thing at a time.  New actions requiring *Concentration* supersede anything the caster is already *Concentrating* on.  If a *Concentrating* caster takes damage, they must pass a **Concentration Check** (a Wisdom+Arcana check) vs difficulty 9 plus the Spell's [Tier](magic/Spells.md#tier) or half the damage done (whichever is higher).  Other things may also require a *Concentration Check*, such as being thrown into a river, being startled, being grappled and so on.  The GM will set the [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) of the check accordingly.  Additionally, Spells that take more than 1 action to cast require *Concentration* while they are being cast.  Losing *Concentration* causes the [Invocation Roll](#the%20invocation%20roll) to fail (though the declared number of *Invocation Dice* must still be rolled to see if a [Mishap](#mishaps) occurs and how many are *Expended*).
+Several Spells require **Concentration** to maintain their effects after casting.  A caster may normally only *Concentrate* on one thing at a time.  New actions requiring *Concentration* supersede anything the caster is already *Concentrating* on.  If a *Concentrating* caster takes damage, they must pass a *Concentration Check* (a Hold Save vs difficulty 9 plus the Spell's [Tier](magic/Spells.md#tier) or half the damage done {whichever is higher}).  Other things may also require a *Concentration Check*, such as being thrown into a river, being startled, being grappled and so on.  The GM will set the [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) of the check accordingly.  Additionally, Spells that take more than 1 action to cast require *Concentration* while they are being cast.  Losing *Concentration* causes the [Invocation Roll](#the%20invocation%20roll) to fail (though the declared number of *Invocation Dice* must still be rolled to see if a [Mishap](#mishaps) occurs and how many are *Expended*).
 ## Mishaps
 If two of the dice rolled at the same time come up as [Natural](PART%201%20-%20Introduction/Introduction.md#Natural%20Result) ‘1’s, this will result in a [Minor Magical Mishap](#Minor%20Magical%20Mishap), even if the [Invocation Roll](#the%20invocation%20roll) is successful.  If three of the dice are *Natural* 1’s, then the caster suffers a [Major Magical Mishap](#Major%20Magical%20Mishap).  If four or more dice are *Natural* ‘1’s, then the caster suffers the effects of both a *Minor* and a *Major* magical mishap.
 
@@ -445,6 +445,7 @@ The afflictions on this table never heal naturally.  Only the intervention of st
         </tr>
     </tbody>
 </table>
+
 ### Random Elements
 Whenever a Mishap has a result in curly braces, {}, roll on the below table.
 <table>

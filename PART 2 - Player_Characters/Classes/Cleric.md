@@ -90,6 +90,33 @@ Compare the hit dice of any unholy creatures within 30 feet (who can see and hea
 - **D:** Roll to determine the number of affected hit dice as for a 'T' result (above). However, in addition to becoming Frightened, affected targets each take 1d6 Holy damage per full level of the cleric. Extra-planar unholy creatures (such as fiends) that are reduced to 0 HP, are banished back to their home plane for a minimum of 1 year per level of the Cleric.
 - **DD:** As 'D', above, but the number of HD affected are 3d6 plus the cleric's level and any damage done is 1d6 per Cleric level.
 
+## Divine Domains
+### Air
+### Battle
+### Beasts
+### Chaos
+### Cold
+### Courage
+### Death
+### Desire
+### Earth
+### Entropy
+### Fire
+### Freedom
+### Honor
+### Knowledge
+### Law
+### Life
+### Light
+### Madness
+### Plants
+### Shadow
+### Time
+### Trickery
+### Tyranny
+### Water
+### Wrath
+
 ---
 ## Cleric Progression
 <table>

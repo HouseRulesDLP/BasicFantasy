@@ -38,7 +38,7 @@ Druids are nature priests, revering the anima (spirits) of the natural world. Of
 
 **Survival (+0):** Well used to living in the wild, Druids make survival checks at +0 instead of the normal -2.
 ### Druid Skills
-**Detect Spirits (+0):** A Druid can detect the anima (spirit) of both fae and natural creatures, including those inhabiting or possessing other objects/beings. Doing so requires Concentration and a full minute; so they cannot tell if something is present with a simple glance and people tend to notice when being stared at.
+**Detect Anima (+0):** A Druid can detect the anima (spirit) of both fae and natural creatures, including those inhabiting or possessing other objects/beings. Doing so requires Concentration and a full minute; so they cannot tell if something is present with a simple glance and people tend to notice when being stared at.
 
 **Prepare Scroll (+0):** Druids can create Druidic spell scrolls and protection scrolls. See the rules on magic item creation for details.
 

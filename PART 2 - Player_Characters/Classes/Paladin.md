@@ -22,12 +22,14 @@ cssclasses:
 </ul>
 </div>
 Paladins are warriors that have pledged themselves to a holy order in a manner similar to that of a Cleric. So strong is their faith that it grants them some small amount of supernatural abilities, included limited casting of Clerical spells.
+
 ## Starting Equipment
 - 1d6sp
 - Adventurers' Pack
 - Hoplite's Pack or Warrior's Pack
 - Holy Symbol (focus)
 - Prayer Book
+
 ## Skills
 ![](Skills.md#Climb)
 ![](Skills.md#Initiative)
