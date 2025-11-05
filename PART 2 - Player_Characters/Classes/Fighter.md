@@ -374,3 +374,64 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
         </tr>
 	</tfoot>
 </table>
+
+## Example Builds
+### Archer
+| Level | Knack             | Trait                                                                                                   |
+| ----- | :---------------- | :------------------------------------------------------------------------------------------------------ |
+| 1     | Weapon Specialist |                                                                                                         |
+| 2     |                   | [Fleet of Foot](PART%202%20-%20Player_Characters/6_Traits.md#Fleet%20of%20Foot)                         |
+| 3     | Precise Shot      |                                                                                                         |
+| 5     | Deadly Shot       |                                                                                                         |
+| 6     |                   | [Self Improvement](PART%202%20-%20Player_Characters/6_Traits.md#Self%20Improvement) (DEX)               |
+| 7     | Far Shot          |                                                                                                         |
+| 9     | Exploit Opening   |                                                                                                         |
+| 10    |                   | [Superior Training](PART%202%20-%20Player_Characters/6_Traits.md#Superior%20Training) (Exploit Opening) |
+### Berserker
+
+| Level | Knack       | Trait                                                                                   |
+| ----- | :---------- | :-------------------------------------------------------------------------------------- |
+| 1     | Battle Rage |                                                                                         |
+| 2     |             | [Tenacity](PART%202%20-%20Player_Characters/6_Traits.md#Tenacity)                       |
+| 3     | Recless     |                                                                                         |
+| 5     | Indomitable |                                                                                         |
+| 6     |             | [Catch Your Breath](PART%202%20-%20Player_Characters/6_Traits.md#Catch%20Your%20Breath) |
+| 7     | Deadly Blow |                                                                                         |
+| 9     | Fearless    |                                                                                         |
+| 10    |             | [Die Hard](PART%202%20-%20Player_Characters/6_Traits.md#Die%20Hard)                     |
+### Cavalier
+
+| Level | Knack         | Trait                                                                                               |
+| ----- | :------------ | :-------------------------------------------------------------------------------------------------- |
+| 1     | Armor Master  |                                                                                                     |
+| 2     |               | [Tenacity](PART%202%20-%20Player_Characters/6_Traits.md#Tenacity)                                   |
+| 3     | Shield Master |                                                                                                     |
+| 5     | Protector     |                                                                                                     |
+| 6     |               | [Die Hard](PART%202%20-%20Player_Characters/6_Traits.md#Die%20Hard)                                 |
+| 7     | Last Stand    |                                                                                                     |
+| 9     | Fearless      |                                                                                                     |
+| 10    |               | [Superior Training](PART%202%20-%20Player_Characters/6_Traits.md#Superior%20Training) (Indomitable) |
+### Gladiator
+
+| Level | Knack             | Trait                                                                                                                                                        |
+| ----- | :---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Weapon Specialist |                                                                                                                                                              |
+| 2     |                   | [Duelist](PART%202%20-%20Player_Characters/6_Traits.md#Duelist)                                                                                              |
+| 3     | Deadly Blow       |                                                                                                                                                              |
+| 5     | Exploit Opening   |                                                                                                                                                              |
+| 6     |                   | [Great Fortune](PART%202%20-%20Player_Characters/6_Traits.md#Great%20Fortune)                                                                                |
+| 7     | Indomitable       |                                                                                                                                                              |
+| 9     | Slayer            |                                                                                                                                                              |
+| 10    |                   | [Die Hard](PART%202%20-%20Player_Characters/6_Traits.md#Die%20Hard) or<br/>[Panther's Grace](PART%202%20-%20Player_Characters/6_Traits.md#Panther's%20Grace) |
+### Skirmisher
+
+| Level | Knack                            | Trait                                                                                                                                                                  |
+| ----- | :------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Weapon Specialist                |                                                                                                                                                                        |
+| 2     |                                  | [Fleet of Foot](PART%202%20-%20Player_Characters/6_Traits.md#Fleet%20of%20Foot)                                                                                        |
+| 3     | Main Gauche or<br/>Shield Master |                                                                                                                                                                        |
+| 5     | Cleave                           |                                                                                                                                                                        |
+| 6     |                                  | [Alert](PART%202%20-%20Player_Characters/6_Traits.md#Alert)                                                                                                            |
+| 7     | Deadly Blow                      |                                                                                                                                                                        |
+| 9     | Exploit Opening                  |                                                                                                                                                                        |
+| 10    |                                  | [Off-Hand Proficiency](PART%202%20-%20Player_Characters/6_Traits.md#Off-Hand%20Proficiency) or<br/>[Die Hard](PART%202%20-%20Player_Characters/6_Traits.md#Die%20Hard) |

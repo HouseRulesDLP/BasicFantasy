@@ -40,7 +40,7 @@
 **Leader:** Mercenaries or retainers under your command gain [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) to Morale & Loyalty so long as they can see & hear you.
 
 ### %%Main-Gauche%%
-**Main Gauche:** When fighting with a Small melee weapon in your off hand, you gain +1 to both AC and attacks.  See the two-weapon fighting rules for additional details.
+**Main Gauche:** When fighting with a [Small](PART%202%20-%20Player_Characters/Equipment/Weapons.md#Size) melee weapon in your off hand, you gain +1 to both AC and attacks.  See the two-weapon fighting rules for additional details.  If you also have the [Off-Hand Proficiency](PART%202%20-%20Player_Characters/6_Traits.md#Off-Hand%20Proficiency) Trait, this knack also works with Medium weapons in your off-hand.
 
 ### %%Precise-Shot%%
 **Precise Shot:** You ignore cover penalties when making ranged attacks. You may also fire into melee without penalty or the risk of hitting anyone other than your target.
@@ -98,3 +98,5 @@
 
 ### %%Watchful%%
 **Watchful:** So long as you are conscious, you have +2 on perception rolls to spot an ambush and you are never considered “unaware” of attacks.
+### %%Expertise%%
+**Expertise:** Pick 2 Skills you already know.  You have *Advantage* when making checks using these skills.

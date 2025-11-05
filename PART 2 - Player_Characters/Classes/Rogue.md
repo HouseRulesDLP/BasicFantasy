@@ -47,7 +47,7 @@ Rogues are those who take what they want or need by stealth, disarming traps and
 
 **Legerdemain (-1):** A successful check allows a Rogue to perform a trick of sleight of hand, such as palming a small object, slipping a poison into a drink, or pilfering a small item in the possession of another creature.
 
-**Pick Lock (+0):** A successful check allows a Rogue to open a mechanical lock without the key. Magical locks may also be attempted, but at [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on the roll. This requires the use of thieves' tools and at least one Turn. A failed check may not be retried unless the Rogue has some way to improve their chances. On a natural 1, the Rogue must make a Doom Save or accidentally jam the lock, rendering it impossible to open without force.
+**Pick Lock (+0):** A successful check allows a Rogue to open a mechanical lock without the key. This requires the use of thieves' tools and at least one [Stretch](PART%204%20-%20The%20Adventure/1_Dungeon_Adventures.md#Time%20and%20Scale). A failed check may not be retried unless the Rogue has some way to improve their chances. On a natural 1, the Rogue must make a Hold Save or accidentally jam the lock, rendering it impossible to open without force.
 ![](Skills.md#Uncertainty)
 
 ---
@@ -60,14 +60,15 @@ Rogues are those who take what they want or need by stealth, disarming traps and
 2. ![](Knacks.md#Code-Breaker)
 3. ![](Knacks.md#Death-Blow)
 4. ![](Knacks.md#Distracting-Defense)
-5. ![](Knacks.md#Intelligent-Defense)
-6. ![](Knacks.md#Light-Footed)
-7. ![](Knacks.md#Master-of-Disguise)
-8. ![](Knacks.md#Poisoner)
-9. ![](Knacks.md#Quick-Reflexes)
-10. ![](Knacks.md#Second-Story-Work)
-11. ![](Knacks.md#Skulker)
-12. ![](Knacks.md#Watchful)
+5. ![](snips/Knacks.md#Expertise)
+6. ![](Knacks.md#Intelligent-Defense)
+7. ![](Knacks.md#Light-Footed)
+8. ![](Knacks.md#Master-of-Disguise)
+9. ![](Knacks.md#Poisoner)
+10. ![](Knacks.md#Quick-Reflexes)
+11. ![](Knacks.md#Second-Story-Work)
+12. ![](Knacks.md#Skulker)
+13. ![](Knacks.md#Watchful)
 
 ---
 ## Rogue Progression
@@ -400,3 +401,50 @@ Rogues are those who take what they want or need by stealth, disarming traps and
         </tr>
 	</tfoot>
 </table>
+
+## Example Builds
+### Acrobat
+
+| Level | Knack                                          | Trait                                                                             |
+| ----- | ---------------------------------------------- | --------------------------------------------------------------------------------- |
+| 2     |                                                | [Contortionist](PART%202%20-%20Player_Characters/6_Traits.md#Contortionist)       |
+| 3     | Distracting Defense or<br/>Intelligent Defense |                                                                                   |
+| 6     |                                                | [Fleet of Foot](PART%202%20-%20Player_Characters/6_Traits.md#Fleet%20of%20Foot)   |
+| 7     | Second-Story Work                              |                                                                                   |
+| 10    |                                                | [Panther's Grace](PART%202%20-%20Player_Characters/6_Traits.md#Panther's%20Grace) |
+### Burglar
+
+| Level | Knack                                    | Trait                                                                           |
+| ----- | ---------------------------------------- | ------------------------------------------------------------------------------- |
+| 2     |                                          | [Fleet of Foot](PART%202%20-%20Player_Characters/6_Traits.md#Fleet%20of%20Foot) |
+| 3     | Second-Story Work                        |                                                                                 |
+| 6     |                                          | [Merchant's Eye](PART%202%20-%20Player_Characters/6_Traits.md#Merchant's%20Eye) |
+| 7     | Expertise<br/>(Climb Wall and Pick Lock) |                                                                                 |
+| 10    |                                          | [Blind Fighting](PART%202%20-%20Player_Characters/6_Traits.md#Blind%20Fighting) |
+### Mountebank
+
+| Level | Knack               | Trait                                                                           |
+| ----- | ------------------- | ------------------------------------------------------------------------------- |
+| 2     |                     | [Actor](PART%202%20-%20Player_Characters/6_Traits.md#Actor)                     |
+| 3     | Distracting Defense |                                                                                 |
+| 6     |                     | [Broad Skills](PART%202%20-%20Player_Characters/6_Traits.md#Broad%20Skills)     |
+| 7     | Master of Disguise  |                                                                                 |
+| 10    |                     | [Merchant's Eye](PART%202%20-%20Player_Characters/6_Traits.md#Merchant's%20Eye) |
+### Scout
+
+| Level | Knack        | Trait                                                                             |
+| ----- | ------------ | --------------------------------------------------------------------------------- |
+| 2     |              | [Alert](PART%202%20-%20Player_Characters/6_Traits.md#Alert)                       |
+| 3     | Light-Footed |                                                                                   |
+| 6     |              | [Fleet of Foot](PART%202%20-%20Player_Characters/6_Traits.md#Fleet%20of%20Foot)   |
+| 7     | Watchful     |                                                                                   |
+| 10    |              | [Panther's Grace](PART%202%20-%20Player_Characters/6_Traits.md#Panther's%20Grace) |
+### Tomb Robber
+
+| Level | Knack        | Trait                                                                       |
+| ----- | ------------ | --------------------------------------------------------------------------- |
+| 2     |              | [Cat's Eyes](PART%202%20-%20Player_Characters/6_Traits.md#Cat's%20Eyes)     |
+| 3     | Watchful     |                                                                             |
+| 6     |              | [Alert](PART%202%20-%20Player_Characters/6_Traits.md#Alert)                 |
+| 7     | Code-Breaker |                                                                             |
+| 10    |              | [Second Sight](PART%202%20-%20Player_Characters/6_Traits.md#Second%20Sight) |

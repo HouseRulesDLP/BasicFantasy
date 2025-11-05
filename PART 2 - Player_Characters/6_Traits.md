@@ -86,10 +86,13 @@ Your character may roll for a 2nd [Background Career](4_Background_Careers.md). 
 Your character can recover 1 level of Exhaustion with a Short Rest.
 ### Contortionist
 **Prerequisite:** Dexterity 13+<br/>
-Your character makes rolls to escape restraints with [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
+Your character makes rolls to escape restraints and grapples with [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 ### Die Hard
 **Prerequisite:** Constitution 13+<br/>
 Your character's Death Pool is made up of d6s instead of d4s.
+### Esoteric Training
+Prerequisite: Wisdom 13+, [Pugilist](#Pugilist)
+You may select 1 [Qi Stunt](PART%202%20-%20Player_Characters/Classes/Warrior-Monk.md#Qi%20Stunts) from the Monk class.  You can use this ability as if you were a Monk of 3/4 your level.  You have a number of Qi Points equal to the lesser of your Level, or your Constitution + Wisdom Modifiers.
 ### Fleet of Foot
 **Prerequisite:** none<br/>
 You increase your base movement rate by 10 feet.  This trait may be taken up to 3 times.
@@ -141,13 +144,13 @@ When your character is armed with two daggers, he receives a +1 bonus to hit, a 
 If a creature within melee reach casts a spell, your character may use their reaction to make a melee attack against it. When a creature must make a Concentration Check due to your character's actions, it does so with [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
 ### Off-Hand Proficiency
 **Prerequisite:** An attack bonus of +1 or greater and Dexterity of 11+<br/>
-Your character may wield a medium one-handed weapon in her off-hand as if it were a small weapon. While doing so she gains a +1 bonus to both AC and to hit and may attack with either weapon. See Fighting with Two Weapons for the normal rules.
+Your character may wield a [Medium](PART%202%20-%20Player_Characters/Equipment/Weapons.md#Size) one-handed weapon in her off-hand as if it were a Small weapon.
 ### Panther's Grace
 **Prerequisite:** Dexterity 13+<br/>
 When unarmored, your character receives a +3 bonus to AC. He may still bear a shield or wear magical trinkets or jewelry and gain the benefits of this Trait.  This does not stack with the [Warrior-Monk's](Warrior-Monk.md) AC Bonus.
 ### Pugilist
 **Prerequisite:** An attack bonus of +1 or greater<br/>
-Your character is dangerous even without a weapon in her hand. Her unarmed combat attacks do do damage as a [Warrior-Monk](Warrior-Monk.md) of half her level (this ability cannot be combined with the Warrior-Monk's unarmed combat).
+Your character is dangerous even without a weapon in her hand. Her unarmed combat attacks do do damage as a [Warrior-Monk](Warrior-Monk.md) of 3/4 her level (this ability cannot be combined with the Warrior-Monk's unarmed combat).
 ## Spellcasting Traits
 ### Archmage
 **Prerequisite:** [Grand Mage](#Grand%20Mage)<br/>
@@ -169,6 +172,8 @@ You gain access to an additional Arcane Tradition.
 ### Potent Magic
 **Prerequisite:** The ability to cast spells.<br/>
 Your character picks two spells that she already knows. Saving Throws to resist these spells are performed with [Disadvantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage). This trait may be taken multiple times, applying to different spells each time.
+### Scroll Caster
+You can cast spells from scrolls as if you were a Cleric or Arcanist (choose one).
 ### Supreme Concentration
 **Prerequisite:** The ability to cast spells.<br/>
 Your mage may Concentrate on 2 spells at the same time. If an event will potentially break his Concentration, he must make a separate Concentration Check for each spell.
