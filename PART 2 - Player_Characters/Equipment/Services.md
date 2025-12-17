@@ -220,7 +220,7 @@ Unlike standard hirelings, expert hirelings are in high demand and will only wor
 These characters are generally hired for one of two reasons: to make potions, or to assist with magical research.
 
 An alchemist can produce a potion, given the required materials and a sample or a written formula for the potion, in the same time and for the same
-cost as an [Arcanist](Arcanist.md).  They may also research new potions, but at twice the cost in time and materials as an Arcanist.
+cost as an [Thaumaturgist](PART%202%20-%20Player_Characters/Classes/Thaumaturgist.md).  They may also research new potions, but at twice the cost in time and materials as an Arcanist.
 
 Alternately, an Arcanist seeking to create certain magic items may employ an alchemist as an assistant. In this case, the alchemist counts as taking the Help action.
 ##### Animal Handler

@@ -218,7 +218,7 @@ When your character witnesses an oath or makes one herself, fate binds the oath 
 Allows character to select Cleric, Druid or an Arcane Tradition's spell list and cast spells on that list from scrolls.  You cannot use this feature to cast a spell of a circle higher than your Character Level / 3 (minimum 1).
 ### Second Sight
 **Prerequisite:** none<br/>
-Your character gains the Detect Magic skill as if they were an [Arcanist](Arcanist.md#Skills).
+Your character gains the Detect Magic skill as if they were an [Thaumaturgist](PART%202%20-%20Player_Characters/Classes/Thaumaturgist.md#Skills).
 ### Soul Gaze
 **Prerequisite:** none<br/>
 Your character has the frightening ability to look into another’s soul.  When she first makes eye contact with any creature with a True Name, she will sense that it is supernatural.  She may then spend a Fortune Point to learn the creature’s Allegiance (if any) and Type. Additionally, the GM makes a secret Charisma Check for her.  If passed, the creature’s True Name will be revealed to her that night in a dream. The DT of the check is 10 + 1 per Hit Die of the target.
@@ -227,7 +227,7 @@ Your character has the frightening ability to look into another’s soul.  When 
 For some reason, spirits are naturally disposed to like or obey your character. Perhaps he is more real to them than other physical beings, or has a mystical heritage of some sort. Your character gains [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage) on all social checks involving disembodied spirits and on all rolls to summon or bind them.
 ### Touched by Magic
 **Prerequisite:** none<br/>
-Some have a wild, untrained gift for magic; others learn just a bit and then do not continue their studies. Pick two 1st level spells that your character can now cast.  These spells do not need to be prepared ahead of time, but they take twice as long as normal to cast (as an [Arcanist](Arcanist.md) casting a spell directly from their spellbook).  Your character has a single Invocation Die with which to cast these spells.
+Some have a wild, untrained gift for magic; others learn just a bit and then do not continue their studies. Pick two 1st level spells that your character can now cast.  These spells do not need to be prepared ahead of time, but they take twice as long as normal to cast (as an [Thaumaturgist](PART%202%20-%20Player_Characters/Classes/Thaumaturgist.md) casting a spell directly from their spellbook).  Your character has a single Invocation Die with which to cast these spells.
 
 This Trait does nothing for spellcasting classes.
 

@@ -59,7 +59,7 @@ Having a Focus in hand does not count against needing a free hand for spell cast
 
 **Invocation Dice:** As a spellcaster, Druids have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Wisdom modifier. The Druid may choose how many dice to roll each time they attempt to cast a spell.
 
-**Spellcasting:** Druids receive their spells from fae and nature spirits. The table below shows the number of spells of each tier they may be granted at each level. Unlike arcane casters (like the [Arcanist](Arcanist.md)), divine casters do not need to prepare their spells ahead of time.  Instead they may cast any spell they have been granted.
+**Spellcasting:** Druids receive their spells from fae and nature spirits. The table below shows the number of spells of each tier they may be granted at each level. Unlike arcane casters (like the [Thaumaturgist](PART%202%20-%20Player_Characters/Classes/Thaumaturgist.md)), divine casters do not need to prepare their spells ahead of time.  Instead they may cast any spell they have been granted.
 
 **Exhausting Magic:** At a cost of 1 level of Exhaustion, a Druid may choose to pass an invocation roll that just failed. This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any Mishaps still occur.
 ### Special Abilities
