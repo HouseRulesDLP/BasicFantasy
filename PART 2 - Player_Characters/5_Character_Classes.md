@@ -1,7 +1,7 @@
 # Characer Classes
 
 ## Core Classes
-- [Thaumaturgist](PART%202%20-%20Player_Characters/Classes/Thaumaturgist.md)
+- [Mage](PART%202%20-%20Player_Characters/Classes/Mage.md)
 - [Cleric](Cleric.md)
 - [Fighter](Fighter.md)
 - [Rogue](Rogue.md)

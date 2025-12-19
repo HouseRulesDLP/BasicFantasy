@@ -90,7 +90,7 @@ Dungeons and ruins frequently contain traps, including spear-throwers, covered p
 
 A trap will have a *Concealment* score; which is just the [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) for a [Search](#Searching) check to find the trap when it is being actively searched for.  Most traps are well enough hidden that they cannot be spotted casually.
 
-Trap detection may not be allowed if the trap is purely magical in nature; on the other hand, anyone with the [Detect Magic](PART%202%20-%20Player_Characters/Classes/Thaumaturgist.md#Arcanist%20Skills) skill may use that to [Search](#Searching) for magical traps.
+Trap detection may not be allowed if the trap is purely magical in nature; on the other hand, anyone with the [Detect Magic](PART%202%20-%20Player_Characters/Classes/Mage.md#Arcanist%20Skills) skill may use that to [Search](#Searching) for magical traps.
 
 Like with listening at doors (above), the GM should make any rolls to search for traps.
 
