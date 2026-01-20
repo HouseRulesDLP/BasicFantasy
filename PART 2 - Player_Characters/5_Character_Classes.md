@@ -1,9 +1,9 @@
 # Characer Classes
 
 ## Core Classes
-- [Mage](PART%202%20-%20Player_Characters/Classes/Mage.md)
-- [Cleric](Cleric.md)
+- [Priest](Priest.md)
 - [Fighter](Fighter.md)
+- [Mage](PART%202%20-%20Player_Characters/Classes/Mage.md)
 - [Rogue](Rogue.md)
 
 ## Optional Classes
@@ -15,4 +15,4 @@
 - [Ranger](Ranger.md)
 - [Trickster](Trickster.md)
 - [Warden](Warden.md)
-- [Warrior-Monk](Warrior-Monk.md)
+- [Pugilist](Pugilist.md)

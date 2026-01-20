@@ -3,13 +3,13 @@ cssclasses:
   - bfrpg
   - clean-embeds
 ---
-# Warrior-Monk
+# Pugilist
 - [Starting Equipment](#Starting%20Equipment)
 - [Skills](#Skills)
-	- [Warrior-Monk Skills](#Warrior-Monk%20Skills)
+	- [Pugilist Skills](#Pugilist%20Skills)
 - [Special Abilities](#Special%20Abilities)
 	- [Qi Stunts](#Qi%20Stunts)
-- [Warrior-Monk Progression](#Warrior-Monk%20Progression)
+- [Pugilist Progression](#Pugilist%20Progression)
 - [Unarmed Combat and Qi Uses](#Unarmed%20Combat%20and%20Qi%20Uses)
 
 <div class="bfrpg-note">
@@ -23,7 +23,7 @@ cssclasses:
 </ul>
 </div>
 
-Practicing a martial tradition from far-off lands, warrior-monks are a rare and often misunderstood group.  They practice the art of combat as a way of tuning their body and mind to work as one.  They seek to harness a power they call Qi (or Ki, Chi, Prana or any host of other names), which they claim is a power generated when the body and spirit work in harmony.  They say this ability flows through everything and by mastering the flow of Qi trough their own self, they can achieve wonderous feats.
+Practicing a martial tradition from far-off lands, Pugilists are a rare and often misunderstood group.  They practice the art of combat as a way of tuning their body and mind to work as one.  They seek to harness a power they call Qi (or Ki, Chi, Prana or any host of other names), which they claim is a power generated when the body and spirit work in harmony.  They say this ability flows through everything and by mastering the flow of Qi trough their own self, they can achieve wonderous feats.
 
 ## Starting Equipment
 - 3d6sp
@@ -44,7 +44,7 @@ Practicing a martial tradition from far-off lands, warrior-monks are a rare and 
 ![](Skills.md#Stealth)
 ![](Skills.md#Survival)
 
-### Warrior-Monk Skills
+### Pugilist Skills
 **Acrobatics (+0):** Monks are trained to control their bodies and so are highly balanced and coordinated.  When a monk takes falling damage, they may make an Acrobatics check with a difficulty of 12 + 1 per full 10ft fallen.  If they succeed, they only take 1/2 damage from the fall.
 ![](Skills.md#Uncertainty)
 
@@ -80,7 +80,7 @@ A monk starts by knowing one of the following Qi Stunts at level 1.  They learn 
 18. **Way of the Cat (0):** The monk gains the Climb Walls and Stealth skills as a [Rogue](Rogue.md).
 19. **Wind Step (1):** The monk adds 1/4 their level (rounded up) times 10 feet to their movement speed for 1 round.
 
-## Warrior-Monk Progression
+## Pugilist Progression
 <table>
     <thead>
         <tr>

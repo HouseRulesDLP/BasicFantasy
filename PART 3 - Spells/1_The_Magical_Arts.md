@@ -77,7 +77,7 @@ A spellcaster, so long as they have access to their spellbook, may cast unprepar
 
 *For example, a character wishing to cast Augury as an unprepared spell must have their spellbook on hand.  Since the base casting time is 10 minutes, it will now take 1 hour to cast the spell in this manner.*
 ## Divine Magic
-[Clerics](Cleric.md), [Druids](Druid.md) and other divine casters do not maintain spellbooks.  Instead, their spells are divinely granted by their patron deities and may be cast without memorization and preparation.
+[Clerics](Priest.md), [Druids](Druid.md) and other divine casters do not maintain spellbooks.  Instead, their spells are divinely granted by their patron deities and may be cast without memorization and preparation.
 ## Spellcasting Foci
 A [Spellcasting Focus](PART%202%20-%20Player_Characters/Classes/Mage.md#Arcane%20Magic) is a device that aids a spellcaster in channeling and controlling their magic.  This device must be easily seen, recognized and hand-held.  It also takes up 1 [inventory slot](PART%204%20-%20The%20Adventure/1_Dungeon_Adventures.md#Carrying%20Capacity).
 ### Sigils
@@ -174,7 +174,7 @@ If the check is successful but the mage does not know the spell, they will only 
 
 If the check is failed, the observing mage gains no information.
 
-Characters without the [Detect Magic](PART%202%20-%20Player_Characters/Classes/Mage.md#Arcanist%20Skills), [Detect Holy](Cleric.md#Cleric%20Skills) or [Detect Anima](Druid.md#Druid%20Skills) skill may not attempt this check at all.
+Characters without the [Detect Magic](PART%202%20-%20Player_Characters/Classes/Mage.md#Arcanist%20Skills), [Detect Holy](Priest.md#Cleric%20Skills) or [Detect Anima](Druid.md#Druid%20Skills) skill may not attempt this check at all.
 ## Concentration
 Several Spells require **Concentration** to maintain their effects after casting.  A caster may normally only *Concentrate* on one thing at a time.  New actions requiring *Concentration* supersede anything the caster is already *Concentrating* on.  If a *Concentrating* caster takes damage, they must pass a *Concentration Check* (a Hold Save vs difficulty 9 plus the Spell's [Tier](magic/Spells.md#tier) or half the damage done {whichever is higher}).  Other things may also require a *Concentration Check*, such as being thrown into a river, being startled, being grappled and so on.  The GM will set the [Target Number](PART%201%20-%20Introduction/Introduction.md#Task%20Target%20Numbers) of the check accordingly.  Additionally, Spells that take more than 1 action to cast require *Concentration* while they are being cast.  Losing *Concentration* causes the [Invocation Roll](#the%20invocation%20roll) to fail (though the declared number of *Invocation Dice* must still be rolled to see if a [Mishap](#mishaps) occurs and how many are *Expended*).
 ## Mishaps

@@ -5,16 +5,21 @@ cssclasses:
 ---
 # Fighter
 - [Starting Equipment](#Starting%20Equipment)
-- [Adventurer Skills](#Adventurer%20Skills)
-- [Special Abilities](#Special%20Abilities)
-- [Fighter Progression](#Fighter%20Progression)
+- [Skills](#Skills)
+- [Battle Mastery](#Battle%20Mastery)
+- [Hauler](#Hauler)
+- [Glancing Blow](#Glancing%20Blow)
+- [Damage Dealer](#Damage%20Dealer)
+- [Weapon Specialization](#Weapon%20Specialization)
+- [Fighter Progression Table](#Fighter%20Progression%20Table)
 
 <div class="bfrpg-note">
 <ul>
 <li><strong>Prime Requisite:</strong> Strength and Constitution 9+</li>
 <li><strong>Starting Hit Points:</strong> 8 + Constitution Modifier</li>
-<li><strong>Hit Dice (levels 2 to 10):</strong> 1d8 + Constitution Modifier</li>
-<li><strong>Hit Points After Level 10:</strong> +2 per Level</li>
+<li><strong>Additional HP (levels 2 to 10):</strong> +1d8 + Constitution Modifier</li>
+<li><strong>Additional HP After Level 10:</strong> +2 per Level</li>
+<li><strong>Hit Die Type:</strong> 1d8</li>
 <li><strong>Armor Training:</strong> all</li>
 <li><strong>Weapon Training:</strong> all</li>
 </ul>
@@ -28,55 +33,39 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
   Hoplite's Pack or<br/>
   Warrior's Pack or<br/>
   Skirmisher's Pack and +2d6sp
-## Adventurer Skills
-![](Skills.md#Climb)
-![](Skills.md#Initiative)
-![](Skills.md#Perception)
-![](Skills.md#Search)
-![](Skills.md#Stealth)
-![](Skills.md#Survival)
-![](Skills.md#Uncertainty)
-## Special Abilities
-**Hauler:** Add your Constitution Modifier to your Strength Score for calculating encumbrance limits.
+## Skills
+**Example Class Tasks:** lore (heraldry, military history, mercenary companies, etc), arms and armor quality assessment, tactics, strategy, etc.
 
-**Minimum Damage:** Fighters are experts at dealing damage. If your attack misses the target's AC by your level your less, you still deal your attack's minimum damage to the target.
+## Battle Mastery
+Once per turn, when you make a melee attack, you may attempt a Battle Maneuver. If the attack hits and the [Natural Result](Introduction.md#Natural%20Result) value of your Attack Roll is equal to or greater than your Battle Mastery target number (see the [Fighter Progression Table](#Fighter%20Progression%20Table)), the maneuver succeeds. Many maneuvers, however, do allow the target to make a Saving Throw.
 
-**Weapon Specialization:** Select 1 specific weapon type (such as Battle Axe, Long Bow, Arming Sword, etc.) You gain +1 To Hit and +Level/2 (round up) Damage with this weapon.
+## Hauler
+Add your Constitution Modifier to your Strength Score for calculating encumbrance limits.
 
-**Knacks:** Select one of the following special abilities, denoting how you prefer to fight. You may select one additional ability at every odd-numbered level thereafter. Unless noted otherwise, each knack may only be taken once.
+## Glancing Blow
+Fighters are experts at dealing damage. If your attack misses the target's AC by the amount shown on the [Fighter Progression Table](#Fighter%20Progression%20Table) or less, you still deal your attack's minimum damage to the target.
 
-1. ![](Knacks.md#Armor-Master)
-2. ![](Knacks.md#Battle-Rage)
-3. ![](Knacks.md#Cavalry)
-4. ![](Knacks.md#Charger)
-5. ![](Knacks.md#Cleave)
-6. ![](Knacks.md#Deadly-Blow)
-7. ![](Knacks.md#Deadly-Shot)
-8. ![](Knacks.md#Exploit-Opening)
-9. ![](Knacks.md#Far-Shot)
-10. ![](Knacks.md#Fearless)
-11. ![](Knacks.md#Indomitable)
-12. ![](Knacks.md#Last-Stand)
-13. ![](Knacks.md#Leader)
-14. ![](Knacks.md#Main-Gauche)
-15. ![](Knacks.md#Precise-Shot)
-16. ![](Knacks.md#Protector)
-17. ![](Knacks.md#Reckless)
-18. ![](Knacks.md#Shield-Master)
-19. ![](Knacks.md#Slayer)
-20. ![](Knacks.md#Weapon-Specialist)
-## Fighter Progression
+## Damage Dealer
+Add the damage shown in the **Normal Damage Bonus** column of the [Fighter Progression Table](#Fighter%20Progression%20Table) to your weapon attacks.
+
+## Weapon Specialization
+Select 1 specific weapon type (such as Battle Axe, Long Bow, Arming Sword, etc.) You gain +1 To Hit and the damage bonus listed in the **Specialized Damage Bonus** column of the [Fighter Progression Table](#Fighter%20Progression%20Table).  This replaces the **Normal Damage Bonus**.
+
+## Fighter Progression Table
 <table>
     <thead>
         <tr>
             <th rowspan="2">Level</th>
-            <th rowspan="2">XP</th>
+            <th rowspan="2">Experience</th>
             <th rowspan="2">Hit<br/>Dice*</th>
             <th rowspan="2">Attack<br/>Bonus</th>
-            <th rowspan="2">Skill<br/>Bonus</th>
-            <th rowspan="2">Talents</th>
-            <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
+            <th rowspan="2">Save<br/>Target</th>
+            <th colspan="2">Skills</th>
+            <th rowspan="2">Knacks</th>
+            <th rowspan="2">Battle<br/>Mastery</th>
+            <th rowspan="2">Glancing Blow<br/>Threshold</th>
+            <th colspan="2">Damage Bonus</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -84,354 +73,397 @@ Fighters include soldiers, guardsmen, barbarian warriors, and anyone else for wh
             <th>Hold</th>
             <th>Blast</th>
             <th>Spell</th>
+            <th>Class</th>
+            <th>Secondary</th>
+            <th>Normal</th>
+            <th>Specialized</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>1</td>
-            <td class="right-align">0</td>
+            <td>0</td>
             <td>1d8</td>
             <td>+1</td>
-            <td>+1</td>
-            <td>0</td>
-            <td>1</td>
-            <td>+0</td>
-            <td>-1</td>
-            <td>-2</td>
-            <td>-3</td>
-            <td>-4</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td class="right-align">2,000</td>
-            <td>2d8</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>1</td>
-            <td>1</td>
-            <td>+2</td>
-            <td>+1</td>
-            <td>+0</td>
-            <td>-1</td>
-            <td>-2</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td class="right-align">4,000</td>
-            <td>3d8</td>
-            <td>+2</td>
-            <td>+2</td>
-            <td>1</td>
-            <td>2</td>
-            <td>+2</td>
-            <td>+1</td>
-            <td>+0</td>
-            <td>+0</td>
-            <td>-2</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td class="right-align">8,000</td>
-            <td>4d8</td>
-            <td>+3</td>
-            <td>+3</td>
-            <td>1</td>
-            <td>2</td>
             <td>+4</td>
             <td>+3</td>
             <td>+2</td>
             <td>+1</td>
             <td>+0</td>
+            <td>16+</td>
+            <td>+1</td>
+            <td>+0</td>
+            <td>1</td>
+            <td>14+</td>
+            <td>1</td>
+            <td>+0</td>
+            <td>+1</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>2,000</td>
+            <td>2d8</td>
+            <td>+1</td>
+            <td>+5</td>
+            <td>+4</td>
+            <td>+3</td>
+            <td>+2</td>
+            <td>+1</td>
+            <td>16+</td>
+            <td>+1</td>
+            <td>+1</td>
+            <td>1</td>
+            <td>14+</td>
+            <td>1</td>
+            <td>+1</td>
+            <td>+2</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>4,000</td>
+            <td>3d8</td>
+            <td>+2</td>
+            <td>+6</td>
+            <td>+5</td>
+            <td>+4</td>
+            <td>+3</td>
+            <td>+2</td>
+            <td>16+</td>
+            <td>+2</td>
+            <td>+1</td>
+            <td>2</td>
+            <td>13+</td>
+            <td>2</td>
+            <td>+1</td>
+            <td>+3</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>8,000</td>
+            <td>4d8</td>
+            <td>+3</td>
+            <td>+6</td>
+            <td>+5</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td>+2</td>
+            <td>16+</td>
+            <td>+3</td>
+            <td>+2</td>
+            <td>2</td>
+            <td>13+</td>
+            <td>2</td>
+            <td>+2</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>5</td>
-            <td class="right-align">16,000</td>
+            <td>16,000</td>
             <td>5d8</td>
-            <td>+4</td>
-            <td>+4</td>
-            <td>1</td>
-            <td>3</td>
+            <td>+3</td>
+            <td>+7</td>
+            <td>+6</td>
             <td>+5</td>
-            <td>+4</td>
+            <td>+5</td>
             <td>+3</td>
+            <td>17+</td>
             <td>+3</td>
-            <td>+1</td>
+            <td>+2</td>
+            <td>3</td>
+            <td>12+</td>
+            <td>3</td>
+            <td>+2</td>
+            <td>+5</td>
         </tr>
         <tr>
             <td>6</td>
-            <td class="right-align">32,000</td>
+            <td>32,000</td>
             <td>6d8</td>
             <td>+4</td>
-            <td>+5</td>
-            <td>2</td>
-            <td>3</td>
-            <td>+7</td>
-            <td>+6</td>
-            <td>+5</td>
-            <td>+5</td>
-            <td>+3</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td class="right-align">64,000</td>
-            <td>7d8</td>
-            <td>+5</td>
-            <td>+5</td>
-            <td>2</td>
-            <td>4</td>
             <td>+8</td>
             <td>+7</td>
             <td>+6</td>
-            <td>+6</td>
+            <td>+5</td>
             <td>+4</td>
+            <td>17+</td>
+            <td>+4</td>
+            <td>+3</td>
+            <td>3</td>
+            <td>12+</td>
+            <td>3</td>
+            <td>+3</td>
+            <td>+6</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>64,000</td>
+            <td>7d8</td>
+            <td>+5</td>
+            <td>+9</td>
+            <td>+8</td>
+            <td>+7</td>
+            <td>+6</td>
+            <td>+5</td>
+            <td>17+</td>
+            <td>+5</td>
+            <td>+3</td>
+            <td>4</td>
+            <td>11+</td>
+            <td>4</td>
+            <td>+3</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>8</td>
-            <td class="right-align">120,000</td>
+            <td>120,000</td>
             <td>8d8</td>
-            <td>+6</td>
-            <td>+6</td>
-            <td>2</td>
-            <td>4</td>
+            <td>+5</td>
+            <td>+10</td>
             <td>+9</td>
             <td>+8</td>
             <td>+7</td>
-            <td>+7</td>
+            <td>+6</td>
+            <td>17+</td>
             <td>+5</td>
+            <td>+4</td>
+            <td>4</td>
+            <td>11+</td>
+            <td>4</td>
+            <td>+4</td>
+            <td>+8</td>
         </tr>
         <tr>
             <td>9</td>
-            <td class="right-align">240,000</td>
+            <td>240,000</td>
             <td>9d8</td>
             <td>+6</td>
-            <td>+7</td>
-            <td>2</td>
-            <td>5</td>
             <td>+11</td>
             <td>+10</td>
             <td>+9</td>
-            <td>+9</td>
+            <td>+8</td>
             <td>+7</td>
+            <td>17+</td>
+            <td>+6</td>
+            <td>+4</td>
+            <td>5</td>
+            <td>10+</td>
+            <td>5</td>
+            <td>+4</td>
+            <td>+9</td>
         </tr>
         <tr>
             <td>10</td>
-            <td class="right-align">360,000</td>
+            <td>360,000</td>
             <td>10d8</td>
             <td>+7</td>
-            <td>+8</td>
-            <td>3</td>
-            <td>5</td>
             <td>+12</td>
             <td>+11</td>
             <td>+10</td>
-            <td>+11</td>
+            <td>+9</td>
             <td>+8</td>
+            <td>18+</td>
+            <td>+7</td>
+            <td>+5</td>
+            <td>5</td>
+            <td>10+</td>
+            <td>5</td>
+            <td>+5</td>
+            <td>+10</td>
         </tr>
         <tr>
             <td>11</td>
-            <td class="right-align">480,000</td>
+            <td>480,000</td>
             <td>10d8+2</td>
-            <td>+8</td>
-            <td>+8</td>
-            <td>3</td>
-            <td>6</td>
-            <td>+13</td>
+            <td>+7</td>
             <td>+12</td>
             <td>+11</td>
+            <td>+10</td>
+            <td>+10</td>
+            <td>+8</td>
+            <td>18+</td>
+            <td>+7</td>
+            <td>+5</td>
+            <td>6</td>
+            <td>9+</td>
+            <td>6</td>
+            <td>+5</td>
             <td>+11</td>
-            <td>+9</td>
         </tr>
         <tr>
             <td>12</td>
-            <td class="right-align">600,000</td>
+            <td>600,000</td>
             <td>10d8+4</td>
             <td>+8</td>
-            <td>+9</td>
-            <td>3</td>
-            <td>6</td>
-            <td>+14</td>
             <td>+13</td>
             <td>+12</td>
-            <td>+13</td>
-            <td>+10</td>
+            <td>+11</td>
+            <td>+11</td>
+            <td>+9</td>
+            <td>18+</td>
+            <td>+8</td>
+            <td>+6</td>
+            <td>6</td>
+            <td>9+</td>
+            <td>6</td>
+            <td>+6</td>
+            <td>+12</td>
         </tr>
         <tr>
             <td>13</td>
-            <td class="right-align">720,000</td>
+            <td>720,000</td>
             <td>10d8+6</td>
             <td>+9</td>
-            <td>+10</td>
-            <td>3</td>
-            <td>7</td>
-            <td>+16</td>
-            <td>+15</td>
             <td>+14</td>
-            <td>+15</td>
+            <td>+13</td>
             <td>+12</td>
+            <td>+12</td>
+            <td>+10</td>
+            <td>18+</td>
+            <td>+9</td>
+            <td>+6</td>
+            <td>7</td>
+            <td>8+</td>
+            <td>7</td>
+            <td>+6</td>
+            <td>+13</td>
         </tr>
         <tr>
             <td>14</td>
-            <td class="right-align">840,000</td>
+            <td>840,000</td>
             <td>10d8+8</td>
-            <td>+10</td>
+            <td>+9</td>
+            <td>+15</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>+13</td>
             <td>+11</td>
-            <td>4</td>
+            <td>18+</td>
+            <td>+9</td>
+            <td>+7</td>
             <td>7</td>
-            <td>+18</td>
-            <td>+17</td>
-            <td>+16</td>
-            <td>+17</td>
+            <td>8+</td>
+            <td>7</td>
+            <td>+7</td>
             <td>+14</td>
         </tr>
         <tr>
             <td>15</td>
-            <td class="right-align">960,000</td>
+            <td>960,000</td>
             <td>10d8+10</td>
             <td>+10</td>
-            <td>+11</td>
-            <td>4</td>
-            <td>8</td>
-            <td>+18</td>
-            <td>+17</td>
             <td>+16</td>
-            <td>+17</td>
+            <td>+15</td>
             <td>+14</td>
+            <td>+14</td>
+            <td>+12</td>
+            <td>19+</td>
+            <td>+10</td>
+            <td>+7</td>
+            <td>8</td>
+            <td>7+</td>
+            <td>8</td>
+            <td>+7</td>
+            <td>+15</td>
         </tr>
         <tr>
             <td>16</td>
-            <td class="right-align">1,080,000</td>
+            <td>1,080,000</td>
             <td>10d8+12</td>
             <td>+11</td>
-            <td>+12</td>
-            <td>4</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+15</td>
+            <td>+14</td>
+            <td>+13</td>
+            <td>19+</td>
+            <td>+11</td>
+            <td>+8</td>
             <td>8</td>
-            <td>+20</td>
-            <td>+19</td>
-            <td>+18</td>
-            <td>+19</td>
+            <td>7+</td>
+            <td>8</td>
+            <td>+8</td>
             <td>+16</td>
         </tr>
         <tr>
             <td>17</td>
-            <td class="right-align">1,200,000</td>
+            <td>1,200,000</td>
             <td>10d8+14</td>
-            <td>+12</td>
+            <td>+11</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+15</td>
+            <td>+15</td>
             <td>+13</td>
-            <td>4</td>
+            <td>19+</td>
+            <td>+11</td>
+            <td>+8</td>
             <td>9</td>
-            <td>+21</td>
-            <td>+20</td>
-            <td>+19</td>
-            <td>+21</td>
+            <td>6+</td>
+            <td>9</td>
+            <td>+8</td>
             <td>+17</td>
         </tr>
         <tr>
             <td>18</td>
-            <td class="right-align">1,320,000</td>
+            <td>1,320,000</td>
             <td>10d8+16</td>
             <td>+12</td>
+            <td>+17</td>
+            <td>+17</td>
+            <td>+16</td>
+            <td>+16</td>
             <td>+14</td>
-            <td>5</td>
+            <td>19+</td>
+            <td>+12</td>
+            <td>+9</td>
             <td>9</td>
-            <td>+23</td>
-            <td>+22</td>
-            <td>+21</td>
-            <td>+22</td>
-            <td>+19</td>
+            <td>6+</td>
+            <td>9</td>
+            <td>+9</td>
+            <td>+18</td>
         </tr>
         <tr>
             <td>19</td>
-            <td class="right-align">1,440,000</td>
+            <td>1,440,000</td>
             <td>10d8+18</td>
             <td>+13</td>
-            <td>+14</td>
-            <td>5</td>
+            <td>+17</td>
+            <td>+17</td>
+            <td>+17</td>
+            <td>+17</td>
+            <td>+15</td>
+            <td>19+</td>
+            <td>+13</td>
+            <td>+9</td>
             <td>10</td>
-            <td>+23</td>
-            <td>+22</td>
-            <td>+21</td>
-            <td>+23</td>
+            <td>5+</td>
+            <td>10</td>
+            <td>+9</td>
             <td>+19</td>
         </tr>
         <tr>
             <td>20</td>
-            <td class="right-align">1,560,000</td>
+            <td>1,560,000</td>
             <td>10d8+20</td>
-            <td>+14</td>
-            <td>+15</td>
-            <td>5</td>
+            <td>+13</td>
+            <td>+18</td>
+            <td>+18</td>
+            <td>+18</td>
+            <td>+18</td>
+            <td>+16</td>
+            <td>20+</td>
+            <td>+13</td>
+            <td>+10</td>
             <td>10</td>
-            <td>+24</td>
-            <td>+24</td>
-            <td>+23</td>
-            <td>+24</td>
-            <td>+21</td>
+            <td>5+</td>
+            <td>10</td>
+            <td>+10</td>
+            <td>+20</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="12">* CON modifiers no longer apply after level 10.</td>
+            <td colspan="17">* CON Modifiers for HP no longer apply after 10th level.</td>
         </tr>
-	</tfoot>
+    </tfoot>
 </table>
-
-## Example Builds
-### Archer
-| Level | Knack             | Trait                                                                                                   |
-| ----- | :---------------- | :------------------------------------------------------------------------------------------------------ |
-| 1     | Weapon Specialist |                                                                                                         |
-| 2     |                   | [Fleet of Foot](PART%202%20-%20Player_Characters/6_Traits.md#Fleet%20of%20Foot)                         |
-| 3     | Precise Shot      |                                                                                                         |
-| 5     | Deadly Shot       |                                                                                                         |
-| 6     |                   | [Self Improvement](PART%202%20-%20Player_Characters/6_Traits.md#Self%20Improvement) (DEX)               |
-| 7     | Far Shot          |                                                                                                         |
-| 9     | Exploit Opening   |                                                                                                         |
-| 10    |                   | [Superior Training](PART%202%20-%20Player_Characters/6_Traits.md#Superior%20Training) (Exploit Opening) |
-### Berserker
-
-| Level | Knack       | Trait                                                                                   |
-| ----- | :---------- | :-------------------------------------------------------------------------------------- |
-| 1     | Battle Rage |                                                                                         |
-| 2     |             | [Tenacity](PART%202%20-%20Player_Characters/6_Traits.md#Tenacity)                       |
-| 3     | Recless     |                                                                                         |
-| 5     | Indomitable |                                                                                         |
-| 6     |             | [Catch Your Breath](PART%202%20-%20Player_Characters/6_Traits.md#Catch%20Your%20Breath) |
-| 7     | Deadly Blow |                                                                                         |
-| 9     | Fearless    |                                                                                         |
-| 10    |             | [Die Hard](PART%202%20-%20Player_Characters/6_Traits.md#Die%20Hard)                     |
-### Cavalier
-
-| Level | Knack         | Trait                                                                                               |
-| ----- | :------------ | :-------------------------------------------------------------------------------------------------- |
-| 1     | Armor Master  |                                                                                                     |
-| 2     |               | [Tenacity](PART%202%20-%20Player_Characters/6_Traits.md#Tenacity)                                   |
-| 3     | Shield Master |                                                                                                     |
-| 5     | Protector     |                                                                                                     |
-| 6     |               | [Die Hard](PART%202%20-%20Player_Characters/6_Traits.md#Die%20Hard)                                 |
-| 7     | Last Stand    |                                                                                                     |
-| 9     | Fearless      |                                                                                                     |
-| 10    |               | [Superior Training](PART%202%20-%20Player_Characters/6_Traits.md#Superior%20Training) (Indomitable) |
-### Gladiator
-
-| Level | Knack             | Trait                                                                                                                                                        |
-| ----- | :---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Weapon Specialist |                                                                                                                                                              |
-| 2     |                   | [Duelist](PART%202%20-%20Player_Characters/6_Traits.md#Duelist)                                                                                              |
-| 3     | Deadly Blow       |                                                                                                                                                              |
-| 5     | Exploit Opening   |                                                                                                                                                              |
-| 6     |                   | [Great Fortune](PART%202%20-%20Player_Characters/6_Traits.md#Great%20Fortune)                                                                                |
-| 7     | Indomitable       |                                                                                                                                                              |
-| 9     | Slayer            |                                                                                                                                                              |
-| 10    |                   | [Die Hard](PART%202%20-%20Player_Characters/6_Traits.md#Die%20Hard) or<br/>[Panther's Grace](PART%202%20-%20Player_Characters/6_Traits.md#Panther's%20Grace) |
-### Skirmisher
-
-| Level | Knack                            | Trait                                                                                                                                                                  |
-| ----- | :------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Weapon Specialist                |                                                                                                                                                                        |
-| 2     |                                  | [Fleet of Foot](PART%202%20-%20Player_Characters/6_Traits.md#Fleet%20of%20Foot)                                                                                        |
-| 3     | Main Gauche or<br/>Shield Master |                                                                                                                                                                        |
-| 5     | Cleave                           |                                                                                                                                                                        |
-| 6     |                                  | [Alert](PART%202%20-%20Player_Characters/6_Traits.md#Alert)                                                                                                            |
-| 7     | Deadly Blow                      |                                                                                                                                                                        |
-| 9     | Exploit Opening                  |                                                                                                                                                                        |
-| 10    |                                  | [Off-Hand Proficiency](PART%202%20-%20Player_Characters/6_Traits.md#Off-Hand%20Proficiency) or<br/>[Die Hard](PART%202%20-%20Player_Characters/6_Traits.md#Die%20Hard) |
