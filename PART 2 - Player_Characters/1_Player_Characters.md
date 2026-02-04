@@ -1,3 +1,7 @@
+---
+cssclasses: clean-embeds
+---
+
 # Player Characters
 
 - [ ] Tags
@@ -7,12 +11,12 @@
 First, you will need a piece of paper to write down the character’s statistics on. You may use a preprinted character sheet if one is available, or you may simply use a piece of notebook paper. An example character is shown below. You should use a pencil to write down all information, as any statistic may change during play.
 
 ### Roll Abilities
-We will be using the [BARFLIP](BARFLIP%20Worksheet%20LS.pdf) method.  This is the method will be used as it creates relatively balanced characters while still keeping attributes random and unoptimized.  However, we will not be using the optional 'automatic six in a prime requisite' rule.
+We will be using the [BARFLIP](BARFLIP%20Worksheet%20LS.pdf) method as it creates relatively balanced characters while still keeping attributes random and unoptimized.  However, we will not be using the optional 'automatic six in a prime requisite' rule.
 
 Write down the [ability scores modifiers](2_Character_Abilities.md#Ability%20Scores) for each score beside the score itself, as shown on the table on the next page.
 
 ### Pick a Species
-Choose a [species](3_Character_Species.md) for your character.  Your character must meet any minimum ability score requirements for the species you pick.
+Choose a [[PART 2 - Player_Characters/3. Species/3. Species|3]] for your character.  Your character must meet any minimum ability score requirements for the species you pick.
 
 ### Pick or Roll a Background Career
 Roll for your character's [background](4_Background_Careers.md) career (or if the GM allows, pick one).
@@ -23,7 +27,7 @@ Choose class for your character. Your character must meet the Prime Requisite mi
 [[character sheet image]]
 
 ### Note Special Abilities
-Write down the special abilities of your [species](3_Character_Species.md), [background](4_Background_Careers.md) and [class](5_Character_Classes.md) choices, as described below. If you have chosen to play an [Mage](PART%202%20-%20Player_Characters/Classes/Mage.md), [Trickster](Trickster.md) or [Arcane_Warrior](Arcane_Warrior.md), ask your Game Master what spell or spells your character knows; it’s up to the Game Master to decide this, but he or she may allow you to choose one or more spells yourself.
+Write down the special abilities of your [[PART 2 - Player_Characters/3. Species/3. Species|3]], [background](4_Background_Careers.md) and [class](5_Character_Classes.md) choices, as described below. If you have chosen to play an [Mage](PART%202%20-%20Player_Characters/Classes/Mage.md), [Trickster](Trickster.md) or [Arcane_Warrior](Arcane_Warrior.md), ask your Game Master what spell or spells your character knows; it’s up to the Game Master to decide this, but he or she may allow you to choose one or more spells yourself.
 
 ### Pick Known Languages
 Most characters begin the game speaking two [languages](2_Character_Abilities.md#Languages) (their native language and a "common" tongue).  To this, add a number of additional languages equal to your character’s *Intelligence Modifier* (though this cannot take you down to less than 1 starting language).  Additionally, most characters are illiterate by default however some [classes](5_Character_Classes.md) and [backgrounds](4_Background_Careers.md) are exceptions (which will be listed in the class or background description).  Otherwise, one language pick may be spent for a character to become literate.  Once literate, a character is considered literate in all languages they know (for simplicity's sake).
@@ -50,20 +54,7 @@ Since you now know what sort of armor your character is wearing, you should note
 Note on your character sheet that your character is Level 1 and has zero (0) experience points (or XP / EXP); also you may want to note the number needed to advance to second level, as shown in the table for your class.
 
 ### Passions
-Passions describe the things that are important to your character and can be both positive and negative.  Each character should have between 3 and 5 Passions, as determined by the player and approved by the GM.  A Passion should be describable in a single sentence or short phrase; if it takes more than a single line to describe a Passion, it is too complex and should be broken down into multiple Passions.  One tip is to phrase your passions in the manner of "I want. . .", "I will. . ." or "I won't. . .".
-
-Some examples of appropriate Passions are:
-- I will protect my family at all costs.
-- I will never break the tenants of the Chivalric Code.
-- I will not lie.
-- I want to help those less fortunate than I.
-- I venerate the gods and wish to promote their worship to all.
-
-Some examples of inappropriate Passions:
-- Has an honest face.  {Not really a personality trait and doesn’t have a negative connotation.}
-- Kleptomaniac {Doesn’t have a positive connotation.}
-- Blind in one eye. {Physical trait, not a personality trait.}
-- Crazy {Too broad.}
+![[PART 2 - Player_Characters/1. Player Characters/Passions]]
 
 ### Finishing Touches
 The final steps are to give your character a thematically appropriate name, at least one short and one long-term goal (ideally related to their [Passions](#passions)) and a reason why it is they're willing to risk their life along side these other adventurers.

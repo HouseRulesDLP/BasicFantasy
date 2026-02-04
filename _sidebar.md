@@ -1,6 +1,12 @@
-- [Home](/)
-	- Introduction
-		- [Introduction](Introduction.md)
+- ToC
+	- [[PART 1 - Introduction/PART 1 - Introduction|PART 1 - Introduction]]
+    	- [[PART 1 - Introduction/PART 1 - Introduction#What is this?|What is this?]]
+    	- [[PART 1 - Introduction/PART 1 - Introduction#What is a Role-Playing Game?|What is a Role-Playing Game?]]
+    	- [[PART 1 - Introduction/PART 1 - Introduction#What Do I Need to Play?|What Do I Need to Play?]]
+    	- [[PART 1 - Introduction/Using the Dice|Using the Dice]]
+    	- [[PART 1 - Introduction/Fortune|Fortune]]
+    	- [[PART 1 - Introduction/Countdown Pools|Countdown Pools]]
+    	- [[PART 1 - Introduction/Rounding|Rounding]]
 	- Player Characters
 		- [1_Player_Characters](1_Player_Characters.md)
 		- [2_Character_Abilities](2_Character_Abilities.md)

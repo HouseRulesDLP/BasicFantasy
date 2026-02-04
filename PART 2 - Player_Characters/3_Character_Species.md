@@ -4,37 +4,11 @@ cssclass: ose, clean-embeds
 # 4 Character Species
 
 ## Dwarf
-**AKA**: Dweorg, Dyerven, Gnome, Svartal<br/>
-![[Dwarf.png]]
-<div class="bfrpg-note">
-<ul>
-<li><strong>Requirements:</strong> Constitution 9+</li>
-<li><strong>Starting Age:</strong> 30 + 2d10 years</li>
-<li><strong>Height:</strong> 47 + 2d6 inches {4' 1" to 4' 11"}</li>
-<li><strong>Weight:</strong> 80 + (height roll * 2d8) lbs {134 to 322 lbs}</li>
-<li><strong>Size:</strong> Medium</li>
-<li><strong>Speed:</strong> 40 ft</li>
-<li><strong>Tags:</strong> Humanoid (dwarf), Elemental (earth)</li>
-</ul>
-</div>
 
-Dwarves are a short, stocky species; both male and female Dwarves average around 4 to 5 feet in height, yet weigh as much as a full grown human. Their long hair and thick beards are usually auburn, dark brown, gray or black. Many Dwarven cultures take great pride in their beards, sometimes braiding or forking them while others choose to shave. They have a fair to ruddy complexion. Dwarves have stout frames and a strong, muscular build. They are rugged and resilient, with the capacity to endure great hardships. They typically mature at the same rate as humans, have a lifespan of three to four centuries and usually aren’t considered adults until at least the age of 50.
-
-### Features
-#### Dust of Ages
-The age of the dwarf is long since past. A Dwarf’s Base and Max Fortune Points are reduced by 1 (to a minimum 1 **Max Fortune**).
-#### Enduring as Stone
-Dwarves have endurance beyond that of humans.  They gain +1 HP per level.  Additionally, hit points rolled to heal a dwarf are rolled with [Advantage](PART%201%20-%20Introduction/Introduction.md#Advantage%20and%20Disadvantage).
-#### Fortitude of Iron
-Dwarves have a +2 bonus on saving throws to resist poison and disease.
-#### Low-Light Vision
-![](Species_Abilities.md#Low-Light%20Vision)
-#### True Name
-![](Species_Abilities.md#True%20Name)
 
 ## Elf
 **AKA**: Alfar, Aelph, Erle, Olve, Shee<br/>
-![[Elf.png]]
+![[z. assets/images/Elf.png]]
 <div class="bfrpg-note">
 <ul>
 	<li><strong>Requirements:</strong> Dexterity and Charisma 9+</li>
@@ -55,13 +29,13 @@ The age of the elves is long since past. A Elf’s Base and Max [Fortune Points]
 #### Elven Senses
 Elves have +2 on [Perception checks](Glossary.md#perception%20check).
 #### Fae Blooded
-![](Species_Abilities.md#Fae%20Blooded)
+![](PART%202%20-%20Player_Characters/3.%20Species/z.%20Species_Abilities.md#Fae%20Blooded)
 #### True Name
-![](Species_Abilities.md#True%20Name)
+![](PART%202%20-%20Player_Characters/3.%20Species/z.%20Species_Abilities.md#True%20Name)
 
 ## Giantkin
 **AKA:** Half-Giant, Ogre, Oorg<br/>
-![[Giantkin.png]]
+![[z. assets/images/Giantkin.png]]
 <div class="bfrpg-note">
 <ul>
 <li><strong>Requirements:</strong> STR 11, CON 9</li>
@@ -86,7 +60,7 @@ Giantkin treat two-handed melee weapons as if they were Versatile and Versatile 
 
 ## Goblin
 **AKA:** Kobold, Koballus, Luton, Skreetok<br/>
-![[Goblin.png]]
+![[z. assets/images/Goblin.png]]
 <div class="bfrpg-note">
 <ul>
 <li><strong>Requirements:</strong> Dexterity and Constitution 9+</li>
@@ -103,17 +77,17 @@ Goblins are a species of naturally nocturnal humanoids most commonly found in th
 
 ### Features
 #### Fey Blooded
-![](Species_Abilities.md#Fae%20Blooded)
+![](PART%202%20-%20Player_Characters/3.%20Species/z.%20Species_Abilities.md#Fae%20Blooded)
 #### Low-Light Vision
-![](Species_Abilities.md#Low-Light%20Vision)
+![](PART%202%20-%20Player_Characters/3.%20Species/z.%20Species_Abilities.md#Low-Light%20Vision)
 #### Small Stature
-![](Species_Abilities.md#Small%20Stature)
+![](PART%202%20-%20Player_Characters/3.%20Species/z.%20Species_Abilities.md#Small%20Stature)
 #### True Name
-![](Species_Abilities.md#True%20Name)
+![](PART%202%20-%20Player_Characters/3.%20Species/z.%20Species_Abilities.md#True%20Name)
 
 ## Hob
 **AKA**: Hin, Hobbinz, Pech, Puck, Smallfolk, Halfling<br/>
-![[Hob.png]]
+![[z. assets/images/Hob.png]]
 <div class="bfrpg-note">
 <ul>
 <li><strong>Requirements:</strong> Dexterity and Wisdom 9+</li>
@@ -132,11 +106,11 @@ Hobs are small, slightly stocky folk who average between 3 and 4 feet in height 
 #### Hob Spirit
 Hobs raise the spirits of even the most downtrodden and are valued by all their companions. As a Hob, you receive a +2 to all **[Saving Throws](Glossary.md#saving%20throw)**. Furthermore, all allies receive +1 to their **Saving Throws** so long as they can see and hear you.
 #### Small Stature
-![](Species_Abilities.md#Small%20Stature)
+![](PART%202%20-%20Player_Characters/3.%20Species/z.%20Species_Abilities.md#Small%20Stature)
 
 ## Human
 **AKA**: Cholvek, Homin, Insan, Menneskelig
-![[Human.png]]
+![[z. assets/images/Human.png]]
 <div class="bfrpg-note">
 <ul>
 <li><strong>Requirements:</strong> None</li>
@@ -157,7 +131,7 @@ A Human’s Base and Max [Fortune Points](RulesSynopsis.md#fortune) are each inc
 
 ## Orc
 **AKA**: Bugbear, Euroz, Krork, Orteh<br/>
-![[Orc.png]]
+![[z. assets/images/Orc.png]]
 <div class="bfrpg-note">
 <ul>
 <li><strong>Requirements:</strong> Strength 9+</li>

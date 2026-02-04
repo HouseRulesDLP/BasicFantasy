@@ -1,0 +1,14 @@
+## `=this.file.name`
+A measure of a character’s luck, determination or the hand of fate, Fortune Points may be spent in various ways to aid a character and are earned when a character’s Passions affect the character in a negative way.
+
+A character has a Base Fortune Point (BFP) score equal to their level divided by two (rounded up).  When a character starts play and each time they complete an Extended Rest, their Fortune Points are set to their BFP value, regardless of if they were higher or lower than this value when the rest was started.  A character’s Max Fortune Point (MFP) score is equal to their level.  If a character would earn more FPs than their MFP, the excess points are lost.
+
+Fortune Points may be spent in the following ways.
+
+| Use                 | Effect                                                                                                                                                                                                                                                                                  |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Help a Friend**   | If a friend is performing an Ability Check that is related to one of your Passions, you may spend a **Fortune Point** to take the [[Help]] action.                                                                                                                                      |
+| **Second Chance**   | A **Fortune Point** may be spent to re-roll a failed Ability Check so long as that check is in service to one of your Passions.  Only one die may be re-rolled (thus a roll with [[#Advantage and Disadvantage\|Advantage or Disadvantage]] only re-rolls 1 of the two dice).           |
+| **Lucky Situation** | A **Fortune Point** may be spent to add a reasonable element to a scene that can be of use.  *For example, a nearby haystack may be used to cushion a fall off the roof of a building.*  This must be done either "defensively" or in service to one of your Passions.                  |
+| **Cheat Death**     | A character who has reached 0 HP, may spend a **Fortune Point** to automatically stabilize and not need to continue rolling their [[#The Death Pool\|Death Pool]]. However, they are still at 0 HP and Unconscious. This may always be done, even if not directly related to a Passion. |
+| **Special Ability** | Certain Traits and Class Abilities require the expenditure of a **Fortune Point** to activate. This may always be done, even if not directly related to a Passion.                                                                                                                      |

@@ -1,0 +1,2 @@
+## `=this.file.name`
+Unless stated otherwise, the common convention is to round decimal values of 0.5 or greater up to the nearest whole number.  Values less than 0.5 are rounded down to the nearest whole number.
